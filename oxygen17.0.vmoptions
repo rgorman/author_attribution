@@ -1,0 +1,7 @@
+-Xmx700m
+-Dcom.oxygenxml.language=English
+-XX:+UseParallelGC
+-XX:ErrorFile=${launcher:sys.tempDir}/oxy_jvm_crash.log
+-XX:OnError=C:\Program Files (x86)\Oxygen XML Editor 17/rp.exe
+-include-options custom_commons.vmoptions
+-include-options custom_oxygen.vmoptions
