@@ -7,29 +7,55 @@
     
     <xsl:template match="treebank">
         <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
-        <xsl:for-each select="comment">
-            <xsl:copy-of select="."/>
-        </xsl:for-each>
-        <xsl:for-each select="annotator">
-            <xsl:copy-of select="."/>
-        </xsl:for-each>
+            <xsl:for-each select="comment">
+                <xsl:copy-of select="."/>
+            </xsl:for-each>
+            <xsl:for-each select="annotator">
+                <xsl:copy-of select="."/>
+            </xsl:for-each>
             <xsl:for-each select="sentence">
-                <xsl:variable name="pred-id" select="word[@relation ='PRED_CO']/@id"></xsl:variable>
-                <sentence id="{./@id}" document_id="{./@document_id}" subdoc="{./@subdoc}"
-                    span="{./@span}">
-                    <xsl:for-each select="word">
-                        <xsl:choose>
-                            <xsl:when test="data(./@lemma) = 'δέ1' and data(./@head) = '0'">
-                                <word id="{./@id}" form="{./@form}" 
-                                    lemma="{./@lemma}" postag="{./@postag}" 
-                                    relation="AuxY" head="{$pred-id}" cite="{./@cite}"/>
+                <xsl:choose>
+                      <xsl:when test="./word[@relation = 'PRED_CO']">
+                        
+                        <xsl:variable name="predicates">
+                           <xsl:value-of select="count(./word[@relation = 'PRED_CO'])"/>
+                        </xsl:variable>
+                        <xsl:variable name="id_of_pred">
+                            <xsl:value-of select="./word[@relation = 'PRED_CO']/@id"/>
+                        </xsl:variable>
+                        <xsl:choose>                            
+                            <xsl:when test="$predicates = 1">
+                                <sentence id="{./@id}" >
+                                <xsl:for-each select="word">
+                                   <xsl:choose>
+                                       <xsl:when test="./@lemma = 'δέ1' and ./@head = '0'">
+                                           <word id="{./@id}" form="{./@form}" lemma="{./@lemma}" 
+                                               postag="{./@postag}" relation="AuxY"
+                                           head="{$id_of_pred}" cite="{./@cite}"/>
+                                       </xsl:when>
+                                       <xsl:when test="./@relation = 'PRED_CO'">
+                                           <word id="{./@id}" form="{./@form}" lemma="{./@lemma}" 
+                                               postag="{./@postag}" relation="PRED"
+                                               head="0" cite="{./@cite}"/>
+                                       </xsl:when>
+                                       <xsl:otherwise>
+                                           <xsl:copy-of select="."/>
+                                       </xsl:otherwise>
+                                   </xsl:choose>
+                                </xsl:for-each>
+                                </sentence>
                             </xsl:when>
+                            
                             <xsl:otherwise>
                                 <xsl:copy-of select="."/>
                             </xsl:otherwise>
                         </xsl:choose>
-                    </xsl:for-each>
-                </sentence>
+                        
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:copy-of select="."/>
+                    </xsl:otherwise>
+                </xsl:choose>
             </xsl:for-each>
         </treebank>
     </xsl:template>
