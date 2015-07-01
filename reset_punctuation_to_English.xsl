@@ -8,7 +8,7 @@
     <xsl:output method="xml" indent="yes"/>
     
     <xsl:template match="treebank">
-       <treebank><xsl:copy-of select="@*"/>
+       <treebank version="{./@version}" xml:lang="{./@xml:lang}" forman="{./@format}">
             
             <xsl:for-each select="comment">
                 <xsl:copy-of select="."/>
@@ -22,19 +22,35 @@
                     <xsl:for-each select="word">
                         <xsl:choose>
                             <xsl:when test="./@lemma = 'ξομμα1'">
-                                <word id="{./@id}" form="{./@form}" lemma="comma1" postag="{./@postag}  "
+                                <word id="{./@id}" form="{./@form}" lemma="comma1" postag="{./@postag}"
                                     relation="{./@relation}" head="{./@head}" cite="{./@cite}"/>
                             </xsl:when>
                             <xsl:when test="./@lemma = 'πυνξ1'">
-                                <word id="{./@id}" form="{./@form}" lemma="punc1" postag="{./@postag}  "
+                                <word id="{./@id}" form="{./@form}" lemma="punc1" postag="{./@postag}"
                                     relation="{./@relation}" head="{./@head}" cite="{./@cite}"/>
                             </xsl:when>
                             <xsl:when test="./@lemma ='περιοδ1'">
-                                <word id="{./@id}" form="{./@form}" lemma="period1" postag="{./@postag}  "
+                                <word id="{./@id}" form="{./@form}" lemma="period1" postag="{./@postag}"
                                     relation="{./@relation}" head="{./@head}" cite="{./@cite}"/>
                             </xsl:when>
                             <xsl:otherwise>
-                                <xsl:copy-of select="."/>
+                                <xsl:choose>
+                                    <xsl:when test="./@insertion_id ">
+                                        <word id="{./@id}" insertion_id="{./@insertion_id}"
+                                            artificial="{./@artificial}"
+                                            form="{./@form}" lemma="{./@lemma}" 
+                                            postag="{./@postag}"
+                                            relation="{./@relation}" head="{./@head}" cite="{./@cite}"/>
+                                        
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <word id="{./@id}"                                             
+                                            form="{./@form}" lemma="{./@lemma}" 
+                                            postag="{./@postag}"
+                                            relation="{./@relation}" head="{./@head}" cite="{./@cite}"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                                
                             </xsl:otherwise>
                         </xsl:choose>
                     </xsl:for-each>
