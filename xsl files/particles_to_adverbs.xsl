@@ -23,15 +23,15 @@
                             <xsl:choose>
                                 <xsl:when test="./@insertion_id">
                                     <word id="{./@id}" insertion_id="{./@insertion_id}"  
-                                        atificial="{./@artificial}"  form="{./@form}" lemma="d--------"
-                                        postag="{./@postag}" relation="{./@relation}"
+                                        atificial="{./@artificial}"  form="{./@form}" lemma="{./@lemma}"
+                                        postag="d--------" relation="{./@relation}"
                                         head="{./@head}"/>
                                     
                                     
                                 </xsl:when>
                                 <xsl:otherwise>
-                                    <word id="{./@id}" form="{./@form}" lemma="d--------"
-                                        postag="{./@postag}" relation="{./@relation}"
+                                    <word id="{./@id}" form="{./@form}" lemma="{./@lemma}"
+                                        postag="d--------" relation="{./@relation}"
                                         head="{./@head}"/>
                                 </xsl:otherwise>
                             </xsl:choose>

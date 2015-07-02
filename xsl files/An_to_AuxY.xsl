@@ -18,7 +18,8 @@
                     <xsl:choose>
                         <xsl:when test="./@lemma='ἄν1'">
                             <word id="{./@id}" form="{./@form}" lemma="{./@lemma}" 
-                                postag="{./@postag}" relation="AuxY" head="{./@head}"/>
+                                postag="{./@postag}" relation="AuxY" head="{./@head}"
+                            cite="{./@cite}"/>
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:copy-of select="."/>
