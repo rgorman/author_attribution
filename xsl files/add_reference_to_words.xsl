@@ -14,8 +14,20 @@
             <xsl:for-each select="sentence">
                 <sentence id="{./@id}" document_id="{./@document_id}" subdoc="{./@subdoc}" span="{./@span}">
                 <xsl:for-each select="word">
-                    <word id="{./@id}" form="{./@form}" lemma="{./@lemma}" postag="{./@postag}" relation="{./@relation}" 
-                        head="{./@head}" cite="{parent::sentence/@span} w-{./@id}"/>
+                    <xsl:choose>
+                        <xsl:when test="./@insertion_id ">
+                            <word id="{./@id}" form="{./@form}" 
+                                insertion_id="{./@insertion_id}"
+                                artificial="{./@artificial}"
+                                lemma="{./@lemma}" postag="{./@postag}" relation="{./@relation}" 
+                                head="{./@head}" cite="{./@cite}{parent::sentence/@span} w-{./@id}"/>        
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <word id="{./@id}" form="{./@form}" lemma="{./@lemma}" postag="{./@postag}" relation="{./@relation}" 
+                                head="{./@head}" cite="{./@cite} {parent::sentence/@span} w-{./@id}"/>
+                        </xsl:otherwise>
+                    </xsl:choose>           
+                                    
                     
                 </xsl:for-each>
               </sentence>
