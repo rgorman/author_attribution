@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank version="1.6" xml:lang="grc" forman="aldt">
+<treebank version="1.6" xml:lang="grc" format="aldt">
+   <date>Fri Nov 23 14:13:13 EST 2012</date>
    <annotator>
         <short>FrancescoM</short>
         <name>Francesco Mambrini</name>

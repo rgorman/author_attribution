@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank version="1.6" xml:lang="grc" forman="aldt">
+<treebank version="1.6" xml:lang="grc" format="aldt">
+   <date>Tue Apr 15 12:54:02 +0000 2014</date>
    <annotator>
       <short>Vanessa Gorman</short>
       <name>Vanessa Gorman</name>

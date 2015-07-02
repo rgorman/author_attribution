@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank version="1.6" xml:lang="grc" forman="">
+<treebank version="1.6" xml:lang="grc">
+   <date xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Fri Nov 23 14:15:37 EST 2012</date>
    <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <short>FrancescoM</short>
