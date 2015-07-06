@@ -11,7 +11,7 @@
    <sentence id="2900770"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1-7"
-             span="Τάδε0:.0">
+             span="Aeschylus Persians: s-1">
       <word id="1"
             form="Τάδε"
             lemma="ὅδε1"
@@ -233,7 +233,7 @@
    <sentence id="2900772"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="8-11"
-             span="ἀμφὶ0:.1">
+             span="Aeschylus Persians: s-2">
       <word id="1"
             form="ἀμφὶ"
             lemma="ἀμφί1"
@@ -343,7 +343,7 @@
    <sentence id="2900775"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="12-15"
-             span="πᾶσα0::0">
+             span="Aeschylus Persians: s-3">
       <word id="1"
             form="πᾶσα"
             lemma="πᾶς1"
@@ -509,7 +509,7 @@
    <sentence id="2900773"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="16-20"
-             span="οἵτε0::1">
+             span="Aeschylus Persians: s-4">
       <word id="1"
             form="οἵτε"
             lemma="ὅστε1"
@@ -742,7 +742,7 @@
    <sentence id="2900774"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="21-28"
-             span="οἷος0::2">
+             span="Aeschylus Persians: s-5">
       <word id="1"
             form="οἷος"
             lemma="οἷος1"
@@ -1020,7 +1020,7 @@
    <sentence id="2900768"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="29-32"
-             span="Ἀρτεμβάρης0:.2">
+             span="Aeschylus Persians: s-6">
       <word id="1"
             form="Ἀρτεμβάρης"
             lemma="Ἀρτεμβάρης"
@@ -1174,7 +1174,7 @@
    <sentence id="2900771"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="33-34"
-             span="ἄλλους0::3">
+             span="Aeschylus Persians: s-7">
       <word id="1"
             form="ἄλλους"
             lemma="ἄλλος1"
@@ -1242,7 +1242,7 @@
    <sentence id="2900769"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="34-40"
-             span="Σουσισκάνης0:.3">
+             span="Aeschylus Persians: s-8">
       <word id="1"
             form="Σουσισκάνης"
             lemma="Σουσισκάνης"
@@ -1466,7 +1466,7 @@
    <sentence id="2900777"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="41-48"
-             span="ἁβροδιαίτων0:.0">
+             span="Aeschylus Persians: s-9">
       <word id="1"
             form="ἁβροδιαίτων"
             lemma="ἁβροδίαιτος1"
@@ -1751,7 +1751,7 @@
    <sentence id="2900778"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="49-52"
-             span="στεῦται0::0">
+             span="Aeschylus Persians: s-10">
       <word id="1"
             form="στεῦται"
             lemma="στεῦμαι1"
@@ -1903,7 +1903,7 @@
    <sentence id="2900776"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="52-55"
-             span="Βαβυλὼν0::1">
+             span="Aeschylus Persians: s-11">
       <word id="1"
             form="Βαβυλὼν"
             lemma="Βαβυλών"
@@ -2027,7 +2027,7 @@
    <sentence id="2900780"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="56-58"
-             span="τὸ0:.1">
+             span="Aeschylus Persians: s-12">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -2123,7 +2123,7 @@
    <sentence id="2900779"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="59-64"
-             span="τοιόνδ᾽0:.2">
+             span="Aeschylus Persians: s-13">
       <word id="1"
             form="τοιόνδ᾽"
             lemma="τοιόσδε1"
@@ -2310,7 +2310,7 @@
    <sentence id="2900781"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="65-72"
-             span="πεπέρακεν0:.0">
+             span="Aeschylus Persians: s-14">
       <word id="1"
             form="πεπέρακεν"
             lemma="περάω1"
@@ -2525,7 +2525,7 @@
    <sentence id="2900782"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="73-80"
-             span="πολυάνδρου0:.0">
+             span="Aeschylus Persians: s-15">
       <word id="1"
             form="πολυάνδρου"
             lemma="πολύανδρος1"
@@ -2761,7 +2761,7 @@
    <sentence id="2900783"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="81-86"
-             span="κυάνεον0:.0">
+             span="Aeschylus Persians: s-16">
       <word id="1"
             form="κυάνεον"
             lemma="κυάνεος1"
@@ -2941,7 +2941,7 @@
    <sentence id="2900785"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="87-90"
-             span="δόκιμος0::0">
+             span="Aeschylus Persians: s-17">
       <word id="1"
             form="δόκιμος"
             lemma="δόκιμος1"
@@ -3053,7 +3053,7 @@
    <sentence id="2900784"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="91-92"
-             span="ἀπρόσοιστος0:.0">
+             span="Aeschylus Persians: s-18">
       <word id="1"
             form="ἀπρόσοιστος"
             lemma="ἀπρόσοιστος1"
@@ -3130,7 +3130,7 @@
    <sentence id="2900786"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="93-99"
-             span="θεόθεν0:.0">
+             span="Aeschylus Persians: s-19">
       <word id="1"
             form="θεόθεν"
             lemma="θεόθεν1"
@@ -3296,7 +3296,7 @@
    <sentence id="2900787"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="100-106"
-             span="ἔμαθον0:.0">
+             span="Aeschylus Persians: s-20">
       <word id="1"
             form="ἔμαθον"
             lemma="μανθάνω1"
@@ -3455,7 +3455,7 @@
    <sentence id="2900788"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="107-108"
-             span="δολόμητιν0:;0">
+             span="Aeschylus Persians: s-21">
       <word id="1"
             form="δολόμητιν"
             lemma="δολόμητις"
@@ -3523,7 +3523,7 @@
    <sentence id="2900789"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="109-110"
-             span="τίς1:;1">
+             span="Aeschylus Persians: s-22">
       <word id="1"
             form="τίς"
             lemma="τίς1"
@@ -3607,7 +3607,7 @@
    <sentence id="2900790"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="111-114"
-             span="φιλόφρων0:.0">
+             span="Aeschylus Persians: s-23">
       <word id="1"
             form="φιλόφρων"
             lemma="φιλόφρων1"
@@ -3724,7 +3724,7 @@
    <sentence id="2900791"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="115-119"
-             span="ταῦτά0:,3">
+             span="Aeschylus Persians: s-24">
       <word id="1"
             form="ταῦτά"
             lemma="οὗτος1"
@@ -3883,7 +3883,7 @@
    <sentence id="2900792"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="120-125"
-             span="καὶ0:.0">
+             span="Aeschylus Persians: s-25">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -4065,7 +4065,7 @@
    <sentence id="2900793"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="126-132"
-             span="πᾶς0:.0">
+             span="Aeschylus Persians: s-26">
       <word id="1"
             form="πᾶς"
             lemma="πᾶς1"
@@ -4254,7 +4254,7 @@
    <sentence id="2900795"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="133-134"
-             span="λέκτρα0::0">
+             span="Aeschylus Persians: s-27">
       <word id="1"
             form="λέκτρα"
             lemma="λέκτρον1"
@@ -4308,7 +4308,7 @@
    <sentence id="2900794"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="135-139"
-             span="Περσίδες0:.0">
+             span="Aeschylus Persians: s-28">
       <word id="1"
             form="Περσίδες"
             lemma="Περσίς1"
@@ -4448,7 +4448,7 @@
    <sentence id="2900796"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="140-146"
-             span="ἀλλ᾽0::0">
+             span="Aeschylus Persians: s-29">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -4677,7 +4677,7 @@
    <sentence id="2900799"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="147-149"
-             span="πότερον0:.0">
+             span="Aeschylus Persians: s-30">
       <word id="1"
             form="πότερον"
             lemma="πότερος1"
@@ -4775,7 +4775,7 @@
    <sentence id="2900797"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="150-152"
-             span="ἀλλ᾽1::1">
+             span="Aeschylus Persians: s-31">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -4878,7 +4878,7 @@
    <sentence id="2900800"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="152"
-             span="προσπίτνω0::2">
+             span="Aeschylus Persians: s-32">
       <word id="1"
             form="προσπίτνω"
             lemma="προσπίπτω1"
@@ -4897,7 +4897,7 @@
    <sentence id="2900798"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="153-154"
-             span="καὶ1:.1">
+             span="Aeschylus Persians: s-33">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -4974,7 +4974,7 @@
    <sentence id="2900802"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="155-156"
-             span="ὦ0::0">
+             span="Aeschylus Persians: s-34">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -5091,7 +5091,7 @@
    <sentence id="2900801"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="157-158"
-             span="θεοῦ0:.0">
+             span="Aeschylus Persians: s-35">
       <word id="1"
             form="θεοῦ"
             lemma="θεός1"
@@ -5236,7 +5236,7 @@
    <sentence id="2900812"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="159-160"
-             span="ταῦτα0:.0">
+             span="Aeschylus Persians: s-36">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος1"
@@ -5339,7 +5339,7 @@
    <sentence id="2900807"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="161"
-             span="κἀμὲ0::0">
+             span="Aeschylus Persians: s-37">
       <word id="1"
             form="κἀμὲ"
             lemma="ἐγώ1"
@@ -5379,7 +5379,7 @@
    <sentence id="2900804"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="161-164"
-             span="ἐς0:.1">
+             span="Aeschylus Persians: s-38">
       <word id="1"
             form="ἐς"
             lemma="εἰς1"
@@ -5587,7 +5587,7 @@
    <sentence id="2900811"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="165-167"
-             span="ταῦτά0:.2">
+             span="Aeschylus Persians: s-39">
       <word id="1"
             form="ταῦτά"
             lemma="οὗτος1"
@@ -5769,7 +5769,7 @@
    <sentence id="2900803"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="168"
-             span="ἔστι0::1">
+             span="Aeschylus Persians: s-40">
       <word id="1"
             form="ἔστι"
             lemma="εἰμί1"
@@ -5860,7 +5860,7 @@
    <sentence id="2900808"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="169"
-             span="ὄμμα0:.3">
+             span="Aeschylus Persians: s-41">
       <word id="1"
             form="ὄμμα"
             lemma="ὄμμα1"
@@ -5914,7 +5914,7 @@
    <sentence id="2900810"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="170-171"
-             span="πρὸς0::2">
+             span="Aeschylus Persians: s-42">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -6045,7 +6045,7 @@
    <sentence id="2900809"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="172"
-             span="πάντα0:.4">
+             span="Aeschylus Persians: s-43">
       <word id="1"
             form="πάντα"
             lemma="πᾶς"
@@ -6120,7 +6120,7 @@
    <sentence id="2900805"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="173-174"
-             span="εὖ0::3">
+             span="Aeschylus Persians: s-44">
       <word id="1"
             form="εὖ"
             lemma="εὖ1"
@@ -6279,7 +6279,7 @@
    <sentence id="2900806"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="175"
-             span="εὐμενεῖς0:.5">
+             span="Aeschylus Persians: s-45">
       <word id="1"
             form="εὐμενεῖς"
             lemma="εὐμενής1"
@@ -6340,7 +6340,7 @@
    <sentence id="2900819"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="176-178"
-             span="πολλοῖς0::0">
+             span="Aeschylus Persians: s-46">
       <word id="1"
             form="πολλοῖς"
             lemma="πολύς1"
@@ -6478,7 +6478,7 @@
    <sentence id="2900813"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="179-180"
-             span="ἀλλ᾽0::1">
+             span="Aeschylus Persians: s-47">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -6569,7 +6569,7 @@
    <sentence id="2900815"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="180"
-             span="λέξω0:.0">
+             span="Aeschylus Persians: s-48">
       <word id="1"
             form="λέξω"
             lemma="λέγω3"
@@ -6602,7 +6602,7 @@
    <sentence id="2900814"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="181-186"
-             span="ἐδοξάτην0::2">
+             span="Aeschylus Persians: s-49">
       <word id="1"
             form="ἐδοξάτην"
             lemma="δοκέω1"
@@ -6875,7 +6875,7 @@
    <sentence id="2900816"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="186-187"
-             span="πάτραν0:.1">
+             span="Aeschylus Persians: s-50">
       <word id="1"
             form="πάτραν"
             lemma="πάτρα1"
@@ -6996,7 +6996,7 @@
    <sentence id="2900820"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="188-189"
-             span="τούτω0::3">
+             span="Aeschylus Persians: s-51">
       <word id="1"
             form="τούτω"
             lemma="οὗτος"
@@ -7099,7 +7099,7 @@
    <sentence id="2900817"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="189-192"
-             span="παῖς1:.2">
+             span="Aeschylus Persians: s-52">
       <word id="1"
             form="παῖς"
             lemma="παῖς1"
@@ -7230,7 +7230,7 @@
    <sentence id="2900822"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="192-196"
-             span="χἠ0:.3">
+             span="Aeschylus Persians: s-53">
       <word id="1"
             form="χἠ"
             lemma="ὁ"
@@ -7452,7 +7452,7 @@
    <sentence id="2900818"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="197-198"
-             span="πίπτει0::4">
+             span="Aeschylus Persians: s-54">
       <word id="1"
             form="πίπτει"
             lemma="πίπτω1"
@@ -7541,7 +7541,7 @@
    <sentence id="2900821"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="198-199"
-             span="τὸν0:.4">
+             span="Aeschylus Persians: s-55">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -7623,7 +7623,7 @@
    <sentence id="2900826"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="200"
-             span="καὶ0:.0">
+             span="Aeschylus Persians: s-56">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -7684,7 +7684,7 @@
    <sentence id="2900823"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="201-204"
-             span="ἐπεὶ0:.1">
+             span="Aeschylus Persians: s-57">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -7873,7 +7873,7 @@
    <sentence id="2900829"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="205-206"
-             span="ὁρῶ0::0">
+             span="Aeschylus Persians: s-58">
       <word id="1"
             form="ὁρῶ"
             lemma="ὁράω1"
@@ -7934,7 +7934,7 @@
    <sentence id="2900825"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="206"
-             span="φόβῳ0::1">
+             span="Aeschylus Persians: s-59">
       <word id="1"
             form="φόβῳ"
             lemma="φόβος1"
@@ -7988,7 +7988,7 @@
    <sentence id="2900827"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="207-209"
-             span="μεθύστερον0::2">
+             span="Aeschylus Persians: s-60">
       <word id="1"
             form="μεθύστερον"
             lemma="μεθύστερος1"
@@ -8077,7 +8077,7 @@
    <sentence id="2900828"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="209-210"
-             span="ὁ0:.2">
+             span="Aeschylus Persians: s-61">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -8161,7 +8161,7 @@
    <sentence id="2900830"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="210-211"
-             span="ταῦτ᾽0:.3">
+             span="Aeschylus Persians: s-62">
       <word id="1"
             form="ταῦτ᾽"
             lemma="οὗτος1"
@@ -8238,7 +8238,7 @@
    <sentence id="2900824"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="211-214"
-             span="εὖ0:.4">
+             span="Aeschylus Persians: s-63">
       <word id="1"
             form="εὖ"
             lemma="εὖ1"
@@ -8455,7 +8455,7 @@
    <sentence id="2900836"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="215-216"
-             span="οὔ0:.0">
+             span="Aeschylus Persians: s-64">
       <word id="1"
             form="οὔ"
             lemma="οὐ1"
@@ -8565,7 +8565,7 @@
    <sentence id="2900838"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="216-219"
-             span="θεοὺς0:.1">
+             span="Aeschylus Persians: s-65">
       <word id="1"
             form="θεοὺς"
             lemma="θεός1"
@@ -8787,7 +8787,7 @@
    <sentence id="2900832"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="219-220"
-             span="δεύτερον0::0">
+             span="Aeschylus Persians: s-66">
       <word id="1"
             form="δεύτερον"
             lemma="δεύτερος1"
@@ -8862,7 +8862,7 @@
    <sentence id="2900837"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="220-223"
-             span="πρευμενῶς0:.2">
+             span="Aeschylus Persians: s-67">
       <word id="1"
             form="πρευμενῶς"
             lemma="πρευμενής1"
@@ -9098,7 +9098,7 @@
    <sentence id="2900839"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="224"
-             span="ταῦτα0:.3">
+             span="Aeschylus Persians: s-68">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος1"
@@ -9152,7 +9152,7 @@
    <sentence id="2900834"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="225"
-             span="εὖ0:.4">
+             span="Aeschylus Persians: s-69">
       <word id="1"
             form="εὖ"
             lemma="εὖ1"
@@ -9220,7 +9220,7 @@
    <sentence id="2900831"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="226-227"
-             span="ἀλλὰ0:.5">
+             span="Aeschylus Persians: s-70">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -9344,7 +9344,7 @@
    <sentence id="2900833"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="228"
-             span="ἐκτελοῖτο0::1">
+             span="Aeschylus Persians: s-71">
       <word id="1"
             form="ἐκτελοῖτο"
             lemma="ἐκτελέω1"
@@ -9384,7 +9384,7 @@
    <sentence id="2900840"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="228-230"
-             span="ταῦτα1:.6">
+             span="Aeschylus Persians: s-72">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος1"
@@ -9536,7 +9536,7 @@
    <sentence id="2900835"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="230-231"
-             span="κεῖνα0:.7">
+             span="Aeschylus Persians: s-73">
       <word id="1"
             form="κεῖνα"
             lemma="κεῖνος1"
@@ -9646,7 +9646,7 @@
    <sentence id="2900854"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="232"
-             span="τῆλε0:.0">
+             span="Aeschylus Persians: s-74">
       <word id="1"
             form="τῆλε"
             lemma="τῆλε1"
@@ -9709,7 +9709,7 @@
    <sentence id="2900842"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="233"
-             span="ἀλλὰ0:;0">
+             span="Aeschylus Persians: s-75">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -9777,7 +9777,7 @@
    <sentence id="2900850"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="234"
-             span="πᾶσα0:.1">
+             span="Aeschylus Persians: s-76">
       <word id="1"
             form="πᾶσα"
             lemma="πᾶς1"
@@ -9838,7 +9838,7 @@
    <sentence id="2900858"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="235"
-             span="ὧδέ0:;1">
+             span="Aeschylus Persians: s-77">
       <word id="1"
             form="ὧδέ"
             lemma="ὧδε1"
@@ -9892,7 +9892,7 @@
    <sentence id="2900846"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="236"
-             span="καὶ0:.2">
+             span="Aeschylus Persians: s-78">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -9976,7 +9976,7 @@
    <sentence id="2900847"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="237"
-             span="καὶ1:;2">
+             span="Aeschylus Persians: s-79">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -10032,7 +10032,7 @@
    <sentence id="2900851"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="237"
-             span="πλοῦτος0:;3">
+             span="Aeschylus Persians: s-80">
       <word id="1"
             form="πλοῦτος"
             lemma="πλοῦτος1"
@@ -10074,7 +10074,7 @@
    <sentence id="2900843"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="238"
-             span="ἀργύρου0:.3">
+             span="Aeschylus Persians: s-81">
       <word id="1"
             form="ἀργύρου"
             lemma="ἄργυρος1"
@@ -10142,7 +10142,7 @@
    <sentence id="2900852"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="239"
-             span="πότερα0:;4">
+             span="Aeschylus Persians: s-82">
       <word id="1"
             form="πότερα"
             lemma="πότερος1"
@@ -10210,7 +10210,7 @@
    <sentence id="2900849"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="240"
-             span="οὐδαμῶς0::0">
+             span="Aeschylus Persians: s-83">
       <word id="1"
             form="οὐδαμῶς"
             lemma="οὐδαμῶς1"
@@ -10238,7 +10238,7 @@
    <sentence id="2900845"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="240"
-             span="ἔγχη0:.4">
+             span="Aeschylus Persians: s-84">
       <word id="1"
             form="ἔγχη"
             lemma="ἔγχος1"
@@ -10294,7 +10294,7 @@
    <sentence id="2900855"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="241"
-             span="τίς0:;5">
+             span="Aeschylus Persians: s-85">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -10357,7 +10357,7 @@
    <sentence id="2900848"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="242"
-             span="οὔτινος0:.5">
+             span="Aeschylus Persians: s-86">
       <word id="1"
             form="οὔτινος"
             lemma="οὔτις"
@@ -10418,7 +10418,7 @@
    <sentence id="2900853"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="243"
-             span="πῶς0:;6">
+             span="Aeschylus Persians: s-87">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -10479,7 +10479,7 @@
    <sentence id="2900857"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="244"
-             span="ὥστε0:.6">
+             span="Aeschylus Persians: s-88">
       <word id="1"
             form="ὥστε"
             lemma="ὥστε1"
@@ -10556,7 +10556,7 @@
    <sentence id="2900844"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="245"
-             span="δεινά0:.7">
+             span="Aeschylus Persians: s-89">
       <word id="1"
             form="δεινά"
             lemma="δεινός1"
@@ -10617,7 +10617,7 @@
    <sentence id="2900841"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="246"
-             span="ἀλλ᾽0:.8">
+             span="Aeschylus Persians: s-90">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -10685,7 +10685,7 @@
    <sentence id="2900856"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="247-248"
-             span="τοῦδε0:.9">
+             span="Aeschylus Persians: s-91">
       <word id="1"
             form="τοῦδε"
             lemma="ὅδε1"
@@ -10816,7 +10816,7 @@
    <sentence id="2900862"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="249-252"
-             span="ὦ0:.0">
+             span="Aeschylus Persians: s-92">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -11024,7 +11024,7 @@
    <sentence id="2900861"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="253"
-             span="ὤμοι0::0">
+             span="Aeschylus Persians: s-93">
       <word id="1"
             form="ὤμοι"
             lemma="ὤμοι1"
@@ -11094,7 +11094,7 @@
    <sentence id="2900859"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="254-255"
-             span="ὅμως0::1">
+             span="Aeschylus Persians: s-94">
       <word id="1"
             form="ὅμως"
             lemma="ὅμως1"
@@ -11171,7 +11171,7 @@
    <sentence id="2900860"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="255"
-             span="στρατὸς0:.1">
+             span="Aeschylus Persians: s-95">
       <word id="1"
             form="στρατὸς"
             lemma="στρατός1"
@@ -11218,7 +11218,7 @@
    <sentence id="2900863"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="256-257"
-             span="ἄνι᾽0::.0">
+             span="Aeschylus Persians: s-96">
       <word id="1"
             form="ἄνι᾽"
             lemma="ἄνιος1"
@@ -11281,7 +11281,7 @@
    <sentence id="2900864"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="257-259"
-             span="αἰαῖ0:.0">
+             span="Aeschylus Persians: s-97">
       <word id="1"
             form="αἰαῖ"
             lemma="αἰαῖ1"
@@ -11356,7 +11356,7 @@
    <sentence id="2900866"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="260"
-             span="ὡς0::0">
+             span="Aeschylus Persians: s-98">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -11419,7 +11419,7 @@
    <sentence id="2900865"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="261"
-             span="αὐτὸς0:.0">
+             span="Aeschylus Persians: s-99">
       <word id="1"
             form="αὐτὸς"
             lemma="αὐτός1"
@@ -11473,7 +11473,7 @@
    <sentence id="2900867"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="262-265"
-             span="ἦ0:.0">
+             span="Aeschylus Persians: s-100">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -11576,7 +11576,7 @@
    <sentence id="2900868"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="266-267"
-             span="καὶ0:.0">
+             span="Aeschylus Persians: s-101">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -11700,7 +11700,7 @@
    <sentence id="2900869"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="268-271"
-             span="ὀτοτοτοῖ0:.0">
+             span="Aeschylus Persians: s-102">
       <word id="1"
             form="ὀτοτοτοῖ"
             lemma="ὀτοτοῖ1"
@@ -11831,7 +11831,7 @@
    <sentence id="2900870"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="272-273"
-             span="πλήθουσι0:.0">
+             span="Aeschylus Persians: s-103">
       <word id="1"
             form="πλήθουσι"
             lemma="πλήθω1"
@@ -11913,7 +11913,7 @@
    <sentence id="2900871"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="274-277"
-             span="ὀτοτοτοῖ0:.0">
+             span="Aeschylus Persians: s-104">
       <word id="1"
             form="ὀτοτοτοῖ"
             lemma="ὀτοτοῖ1"
@@ -12023,7 +12023,7 @@
    <sentence id="2900872"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="278-279"
-             span="οὐδὲν0:ἐμβολαῖς0">
+             span="Aeschylus Persians: s-105">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς1"
@@ -12112,7 +12112,7 @@
    <sentence id="2900874"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="280-283"
-             span="ἴυζ᾽0::0">
+             span="Aeschylus Persians: s-106">
       <word id="1"
             form="ἴυζ᾽"
             lemma="ἰύζω1"
@@ -12201,7 +12201,7 @@
    <sentence id="2900873"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="283"
-             span="αἰαῖ0:.0">
+             span="Aeschylus Persians: s-107">
       <word id="1"
             form="αἰαῖ"
             lemma="αἰαῖ1"
@@ -12243,7 +12243,7 @@
    <sentence id="2900876"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="284"
-             span="ὦ0:.0">
+             span="Aeschylus Persians: s-108">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -12315,7 +12315,7 @@
    <sentence id="2900875"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="285"
-             span="φεῦ0:.1">
+             span="Aeschylus Persians: s-109">
       <word id="1"
             form="φεῦ"
             lemma="φεῦ1"
@@ -12376,7 +12376,7 @@
    <sentence id="2900878"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="286"
-             span="στυγναί0::0">
+             span="Aeschylus Persians: s-110">
       <word id="1"
             form="στυγναί"
             lemma="στυγνός1"
@@ -12425,7 +12425,7 @@
    <sentence id="2900877"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="287-289"
-             span="μεμνῆσθαί0:.0">
+             span="Aeschylus Persians: s-111">
       <word id="1"
             form="μεμνῆσθαί"
             lemma="μιμνήσκω1"
@@ -12514,7 +12514,7 @@
    <sentence id="2900892"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="290-291"
-             span="σιγῶ0::0">
+             span="Aeschylus Persians: s-112">
       <word id="1"
             form="σιγῶ"
             lemma="σιγάω1"
@@ -12561,7 +12561,7 @@
    <sentence id="2900895"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="291-292"
-             span="ὑπερβάλλει0:.0">
+             span="Aeschylus Persians: s-113">
       <word id="1"
             form="ὑπερβάλλει"
             lemma="ὑπερβάλλω1"
@@ -12643,7 +12643,7 @@
    <sentence id="2900888"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="293-294"
-             span="ὅμως0::1">
+             span="Aeschylus Persians: s-114">
       <word id="1"
             form="ὅμως"
             lemma="ὅμως1"
@@ -12720,7 +12720,7 @@
    <sentence id="2900889"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="294-295"
-             span="πᾶν0:.1">
+             span="Aeschylus Persians: s-115">
       <word id="1"
             form="πᾶν"
             lemma="πᾶς1"
@@ -12809,7 +12809,7 @@
    <sentence id="2900893"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="296-298"
-             span="τίς0:;0">
+             span="Aeschylus Persians: s-116">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -12954,7 +12954,7 @@
    <sentence id="2900881"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="299"
-             span="Ξέρξης0:.2">
+             span="Aeschylus Persians: s-117">
       <word id="1"
             form="Ξέρξης"
             lemma="Ξέρξης"
@@ -13022,7 +13022,7 @@
    <sentence id="2900886"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="300-301"
-             span="ἐμοῖς0:.3">
+             span="Aeschylus Persians: s-118">
       <word id="1"
             form="ἐμοῖς"
             lemma="ἐμός1"
@@ -13118,7 +13118,7 @@
    <sentence id="2900880"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="302-303"
-             span="Ἀρτεμβάρης0:.4">
+             span="Aeschylus Persians: s-119">
       <word id="1"
             form="Ἀρτεμβάρης"
             lemma="Ἀρτεμβάρης"
@@ -13209,7 +13209,7 @@
    <sentence id="2900896"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="304-305"
-             span="χὠ0::2">
+             span="Aeschylus Persians: s-120">
       <word id="1"
             form="χὠ"
             lemma="ὁ1"
@@ -13291,7 +13291,7 @@
    <sentence id="2900884"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="306-307"
-             span="Τενάγων0:.5">
+             span="Aeschylus Persians: s-121">
       <word id="1"
             form="Τενάγων"
             lemma="Τενάγων"
@@ -13375,7 +13375,7 @@
    <sentence id="2900882"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="308-310"
-             span="Λίλαιος0::3">
+             span="Aeschylus Persians: s-122">
       <word id="1"
             form="Λίλαιος"
             lemma="Λίλαιος"
@@ -13506,7 +13506,7 @@
    <sentence id="2900890"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="311-313"
-             span="πηγαῖς0:.6">
+             span="Aeschylus Persians: s-123">
       <word id="1"
             form="πηγαῖς"
             lemma="πηγή1"
@@ -13651,7 +13651,7 @@
    <sentence id="2900885"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="314-317"
-             span="Χρυσεὺς0:.7">
+             span="Aeschylus Persians: s-124">
       <word id="1"
             form="Χρυσεὺς"
             lemma="Χρυσεύς"
@@ -13803,7 +13803,7 @@
    <sentence id="2900887"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="318-319"
-             span="καὶ4:.8">
+             span="Aeschylus Persians: s-125">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -13913,7 +13913,7 @@
    <sentence id="2900879"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="320-325"
-             span="Ἄμιστρις0::4">
+             span="Aeschylus Persians: s-126">
       <word id="1"
             form="Ἄμιστρις"
             lemma="Ἄμιστρις"
@@ -14207,7 +14207,7 @@
    <sentence id="2900883"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="326-328"
-             span="Συέννεσίς0:.9">
+             span="Aeschylus Persians: s-127">
       <word id="1"
             form="Συέννεσίς"
             lemma="Συέννεσις"
@@ -14338,7 +14338,7 @@
    <sentence id="2900894"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="329"
-             span="τοσόνδε0:.10">
+             span="Aeschylus Persians: s-128">
       <word id="1"
             form="τοσόνδε"
             lemma="τοσόσδε1"
@@ -14385,7 +14385,7 @@
    <sentence id="2900891"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="330"
-             span="πολλῶν0:.11">
+             span="Aeschylus Persians: s-129">
       <word id="1"
             form="πολλῶν"
             lemma="πολύς1"
@@ -14439,7 +14439,7 @@
    <sentence id="2900902"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="331-332"
-             span="αἰαῖ0:.0">
+             span="Aeschylus Persians: s-130">
       <word id="1"
             form="αἰαῖ"
             lemma="αἰαῖ1"
@@ -14549,7 +14549,7 @@
    <sentence id="2900901"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="333"
-             span="ἀτὰρ0::0">
+             span="Aeschylus Persians: s-131">
       <word id="1"
             form="ἀτὰρ"
             lemma="ἀτάρ1"
@@ -14603,7 +14603,7 @@
    <sentence id="2900907"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="334-336"
-             span="πόσον0:;0">
+             span="Aeschylus Persians: s-132">
       <word id="1"
             form="πόσον"
             lemma="πόσος1"
@@ -14720,7 +14720,7 @@
    <sentence id="2900906"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="337-338"
-             span="πλήθους0:.1">
+             span="Aeschylus Persians: s-133">
       <word id="1"
             form="πλήθους"
             lemma="πλῆθος1"
@@ -14795,7 +14795,7 @@
    <sentence id="2900904"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="338-340"
-             span="καὶ1::1">
+             span="Aeschylus Persians: s-134">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -14940,7 +14940,7 @@
    <sentence id="2900897"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="341-343"
-             span="Ξέρξῃ0::2">
+             span="Aeschylus Persians: s-135">
       <word id="1"
             form="Ξέρξῃ"
             lemma="Ξέρξης"
@@ -15113,7 +15113,7 @@
    <sentence id="2900910"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="343"
-             span="ὧδ᾽0:.2">
+             span="Aeschylus Persians: s-136">
       <word id="1"
             form="ὧδ᾽"
             lemma="ὧδε1"
@@ -15146,7 +15146,7 @@
    <sentence id="2900905"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="344"
-             span="μή0:;1">
+             span="Aeschylus Persians: s-137">
       <word id="1"
             form="μή"
             lemma="μή1"
@@ -15200,7 +15200,7 @@
    <sentence id="2900898"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="345-346"
-             span="ἀλλ᾽0:.3">
+             span="Aeschylus Persians: s-138">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -15296,7 +15296,7 @@
    <sentence id="2900908"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="347"
-             span="θεοὶ0:.4">
+             span="Aeschylus Persians: s-139">
       <word id="1"
             form="θεοὶ"
             lemma="θεός1"
@@ -15343,7 +15343,7 @@
    <sentence id="2900903"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="348"
-             span="ἔτ᾽0:;2">
+             span="Aeschylus Persians: s-140">
       <word id="1"
             form="ἔτ᾽"
             lemma="ἔτι1"
@@ -15397,7 +15397,7 @@
    <sentence id="2900899"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="349"
-             span="ἀνδρῶν0:.5">
+             span="Aeschylus Persians: s-141">
       <word id="1"
             form="ἀνδρῶν"
             lemma="ἀνήρ1"
@@ -15451,7 +15451,7 @@
    <sentence id="2900900"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="350"
-             span="ἀρχὴ0::3">
+             span="Aeschylus Persians: s-142">
       <word id="1"
             form="ἀρχὴ"
             lemma="ἀρχή1"
@@ -15519,7 +15519,7 @@
    <sentence id="2900909"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="351-352"
-             span="τίνες0:;3">
+             span="Aeschylus Persians: s-143">
       <word id="1"
             form="τίνες"
             lemma="τίς"
@@ -15645,7 +15645,7 @@
    <sentence id="2900915"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="353-354"
-             span="ἦρξεν0:.0">
+             span="Aeschylus Persians: s-144">
       <word id="1"
             form="ἦρξεν"
             lemma="ἄρχω1"
@@ -15762,7 +15762,7 @@
    <sentence id="2900911"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="355-360"
-             span="ἀνὴρ0:.1">
+             span="Aeschylus Persians: s-145">
       <word id="1"
             form="ἀνὴρ"
             lemma="ἀνήρ1"
@@ -16012,7 +16012,7 @@
    <sentence id="2900917"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="361-368"
-             span="ὁ0::0">
+             span="Aeschylus Persians: s-146">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -16425,7 +16425,7 @@
    <sentence id="2900924"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="369-371"
-             span="ὡς2:.2">
+             span="Aeschylus Persians: s-147">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -16563,7 +16563,7 @@
    <sentence id="2900923"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="372"
-             span="τοσαῦτ᾽0::1">
+             span="Aeschylus Persians: s-148">
       <word id="1"
             form="τοσαῦτ᾽"
             lemma="τοσοῦτος1"
@@ -16617,7 +16617,7 @@
    <sentence id="2900919"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="373"
-             span="οὐ2:.3">
+             span="Aeschylus Persians: s-149">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -16678,7 +16678,7 @@
    <sentence id="2900918"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="374-376"
-             span="οἱ0:.4">
+             span="Aeschylus Persians: s-150">
       <word id="1"
             form="οἱ"
             lemma="ὁ1"
@@ -16830,7 +16830,7 @@
    <sentence id="2900913"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="377-379"
-             span="ἐπεὶ0::2">
+             span="Aeschylus Persians: s-151">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -16982,7 +16982,7 @@
    <sentence id="2900922"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="380"
-             span="τάξις0::3">
+             span="Aeschylus Persians: s-152">
       <word id="1"
             form="τάξις"
             lemma="τάξις1"
@@ -17036,7 +17036,7 @@
    <sentence id="2900921"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="381-383"
-             span="πλέουσι0:.5">
+             span="Aeschylus Persians: s-153">
       <word id="1"
             form="πλέουσι"
             lemma="πλέω1"
@@ -17167,7 +17167,7 @@
    <sentence id="2900916"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="384-385"
-             span="καὶ3::4">
+             span="Aeschylus Persians: s-154">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -17263,7 +17263,7 @@
    <sentence id="2900912"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="386-391"
-             span="ἐπεί0::5">
+             span="Aeschylus Persians: s-155">
       <word id="1"
             form="ἐπεί"
             lemma="ἐπεί1"
@@ -17464,7 +17464,7 @@
    <sentence id="2900914"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="391-392"
-             span="φόβος0::6">
+             span="Aeschylus Persians: s-156">
       <word id="1"
             form="φόβος"
             lemma="φόβος1"
@@ -17525,7 +17525,7 @@
    <sentence id="2900920"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="392-394"
-             span="οὐ3::7">
+             span="Aeschylus Persians: s-157">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -17649,7 +17649,7 @@
    <sentence id="2900934"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="395"
-             span="σάλπιγξ0:.0">
+             span="Aeschylus Persians: s-158">
       <word id="1"
             form="σάλπιγξ"
             lemma="σάλπιγξ1"
@@ -17703,7 +17703,7 @@
    <sentence id="2900927"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="396-398"
-             span="εὐθὺς0:.1">
+             span="Aeschylus Persians: s-159">
       <word id="1"
             form="εὐθὺς"
             lemma="εὐθύς2"
@@ -17834,7 +17834,7 @@
    <sentence id="2900937"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="399-405"
-             span="τὸ0::0">
+             span="Aeschylus Persians: s-160">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -18168,7 +18168,7 @@
    <sentence id="2900932"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="405"
-             span="νῦν0:.2">
+             span="Aeschylus Persians: s-161">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -18217,7 +18217,7 @@
    <sentence id="2900930"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="406-407"
-             span="καὶ1:.3">
+             span="Aeschylus Persians: s-162">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -18320,7 +18320,7 @@
    <sentence id="2900928"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="408-409"
-             span="εὐθὺς1::1">
+             span="Aeschylus Persians: s-163">
       <word id="1"
             form="εὐθὺς"
             lemma="εὐθύς2"
@@ -18388,7 +18388,7 @@
    <sentence id="2900929"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="409-411"
-             span="ἦρξε0:.4">
+             span="Aeschylus Persians: s-164">
       <word id="1"
             form="ἦρξε"
             lemma="ἄρχω1"
@@ -18526,7 +18526,7 @@
    <sentence id="2900935"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="412-413"
-             span="τὰ0::2">
+             span="Aeschylus Persians: s-165">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -18594,7 +18594,7 @@
    <sentence id="2900938"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="413-420"
-             span="ὡς0:.5">
+             span="Aeschylus Persians: s-166">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -18963,7 +18963,7 @@
    <sentence id="2900925"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="421-423"
-             span="ἀκταὶ0:.6">
+             span="Aeschylus Persians: s-167">
       <word id="1"
             form="ἀκταὶ"
             lemma="ἀκτή1"
@@ -19101,7 +19101,7 @@
    <sentence id="2900936"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="424-426"
-             span="τοὶ0::3">
+             span="Aeschylus Persians: s-168">
       <word id="1"
             form="τοὶ"
             lemma="ὁ1"
@@ -19234,7 +19234,7 @@
    <sentence id="2900933"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="426-428"
-             span="οἰμωγὴ0:.7">
+             span="Aeschylus Persians: s-169">
       <word id="1"
             form="οἰμωγὴ"
             lemma="οἰμωγή1"
@@ -19337,7 +19337,7 @@
    <sentence id="2900931"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="429-430"
-             span="κακῶν0:.8">
+             span="Aeschylus Persians: s-170">
       <word id="1"
             form="κακῶν"
             lemma="κακός1"
@@ -19461,7 +19461,7 @@
    <sentence id="2900926"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="431-432"
-             span="εὖ0:.9">
+             span="Aeschylus Persians: s-171">
       <word id="1"
             form="εὖ"
             lemma="εὖ1"
@@ -19557,7 +19557,7 @@
    <sentence id="2900942"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="433-434"
-             span="αἰαῖ0:.0">
+             span="Aeschylus Persians: s-172">
       <word id="1"
             form="αἰαῖ"
             lemma="αἰαῖ1"
@@ -19660,7 +19660,7 @@
    <sentence id="2900945"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="435"
-             span="εὖ0::0">
+             span="Aeschylus Persians: s-173">
       <word id="1"
             form="εὖ"
             lemma="εὖ1"
@@ -19728,7 +19728,7 @@
    <sentence id="2900954"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="436-437"
-             span="τοιάδ᾽0:.1">
+             span="Aeschylus Persians: s-174">
       <word id="1"
             form="τοιάδ᾽"
             lemma="τοιόσδε1"
@@ -19824,7 +19824,7 @@
    <sentence id="2900946"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="438"
-             span="καὶ2:;0">
+             span="Aeschylus Persians: s-175">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -19892,7 +19892,7 @@
    <sentence id="2900947"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="439-440"
-             span="λέξον0:.2">
+             span="Aeschylus Persians: s-176">
       <word id="1"
             form="λέξον"
             lemma="λέγω3"
@@ -19995,7 +19995,7 @@
    <sentence id="2900940"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="441-444"
-             span="Περσῶν0:.3">
+             span="Aeschylus Persians: s-177">
       <word id="1"
             form="Περσῶν"
             lemma="Πέρσης1"
@@ -20184,7 +20184,7 @@
    <sentence id="2900949"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="445"
-             span="οἲ0:.4">
+             span="Aeschylus Persians: s-178">
       <word id="1"
             form="οἲ"
             lemma="οἴ"
@@ -20261,7 +20261,7 @@
    <sentence id="2900950"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="446"
-             span="ποίῳ0:;1">
+             span="Aeschylus Persians: s-179">
       <word id="1"
             form="ποίῳ"
             lemma="ποῖος1"
@@ -20315,7 +20315,7 @@
    <sentence id="2900948"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="447-449"
-             span="νῆσός0:.5">
+             span="Aeschylus Persians: s-180">
       <word id="1"
             form="νῆσός"
             lemma="νῆσος1"
@@ -20474,7 +20474,7 @@
    <sentence id="2900944"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="450-454"
-             span="ἐνταῦθα0:.6">
+             span="Aeschylus Persians: s-181">
       <word id="1"
             form="ἐνταῦθα"
             lemma="ἐνταῦθα1"
@@ -20682,7 +20682,7 @@
    <sentence id="2900956"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="454-457"
-             span="ὡς1::1">
+             span="Aeschylus Persians: s-182">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -20806,7 +20806,7 @@
    <sentence id="2900941"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="457-459"
-             span="ἀμφὶ0:.7">
+             span="Aeschylus Persians: s-183">
       <word id="1"
             form="ἀμφὶ"
             lemma="ἀμφί1"
@@ -20888,7 +20888,7 @@
    <sentence id="2900951"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="459-461"
-             span="πολλὰ0::2">
+             span="Aeschylus Persians: s-184">
       <word id="1"
             form="πολλὰ"
             lemma="πολύς1"
@@ -21005,7 +21005,7 @@
    <sentence id="2900953"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="462-464"
-             span="τέλος0:.8">
+             span="Aeschylus Persians: s-185">
       <word id="1"
             form="τέλος"
             lemma="τέλος1"
@@ -21129,7 +21129,7 @@
    <sentence id="2900939"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="465"
-             span="Ξέρξης0::3">
+             span="Aeschylus Persians: s-186">
       <word id="1"
             form="Ξέρξης"
             lemma="Ξέρξης"
@@ -21183,7 +21183,7 @@
    <sentence id="2900943"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="466-467"
-             span="ἕδραν0::4">
+             span="Aeschylus Persians: s-187">
       <word id="1"
             form="ἕδραν"
             lemma="ἕδρα1"
@@ -21279,7 +21279,7 @@
    <sentence id="2900952"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="468-470"
-             span="ῥήξας0:.9">
+             span="Aeschylus Persians: s-188">
       <word id="1"
             form="ῥήξας"
             lemma="ῥήγνυμι1"
@@ -21405,7 +21405,7 @@
    <sentence id="2900955"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="470-471"
-             span="τοιάνδε0:.10">
+             span="Aeschylus Persians: s-189">
       <word id="1"
             form="τοιάνδε"
             lemma="τοιόσδε1"
@@ -21473,7 +21473,7 @@
    <sentence id="2900961"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="472-473"
-             span="ὦ0::0">
+             span="Aeschylus Persians: s-190">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -21548,7 +21548,7 @@
    <sentence id="2900958"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="473-475"
-             span="πικρὰν0::1">
+             span="Aeschylus Persians: s-191">
       <word id="1"
             form="πικρὰν"
             lemma="πικρός1"
@@ -21672,7 +21672,7 @@
    <sentence id="2900960"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="476-477"
-             span="ὧν0:.0">
+             span="Aeschylus Persians: s-192">
       <word id="1"
             form="ὧν"
             lemma="ὅς1"
@@ -21754,7 +21754,7 @@
    <sentence id="2900959"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="478-479"
-             span="σὺ0::2">
+             span="Aeschylus Persians: s-193">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -21850,7 +21850,7 @@
    <sentence id="2900957"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="479"
-             span="οἶσθα0:;0">
+             span="Aeschylus Persians: s-194">
       <word id="1"
             form="οἶσθα"
             lemma="οἶδα1"
@@ -21883,7 +21883,7 @@
    <sentence id="2900969"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="480-481"
-             span="ναῶν0::0">
+             span="Aeschylus Persians: s-195">
       <word id="1"
             form="ναῶν"
             lemma="ναῦς1"
@@ -21979,7 +21979,7 @@
    <sentence id="2900975"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="482-487"
-             span="στρατὸς0::1">
+             span="Aeschylus Persians: s-196">
       <word id="1"
             form="στρατὸς"
             lemma="στρατός1"
@@ -22294,7 +22294,7 @@
    <sentence id="2900968"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="488-490"
-             span="κἀντεῦθεν0::2">
+             span="Aeschylus Persians: s-197">
       <word id="1"
             form="κἀντεῦθεν"
             lemma="ἐντεῦθεν1"
@@ -22383,7 +22383,7 @@
    <sentence id="2900964"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="490-491"
-             span="ἔνθα0::3">
+             span="Aeschylus Persians: s-198">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -22458,7 +22458,7 @@
    <sentence id="2900963"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="491"
-             span="ἀμφότερα0:.0">
+             span="Aeschylus Persians: s-199">
       <word id="1"
             form="ἀμφότερα"
             lemma="ἀμφότερος1"
@@ -22498,7 +22498,7 @@
    <sentence id="2900962"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="492-495"
-             span="Μαγνητικὴν0::4">
+             span="Aeschylus Persians: s-200">
       <word id="1"
             form="Μαγνητικὴν"
             lemma="Μαγνητικός"
@@ -22678,7 +22678,7 @@
    <sentence id="2900970"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="495-497"
-             span="νυκτὶ0:.1">
+             span="Aeschylus Persians: s-201">
       <word id="1"
             form="νυκτὶ"
             lemma="νύξ1"
@@ -22795,7 +22795,7 @@
    <sentence id="2900974"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="497-499"
-             span="θεοὺς0:.2">
+             span="Aeschylus Persians: s-202">
       <word id="1"
             form="θεοὺς"
             lemma="θεός1"
@@ -22912,7 +22912,7 @@
    <sentence id="2900965"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="500-501"
-             span="ἐπεὶ0::5">
+             span="Aeschylus Persians: s-203">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -23001,7 +23001,7 @@
    <sentence id="2900978"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="502-503"
-             span="χὤστις0:.3">
+             span="Aeschylus Persians: s-204">
       <word id="1"
             form="χὤστις"
             lemma="ὅστις1"
@@ -23090,7 +23090,7 @@
    <sentence id="2900966"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="504-505"
-             span="φλέγων0:.4">
+             span="Aeschylus Persians: s-205">
       <word id="1"
             form="φλέγων"
             lemma="φλέγω1"
@@ -23186,7 +23186,7 @@
    <sentence id="2900972"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="506"
-             span="πῖπτον0::6">
+             span="Aeschylus Persians: s-206">
       <word id="1"
             form="πῖπτον"
             lemma="πίπτω1"
@@ -23226,7 +23226,7 @@
    <sentence id="2900967"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="506-507"
-             span="ηὐτύχει0:.5">
+             span="Aeschylus Persians: s-207">
       <word id="1"
             form="ηὐτύχει"
             lemma="εὐτυχέω1"
@@ -23294,7 +23294,7 @@
    <sentence id="2900971"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="508-511"
-             span="ὅσοι0::7">
+             span="Aeschylus Persians: s-208">
       <word id="1"
             form="ὅσοι"
             lemma="ὅσος1"
@@ -23460,7 +23460,7 @@
    <sentence id="2900977"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="511-512"
-             span="ὡς0:.6">
+             span="Aeschylus Persians: s-209">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -23544,7 +23544,7 @@
    <sentence id="2900976"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="513"
-             span="ταῦτ᾽0::8">
+             span="Aeschylus Persians: s-210">
       <word id="1"
             form="ταῦτ᾽"
             lemma="οὗτος1"
@@ -23577,7 +23577,7 @@
    <sentence id="2900973"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="513-514"
-             span="πολλὰ1:.7">
+             span="Aeschylus Persians: s-211">
       <word id="1"
             form="πολλὰ"
             lemma="πολύς1"
@@ -23652,7 +23652,7 @@
    <sentence id="2900985"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="515-516"
-             span="ὦ0:.0">
+             span="Aeschylus Persians: s-212">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -23748,7 +23748,7 @@
    <sentence id="2900982"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="517"
-             span="οἲ0::0">
+             span="Aeschylus Persians: s-213">
       <word id="1"
             form="οἲ"
             lemma="οἴ"
@@ -23811,7 +23811,7 @@
    <sentence id="2900986"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="518-519"
-             span="ὦ1:.1">
+             span="Aeschylus Persians: s-214">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -23907,7 +23907,7 @@
    <sentence id="2900984"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="520"
-             span="ὑμεῖς0:.2">
+             span="Aeschylus Persians: s-215">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ1"
@@ -23961,7 +23961,7 @@
    <sentence id="2900981"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="521-522"
-             span="ὅμως0::1">
+             span="Aeschylus Persians: s-216">
       <word id="1"
             form="ὅμως"
             lemma="ὅμως1"
@@ -24071,7 +24071,7 @@
    <sentence id="2900979"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="523-526"
-             span="ἔπειτα0:.3">
+             span="Aeschylus Persians: s-217">
       <word id="1"
             form="ἔπειτα"
             lemma="ἔπειτα1"
@@ -24295,7 +24295,7 @@
    <sentence id="2900983"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="527-528"
-             span="ὑμᾶς0::2">
+             span="Aeschylus Persians: s-218">
       <word id="1"
             form="ὑμᾶς"
             lemma="σύ1"
@@ -24391,7 +24391,7 @@
    <sentence id="2900980"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="529-531"
-             span="καὶ1:.4">
+             span="Aeschylus Persians: s-219">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -24571,7 +24571,7 @@
    <sentence id="2900990"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="532-536"
-             span="ὦ0::0">
+             span="Aeschylus Persians: s-220">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -24739,7 +24739,7 @@
    <sentence id="2900989"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="537-540"
-             span="πολλαὶ0:.0">
+             span="Aeschylus Persians: s-221">
       <word id="1"
             form="πολλαὶ"
             lemma="πολύς1"
@@ -24842,7 +24842,7 @@
    <sentence id="2900987"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="541-545"
-             span="αἱ0:.1">
+             span="Aeschylus Persians: s-222">
       <word id="1"
             form="αἱ"
             lemma="ὁ1"
@@ -25008,7 +25008,7 @@
    <sentence id="2900988"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="546-547"
-             span="κἀγὼ0:.2">
+             span="Aeschylus Persians: s-223">
       <word id="1"
             form="κἀγὼ"
             lemma="ἐγώ1"
@@ -25076,7 +25076,7 @@
    <sentence id="2900992"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="548-549"
-             span="νῦν0:.0">
+             span="Aeschylus Persians: s-224">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -25151,7 +25151,7 @@
    <sentence id="2900991"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="550-553"
-             span="Ξέρξης0:.1">
+             span="Aeschylus Persians: s-225">
       <word id="1"
             form="Ξέρξης"
             lemma="Ξέρξης"
@@ -25296,7 +25296,7 @@
    <sentence id="2900993"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="554-557"
-             span="τίπτε0:;0">
+             span="Aeschylus Persians: s-226">
       <word id="1"
             form="τίπτε"
             lemma="τίπτε1"
@@ -25413,7 +25413,7 @@
    <sentence id="2900994"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="558-563"
-             span="πεζούς0:.0">
+             span="Aeschylus Persians: s-227">
       <word id="1"
             form="πεζούς"
             lemma="πεζός1"
@@ -25614,7 +25614,7 @@
    <sentence id="2900995"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="564-567"
-             span="τυτθὰ0:.1">
+             span="Aeschylus Persians: s-228">
       <word id="1"
             form="τυτθὰ"
             lemma="τυτθός1"
@@ -25710,7 +25710,7 @@
    <sentence id="2900998"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="568-571"
-             span="τοὶ0::0">
+             span="Aeschylus Persians: s-229">
       <word id="1"
             form="τοὶ"
             lemma="ὁ1"
@@ -25862,7 +25862,7 @@
    <sentence id="2900996"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="571-573"
-             span="στένε0::1">
+             span="Aeschylus Persians: s-230">
       <word id="1"
             form="στένε"
             lemma="στένω1"
@@ -25965,7 +25965,7 @@
    <sentence id="2900997"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="574-575"
-             span="τεῖνε0:.0">
+             span="Aeschylus Persians: s-231">
       <word id="1"
             form="τεῖνε"
             lemma="τείνω1"
@@ -26019,7 +26019,7 @@
    <sentence id="2900999"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="576-578"
-             span="γναπτόμενοι0:.0">
+             span="Aeschylus Persians: s-232">
       <word id="1"
             form="γναπτόμενοι"
             lemma="κνάπτω1"
@@ -26150,7 +26150,7 @@
    <sentence id="2901000"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="579-583"
-             span="πενθεῖ0:.1">
+             span="Aeschylus Persians: s-233">
       <word id="1"
             form="πενθεῖ"
             lemma="πενθέω1"
@@ -26316,7 +26316,7 @@
    <sentence id="2901002"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="584-589"
-             span="τοὶ0::0">
+             span="Aeschylus Persians: s-234">
       <word id="1"
             form="τοὶ"
             lemma="ὁ1"
@@ -26482,7 +26482,7 @@
    <sentence id="2901001"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="589-590"
-             span="βασιλεία0:.0">
+             span="Aeschylus Persians: s-235">
       <word id="1"
             form="βασιλεία"
             lemma="βασίλειος1"
@@ -26522,7 +26522,7 @@
    <sentence id="2901005"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="591-592"
-             span="οὐδ᾽0::0">
+             span="Aeschylus Persians: s-236">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -26592,7 +26592,7 @@
    <sentence id="2901004"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="592-594"
-             span="λέλυται0:.0">
+             span="Aeschylus Persians: s-237">
       <word id="1"
             form="λέλυται"
             lemma="λύω1"
@@ -26674,7 +26674,7 @@
    <sentence id="2901003"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="595-597"
-             span="αἱμαχθεῖσα0:.1">
+             span="Aeschylus Persians: s-238">
       <word id="1"
             form="αἱμαχθεῖσα"
             lemma="αἱμάσσω1"
@@ -26749,7 +26749,7 @@
    <sentence id="2901007"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="598-600"
-             span="φίλοι0::0">
+             span="Aeschylus Persians: s-239">
       <word id="1"
             form="φίλοι"
             lemma="φίλος1"
@@ -26887,7 +26887,7 @@
    <sentence id="2901008"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="601-602"
-             span="ὅταν1:.0">
+             span="Aeschylus Persians: s-240">
       <word id="1"
             form="ὅταν"
             lemma="ὅταν1"
@@ -26999,7 +26999,7 @@
    <sentence id="2901006"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="603-605"
-             span="ἐμοὶ0::1">
+             span="Aeschylus Persians: s-241">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ1"
@@ -27151,7 +27151,7 @@
    <sentence id="2901010"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="606"
-             span="τοία0:.1">
+             span="Aeschylus Persians: s-242">
       <word id="1"
             form="τοία"
             lemma="τοῖος1"
@@ -27198,7 +27198,7 @@
    <sentence id="2901011"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="607-615"
-             span="τοιγὰρ0::2">
+             span="Aeschylus Persians: s-243">
       <word id="1"
             form="τοιγὰρ"
             lemma="τοιγάρ1"
@@ -27618,7 +27618,7 @@
    <sentence id="2901009"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="616-622"
-             span="τῆς2:.2">
+             span="Aeschylus Persians: s-244">
       <word id="1"
             form="τῆς"
             lemma="ὁ1"
@@ -27952,7 +27952,7 @@
    <sentence id="2901013"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="623-627"
-             span="βασίλεια0:.0">
+             span="Aeschylus Persians: s-245">
       <word id="1"
             form="βασίλεια"
             lemma="βασίλεια1"
@@ -28132,7 +28132,7 @@
    <sentence id="2901012"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="628-630"
-             span="ἀλλά0::0">
+             span="Aeschylus Persians: s-246">
       <word id="1"
             form="ἀλλά"
             lemma="ἀλλά1"
@@ -28284,7 +28284,7 @@
    <sentence id="2901014"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="631-632"
-             span="εἰ0:.1">
+             span="Aeschylus Persians: s-247">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -28387,7 +28387,7 @@
    <sentence id="2901015"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="633-638"
-             span="ἦ0:;0">
+             span="Aeschylus Persians: s-248">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -28553,7 +28553,7 @@
    <sentence id="2901016"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="639"
-             span="νέρθεν0:;1">
+             span="Aeschylus Persians: s-249">
       <word id="1"
             form="νέρθεν"
             lemma="ἔνερθε1"
@@ -28593,7 +28593,7 @@
    <sentence id="2901017"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="640-644"
-             span="ἀλλὰ0::0">
+             span="Aeschylus Persians: s-250">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -28747,7 +28747,7 @@
    <sentence id="2901018"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="645-646"
-             span="πέμπετε0:.0">
+             span="Aeschylus Persians: s-251">
       <word id="1"
             form="πέμπετε"
             lemma="πέμπω1"
@@ -28815,7 +28815,7 @@
    <sentence id="2901021"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="647"
-             span="ἦ0::0">
+             span="Aeschylus Persians: s-252">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -28878,7 +28878,7 @@
    <sentence id="2901020"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="648"
-             span="φίλα0:.0">
+             span="Aeschylus Persians: s-253">
       <word id="1"
             form="φίλα"
             lemma="φίλος1"
@@ -28918,7 +28918,7 @@
    <sentence id="2901019"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="649-651"
-             span="Ἀιδωνεὺς0:.1">
+             span="Aeschylus Persians: s-254">
       <word id="1"
             form="Ἀιδωνεὺς"
             lemma="Ἀιδωνεύς"
@@ -29014,7 +29014,7 @@
    <sentence id="2901022"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="651"
-             span="ἠέ0:.2">
+             span="Aeschylus Persians: s-255">
       <word id="1"
             form="ἠέ"
             lemma="ἠέ"
@@ -29042,7 +29042,7 @@
    <sentence id="2901023"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="652-656"
-             span="οὐδὲ0:.0">
+             span="Aeschylus Persians: s-256">
       <word id="1"
             form="οὐ"
             lemma="οὐδέ1"
@@ -29222,7 +29222,7 @@
    <sentence id="2901024"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="656"
-             span="ἠέ0:.1">
+             span="Aeschylus Persians: s-257">
       <word id="1"
             form="ἠέ"
             lemma="ἠέ1"
@@ -29250,7 +29250,7 @@
    <sentence id="2901026"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="657-658"
-             span="βαλήν0::0">
+             span="Aeschylus Persians: s-258">
       <word id="1"
             form="βαλήν"
             lemma="βαλλήν"
@@ -29318,7 +29318,7 @@
    <sentence id="2901027"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="659-662"
-             span="ἔλθ᾽0:.0">
+             span="Aeschylus Persians: s-259">
       <word id="1"
             form="ἔλθ᾽"
             lemma="ἔρχομαι1"
@@ -29435,7 +29435,7 @@
    <sentence id="2901025"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="663"
-             span="βάσκε0:.1">
+             span="Aeschylus Persians: s-260">
       <word id="1"
             form="βάσκε"
             lemma="βάσκω1"
@@ -29489,7 +29489,7 @@
    <sentence id="2901031"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="664-666"
-             span="ὅπως0:.0">
+             span="Aeschylus Persians: s-261">
       <word id="1"
             form="ὅπως"
             lemma="ὅπως1"
@@ -29571,7 +29571,7 @@
    <sentence id="2901028"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="667"
-             span="Στυγία0::0">
+             span="Aeschylus Persians: s-262">
       <word id="1"
             form="Στυγία"
             lemma="Στύγιος1"
@@ -29625,7 +29625,7 @@
    <sentence id="2901030"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="668-670"
-             span="νεολαία0:.1">
+             span="Aeschylus Persians: s-263">
       <word id="1"
             form="νεολαία"
             lemma="νεολαία1"
@@ -29679,7 +29679,7 @@
    <sentence id="2901029"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="671"
-             span="βάσκε0:.2">
+             span="Aeschylus Persians: s-264">
       <word id="1"
             form="βάσκε"
             lemma="βάσκω1"
@@ -29733,7 +29733,7 @@
    <sentence id="2901032"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="672"
-             span="αἰαῖ0::0">
+             span="Aeschylus Persians: s-265">
       <word id="1"
             form="αἰαῖ"
             lemma="αἰαῖ1"
@@ -29768,7 +29768,7 @@
    <sentence id="2901034"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="673-676"
-             span="ὦ0:;?0">
+             span="Aeschylus Persians: s-266">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -29915,7 +29915,7 @@
    <sentence id="2901033"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="677-680"
-             span="πᾶσαι0:.0">
+             span="Aeschylus Persians: s-267">
       <word id="1"
             form="πᾶσαι"
             lemma="πᾶς1"
@@ -29983,7 +29983,7 @@
    <sentence id="2901042"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="681-682"
-             span="ὦ0:;0">
+             span="Aeschylus Persians: s-268">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -30093,7 +30093,7 @@
    <sentence id="2901038"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="683"
-             span="στένει0:.0">
+             span="Aeschylus Persians: s-269">
       <word id="1"
             form="στένει"
             lemma="στένω1"
@@ -30154,7 +30154,7 @@
    <sentence id="2901036"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="684-685"
-             span="λεύσσων0:.1">
+             span="Aeschylus Persians: s-270">
       <word id="1"
             form="λεύσσων"
             lemma="λεύσσω1"
@@ -30257,7 +30257,7 @@
    <sentence id="2901041"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="686-688"
-             span="ὑμεῖς0::0">
+             span="Aeschylus Persians: s-271">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ1"
@@ -30360,7 +30360,7 @@
    <sentence id="2901035"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="688-690"
-             span="ἐστὶ0:.2">
+             span="Aeschylus Persians: s-272">
       <word id="1"
             form="ἐστὶ"
             lemma="εἰμί1"
@@ -30500,7 +30500,7 @@
    <sentence id="2901037"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="691-692"
-             span="ὅμως0:.3">
+             span="Aeschylus Persians: s-273">
       <word id="1"
             form="ὅμως"
             lemma="ὅμως1"
@@ -30554,7 +30554,7 @@
    <sentence id="2901039"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="692"
-             span="τάχυνε0:.4">
+             span="Aeschylus Persians: s-274">
       <word id="1"
             form="τάχυνε"
             lemma="ταχύνω1"
@@ -30608,7 +30608,7 @@
    <sentence id="2901040"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="693"
-             span="τί0::1">
+             span="Aeschylus Persians: s-275">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -30662,7 +30662,7 @@
    <sentence id="2901043"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="694-696"
-             span="σέβομαι0:.0">
+             span="Aeschylus Persians: s-276">
       <word id="1"
             form="σέβομαι"
             lemma="σέβομαι1"
@@ -30758,7 +30758,7 @@
    <sentence id="2901044"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="697-699"
-             span="ἀλλ᾽0:.0">
+             span="Aeschylus Persians: s-277">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -30945,7 +30945,7 @@
    <sentence id="2901045"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="700-702"
-             span="δίεμαι0:.0">
+             span="Aeschylus Persians: s-278">
       <word id="1"
             form="δίεμαι"
             lemma="δίεμαι1"
@@ -31041,7 +31041,7 @@
    <sentence id="2901046"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="703-706"
-             span="ἀλλ᾽0::0">
+             span="Aeschylus Persians: s-279">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -31228,7 +31228,7 @@
    <sentence id="2901047"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="706"
-             span="ἀνθρώπεια0:.0">
+             span="Aeschylus Persians: s-280">
       <word id="1"
             form="ἀνθρώπεια"
             lemma="ἀνθρώπειος1"
@@ -31296,7 +31296,7 @@
    <sentence id="2901050"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="707-708"
-             span="πολλὰ0:.1">
+             span="Aeschylus Persians: s-281">
       <word id="1"
             form="πολλὰ"
             lemma="πολύς1"
@@ -31473,7 +31473,7 @@
    <sentence id="2901051"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="709-712"
-             span="ὦ0:.2">
+             span="Aeschylus Persians: s-282">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -31709,7 +31709,7 @@
    <sentence id="2901049"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="713"
-             span="πάντα0:.3">
+             span="Aeschylus Persians: s-283">
       <word id="1"
             form="πάντα"
             lemma="πᾶς1"
@@ -31784,7 +31784,7 @@
    <sentence id="2901048"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="714"
-             span="διαπεπόρθηται0:.4">
+             span="Aeschylus Persians: s-284">
       <word id="1"
             form="διαπεπόρθηται"
             lemma="διαπορθέω1"
@@ -31852,7 +31852,7 @@
    <sentence id="2901076"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="715"
-             span="τίνι0:;0">
+             span="Aeschylus Persians: s-285">
       <word id="1"
             form="τίνι"
             lemma="τίς"
@@ -31887,7 +31887,7 @@
    <sentence id="2901064"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="715"
-             span="λοιμοῦ0:;1">
+             span="Aeschylus Persians: s-286">
       <word id="1"
             form="λοιμοῦ"
             lemma="λοιμός1"
@@ -31948,7 +31948,7 @@
    <sentence id="2901069"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="716"
-             span="οὐδαμῶς0::0">
+             span="Aeschylus Persians: s-287">
       <word id="1"
             form="οὐδαμῶς"
             lemma="οὐδαμῶς1"
@@ -31976,7 +31976,7 @@
    <sentence id="2901054"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="716"
-             span="ἀλλ᾽0:.0">
+             span="Aeschylus Persians: s-288">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -32030,7 +32030,7 @@
    <sentence id="2901077"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="717"
-             span="τίς0:;2">
+             span="Aeschylus Persians: s-289">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -32084,7 +32084,7 @@
    <sentence id="2901058"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="717"
-             span="φράσον0:.1">
+             span="Aeschylus Persians: s-290">
       <word id="1"
             form="φράσον"
             lemma="φράζω1"
@@ -32103,7 +32103,7 @@
    <sentence id="2901075"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="718"
-             span="θούριος0:.2">
+             span="Aeschylus Persians: s-291">
       <word id="1"
             form="θούριος"
             lemma="θούριος1"
@@ -32173,7 +32173,7 @@
    <sentence id="2901070"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="719"
-             span="πεζὸς0:;3">
+             span="Aeschylus Persians: s-292">
       <word id="1"
             form="πεζὸς"
             lemma="πεζός1"
@@ -32241,7 +32241,7 @@
    <sentence id="2901071"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="720"
-             span="ἀμφότερα0::1">
+             span="Aeschylus Persians: s-293">
       <word id="1"
             form="ἀμφότερα"
             lemma="ἀμφότερος1"
@@ -32269,7 +32269,7 @@
    <sentence id="2901055"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="720"
-             span="διπλοῦν0:.3">
+             span="Aeschylus Persians: s-294">
       <word id="1"
             form="διπλοῦν"
             lemma="διπλόος1"
@@ -32316,7 +32316,7 @@
    <sentence id="2901073"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="721"
-             span="πῶς0:;4">
+             span="Aeschylus Persians: s-295">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -32384,7 +32384,7 @@
    <sentence id="2901065"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="722"
-             span="μηχαναῖς0:.4">
+             span="Aeschylus Persians: s-296">
       <word id="1"
             form="μηχαναῖς"
             lemma="μηχανή1"
@@ -32452,7 +32452,7 @@
    <sentence id="2901060"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="723"
-             span="καὶ1::2">
+             span="Aeschylus Persians: s-297">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -32520,7 +32520,7 @@
    <sentence id="2901078"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="724"
-             span="ὧδ᾽0::3">
+             span="Aeschylus Persians: s-298">
       <word id="1"
             form="ὧδ᾽"
             lemma="ὧδε1"
@@ -32546,7 +32546,7 @@
    <sentence id="2901059"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="724"
-             span="γνώμης0:.5">
+             span="Aeschylus Persians: s-299">
       <word id="1"
             form="γνώμης"
             lemma="γνώμη1"
@@ -32600,7 +32600,7 @@
    <sentence id="2901057"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="725"
-             span="φεῦ0:.6">
+             span="Aeschylus Persians: s-300">
       <word id="1"
             form="φεῦ"
             lemma="φεῦ1"
@@ -32689,7 +32689,7 @@
    <sentence id="2901080"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="726"
-             span="ὡς0:.7">
+             span="Aeschylus Persians: s-301">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -32759,7 +32759,7 @@
    <sentence id="2901061"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="727"
-             span="καὶ2:;5">
+             span="Aeschylus Persians: s-302">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -32820,7 +32820,7 @@
    <sentence id="2901068"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="728"
-             span="ναυτικὸς0:.8">
+             span="Aeschylus Persians: s-303">
       <word id="1"
             form="ναυτικὸς"
             lemma="ναυτικός1"
@@ -32874,7 +32874,7 @@
    <sentence id="2901079"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="729"
-             span="ὧδε0:;6">
+             span="Aeschylus Persians: s-304">
       <word id="1"
             form="ὧδε"
             lemma="ὧδε1"
@@ -32935,7 +32935,7 @@
    <sentence id="2901072"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="730"
-             span="πρὸς0:.9">
+             span="Aeschylus Persians: s-305">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -33019,7 +33019,7 @@
    <sentence id="2901081"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="731"
-             span="ὦ0:.10">
+             span="Aeschylus Persians: s-306">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -33082,7 +33082,7 @@
    <sentence id="2901052"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="732"
-             span="Βακτρίων0:.11">
+             span="Aeschylus Persians: s-307">
       <word id="1"
             form="Βακτρίων"
             lemma="Βάκτριος"
@@ -33173,7 +33173,7 @@
    <sentence id="2901082"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="733"
-             span="ὦ1:.12">
+             span="Aeschylus Persians: s-308">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -33241,7 +33241,7 @@
    <sentence id="2901066"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="734"
-             span="μονάδα0:-0">
+             span="Aeschylus Persians: s-309">
       <word id="1"
             form="μονάδα"
             lemma="μονάς"
@@ -33318,7 +33318,7 @@
    <sentence id="2901074"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="735"
-             span="πῶς1:;7">
+             span="Aeschylus Persians: s-310">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -33381,7 +33381,7 @@
    <sentence id="2901053"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="736"
-             span="ἄσμενον0:.13">
+             span="Aeschylus Persians: s-311">
       <word id="1"
             form="ἄσμενον"
             lemma="ἄσμενος1"
@@ -33444,7 +33444,7 @@
    <sentence id="2901062"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="737"
-             span="καὶ4:;9">
+             span="Aeschylus Persians: s-312">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -33521,7 +33521,7 @@
    <sentence id="2901067"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="738"
-             span="ναί0::4">
+             span="Aeschylus Persians: s-313">
       <word id="1"
             form="ναί"
             lemma="ναί1"
@@ -33549,7 +33549,7 @@
    <sentence id="2901063"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="738"
-             span="λόγος0:.14">
+             span="Aeschylus Persians: s-314">
       <word id="1"
             form="λόγος"
             lemma="λόγος1"
@@ -33631,7 +33631,7 @@
    <sentence id="2901086"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="739-740"
-             span="φεῦ0::0">
+             span="Aeschylus Persians: s-315">
       <word id="1"
             form="φεῦ"
             lemma="φεῦ1"
@@ -33755,7 +33755,7 @@
    <sentence id="2901085"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="740-741"
-             span="ἐγὼ0::1">
+             span="Aeschylus Persians: s-316">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -33837,7 +33837,7 @@
    <sentence id="2901083"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="742"
-             span="ἀλλ᾽0:.0">
+             span="Aeschylus Persians: s-317">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -33912,7 +33912,7 @@
    <sentence id="2901089"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="743"
-             span="νῦν0:.1">
+             span="Aeschylus Persians: s-318">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -33973,7 +33973,7 @@
    <sentence id="2901091"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="744"
-             span="παῖς0::2">
+             span="Aeschylus Persians: s-319">
       <word id="1"
             form="παῖς"
             lemma="παῖς1"
@@ -34048,7 +34048,7 @@
    <sentence id="2901090"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="745-746"
-             span="ὅστις0::3">
+             span="Aeschylus Persians: s-320">
       <word id="1"
             form="ὅστις"
             lemma="ὅστις1"
@@ -34160,7 +34160,7 @@
    <sentence id="2901087"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="747-750"
-             span="καὶ0:.2">
+             span="Aeschylus Persians: s-321">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -34361,7 +34361,7 @@
    <sentence id="2901092"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="750-751"
-             span="πῶς0:;0">
+             span="Aeschylus Persians: s-322">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -34429,7 +34429,7 @@
    <sentence id="2901084"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="751-752"
-             span="δέδοικα0:.3">
+             span="Aeschylus Persians: s-323">
       <word id="1"
             form="δέδοικα"
             lemma="δείδω1"
@@ -34518,7 +34518,7 @@
    <sentence id="2901093"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="753-754"
-             span="ταῦτά0::4">
+             span="Aeschylus Persians: s-324">
       <word id="1"
             form="ταῦτά"
             lemma="οὗτος1"
@@ -34586,7 +34586,7 @@
    <sentence id="2901088"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="754-756"
-             span="λέγουσι0:.4">
+             span="Aeschylus Persians: s-325">
       <word id="1"
             form="λέγουσι"
             lemma="λέγω1"
@@ -34766,7 +34766,7 @@
    <sentence id="2901094"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="757-758"
-             span="τοιάδ᾽0:.5">
+             span="Aeschylus Persians: s-326">
       <word id="1"
             form="τοιάδ᾽"
             lemma="τοιόσδε1"
@@ -34876,7 +34876,7 @@
    <sentence id="2901107"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="759-764"
-             span="τοιγάρ0:.0">
+             span="Aeschylus Persians: s-327">
       <word id="1"
             form="τοιγάρ"
             lemma="τοιγάρ1"
@@ -35133,7 +35133,7 @@
    <sentence id="2901098"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="765"
-             span="Μῆδος0::0">
+             span="Aeschylus Persians: s-328">
       <word id="1"
             form="Μῆδος"
             lemma="Μῆδος1"
@@ -35194,7 +35194,7 @@
    <sentence id="2901099"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="766"
-             span="ἄλλος0::1">
+             span="Aeschylus Persians: s-329">
       <word id="1"
             form="ἄλλος"
             lemma="ἄλλος1"
@@ -35255,7 +35255,7 @@
    <sentence id="2901103"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="767"
-             span="φρένες0:.1">
+             span="Aeschylus Persians: s-330">
       <word id="1"
             form="φρένες"
             lemma="φρήν1"
@@ -35302,7 +35302,7 @@
    <sentence id="2901109"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="768-769"
-             span="τρίτος0::2">
+             span="Aeschylus Persians: s-331">
       <word id="1"
             form="τρίτος"
             lemma="τρίτος1"
@@ -35412,7 +35412,7 @@
    <sentence id="2901097"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="770-771"
-             span="Λυδῶν0:.2">
+             span="Aeschylus Persians: s-332">
       <word id="1"
             form="Λυδῶν"
             lemma="Λυδός1"
@@ -35517,7 +35517,7 @@
    <sentence id="2901106"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="772"
-             span="θεὸς0:.3">
+             span="Aeschylus Persians: s-333">
       <word id="1"
             form="θεὸς"
             lemma="θεός1"
@@ -35585,7 +35585,7 @@
    <sentence id="2901096"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="773"
-             span="Κύρου0:.4">
+             span="Aeschylus Persians: s-334">
       <word id="1"
             form="Κύρου"
             lemma="Κῦρος1"
@@ -35639,7 +35639,7 @@
    <sentence id="2901105"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="774-775"
-             span="πέμπτος0::3">
+             span="Aeschylus Persians: s-335">
       <word id="1"
             form="πέμπτος"
             lemma="πέμπτος1"
@@ -35721,7 +35721,7 @@
    <sentence id="2901108"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="775-777"
-             span="τὸν0:.5">
+             span="Aeschylus Persians: s-336">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -35859,7 +35859,7 @@
    <sentence id="2901101"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="778"
-             span="ἕκτος0:.6">
+             span="Aeschylus Persians: s-337">
       <word id="1"
             form="[ἕκτος"
             lemma="ἕκτος1"
@@ -35929,7 +35929,7 @@
    <sentence id="2901104"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="779-780"
-             span="κἀγὼ0::4">
+             span="Aeschylus Persians: s-338">
       <word id="2"
             form="κἀγὼ"
             lemma="ἐγώ1"
@@ -36004,7 +36004,7 @@
    <sentence id="2901100"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="781"
-             span="ἀλλ᾽0:.7">
+             span="Aeschylus Persians: s-339">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -36058,7 +36058,7 @@
    <sentence id="2901095"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="782-783"
-             span="Ξέρξης0::5">
+             span="Aeschylus Persians: s-340">
       <word id="1"
             form="Ξέρξης"
             lemma="Ξέρξης"
@@ -36168,7 +36168,7 @@
    <sentence id="2901102"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="784-786"
-             span="εὖ0:.8">
+             span="Aeschylus Persians: s-341">
       <word id="1"
             form="εὖ"
             lemma="εὖ1"
@@ -36341,7 +36341,7 @@
    <sentence id="2901119"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="787-788"
-             span="τί0:;0">
+             span="Aeschylus Persians: s-342">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -36432,7 +36432,7 @@
    <sentence id="2901116"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="788-789"
-             span="πῶς0:;1">
+             span="Aeschylus Persians: s-343">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -36514,7 +36514,7 @@
    <sentence id="2901113"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="790-791"
-             span="εἰ0:.0">
+             span="Aeschylus Persians: s-344">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -36640,7 +36640,7 @@
    <sentence id="2901112"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="792"
-             span="αὐτὴ0:.1">
+             span="Aeschylus Persians: s-345">
       <word id="1"
             form="αὐτὴ"
             lemma="αὐτός1"
@@ -36701,7 +36701,7 @@
    <sentence id="2901117"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="793"
-             span="πῶς1:;2">
+             span="Aeschylus Persians: s-346">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -36769,7 +36769,7 @@
    <sentence id="2901114"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="794"
-             span="κτείνουσα0:.2">
+             span="Aeschylus Persians: s-347">
       <word id="1"
             form="κτείνουσα"
             lemma="κτείνω1"
@@ -36825,7 +36825,7 @@
    <sentence id="2901110"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="795"
-             span="ἀλλ᾽0:.3">
+             span="Aeschylus Persians: s-348">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -36879,7 +36879,7 @@
    <sentence id="2901111"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="796-797"
-             span="ἀλλ᾽1:.4">
+             span="Aeschylus Persians: s-349">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -36982,7 +36982,7 @@
    <sentence id="2901118"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="798"
-             span="πῶς2:;3">
+             span="Aeschylus Persians: s-350">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -37008,7 +37008,7 @@
    <sentence id="2901115"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="798-799"
-             span="οὐ0:;4">
+             span="Aeschylus Persians: s-351">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -37097,7 +37097,7 @@
    <sentence id="2901130"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="800-802"
-             span="παῦροι0::0">
+             span="Aeschylus Persians: s-352">
       <word id="1"
             form="παῦροι"
             lemma="παῦρος1"
@@ -37230,7 +37230,7 @@
    <sentence id="2901133"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="802"
-             span="συμβαίνει0:.0">
+             span="Aeschylus Persians: s-353">
       <word id="1"
             form="συμβαίνει"
             lemma="συμβαίνω1"
@@ -37305,7 +37305,7 @@
    <sentence id="2901124"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="803-804"
-             span="κεἴπερ0:.1">
+             span="Aeschylus Persians: s-354">
       <word id="1"
             form="κεἴπερ"
             lemma="εἴπερ1"
@@ -37394,7 +37394,7 @@
    <sentence id="2901125"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="805-806"
-             span="μίμνουσι0::1">
+             span="Aeschylus Persians: s-355">
       <word id="1"
             form="μίμνουσι"
             lemma="μίμνω1"
@@ -37490,7 +37490,7 @@
    <sentence id="2901128"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="807-808"
-             span="οὗ0::2">
+             span="Aeschylus Persians: s-356">
       <word id="1"
             form="οὗ"
             lemma="οὗ1"
@@ -37579,7 +37579,7 @@
    <sentence id="2901127"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="809-810"
-             span="οἳ0::3">
+             span="Aeschylus Persians: s-357">
       <word id="1"
             form="οἳ"
             lemma="ὅς1"
@@ -37682,7 +37682,7 @@
    <sentence id="2901122"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="811-812"
-             span="βωμοὶ0:.2">
+             span="Aeschylus Persians: s-358">
       <word id="1"
             form="βωμοὶ"
             lemma="βωμός1"
@@ -37780,7 +37780,7 @@
    <sentence id="2901137"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="813-815"
-             span="τοιγὰρ0:.3">
+             span="Aeschylus Persians: s-359">
       <word id="1"
             form="τοιγὰρ"
             lemma="τοιγάρ1"
@@ -37927,7 +37927,7 @@
    <sentence id="2901135"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="816-817"
-             span="τόσος0::4">
+             span="Aeschylus Persians: s-360">
       <word id="1"
             form="τόσος"
             lemma="τόσος1"
@@ -38016,7 +38016,7 @@
    <sentence id="2901132"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="818-820"
-             span="θῖνες0:.4">
+             span="Aeschylus Persians: s-361">
       <word id="1"
             form="θῖνες"
             lemma="θίς1"
@@ -38147,7 +38147,7 @@
    <sentence id="2901138"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="821-822"
-             span="ὕβρις0:.5">
+             span="Aeschylus Persians: s-362">
       <word id="1"
             form="ὕβρις"
             lemma="ὕβρις1"
@@ -38236,7 +38236,7 @@
    <sentence id="2901136"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="823-826"
-             span="τοιαῦθ᾽0:.6">
+             span="Aeschylus Persians: s-363">
       <word id="1"
             form="τοιαῦθ᾽"
             lemma="τοιοῦτος1"
@@ -38395,7 +38395,7 @@
    <sentence id="2901120"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="827-828"
-             span="Ζεύς0:.7">
+             span="Aeschylus Persians: s-364">
       <word id="1"
             form="Ζεύς"
             lemma="ζεύς1"
@@ -38484,7 +38484,7 @@
    <sentence id="2901131"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="829-831"
-             span="πρὸς1:.8">
+             span="Aeschylus Persians: s-365">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -38601,7 +38601,7 @@
    <sentence id="2901134"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="832-834"
-             span="σὺ0:.9">
+             span="Aeschylus Persians: s-366">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -38755,7 +38755,7 @@
    <sentence id="2901129"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="834-836"
-             span="πάντα0:.10">
+             span="Aeschylus Persians: s-367">
       <word id="1"
             form="πάντα"
             lemma="πᾶς1"
@@ -38844,7 +38844,7 @@
    <sentence id="2901121"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="837"
-             span="ἀλλ᾽1::5">
+             span="Aeschylus Persians: s-368">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -38898,7 +38898,7 @@
    <sentence id="2901126"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="838"
-             span="μόνης0:.11">
+             span="Aeschylus Persians: s-369">
       <word id="1"
             form="μόνης"
             lemma="μόνος1"
@@ -38966,7 +38966,7 @@
    <sentence id="2901123"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="839"
-             span="ἐγὼ0:.12">
+             span="Aeschylus Persians: s-370">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -39027,7 +39027,7 @@
    <sentence id="2901139"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="840-842"
-             span="ὑμεῖς0:.13">
+             span="Aeschylus Persians: s-371">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ1"
@@ -39193,7 +39193,7 @@
    <sentence id="2901141"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="843-844"
-             span="ἦ0:.0">
+             span="Aeschylus Persians: s-372">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -39282,7 +39282,7 @@
    <sentence id="2901143"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="845-848"
-             span="ὦ0:.1">
+             span="Aeschylus Persians: s-373">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -39483,7 +39483,7 @@
    <sentence id="2901140"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="849-850"
-             span="ἀλλ᾽0:.2">
+             span="Aeschylus Persians: s-374">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -39579,7 +39579,7 @@
    <sentence id="2901142"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="851"
-             span="οὐ0:.3">
+             span="Aeschylus Persians: s-375">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -39640,7 +39640,7 @@
    <sentence id="2901144"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="852-857"
-             span="ὦ0:.0">
+             span="Aeschylus Persians: s-376">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -39813,7 +39813,7 @@
    <sentence id="2901145"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="858-863"
-             span="πρῶτα0:.0">
+             span="Aeschylus Persians: s-377">
       <word id="1"
             form="πρῶτα"
             lemma="πρῶτος1"
@@ -40000,7 +40000,7 @@
    <sentence id="2901146"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="864-870"
-             span="ὅσσας0:,2">
+             span="Aeschylus Persians: s-378">
       <word id="1"
             form="ὅσσας"
             lemma="ὅσος1"
@@ -40194,7 +40194,7 @@
    <sentence id="2901147"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="871-877"
-             span="λίμνας0::0">
+             span="Aeschylus Persians: s-379">
       <word id="1"
             form="λίμνας"
             lemma="λίμνη1"
@@ -40404,7 +40404,7 @@
    <sentence id="2901148"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="878-886"
-             span="νᾶσοί0:,4">
+             span="Aeschylus Persians: s-380">
       <word id="1"
             form="νᾶσοί"
             lemma="νῆσος1"
@@ -40656,7 +40656,7 @@
    <sentence id="2901149"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="887-896"
-             span="καὶ0:.0">
+             span="Aeschylus Persians: s-381">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -40915,7 +40915,7 @@
    <sentence id="2901151"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="897-900"
-             span="καὶ0:.0">
+             span="Aeschylus Persians: s-382">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -41004,7 +41004,7 @@
    <sentence id="2901150"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="901-903"
-             span="ἀκάματον0:.1">
+             span="Aeschylus Persians: s-383">
       <word id="1"
             form="ἀκάματον"
             lemma="ἀκάματος1"
@@ -41079,7 +41079,7 @@
    <sentence id="2901152"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="904-908"
-             span="νῦν0:.2">
+             span="Aeschylus Persians: s-384">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -41182,7 +41182,7 @@
    <sentence id="2901158"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="909-912"
-             span="ἰώ0::0">
+             span="Aeschylus Persians: s-385">
       <word id="1"
             form="ἰώ"
             lemma="ἰώ1"
@@ -41306,7 +41306,7 @@
    <sentence id="2901161"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="912"
-             span="τί0:;0">
+             span="Aeschylus Persians: s-386">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -41339,7 +41339,7 @@
    <sentence id="2901159"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="913-914"
-             span="λέλυται0:.0">
+             span="Aeschylus Persians: s-387">
       <word id="1"
             form="λέλυται"
             lemma="λύω1"
@@ -41414,7 +41414,7 @@
    <sentence id="2901156"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="915-917"
-             span="εἴθ᾽0:.1">
+             span="Aeschylus Persians: s-388">
       <word id="1"
             form="εἴθ᾽"
             lemma="εἴτε"
@@ -41524,7 +41524,7 @@
    <sentence id="2901160"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="918-921"
-             span="ὀτοτοῖ0:.2">
+             span="Aeschylus Persians: s-389">
       <word id="1"
             form="ὀτοτοῖ"
             lemma="ὀτοτοῖ1"
@@ -41678,7 +41678,7 @@
    <sentence id="2901157"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="922-924"
-             span="γᾶ0:.3">
+             span="Aeschylus Persians: s-390">
       <word id="1"
             form="γᾶ"
             lemma="γῆ1"
@@ -41767,7 +41767,7 @@
    <sentence id="2901154"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="924-927"
-             span="ᾁδοβάται0:.4">
+             span="Aeschylus Persians: s-391">
       <word id="1"
             form="ᾁδοβάται"
             lemma="ᾁδοβάτης"
@@ -41898,7 +41898,7 @@
    <sentence id="2901155"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="928"
-             span="αἰαῖ0:.5">
+             span="Aeschylus Persians: s-392">
       <word id="1"
             form="αἰαῖ"
             lemma="αἰαῖ1"
@@ -41947,7 +41947,7 @@
    <sentence id="2901153"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="929-931"
-             span="Ἀσία0:.6">
+             span="Aeschylus Persians: s-393">
       <word id="1"
             form="Ἀσία"
             lemma="Ἀσία1"
@@ -42043,7 +42043,7 @@
    <sentence id="2901162"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="932-934"
-             span="ὅδ᾽0:.0">
+             span="Aeschylus Persians: s-394">
       <word id="1"
             form="ὅδ᾽"
             lemma="ὅδε1"
@@ -42153,7 +42153,7 @@
    <sentence id="2901163"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="935-940"
-             span="πρόσφθογγόν0:.1">
+             span="Aeschylus Persians: s-395">
       <word id="1"
             form="πρόσφθογγόν"
             lemma="πρόσφθογγος1"
@@ -42277,7 +42277,7 @@
    <sentence id="2901166"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="941-942"
-             span="ἵετ᾽0:.0">
+             span="Aeschylus Persians: s-396">
       <word id="1"
             form="ἵετ᾽"
             lemma="ἵημι1"
@@ -42331,7 +42331,7 @@
    <sentence id="2901164"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="942-943"
-             span="δαίμων0:.1">
+             span="Aeschylus Persians: s-397">
       <word id="1"
             form="δαίμων"
             lemma="δαίμων1"
@@ -42401,7 +42401,7 @@
    <sentence id="2901165"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="944-947"
-             span="ἥσω0::0">
+             span="Aeschylus Persians: s-398">
       <word id="1"
             form="ἥσω"
             lemma="ἵημι1"
@@ -42525,7 +42525,7 @@
    <sentence id="2901167"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="948-949"
-             span="κλάγξω0:.2">
+             span="Aeschylus Persians: s-399">
       <word id="1"
             form="κλάγξω"
             lemma="κλάζω1"
@@ -42572,7 +42572,7 @@
    <sentence id="2901168"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="950-954"
-             span="Ἰάνων0:.0">
+             span="Aeschylus Persians: s-400">
       <word id="1"
             form="Ἰάνων"
             lemma="ʼἰάν1"
@@ -42682,7 +42682,7 @@
    <sentence id="2901170"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="955"
-             span="οἰοιοῖ0:.1">
+             span="Aeschylus Persians: s-401">
       <word id="1"
             form="οἰοιοῖ"
             lemma="οἰοιοῖ"
@@ -42729,7 +42729,7 @@
    <sentence id="2901169"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="956-961"
-             span="-0:;0">
+             span="Aeschylus Persians: s-402">
       <word id="1"
             form="-"
             lemma="οτηερ"
@@ -42988,7 +42988,7 @@
    <sentence id="2901171"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="962-966"
-             span="ὀλοοὺς0:.0">
+             span="Aeschylus Persians: s-403">
       <word id="1"
             form="ὀλοοὺς"
             lemma="ὀλοός1"
@@ -43091,7 +43091,7 @@
    <sentence id="2901172"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="967"
-             span="οἰοιοῖ0::0">
+             span="Aeschylus Persians: s-404">
       <word id="1"
             form="οἰοιοῖ"
             lemma="οἰοιοῖ"
@@ -43124,7 +43124,7 @@
    <sentence id="2901173"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="967-972"
-             span="ποῦ0:;0">
+             span="Aeschylus Persians: s-405">
       <word id="1"
             form="ποῦ"
             lemma="ποῦ"
@@ -43334,7 +43334,7 @@
    <sentence id="2901174"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="973"
-             span="τάδε0:.1">
+             span="Aeschylus Persians: s-406">
       <word id="1"
             form="τάδε"
             lemma="ὅδε1"
@@ -43367,7 +43367,7 @@
    <sentence id="2901177"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="974-977"
-             span="ἰὼ0:.0">
+             span="Aeschylus Persians: s-407">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -43512,7 +43512,7 @@
    <sentence id="2901176"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="978-984"
-             span="ἦ0:;0">
+             span="Aeschylus Persians: s-408">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -43720,7 +43720,7 @@
    <sentence id="2901178"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="985"
-             span="ὢ0:.1">
+             span="Aeschylus Persians: s-409">
       <word id="1"
             form="ὢ"
             lemma="ὦ1"
@@ -43769,7 +43769,7 @@
    <sentence id="2901175"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="986"
-             span="Πέρσαις0:.2">
+             span="Aeschylus Persians: s-410">
       <word id="1"
             form="Πέρσαις"
             lemma="Πέρσης1"
@@ -43816,7 +43816,7 @@
    <sentence id="2901182"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="987-990"
-             span="ἰὼ0:.0">
+             span="Aeschylus Persians: s-411">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -43919,7 +43919,7 @@
    <sentence id="2901179"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="991"
-             span="βοᾷ0:.1">
+             span="Aeschylus Persians: s-412">
       <word id="1"
             form="βοᾷ"
             lemma="βοάω1"
@@ -43973,7 +43973,7 @@
    <sentence id="2901183"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="992-998"
-             span="καὶ0:.2">
+             span="Aeschylus Persians: s-413">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -44174,7 +44174,7 @@
    <sentence id="2901181"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="999-1001"
-             span="ἔταφον0::0">
+             span="Aeschylus Persians: s-414">
       <word id="1"
             form="ἔταφον"
             lemma="τέθηπα1"
@@ -44249,7 +44249,7 @@
    <sentence id="2901184"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1002"
-             span="βεβᾶσι0:.0">
+             span="Aeschylus Persians: s-415">
       <word id="1"
             form="βεβᾶσι"
             lemma="βαίνω1"
@@ -44305,7 +44305,7 @@
    <sentence id="2901185"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1003"
-             span="βεβᾶσιν0:.1">
+             span="Aeschylus Persians: s-416">
       <word id="1"
             form="βεβᾶσιν"
             lemma="βαίνω1"
@@ -44352,7 +44352,7 @@
    <sentence id="2901186"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1004"
-             span="ἰὴ0:.2">
+             span="Aeschylus Persians: s-417">
       <word id="1"
             form="ἰὴ"
             lemma="ἰή1"
@@ -44408,7 +44408,7 @@
    <sentence id="2901187"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1005-1007"
-             span="ἰὼ1:.3">
+             span="Aeschylus Persians: s-418">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -44511,7 +44511,7 @@
    <sentence id="2901192"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1008"
-             span="πεπλήγμεθ᾽0::0">
+             span="Aeschylus Persians: s-419">
       <word id="1"
             form="πεπλήγμεθ᾽"
             lemma="πλήσσω1"
@@ -44567,7 +44567,7 @@
    <sentence id="2901193"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1009"
-             span="πεπλήγμεθ᾽1::1">
+             span="Aeschylus Persians: s-420">
       <word id="1"
             form="πεπλήγμεθ᾽"
             lemma="πλήσσω1"
@@ -44586,7 +44586,7 @@
    <sentence id="2901189"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1009"
-             span="εὔδηλα0::2">
+             span="Aeschylus Persians: s-421">
       <word id="1"
             form="εὔδηλα"
             lemma="εὔδηλος1"
@@ -44621,7 +44621,7 @@
    <sentence id="2901191"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1010"
-             span="νέᾳ0:.0">
+             span="Aeschylus Persians: s-422">
       <word id="1"
             form="νέᾳ"
             lemma="νέος1"
@@ -44670,7 +44670,7 @@
    <sentence id="2901190"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1012-1011"
-             span="κύρσαντες0:.1">
+             span="Aeschylus Persians: s-423">
       <word id="1"
             form="κύρσαντες"
             lemma="κυρέω1"
@@ -44726,7 +44726,7 @@
    <sentence id="2901188"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1013"
-             span="δυσπόλεμον0:.2">
+             span="Aeschylus Persians: s-424">
       <word id="1"
             form="δυσπόλεμον"
             lemma="δυσπόλεμος1"
@@ -44782,7 +44782,7 @@
    <sentence id="2901200"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1014"
-             span="πῶς0:;0">
+             span="Aeschylus Persians: s-425">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -44824,7 +44824,7 @@
    <sentence id="2901202"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1014-1015"
-             span="στρατὸν0:.0">
+             span="Aeschylus Persians: s-426">
       <word id="1"
             form="στρατὸν"
             lemma="στρατός1"
@@ -44885,7 +44885,7 @@
    <sentence id="2901203"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1016"
-             span="τί0:;1">
+             span="Aeschylus Persians: s-427">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -44927,7 +44927,7 @@
    <sentence id="2901199"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1016"
-             span="ὄλωλεν0:.1">
+             span="Aeschylus Persians: s-428">
       <word id="1"
             form="ὄλωλεν"
             lemma="ὄλλυμι1"
@@ -44967,7 +44967,7 @@
    <sentence id="2901197"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1017"
-             span="ὁρᾷς0:;2">
+             span="Aeschylus Persians: s-429">
       <word id="1"
             form="ὁρᾷς"
             lemma="ὁράω1"
@@ -45028,7 +45028,7 @@
    <sentence id="2901198"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1018"
-             span="ὁρῶ0:.2">
+             span="Aeschylus Persians: s-430">
       <word id="1"
             form="ὁρῶ"
             lemma="ὁράω1"
@@ -45054,7 +45054,7 @@
    <sentence id="2901205"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1020"
-             span="τόνδε0:-0">
+             span="Aeschylus Persians: s-431">
       <word id="1"
             form="τόνδε"
             lemma="ὅδε1"
@@ -45096,7 +45096,7 @@
    <sentence id="2901204"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1021"
-             span="τί1:;3">
+             span="Aeschylus Persians: s-432">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -45136,7 +45136,7 @@
    <sentence id="2901201"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1022"
-             span="θησαυρὸν0:;4">
+             span="Aeschylus Persians: s-433">
       <word id="1"
             form="θησαυρὸν"
             lemma="θησαυρός1"
@@ -45171,7 +45171,7 @@
    <sentence id="2901195"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1023"
-             span="βαιά0:.3">
+             span="Aeschylus Persians: s-434">
       <word id="1"
             form="βαιά"
             lemma="βαιός1"
@@ -45227,7 +45227,7 @@
    <sentence id="2901196"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1024"
-             span="ἐσπανίσμεθ᾽0:.4">
+             span="Aeschylus Persians: s-435">
       <word id="1"
             form="ἐσπανίσμεθ᾽"
             lemma="σπανίζω1"
@@ -45253,7 +45253,7 @@
    <sentence id="2901194"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1025"
-             span="Ἰάνων0:.5">
+             span="Aeschylus Persians: s-436">
       <word id="1"
             form="Ἰάνων"
             lemma="ʼἰάν1"
@@ -45302,7 +45302,7 @@
    <sentence id="2901206"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1026"
-             span="ἀγανόρειος0::0">
+             span="Aeschylus Persians: s-437">
       <word id="1"
             form="ἀγανόρειος"
             lemma="ἀγήνωρ1"
@@ -45330,7 +45330,7 @@
    <sentence id="2901211"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1026-1027"
-             span="κατεῖ-0:.0">
+             span="Aeschylus Persians: s-438">
       <word id="1"
             form="κατεῖ-"
             lemma="οτηερ"
@@ -45377,7 +45377,7 @@
    <sentence id="2901214"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1028"
-             span="τραπέντα0:;0">
+             span="Aeschylus Persians: s-439">
       <word id="1"
             form="τραπέντα"
             lemma="τέρπω1"
@@ -45417,7 +45417,7 @@
    <sentence id="2901213"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1030"
-             span="πέπλον0:.1">
+             span="Aeschylus Persians: s-440">
       <word id="1"
             form="πέπλον"
             lemma="πέπλος1"
@@ -45471,7 +45471,7 @@
    <sentence id="2901212"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1031"
-             span="παπαῖ0:.2">
+             span="Aeschylus Persians: s-441">
       <word id="1"
             form="παπαῖ"
             lemma="παπαῖ1"
@@ -45497,7 +45497,7 @@
    <sentence id="2901209"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1032"
-             span="καὶ0:.3">
+             span="Aeschylus Persians: s-442">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -45560,7 +45560,7 @@
    <sentence id="2901207"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1033-1034"
-             span="δίδυμα0:.4">
+             span="Aeschylus Persians: s-443">
       <word id="1"
             form="δίδυμα"
             lemma="δίδυμος1"
@@ -45658,7 +45658,7 @@
    <sentence id="2901210"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1035-1036"
-             span="καὶ2:.5">
+             span="Aeschylus Persians: s-444">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -45726,7 +45726,7 @@
    <sentence id="2901208"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1037"
-             span="φίλων0::1">
+             span="Aeschylus Persians: s-445">
       <word id="1"
             form="φίλων"
             lemma="φίλος1"
@@ -45768,7 +45768,7 @@
    <sentence id="2901218"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1038"
-             span="δίαινε0::0">
+             span="Aeschylus Persians: s-446">
       <word id="1"
             form="δίαινε"
             lemma="διαίνω1"
@@ -45801,7 +45801,7 @@
    <sentence id="2901223"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1038"
-             span="πρὸς0:.0">
+             span="Aeschylus Persians: s-447">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -45841,7 +45841,7 @@
    <sentence id="2901215"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1039"
-             span="αἰαῖ0:.1">
+             span="Aeschylus Persians: s-448">
       <word id="1"
             form="αἰαῖ"
             lemma="αἰαῖ1"
@@ -45897,7 +45897,7 @@
    <sentence id="2901217"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1040"
-             span="βόα0:.2">
+             span="Aeschylus Persians: s-449">
       <word id="1"
             form="βόα"
             lemma="βοάω1"
@@ -45937,7 +45937,7 @@
    <sentence id="2901219"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1041"
-             span="δόσιν0:.3">
+             span="Aeschylus Persians: s-450">
       <word id="1"
             form="δόσιν"
             lemma="δόσις1"
@@ -45986,7 +45986,7 @@
    <sentence id="2901220"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1042"
-             span="ἴυζε0:.4">
+             span="Aeschylus Persians: s-451">
       <word id="1"
             form="ἴυζε"
             lemma="ἰύζω1"
@@ -46026,7 +46026,7 @@
    <sentence id="2901221"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1043"
-             span="ὀτοτοτοτοῖ0:.5">
+             span="Aeschylus Persians: s-452">
       <word id="1"
             form="ὀτοτοτοτοῖ"
             lemma="ὀτοτοῖ1"
@@ -46054,7 +46054,7 @@
    <sentence id="2901216"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1044"
-             span="βαρεῖά0:.6">
+             span="Aeschylus Persians: s-453">
       <word id="1"
             form="βαρεῖά"
             lemma="βαρύς1"
@@ -46103,7 +46103,7 @@
    <sentence id="2901222"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1045"
-             span="οἲ0:.7">
+             span="Aeschylus Persians: s-454">
       <word id="1"
             form="οἲ"
             lemma="οἴ"
@@ -46150,7 +46150,7 @@
    <sentence id="2901226"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1046"
-             span="ἔρεσσ᾽0:.0">
+             span="Aeschylus Persians: s-455">
       <word id="1"
             form="ἔρεσσ᾽"
             lemma="ἐρέσσω1"
@@ -46204,7 +46204,7 @@
    <sentence id="2901225"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1047"
-             span="διαίνομαι0:.1">
+             span="Aeschylus Persians: s-456">
       <word id="1"
             form="διαίνομαι"
             lemma="διαίνω1"
@@ -46237,7 +46237,7 @@
    <sentence id="2901224"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1048"
-             span="βόα0:.2">
+             span="Aeschylus Persians: s-457">
       <word id="1"
             form="βόα"
             lemma="βοάω1"
@@ -46277,7 +46277,7 @@
    <sentence id="2901229"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1049"
-             span="μέλειν0:.3">
+             span="Aeschylus Persians: s-458">
       <word id="1"
             form="μέλειν"
             lemma="μέλω1"
@@ -46317,7 +46317,7 @@
    <sentence id="2901227"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1050"
-             span="ἐπορθίαζέ0:.4">
+             span="Aeschylus Persians: s-459">
       <word id="1"
             form="ἐπορθίαζέ"
             lemma="ἐπορθιάζω1"
@@ -46350,7 +46350,7 @@
    <sentence id="2901230"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1051"
-             span="ὀτοτοτοτοῖ0:.5">
+             span="Aeschylus Persians: s-460">
       <word id="1"
             form="ὀτοτοτοτοῖ"
             lemma="ὀτοτοῖ1"
@@ -46378,7 +46378,7 @@
    <sentence id="2901228"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1052-1053"
-             span="μέλαινα0:.6">
+             span="Aeschylus Persians: s-461">
       <word id="1"
             form="μέλαινα"
             lemma="μέλας1"
@@ -46446,7 +46446,7 @@
    <sentence id="2901235"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1054"
-             span="καὶ0:.0">
+             span="Aeschylus Persians: s-462">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -46500,7 +46500,7 @@
    <sentence id="2901231"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1055"
-             span="ἄνι᾽0:.1">
+             span="Aeschylus Persians: s-463">
       <word id="1"
             form="ἄνι᾽"
             lemma="ἄνιος1"
@@ -46535,7 +46535,7 @@
    <sentence id="2901234"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1056"
-             span="καί0:.2">
+             span="Aeschylus Persians: s-464">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -46589,7 +46589,7 @@
    <sentence id="2901232"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1057"
-             span="ἄπριγδ᾽0:.3">
+             span="Aeschylus Persians: s-465">
       <word id="1"
             form="ἄπριγδ᾽"
             lemma="ἄπριγδα1"
@@ -46638,7 +46638,7 @@
    <sentence id="2901233"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1058"
-             span="ἀύτει0:.4">
+             span="Aeschylus Persians: s-466">
       <word id="1"
             form="ἀύτει"
             lemma="ἀυτέω1"
@@ -46671,7 +46671,7 @@
    <sentence id="2901236"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1059"
-             span="καὶ1:.5">
+             span="Aeschylus Persians: s-467">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -46704,7 +46704,7 @@
    <sentence id="2901241"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1060"
-             span="πέπλον0:.0">
+             span="Aeschylus Persians: s-468">
       <word id="1"
             form="πέπλον"
             lemma="πέπλος1"
@@ -46758,7 +46758,7 @@
    <sentence id="2901237"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1061"
-             span="ἄνι᾽0:.1">
+             span="Aeschylus Persians: s-469">
       <word id="1"
             form="ἄνι᾽"
             lemma="ἄνιος1"
@@ -46793,7 +46793,7 @@
    <sentence id="2901240"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1062"
-             span="καὶ0:.2">
+             span="Aeschylus Persians: s-470">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -46847,7 +46847,7 @@
    <sentence id="2901238"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1063"
-             span="ἄπριγδ᾽0:.3">
+             span="Aeschylus Persians: s-471">
       <word id="1"
             form="ἄπριγδ᾽"
             lemma="ἄπριγδα1"
@@ -46896,7 +46896,7 @@
    <sentence id="2901239"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1064"
-             span="διαίνου0:.4">
+             span="Aeschylus Persians: s-472">
       <word id="1"
             form="διαίνου"
             lemma="διαίνω1"
@@ -46929,7 +46929,7 @@
    <sentence id="2901242"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1065"
-             span="τέγγομαί0:.5">
+             span="Aeschylus Persians: s-473">
       <word id="1"
             form="τέγγομαί"
             lemma="τέγγω1"
@@ -46955,7 +46955,7 @@
    <sentence id="2901244"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1066"
-             span="βόα0:.0">
+             span="Aeschylus Persians: s-474">
       <word id="1"
             form="βόα"
             lemma="βοάω1"
@@ -46995,7 +46995,7 @@
    <sentence id="2901251"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1067"
-             span="οἰοῖ0:.1">
+             span="Aeschylus Persians: s-475">
       <word id="1"
             form="οἰοῖ"
             lemma="οἰοῖ"
@@ -47030,7 +47030,7 @@
    <sentence id="2901243"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1068"
-             span="αἰακτὸς0:.2">
+             span="Aeschylus Persians: s-476">
       <word id="1"
             form="αἰακτὸς"
             lemma="αἰακτός1"
@@ -47070,7 +47070,7 @@
    <sentence id="2901249"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1070"
-             span="ἰὼ0:.3">
+             span="Aeschylus Persians: s-477">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -47133,7 +47133,7 @@
    <sentence id="2901250"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1070"
-             span="ἰὼ1:.7">
+             span="Aeschylus Persians: s-478">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -47196,7 +47196,7 @@
    <sentence id="2901246"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1075"
-             span="ἰὴ0:.8">
+             span="Aeschylus Persians: s-479">
       <word id="1"
             form="ἰὴ"
             lemma="ἰή1"
@@ -47280,7 +47280,7 @@
    <sentence id="2901252"
              document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
              subdoc="1076"
-             span="πέμψω0:.9">
+             span="Aeschylus Persians: s-480">
       <word id="1"
             form="πέμψω"
             lemma="πέμπω1"

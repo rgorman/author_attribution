@@ -29,7 +29,7 @@
    <sentence id="2273668"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1-1.4"
-             span="μουσάων0:.0">
+             span="Hesiod Theogony: s-1">
       <word id="1"
             form="μουσάων"
             lemma="Μοῦσα1"
@@ -216,7 +216,7 @@
    <sentence id="2273669"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.5-1.8"
-             span="καί1::0">
+             span="Hesiod Theogony: s-2">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -361,7 +361,7 @@
    <sentence id="2273670"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.8"
-             span="ἐπερρώσαντο0:.1">
+             span="Hesiod Theogony: s-3">
       <word id="1"
             form="ἐπερρώσαντο"
             lemma="ἐπιρρώομαι1"
@@ -394,7 +394,7 @@
    <sentence id="2273671"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.9-1.21"
-             span="ἔνθεν0:.2">
+             span="Hesiod Theogony: s-4">
       <word id="1"
             form="ἔνθεν"
             lemma="ἔνθεν1"
@@ -1017,7 +1017,7 @@
    <sentence id="2273672"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.22-1.23"
-             span="αἵ0:.3">
+             span="Hesiod Theogony: s-5">
       <word id="1"
             form="αἵ"
             lemma="ὅς1"
@@ -1120,7 +1120,7 @@
    <sentence id="2273673"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.24-1.25"
-             span="τόνδε0::1">
+             span="Hesiod Theogony: s-6">
       <word id="1"
             form="τόνδε"
             lemma="ὅδε1"
@@ -1237,7 +1237,7 @@
    <sentence id="2273674"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.26-1.28"
-             span="ποιμένες0:.4">
+             span="Hesiod Theogony: s-7">
       <word id="1"
             form="ποιμένες"
             lemma="ποιμήν1"
@@ -1417,7 +1417,7 @@
    <sentence id="2273675"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.29"
-             span="ὣς0::0">
+             span="Hesiod Theogony: s-8">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -1471,7 +1471,7 @@
    <sentence id="2273676"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.30-1.31"
-             span="καί0::1">
+             span="Hesiod Theogony: s-9">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -1553,7 +1553,7 @@
    <sentence id="2273677"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.31-1.32"
-             span="ἐνέπνευσαν0:.0">
+             span="Hesiod Theogony: s-10">
       <word id="1"
             form="ἐνέπνευσαν"
             lemma="ἐμπνέω1"
@@ -1663,7 +1663,7 @@
    <sentence id="2273678"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.33-1.34"
-             span="καί1:.1">
+             span="Hesiod Theogony: s-11">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -1810,7 +1810,7 @@
    <sentence id="2273679"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.35"
-             span="ἀλλὰ0:;0">
+             span="Hesiod Theogony: s-12">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -1901,7 +1901,7 @@
    <sentence id="2273680"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.36-1.39"
-             span="τύνη0::2">
+             span="Hesiod Theogony: s-13">
       <word id="1"
             form="τύνη"
             lemma="σύ1"
@@ -2109,7 +2109,7 @@
    <sentence id="2273681"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.39-1.40"
-             span="τῶν0::3">
+             span="Hesiod Theogony: s-14">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -2177,7 +2177,7 @@
    <sentence id="2273682"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.40-1.42"
-             span="γελᾷ0::4">
+             span="Hesiod Theogony: s-15">
       <word id="1"
             form="γελᾷ"
             lemma="γελάω1"
@@ -2266,7 +2266,7 @@
    <sentence id="2273683"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.42-1.43"
-             span="ἠχεῖ0:.2">
+             span="Hesiod Theogony: s-16">
       <word id="1"
             form="ἠχεῖ"
             lemma="ἠχέω1"
@@ -2334,7 +2334,7 @@
    <sentence id="2273684"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.43-1.46"
-             span="αἳ0:.3">
+             span="Hesiod Theogony: s-17">
       <word id="1"
             form="αἳ"
             lemma="ὁ1"
@@ -2556,7 +2556,7 @@
    <sentence id="2273685"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.47-1.49"
-             span="δεύτερον0:.4">
+             span="Hesiod Theogony: s-18">
       <word id="1"
             form="δεύτερον"
             lemma="δεύτερος1"
@@ -2736,7 +2736,7 @@
    <sentence id="2273686"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.50-1.52"
-             span="αὖτις0:.5">
+             span="Hesiod Theogony: s-19">
       <word id="1"
             form="αὖτις"
             lemma="αὖθις1"
@@ -2888,7 +2888,7 @@
    <sentence id="2273687"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.53-1.55"
-             span="τὰς0:.0">
+             span="Hesiod Theogony: s-20">
       <word id="1"
             form="τὰς"
             lemma="ὁ1"
@@ -3033,7 +3033,7 @@
    <sentence id="2273688"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.56-1.57"
-             span="ἐννέα0::0">
+             span="Hesiod Theogony: s-21">
       <word id="1"
             form="ἐννέα"
             lemma="ἐννέα1"
@@ -3136,7 +3136,7 @@
    <sentence id="2273689"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.58-1.62"
-             span="ἀλλ᾽0:.1">
+             span="Hesiod Theogony: s-22">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -3449,7 +3449,7 @@
    <sentence id="2273690"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.63"
-             span="ἔνθα0:.0">
+             span="Hesiod Theogony: s-23">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -3526,7 +3526,7 @@
    <sentence id="2273691"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.64-1.65"
-             span="πὰρ0::0">
+             span="Hesiod Theogony: s-24">
       <word id="1"
             form="πὰρ"
             lemma="παρά1"
@@ -3615,7 +3615,7 @@
    <sentence id="2273692"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.65-1.67"
-             span="ἐρατὴν0:.1">
+             span="Hesiod Theogony: s-25">
       <word id="1"
             form="ἐρατὴν"
             lemma="ἐρατός1"
@@ -3760,7 +3760,7 @@
    <sentence id="2273693"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.68-1.69"
-             span="αἳ0::1">
+             span="Hesiod Theogony: s-26">
       <word id="1"
             form="αἳ"
             lemma="ὁ1"
@@ -3849,7 +3849,7 @@
    <sentence id="2273694"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.69-1.71"
-             span="περὶ0::2">
+             span="Hesiod Theogony: s-27">
       <word id="1"
             form="περὶ"
             lemma="περί1"
@@ -3980,7 +3980,7 @@
    <sentence id="2273695"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.71-1.73"
-             span="ὃ0::3">
+             span="Hesiod Theogony: s-28">
       <word id="1"
             form="ὃ"
             lemma="ὁ1"
@@ -4113,7 +4113,7 @@
    <sentence id="2273696"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.73-1.74"
-             span="εὖ0:.2">
+             span="Hesiod Theogony: s-29">
       <word id="1"
             form="εὖ"
             lemma="εὖ1"
@@ -4188,7 +4188,7 @@
    <sentence id="2273697"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.75-1.79"
-             span="ταῦτ᾽0::4">
+             span="Hesiod Theogony: s-30">
       <word id="1"
             form="ταῦτ᾽"
             lemma="οὗτος1"
@@ -4431,7 +4431,7 @@
    <sentence id="2273698"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.79"
-             span="ἣ0:.3">
+             span="Hesiod Theogony: s-31">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -4478,7 +4478,7 @@
    <sentence id="2273699"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.80"
-             span="ἣ1:.4">
+             span="Hesiod Theogony: s-32">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -4539,7 +4539,7 @@
    <sentence id="2273700"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.81-1.84"
-             span="ὅν1::5">
+             span="Hesiod Theogony: s-33">
       <word id="1"
             form="ὅν"
             lemma="ὅστις1"
@@ -4740,7 +4740,7 @@
    <sentence id="2273701"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.84-1.86"
-             span="οἱ0::6">
+             span="Hesiod Theogony: s-34">
       <word id="1"
             form="οἱ"
             lemma="ὁ1"
@@ -4836,7 +4836,7 @@
    <sentence id="2273702"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.86-1.87"
-             span="ὃ1::7">
+             span="Hesiod Theogony: s-35">
       <word id="1"
             form="ὃ"
             lemma="ὁ1"
@@ -4925,7 +4925,7 @@
    <sentence id="2273703"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.88-1.90"
-             span="τοὔνεκα0:.5">
+             span="Hesiod Theogony: s-36">
       <word id="1"
             form="τοὔνεκα"
             lemma="τοὔνεκα1"
@@ -5065,7 +5065,7 @@
    <sentence id="2273704"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.91-1.92"
-             span="ἐρχόμενον0::8">
+             span="Hesiod Theogony: s-37">
       <word id="1"
             form="ἐρχόμενον"
             lemma="ἔρχομαι1"
@@ -5184,7 +5184,7 @@
    <sentence id="2273705"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.93"
-             span="τοίη0:.6">
+             span="Hesiod Theogony: s-38">
       <word id="1"
             form="τοίη"
             lemma="τοῖος1"
@@ -5240,7 +5240,7 @@
    <sentence id="2273706"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.94-1.96"
-             span="ἐκ1::9">
+             span="Hesiod Theogony: s-39">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -5394,7 +5394,7 @@
    <sentence id="2273707"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.96-1.97"
-             span="ὃ2::10">
+             span="Hesiod Theogony: s-40">
       <word id="1"
             form="ὃ"
             lemma="ὁ1"
@@ -5471,7 +5471,7 @@
    <sentence id="2273708"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.97"
-             span="γλυκερή0:.7">
+             span="Hesiod Theogony: s-41">
       <word id="1"
             form="γλυκερή"
             lemma="γλυκερός1"
@@ -5525,7 +5525,7 @@
    <sentence id="2273709"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.98-1.103"
-             span="εἰ0::11">
+             span="Hesiod Theogony: s-42">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -5812,7 +5812,7 @@
    <sentence id="2273710"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.103"
-             span="ταχέως0:.8">
+             span="Hesiod Theogony: s-43">
       <word id="1"
             form="ταχέως"
             lemma="ταχύς1"
@@ -5859,7 +5859,7 @@
    <sentence id="2273711"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.104"
-             span="χαίρετε0:.0">
+             span="Hesiod Theogony: s-44">
       <word id="1"
             form="χαίρετε"
             lemma="χαίρω1"
@@ -5934,7 +5934,7 @@
    <sentence id="2273712"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.105-1.107"
-             span="κλείετε0:.1">
+             span="Hesiod Theogony: s-45">
       <word id="1"
             form="κλείετε"
             lemma="κλείω2"
@@ -6121,7 +6121,7 @@
    <sentence id="2273713"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.108-1.113"
-             span="εἴπατε0:.2">
+             span="Hesiod Theogony: s-46">
       <word id="1"
             form="εἴπατε"
             lemma="εἶπον1"
@@ -6497,7 +6497,7 @@
    <sentence id="2273714"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.114-1.115"
-             span="ταῦτά0:.3">
+             span="Hesiod Theogony: s-47">
       <word id="1"
             form="ταῦτά"
             lemma="οὗτος1"
@@ -6642,7 +6642,7 @@
    <sentence id="2273715"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.116-1.122"
-             span="ἦ0:.4">
+             span="Hesiod Theogony: s-48">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -7082,7 +7082,7 @@
    <sentence id="2273716"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.123"
-             span="ἐκ1::0">
+             span="Hesiod Theogony: s-49">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -7157,7 +7157,7 @@
    <sentence id="2273717"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.124-1.125"
-             span="Νυκτὸς0:.5">
+             span="Hesiod Theogony: s-50">
       <word id="1"
             form="Νυκτὸς"
             lemma="νύξ1"
@@ -7274,7 +7274,7 @@
    <sentence id="2273718"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.126-1.128"
-             span="Γαῖα0:.6">
+             span="Hesiod Theogony: s-51">
       <word id="1"
             form="Γαῖα"
             lemma="γαῖα1"
@@ -7454,7 +7454,7 @@
    <sentence id="2273719"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.129-1.130"
-             span="γείνατο0:.7">
+             span="Hesiod Theogony: s-52">
       <word id="1"
             form="γείνατο"
             lemma="γείνομαι1"
@@ -7578,7 +7578,7 @@
    <sentence id="2273720"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.131-1.132"
-             span="ἣ0::1">
+             span="Hesiod Theogony: s-53">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -7695,7 +7695,7 @@
    <sentence id="2273721"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.132-1.136"
-             span="αὐτὰρ1:.8">
+             span="Hesiod Theogony: s-54">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -7917,7 +7917,7 @@
    <sentence id="2273722"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.137-1.138"
-             span="τοὺς0::2">
+             span="Hesiod Theogony: s-55">
       <word id="1"
             form="τοὺς"
             lemma="ὁ1"
@@ -7999,7 +7999,7 @@
    <sentence id="2273723"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.138"
-             span="θαλερὸν0:.9">
+             span="Hesiod Theogony: s-56">
       <word id="1"
             form="θαλερὸν"
             lemma="θαλερός1"
@@ -8039,7 +8039,7 @@
    <sentence id="2273724"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.139-1.141"
-             span="γείνατο0:.0">
+             span="Hesiod Theogony: s-57">
       <word id="1"
             form="γείνατο"
             lemma="γείνομαι1"
@@ -8219,7 +8219,7 @@
    <sentence id="2273725"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.142-1.143"
-             span="οἳ1:.1">
+             span="Hesiod Theogony: s-58">
       <word id="1"
             form="οἳ"
             lemma="ὅς1"
@@ -8343,7 +8343,7 @@
    <sentence id="2273726"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.144-1.145"
-             span="Κύκλωπες0::0">
+             span="Hesiod Theogony: s-59">
       <word id="1"
             form="Κύκλωπες"
             lemma="Κύκλωψ1"
@@ -8453,7 +8453,7 @@
    <sentence id="2273727"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.146"
-             span="ἰσχὺς0:.2">
+             span="Hesiod Theogony: s-60">
       <word id="1"
             form="ἰσχὺς"
             lemma="ἰσχύς1"
@@ -8528,7 +8528,7 @@
    <sentence id="2273728"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.147-1.149"
-             span="ἄλλοι0:.3">
+             span="Hesiod Theogony: s-61">
       <word id="1"
             form="ἄλλοι"
             lemma="ἄλλος1"
@@ -8729,7 +8729,7 @@
    <sentence id="2273729"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.150-1.152"
-             span="τῶν0::1">
+             span="Hesiod Theogony: s-62">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -8881,7 +8881,7 @@
    <sentence id="2273730"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.153"
-             span="ἰσχὺς1:.4">
+             span="Hesiod Theogony: s-63">
       <word id="1"
             form="ἰσχὺς"
             lemma="ἰσχύς1"
@@ -8951,7 +8951,7 @@
    <sentence id="2273731"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.154-1.156"
-             span="ὅσσοι0::2">
+             span="Hesiod Theogony: s-64">
       <word id="1"
             form="ὅσσοι"
             lemma="ὅσος1"
@@ -9091,7 +9091,7 @@
    <sentence id="2273732"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.156-1.159"
-             span="καὶ5:.5">
+             span="Hesiod Theogony: s-65">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -9285,7 +9285,7 @@
    <sentence id="2273733"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.159-1.160"
-             span="ἣ0::3">
+             span="Hesiod Theogony: s-66">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -9346,7 +9346,7 @@
    <sentence id="2273734"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.160"
-             span="δολίην0:.6">
+             span="Hesiod Theogony: s-67">
       <word id="1"
             form="δολίην"
             lemma="δόλιος1"
@@ -9400,7 +9400,7 @@
    <sentence id="2273735"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.161-1.162"
-             span="αἶψα0::4">
+             span="Hesiod Theogony: s-68">
       <word id="1"
             form="αἶψα"
             lemma="αἶψα1"
@@ -9503,7 +9503,7 @@
    <sentence id="2273736"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.163"
-             span="εἶπε0::5">
+             span="Hesiod Theogony: s-69">
       <word id="1"
             form="εἶπε"
             lemma="εἶπον1"
@@ -9564,7 +9564,7 @@
    <sentence id="2273737"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.164-1.166"
-             span="παῖδες1::6">
+             span="Hesiod Theogony: s-70">
       <word id="1"
             form="παῖδες"
             lemma="παῖς"
@@ -9695,7 +9695,7 @@
    <sentence id="2273738"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.166"
-             span="πρότερος0:.7">
+             span="Hesiod Theogony: s-71">
       <word id="1"
             form="πρότερος"
             lemma="πρότερος1"
@@ -9742,7 +9742,7 @@
    <sentence id="2273739"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.167"
-             span="ὣς0::7">
+             span="Hesiod Theogony: s-72">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -9768,7 +9768,7 @@
    <sentence id="2273740"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.167-1.168"
-             span="τοὺς0:.8">
+             span="Hesiod Theogony: s-73">
       <word id="1"
             form="τοὺς"
             lemma="ὁ1"
@@ -9864,7 +9864,7 @@
    <sentence id="2273741"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.168-1.169"
-             span="θαρσήσας0::8">
+             span="Hesiod Theogony: s-74">
       <word id="1"
             form="θαρσήσας"
             lemma="θαρσέω1"
@@ -9953,7 +9953,7 @@
    <sentence id="2273742"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.170-1.172"
-             span="μῆτερ0::9">
+             span="Hesiod Theogony: s-75">
       <word id="1"
             form="μῆτερ"
             lemma="μήτηρ1"
@@ -10084,7 +10084,7 @@
    <sentence id="2273743"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.172"
-             span="πρότερος1:.9">
+             span="Hesiod Theogony: s-76">
       <word id="1"
             form="πρότερος"
             lemma="πρότερος1"
@@ -10131,7 +10131,7 @@
    <sentence id="2273744"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.173"
-             span="ὣς0::0">
+             span="Hesiod Theogony: s-77">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -10157,7 +10157,7 @@
    <sentence id="2273745"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.173"
-             span="γήθησεν0::1">
+             span="Hesiod Theogony: s-78">
       <word id="1"
             form="γήθησεν"
             lemma="γηθέω1"
@@ -10211,7 +10211,7 @@
    <sentence id="2273746"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.174"
-             span="εἷσε0::2">
+             span="Hesiod Theogony: s-79">
       <word id="1"
             form="εἷσε"
             lemma="ἵζω1"
@@ -10258,7 +10258,7 @@
    <sentence id="2273747"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.174-1.175"
-             span="ἐνέθηκε0::3">
+             span="Hesiod Theogony: s-80">
       <word id="1"
             form="ἐνέθηκε"
             lemma="ἐντίθημι1"
@@ -10305,7 +10305,7 @@
    <sentence id="2273748"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.175"
-             span="δόλον0:.0">
+             span="Hesiod Theogony: s-81">
       <word id="1"
             form="δόλον"
             lemma="δόλος1"
@@ -10345,7 +10345,7 @@
    <sentence id="2273749"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.176-1.178"
-             span="ἦλθε0::4">
+             span="Hesiod Theogony: s-82">
       <word id="1"
             form="ἦλθε"
             lemma="ἔρχομαι1"
@@ -10476,7 +10476,7 @@
    <sentence id="2273750"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.178-1.182"
-             span="ὃ0::5">
+             span="Hesiod Theogony: s-83">
       <word id="1"
             form="ὃ"
             lemma="ὁ1"
@@ -10698,7 +10698,7 @@
    <sentence id="2273751"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.182"
-             span="τὰ0::6">
+             span="Hesiod Theogony: s-84">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -10759,7 +10759,7 @@
    <sentence id="2273752"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.183-1.184"
-             span="ὅσσαι0::7">
+             span="Hesiod Theogony: s-85">
       <word id="1"
             form="ὅσσαι"
             lemma="ὅσος1"
@@ -10834,7 +10834,7 @@
    <sentence id="2273753"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.184-1.187"
-             span="περιπλομένων0:.1">
+             span="Hesiod Theogony: s-86">
       <word id="1"
             form="περιπλομένων"
             lemma="περιπέλομαι1"
@@ -11035,7 +11035,7 @@
    <sentence id="2273754"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.188-1.191"
-             span="μήδεα1::8">
+             span="Hesiod Theogony: s-87">
       <word id="1"
             form="μήδεα"
             lemma="μῆδος2"
@@ -11250,7 +11250,7 @@
    <sentence id="2273755"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.191-1.192"
-             span="τῷ0::9">
+             span="Hesiod Theogony: s-88">
       <word id="1"
             form="τῷ"
             lemma="ὁ1"
@@ -11297,7 +11297,7 @@
    <sentence id="2273756"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.192-1.193"
-             span="πρῶτον1:.2">
+             span="Hesiod Theogony: s-89">
       <word id="1"
             form="πρῶτον"
             lemma="πρότερος1"
@@ -11386,7 +11386,7 @@
    <sentence id="2273757"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.194-1.195"
-             span="ἐκ1::10">
+             span="Hesiod Theogony: s-90">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -11496,7 +11496,7 @@
    <sentence id="2273758"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.195-1.198"
-             span="τὴν0::11">
+             span="Hesiod Theogony: s-91">
       <word id="1"
             form="τὴν"
             lemma="ὁ1"
@@ -11648,7 +11648,7 @@
    <sentence id="2273759"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.198"
-             span="ἀτὰρ0::12">
+             span="Hesiod Theogony: s-92">
       <word id="1"
             form="ἀτὰρ"
             lemma="ἀτάρ1"
@@ -11711,7 +11711,7 @@
    <sentence id="2273760"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.199"
-             span="Κυπρογενέα0::13">
+             span="Hesiod Theogony: s-93">
       <word id="1"
             form="Κυπρογενέα"
             lemma="Κυπρογενής1"
@@ -11788,7 +11788,7 @@
    <sentence id="2273761"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.200"
-             span="ἠδὲ0:.3">
+             span="Hesiod Theogony: s-94">
       <word id="1"
             form="ἠδὲ"
             lemma="ἠδέ1"
@@ -11851,7 +11851,7 @@
    <sentence id="2273762"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.201-1.202"
-             span="τῇ0:.4">
+             span="Hesiod Theogony: s-95">
       <word id="1"
             form="τῇ"
             lemma="ὁ1"
@@ -11975,7 +11975,7 @@
    <sentence id="2273763"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.203-1.206"
-             span="ταύτην0:.5">
+             span="Hesiod Theogony: s-96">
       <word id="1"
             form="ταύτην"
             lemma="οὗτος1"
@@ -12190,7 +12190,7 @@
    <sentence id="2273764"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.207-1.208"
-             span="τοὺς0::0">
+             span="Hesiod Theogony: s-97">
       <word id="1"
             form="τοὺς"
             lemma="ὁ1"
@@ -12309,7 +12309,7 @@
    <sentence id="2273765"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.209-1.210"
-             span="φάσκε0:.0">
+             span="Hesiod Theogony: s-98">
       <word id="1"
             form="φάσκε"
             lemma="φάσκω1"
@@ -12428,7 +12428,7 @@
    <sentence id="2273766"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.211-1.212"
-             span="νὺξ0::1">
+             span="Hesiod Theogony: s-99">
       <word id="1"
             form="νὺξ"
             lemma="νύξ1"
@@ -12580,7 +12580,7 @@
    <sentence id="2273767"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.214-1.216"
-             span="δεύτερον0:.1">
+             span="Hesiod Theogony: s-100">
       <word id="1"
             form="δεύτερον"
             lemma="δεύτερος1"
@@ -12795,7 +12795,7 @@
    <sentence id="2273768"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.217-1.220"
-             span="καὶ3::2">
+             span="Hesiod Theogony: s-101">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -13024,7 +13024,7 @@
    <sentence id="2273769"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.221-1.222"
-             span="οὐδέ0:.2">
+             span="Hesiod Theogony: s-102">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -13169,7 +13169,7 @@
    <sentence id="2273770"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.223-1.224"
-             span="τίκτε0::3">
+             span="Hesiod Theogony: s-103">
       <word id="1"
             form="τίκτε"
             lemma="τίκτω1"
@@ -13258,7 +13258,7 @@
    <sentence id="2273771"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.224-1.225"
-             span="μετὰ0:.3">
+             span="Hesiod Theogony: s-104">
       <word id="1"
             form="μετὰ"
             lemma="μετά1"
@@ -13375,7 +13375,7 @@
    <sentence id="2273772"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.226-1.232"
-             span="αὐτὰρ0:.4">
+             span="Hesiod Theogony: s-105">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -13758,7 +13758,7 @@
    <sentence id="2273773"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.233-1.234"
-             span="Νηρέα0::4">
+             span="Hesiod Theogony: s-106">
       <word id="1"
             form="Νηρέα"
             lemma="Νηρεύς1"
@@ -13840,7 +13840,7 @@
    <sentence id="2273774"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.234-1.236"
-             span="αὐτὰρ1::5">
+             span="Hesiod Theogony: s-107">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -14008,7 +14008,7 @@
    <sentence id="2273775"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.237-1.239"
-             span="αὖτις0:.5">
+             span="Hesiod Theogony: s-108">
       <word id="1"
             form="αὖτις"
             lemma="αὖθις1"
@@ -14169,7 +14169,7 @@
    <sentence id="2273776"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.240-1.262"
-             span="Νηρῆος0:.0">
+             span="Hesiod Theogony: s-109">
       <word id="1"
             form="Νηρῆος"
             lemma="Νηρεύς1"
@@ -15287,7 +15287,7 @@
    <sentence id="2273777"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.263-1.264"
-             span="αὗται0:.1">
+             span="Hesiod Theogony: s-110">
       <word id="1"
             form="αὗται"
             lemma="οὗτος1"
@@ -15376,7 +15376,7 @@
    <sentence id="2273778"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.265-1.266"
-             span="Θαύμας0::0">
+             span="Hesiod Theogony: s-111">
       <word id="1"
             form="Θαύμας"
             lemma="Θαύμας1"
@@ -15446,7 +15446,7 @@
    <sentence id="2273779"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.266-1.269"
-             span="ἣ2::1">
+             span="Hesiod Theogony: s-112">
       <word id="1"
             form="ἣ"
             lemma="οτηερ"
@@ -15619,7 +15619,7 @@
    <sentence id="2273780"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.269"
-             span="μεταχρόνιαι0:.2">
+             span="Hesiod Theogony: s-113">
       <word id="1"
             form="μεταχρόνιαι"
             lemma="μεταχρόνιος1"
@@ -15652,7 +15652,7 @@
    <sentence id="2273781"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.270-1.276"
-             span="Φόρκυϊ0:.0">
+             span="Hesiod Theogony: s-114">
       <word id="1"
             form="Φόρκυϊ"
             lemma="φόρκυς1"
@@ -16051,7 +16051,7 @@
    <sentence id="2273782"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.277-1.278"
-             span="ἣ0::0">
+             span="Hesiod Theogony: s-115">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -16163,7 +16163,7 @@
    <sentence id="2273783"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.278-1.279"
-             span="τῇ0:.1">
+             span="Hesiod Theogony: s-116">
       <word id="1"
             form="τῇ"
             lemma="ὁ1"
@@ -16252,7 +16252,7 @@
    <sentence id="2273784"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.280-1.281"
-             span="τῆς0:.2">
+             span="Hesiod Theogony: s-117">
       <word id="1"
             form="τῆς"
             lemma="ὁ1"
@@ -16369,7 +16369,7 @@
    <sentence id="2273785"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.282-1.283"
-             span="τῷ0:.3">
+             span="Hesiod Theogony: s-118">
       <word id="1"
             form="τῷ"
             lemma="ὁ1"
@@ -16523,7 +16523,7 @@
    <sentence id="2273786"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.284-1.285"
-             span="χὠ0::1">
+             span="Hesiod Theogony: s-119">
       <word id="1"
             form="χὠ"
             lemma="ὁ1"
@@ -16619,7 +16619,7 @@
    <sentence id="2273787"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.285-1.286"
-             span="Ζηνὸς0:.4">
+             span="Hesiod Theogony: s-120">
       <word id="1"
             form="Ζηνὸς"
             lemma="Ζεύς1"
@@ -16715,7 +16715,7 @@
    <sentence id="2273788"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.287-1.288"
-             span="Χρυσάωρ0:.5">
+             span="Hesiod Theogony: s-121">
       <word id="1"
             form="Χρυσάωρ"
             lemma="Χρυσάωρ1"
@@ -16806,7 +16806,7 @@
    <sentence id="2273789"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.289-1.294"
-             span="τὸν0:.6">
+             span="Hesiod Theogony: s-122">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -17077,7 +17077,7 @@
    <sentence id="2273790"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.295-1.300"
-             span="ἣ1:.7">
+             span="Hesiod Theogony: s-123">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -17397,7 +17397,7 @@
    <sentence id="2273791"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.301-1.302"
-             span="ἔνθα0::2">
+             span="Hesiod Theogony: s-124">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -17528,7 +17528,7 @@
    <sentence id="2273792"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.303"
-             span="ἔνθ᾽0:.8">
+             span="Hesiod Theogony: s-125">
       <word id="1"
             form="ἔνθ᾽"
             lemma="ἔνθα1"
@@ -17596,7 +17596,7 @@
    <sentence id="2273793"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.304-1.305"
-             span="ἣ0:.0">
+             span="Hesiod Theogony: s-126">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -17720,7 +17720,7 @@
    <sentence id="2273794"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.306-1.307"
-             span="τῇ0::0">
+             span="Hesiod Theogony: s-127">
       <word id="1"
             form="τῇ"
             lemma="ὁ1"
@@ -17846,7 +17846,7 @@
    <sentence id="2273795"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.308"
-             span="ἣ1:.1">
+             span="Hesiod Theogony: s-128">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -17900,7 +17900,7 @@
    <sentence id="2273796"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.309"
-             span="Ὄρθον0::1">
+             span="Hesiod Theogony: s-129">
       <word id="1"
             form="Ὄρθον"
             lemma="Ὄρθος1"
@@ -17963,7 +17963,7 @@
    <sentence id="2273797"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.310-1.312"
-             span="δεύτερον0::2">
+             span="Hesiod Theogony: s-130">
       <word id="1"
             form="δεύτερον"
             lemma="δεύτερος1"
@@ -18122,7 +18122,7 @@
    <sentence id="2273798"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.313-1.315"
-             span="τὸ0:.2">
+             span="Hesiod Theogony: s-131">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -18269,7 +18269,7 @@
    <sentence id="2273799"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.316-1.318"
-             span="καὶ1:.3">
+             span="Hesiod Theogony: s-132">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -18411,7 +18411,7 @@
    <sentence id="2273800"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.319-1.320"
-             span="ἣ2::3">
+             span="Hesiod Theogony: s-133">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -18535,7 +18535,7 @@
    <sentence id="2273801"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.321"
-             span="τῆς0::4">
+             span="Hesiod Theogony: s-134">
       <word id="1"
             form="τῆς"
             lemma="ὁ1"
@@ -18582,7 +18582,7 @@
    <sentence id="2273802"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.321-1.324"
-             span="μία0:.4">
+             span="Hesiod Theogony: s-135">
       <word id="1"
             form="μία"
             lemma="εἷς1"
@@ -18881,7 +18881,7 @@
    <sentence id="2273803"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.325"
-             span="]0:.5">
+             span="Hesiod Theogony: s-136">
       <word id="1"
             form="]"
             lemma="βραξκετ1"
@@ -18949,7 +18949,7 @@
    <sentence id="2273804"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.326-1.329"
-             span="ἣ5:.6">
+             span="Hesiod Theogony: s-137">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -19168,7 +19168,7 @@
    <sentence id="2273805"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.330-1.331"
-             span="ἔνθ᾽0::5">
+             span="Hesiod Theogony: s-138">
       <word id="1"
             form="ἔνθ᾽"
             lemma="ἔνθα1"
@@ -19271,7 +19271,7 @@
    <sentence id="2273806"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.332"
-             span="ἀλλά0:.7">
+             span="Hesiod Theogony: s-139">
       <word id="1"
             form="ἀλλά"
             lemma="ἀλλά1"
@@ -19325,7 +19325,7 @@
    <sentence id="2273807"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.333-1.335"
-             span="Κητὼ0:.8">
+             span="Hesiod Theogony: s-140">
       <word id="1"
             form="Κητὼ"
             lemma="Κητώ"
@@ -19495,7 +19495,7 @@
    <sentence id="2273808"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.336"
-             span="τοῦτο0:.9">
+             span="Hesiod Theogony: s-141">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος1"
@@ -19563,7 +19563,7 @@
    <sentence id="2273809"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.337-1.345"
-             span="Τηθὺς0:.0">
+             span="Hesiod Theogony: s-142">
       <word id="1"
             form="Τηθὺς"
             lemma="Τηθύς1"
@@ -20016,7 +20016,7 @@
    <sentence id="2273810"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.346-1.361"
-             span="τίκτε0:.1">
+             span="Hesiod Theogony: s-143">
       <word id="1"
             form="τίκτε"
             lemma="τίκτω1"
@@ -20882,7 +20882,7 @@
    <sentence id="2273811"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.362-1.363"
-             span="αὗται0::0">
+             span="Hesiod Theogony: s-144">
       <word id="1"
             form="αὗται"
             lemma="οὗτος1"
@@ -20950,7 +20950,7 @@
    <sentence id="2273812"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.363"
-             span="πολλαί0:.2">
+             span="Hesiod Theogony: s-145">
       <word id="1"
             form="πολλαί"
             lemma="πολύς1"
@@ -21004,7 +21004,7 @@
    <sentence id="2273813"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.364-1.366"
-             span="τρὶς0:.3">
+             span="Hesiod Theogony: s-146">
       <word id="1"
             form="τρὶς"
             lemma="τρίς1"
@@ -21163,7 +21163,7 @@
    <sentence id="2273814"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.367-1.368"
-             span="τόσσοι0::1">
+             span="Hesiod Theogony: s-147">
       <word id="1"
             form="τόσσοι"
             lemma="τόσος1"
@@ -21289,7 +21289,7 @@
    <sentence id="2273815"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.369-1.370"
-             span="τῶν0:.4">
+             span="Hesiod Theogony: s-148">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -21415,7 +21415,7 @@
    <sentence id="2273816"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.371-1.374"
-             span="θεία0:.0">
+             span="Hesiod Theogony: s-149">
       <word id="1"
             form="θεία"
             lemma="Θεία1"
@@ -21630,7 +21630,7 @@
    <sentence id="2273817"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.375-1.377"
-             span="Κρίῳ0:.1">
+             span="Hesiod Theogony: s-150">
       <word id="1"
             form="Κρίῳ"
             lemma="Κρίος"
@@ -21796,7 +21796,7 @@
    <sentence id="2273818"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.378-1.380"
-             span="Ἀστραίῳ0:.2">
+             span="Hesiod Theogony: s-151">
       <word id="1"
             form="Ἀστραίῳ"
             lemma="Ἀστραίος"
@@ -21948,7 +21948,7 @@
    <sentence id="2273819"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.381-1.382"
-             span="τοὺς0:.3">
+             span="Hesiod Theogony: s-152">
       <word id="1"
             form="τοὺς"
             lemma="ὁ1"
@@ -22074,7 +22074,7 @@
    <sentence id="2273820"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.383-1.384"
-             span="Στὺξ0::0">
+             span="Hesiod Theogony: s-153">
       <word id="1"
             form="Στὺξ"
             lemma="Στύξ1"
@@ -22186,7 +22186,7 @@
    <sentence id="2273821"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.385-1.388"
-             span="καὶ3:.4">
+             span="Hesiod Theogony: s-154">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -22477,7 +22477,7 @@
    <sentence id="2273822"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.389-1.396"
-             span="ὣς0:.5">
+             span="Hesiod Theogony: s-155">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -22985,7 +22985,7 @@
    <sentence id="2273823"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.397-1.398"
-             span="ἦλθε0:.6">
+             span="Hesiod Theogony: s-156">
       <word id="1"
             form="ἦλθε"
             lemma="ἔρχομαι1"
@@ -23095,7 +23095,7 @@
    <sentence id="2273824"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.399"
-             span="τὴν0:.7">
+             span="Hesiod Theogony: s-157">
       <word id="1"
             form="τὴν"
             lemma="ὁ1"
@@ -23170,7 +23170,7 @@
    <sentence id="2273825"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.400-1.401"
-             span="αὐτὴν0:.8">
+             span="Hesiod Theogony: s-158">
       <word id="1"
             form="αὐτὴν"
             lemma="αὐτός1"
@@ -23303,7 +23303,7 @@
    <sentence id="2273826"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.402-1.403"
-             span="ὣς1::1">
+             span="Hesiod Theogony: s-159">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -23392,7 +23392,7 @@
    <sentence id="2273827"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.403"
-             span="αὐτὸς0:.9">
+             span="Hesiod Theogony: s-160">
       <word id="1"
             form="αὐτὸς"
             lemma="αὐτός1"
@@ -23446,7 +23446,7 @@
    <sentence id="2273828"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.404"
-             span="φοίβη0::0">
+             span="Hesiod Theogony: s-161">
       <word id="1"
             form="φοίβη"
             lemma="φοίβη1"
@@ -23514,7 +23514,7 @@
    <sentence id="2273829"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.405-1.408"
-             span="κυσαμένη0:.0">
+             span="Hesiod Theogony: s-162">
       <word id="1"
             form="κυσαμένη"
             lemma="κύω1"
@@ -23715,7 +23715,7 @@
    <sentence id="2273830"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.409-1.410"
-             span="γείνατο0:.1">
+             span="Hesiod Theogony: s-163">
       <word id="1"
             form="γείνατο"
             lemma="γείνομαι1"
@@ -23832,7 +23832,7 @@
    <sentence id="2273831"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.411-1.412"
-             span="ἢ0::1">
+             span="Hesiod Theogony: s-164">
       <word id="1"
             form="ἢ"
             lemma="ὁ1"
@@ -23928,7 +23928,7 @@
    <sentence id="2273832"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.412-1.413"
-             span="πόρεν0:.2">
+             span="Hesiod Theogony: s-165">
       <word id="1"
             form="πόρεν"
             lemma="πόρω1"
@@ -24031,7 +24031,7 @@
    <sentence id="2273833"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.414-1.415"
-             span="ἣ0:.3">
+             span="Hesiod Theogony: s-166">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -24141,7 +24141,7 @@
    <sentence id="2273834"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.416-1.418"
-             span="καὶ3:.4">
+             span="Hesiod Theogony: s-167">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -24279,7 +24279,7 @@
    <sentence id="2273835"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.418-1.420"
-             span="πολλή0:.5">
+             span="Hesiod Theogony: s-168">
       <word id="1"
             form="πολλή"
             lemma="πολύς1"
@@ -24466,7 +24466,7 @@
    <sentence id="2273836"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.421-1.422"
-             span="ὅσσοι0:.6">
+             span="Hesiod Theogony: s-169">
       <word id="1"
             form="ὅσσοι"
             lemma="ὅσος1"
@@ -24583,7 +24583,7 @@
    <sentence id="2273837"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.423-1.427"
-             span="οὐδέ0::2">
+             span="Hesiod Theogony: s-170">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -24870,7 +24870,7 @@
    <sentence id="2273838"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.426-1.428"
-             span="οὐδ᾽0:.7">
+             span="Hesiod Theogony: s-171">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -25047,7 +25047,7 @@
    <sentence id="2273839"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.429"
-             span="ᾧ1::3">
+             span="Hesiod Theogony: s-172">
       <word id="1"
             form="ᾧ"
             lemma="ὅς1"
@@ -25124,7 +25124,7 @@
    <sentence id="2273840"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.434-1.430"
-             span="ἔν0::4">
+             span="Hesiod Theogony: s-173">
       <word id="1"
             form="ἔν"
             lemma="ἐν1"
@@ -25264,7 +25264,7 @@
    <sentence id="2273841"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.431-1.433"
-             span="ἠδ᾽1:.8">
+             span="Hesiod Theogony: s-174">
       <word id="1"
             form="ἠδ᾽"
             lemma="ἠδέ1"
@@ -25423,7 +25423,7 @@
    <sentence id="2273842"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.435-1.436"
-             span="ἐσθλὴ0::5">
+             span="Hesiod Theogony: s-175">
       <word id="1"
             form="ἐσθλὴ"
             lemma="ἐσθλός1"
@@ -25540,7 +25540,7 @@
    <sentence id="2273843"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.437-1.438"
-             span="νικήσας0:.9">
+             span="Hesiod Theogony: s-176">
       <word id="1"
             form="νικήσας"
             lemma="νικάω1"
@@ -25664,7 +25664,7 @@
    <sentence id="2273844"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.439"
-             span="ἐσθλὴ1:.10">
+             span="Hesiod Theogony: s-177">
       <word id="1"
             form="ἐσθλὴ"
             lemma="ἐσθλός1"
@@ -25741,7 +25741,7 @@
    <sentence id="2273845"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.440-1.443"
-             span="καὶ12:.11">
+             span="Hesiod Theogony: s-178">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -25963,7 +25963,7 @@
    <sentence id="2273846"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.444"
-             span="ἐσθλὴ2::6">
+             span="Hesiod Theogony: s-179">
       <word id="1"
             form="ἐσθλὴ"
             lemma="ἐσθλός1"
@@ -26040,7 +26040,7 @@
    <sentence id="2273847"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.445-1.447"
-             span="βουκολίας0:.12">
+             span="Hesiod Theogony: s-180">
       <word id="1"
             form="βουκολίας"
             lemma="βουκολία1"
@@ -26229,7 +26229,7 @@
    <sentence id="2273848"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.448-1.449"
-             span="οὕτω0:.13">
+             span="Hesiod Theogony: s-181">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως1"
@@ -26325,7 +26325,7 @@
    <sentence id="2273849"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.450-1.451"
-             span="θῆκε0:.14">
+             span="Hesiod Theogony: s-182">
       <word id="1"
             form="θῆκε"
             lemma="τίθημι1"
@@ -26435,7 +26435,7 @@
    <sentence id="2273850"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.452"
-             span="οὕτως0:.15">
+             span="Hesiod Theogony: s-183">
       <word id="1"
             form="οὕτως"
             lemma="οὕτως1"
@@ -26528,7 +26528,7 @@
    <sentence id="2273851"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.453-1.458"
-             span="Ῥείη0:.0">
+             span="Hesiod Theogony: s-184">
       <word id="1"
             form="Ῥείη"
             lemma="Ῥέα1"
@@ -26862,7 +26862,7 @@
    <sentence id="2273852"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.459-1.462"
-             span="καὶ4:.1">
+             span="Hesiod Theogony: s-185">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -27098,7 +27098,7 @@
    <sentence id="2273853"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.463-1.465"
-             span="πεύθετο0::0">
+             span="Hesiod Theogony: s-186">
       <word id="1"
             form="πεύθετο"
             lemma="πεύθομαι1"
@@ -27278,7 +27278,7 @@
    <sentence id="2273854"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.466-1.467"
-             span="τῷ0::1">
+             span="Hesiod Theogony: s-187">
       <word id="1"
             form="τῷ"
             lemma="τῷ1"
@@ -27388,7 +27388,7 @@
    <sentence id="2273855"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.467"
-             span="Ῥέην0:.2">
+             span="Hesiod Theogony: s-188">
       <word id="1"
             form="Ῥέην"
             lemma="Ῥέα1"
@@ -27435,7 +27435,7 @@
    <sentence id="2273856"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.468-1.473"
-             span="ἀλλ᾽0:.3">
+             span="Hesiod Theogony: s-189">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -27783,7 +27783,7 @@
    <sentence id="2273857"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.474-1.476"
-             span="οἳ0:.4">
+             span="Hesiod Theogony: s-190">
       <word id="1"
             form="οἳ"
             lemma="ὁ1"
@@ -27963,7 +27963,7 @@
    <sentence id="2273858"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.477-1.479"
-             span="πέμψαν0::2">
+             span="Hesiod Theogony: s-191">
       <word id="1"
             form="πέμψαν"
             lemma="πέμπω1"
@@ -28108,7 +28108,7 @@
    <sentence id="2273859"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.479-1.480"
-             span="τὸν0:.5">
+             span="Hesiod Theogony: s-192">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -28204,7 +28204,7 @@
    <sentence id="2273860"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.481-1.482"
-             span="ἔνθα0::3">
+             span="Hesiod Theogony: s-193">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -28293,7 +28293,7 @@
    <sentence id="2273861"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.482-1.484"
-             span="κρύψεν0:.6">
+             span="Hesiod Theogony: s-194">
       <word id="1"
             form="κρύψεν"
             lemma="κρύπτω1"
@@ -28438,7 +28438,7 @@
    <sentence id="2273862"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.485-1.486"
-             span="τῷ1:.7">
+             span="Hesiod Theogony: s-195">
       <word id="1"
             form="τῷ"
             lemma="τῷ1"
@@ -28541,7 +28541,7 @@
    <sentence id="2273863"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.487-1.488"
-             span="τὸν1::4">
+             span="Hesiod Theogony: s-196">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -28609,7 +28609,7 @@
    <sentence id="2273864"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.488-1.491"
-             span="οὐδ᾽0:.8">
+             span="Hesiod Theogony: s-197">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -28868,7 +28868,7 @@
    <sentence id="2273865"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.492-1.493"
-             span="καρπαλίμως0::0">
+             span="Hesiod Theogony: s-198">
       <word id="1"
             form="καρπαλίμως"
             lemma="καρπάλιμος1"
@@ -28957,7 +28957,7 @@
    <sentence id="2273866"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.493-1.496"
-             span="ἐπιπλομένων0:.0">
+             span="Hesiod Theogony: s-199">
       <word id="1"
             form="ἐπιπλομένων"
             lemma="ἐπιπέλομαι1"
@@ -29109,7 +29109,7 @@
    <sentence id="2273867"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.497"
-             span="]0::1">
+             span="Hesiod Theogony: s-200">
       <word id="1"
             form="]"
             lemma="βραξκετ1"
@@ -29184,7 +29184,7 @@
    <sentence id="2273868"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.498-1.500"
-             span="τὸν0:.1">
+             span="Hesiod Theogony: s-201">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -29336,7 +29336,7 @@
    <sentence id="2273869"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.501-1.502"
-             span="λῦσε0::2">
+             span="Hesiod Theogony: s-202">
       <word id="1"
             form="λῦσε"
             lemma="λύω1"
@@ -29441,7 +29441,7 @@
    <sentence id="2273870"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.503-1.505"
-             span="οἳ0::3">
+             span="Hesiod Theogony: s-203">
       <word id="1"
             form="οἳ"
             lemma="ὁ1"
@@ -29551,7 +29551,7 @@
    <sentence id="2273871"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.505"
-             span="τὸ0::4">
+             span="Hesiod Theogony: s-204">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -29605,7 +29605,7 @@
    <sentence id="2273872"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.506"
-             span="τοῖς0:.2">
+             span="Hesiod Theogony: s-205">
       <word id="1"
             form="τοῖς"
             lemma="ὁ1"
@@ -29659,7 +29659,7 @@
    <sentence id="2273873"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.507-1.508"
-             span="κούρην0:.0">
+             span="Hesiod Theogony: s-206">
       <word id="1"
             form="κούρην"
             lemma="κόρη1"
@@ -29757,7 +29757,7 @@
    <sentence id="2273874"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.509"
-             span="ἣ0::0">
+             span="Hesiod Theogony: s-207">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -29827,7 +29827,7 @@
    <sentence id="2273875"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.510-1.512"
-             span="τίκτε0::1">
+             span="Hesiod Theogony: s-208">
       <word id="1"
             form="τίκτε"
             lemma="τίκτω1"
@@ -29972,7 +29972,7 @@
    <sentence id="2273876"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.513-1.514"
-             span="πρῶτος0:.1">
+             span="Hesiod Theogony: s-209">
       <word id="1"
             form="πρῶτος"
             lemma="πρῶτος1"
@@ -30040,7 +30040,7 @@
    <sentence id="2273877"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.514-1.516"
-             span="ὑβριστὴν0:.2">
+             span="Hesiod Theogony: s-210">
       <word id="1"
             form="ὑβριστὴν"
             lemma="ὑβριστής1"
@@ -30171,7 +30171,7 @@
    <sentence id="2273878"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.517-1.519"
-             span="Ἄτλας0::2">
+             span="Hesiod Theogony: s-211">
       <word id="1"
             form="Ἄτλας"
             lemma="Ἄτλας1"
@@ -30337,7 +30337,7 @@
    <sentence id="2273879"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.520"
-             span="ταύτην0:.3">
+             span="Hesiod Theogony: s-212">
       <word id="1"
             form="ταύτην"
             lemma="οὗτος1"
@@ -30398,7 +30398,7 @@
    <sentence id="2273880"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.521-1.522"
-             span="δῆσε0::3">
+             span="Hesiod Theogony: s-213">
       <word id="1"
             form="δῆσε"
             lemma="δέω1"
@@ -30496,7 +30496,7 @@
    <sentence id="2273881"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.523"
-             span="καί0::4">
+             span="Hesiod Theogony: s-214">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -30550,7 +30550,7 @@
    <sentence id="2273882"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.523-1.525"
-             span="αὐτὰρ0:.4">
+             span="Hesiod Theogony: s-215">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -30695,7 +30695,7 @@
    <sentence id="2273883"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.526-1.531"
-             span="τὸν0:.5">
+             span="Hesiod Theogony: s-216">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -30991,7 +30991,7 @@
    <sentence id="2273884"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.532"
-             span="ταῦτ᾽0::5">
+             span="Hesiod Theogony: s-217">
       <word id="1"
             form="ταῦτ᾽"
             lemma="οὗτος1"
@@ -31045,7 +31045,7 @@
    <sentence id="2273885"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.533-1.534"
-             span="καί1:.6">
+             span="Hesiod Theogony: s-218">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -31162,7 +31162,7 @@
    <sentence id="2273886"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.535-1.537"
-             span="καὶ4:.7">
+             span="Hesiod Theogony: s-219">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -31328,7 +31328,7 @@
    <sentence id="2273887"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.538-1.541"
-             span="τοῖς0:.8">
+             span="Hesiod Theogony: s-220">
       <word id="1"
             form="τοῖς"
             lemma="ὁ1"
@@ -31550,7 +31550,7 @@
    <sentence id="2273888"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.542"
-             span="δὴ0::6">
+             span="Hesiod Theogony: s-221">
       <word id="1"
             form="δὴ"
             lemma="δή1"
@@ -31625,7 +31625,7 @@
    <sentence id="2273889"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.543-1.544"
-             span="Ἰαπετιονίδη0:.9">
+             span="Hesiod Theogony: s-222">
       <word id="1"
             form="Ἰαπετιονίδη"
             lemma="Ἰαπετονίδης1"
@@ -31728,7 +31728,7 @@
    <sentence id="2273890"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.545"
-             span="ὣς0:.0">
+             span="Hesiod Theogony: s-223">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -31789,7 +31789,7 @@
    <sentence id="2273891"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.546-1.547"
-             span="τὸν0::0">
+             span="Hesiod Theogony: s-224">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -31899,7 +31899,7 @@
    <sentence id="2273892"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.548-1.549"
-             span="ζεῦ0:.1">
+             span="Hesiod Theogony: s-225">
       <word id="1"
             form="ζεῦ"
             lemma="ζεύς1"
@@ -32032,7 +32032,7 @@
    <sentence id="2273893"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.550"
-             span="Φῆ0::1">
+             span="Hesiod Theogony: s-226">
       <word id="1"
             form="Φῆ"
             lemma="φημί1"
@@ -32065,7 +32065,7 @@
    <sentence id="2273894"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.550-1.551"
-             span="Ζεὺς1::2">
+             span="Hesiod Theogony: s-227">
       <word id="1"
             form="Ζεὺς"
             lemma="Ζεύς1"
@@ -32154,7 +32154,7 @@
    <sentence id="2273895"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.551-1.552"
-             span="κακὰ0:.2">
+             span="Hesiod Theogony: s-228">
       <word id="1"
             form="κακὰ"
             lemma="κακός1"
@@ -32243,7 +32243,7 @@
    <sentence id="2273896"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.553"
-             span="χερσὶ0:.3">
+             span="Hesiod Theogony: s-229">
       <word id="1"
             form="χερσὶ"
             lemma="χείρ1"
@@ -32311,7 +32311,7 @@
    <sentence id="2273897"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.554-1.555"
-             span="χώσατο0:.4">
+             span="Hesiod Theogony: s-230">
       <word id="1"
             form="χώσατο"
             lemma="χόω1"
@@ -32456,7 +32456,7 @@
    <sentence id="2273898"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.556-1.557"
-             span="ἐκ0:.5">
+             span="Hesiod Theogony: s-231">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -32566,7 +32566,7 @@
    <sentence id="2273899"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.558"
-             span="τὸν1::3">
+             span="Hesiod Theogony: s-232">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -32627,7 +32627,7 @@
    <sentence id="2273900"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.559-1.560"
-             span="Ἰαπετιονίδη0:.6">
+             span="Hesiod Theogony: s-233">
       <word id="1"
             form="Ἰαπετιονίδη"
             lemma="Ἀαπετιον́ιδης"
@@ -32751,7 +32751,7 @@
    <sentence id="2273901"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.561"
-             span="ὣς1::4">
+             span="Hesiod Theogony: s-234">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -32812,7 +32812,7 @@
    <sentence id="2273902"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.562-1.564"
-             span="ἐκ1:.7">
+             span="Hesiod Theogony: s-235">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -32964,7 +32964,7 @@
    <sentence id="2273903"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.565-1.566"
-             span="ἀλλά0:.8">
+             span="Hesiod Theogony: s-236">
       <word id="1"
             form="ἀλλά"
             lemma="ἀλλά1"
@@ -33055,7 +33055,7 @@
    <sentence id="2273904"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.566-1.567"
-             span="αὐγὴν0::5">
+             span="Hesiod Theogony: s-237">
       <word id="1"
             form="αὐγὴν"
             lemma="αὐγή1"
@@ -33104,7 +33104,7 @@
    <sentence id="2273905"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.567-1.569"
-             span="δάκεν0:.9">
+             span="Hesiod Theogony: s-238">
       <word id="1"
             form="δάκεν"
             lemma="δάκνω1"
@@ -33270,7 +33270,7 @@
    <sentence id="2273906"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.570"
-             span="αὐτίκα0::6">
+             span="Hesiod Theogony: s-239">
       <word id="1"
             form="αὐτίκα"
             lemma="αὐτίκα1"
@@ -33331,7 +33331,7 @@
    <sentence id="2273907"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.571-1.572"
-             span="γαίης0:.10">
+             span="Hesiod Theogony: s-240">
       <word id="1"
             form="γαίης"
             lemma="γαῖα1"
@@ -33420,7 +33420,7 @@
    <sentence id="2273908"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.573-1.574"
-             span="ζῶσε0::7">
+             span="Hesiod Theogony: s-241">
       <word id="1"
             form="ζῶσε"
             lemma="ζώννυμι1"
@@ -33504,7 +33504,7 @@
    <sentence id="2273909"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.574-1.575"
-             span="κατὰ0::8">
+             span="Hesiod Theogony: s-242">
       <word id="1"
             form="κατὰ"
             lemma="κατά1"
@@ -33586,7 +33586,7 @@
    <sentence id="2273911"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.576-1.580"
-             span="]0:.12">
+             span="Hesiod Theogony: s-243">
       <word id="1"
             form="]"
             lemma="βραξκετ1"
@@ -33738,7 +33738,7 @@
    <sentence id="2273912"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.581-1.584"
-             span="τῇ0:.13">
+             span="Hesiod Theogony: s-244">
       <word id="1"
             form="τῇ"
             lemma="ὁ1"
@@ -34009,7 +34009,7 @@
    <sentence id="2273913"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.585"
-             span="αὐτὰρ0:.0">
+             span="Hesiod Theogony: s-245">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -34086,7 +34086,7 @@
    <sentence id="2273914"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.586-1.587"
-             span="ἐξάγαγ᾽0:.1">
+             span="Hesiod Theogony: s-246">
       <word id="1"
             form="ἐξάγαγ᾽"
             lemma="ἐξάγω1"
@@ -34196,7 +34196,7 @@
    <sentence id="2273915"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.588-1.589"
-             span="θαῦμα0:.2">
+             span="Hesiod Theogony: s-247">
       <word id="1"
             form="θαῦμα"
             lemma="θαῦμα1"
@@ -34327,7 +34327,7 @@
    <sentence id="2273916"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.590-1.593"
-             span="ἐκ0:.3">
+             span="Hesiod Theogony: s-248">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -34572,7 +34572,7 @@
    <sentence id="2273917"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.594-1.602"
-             span="ὡς1::0">
+             span="Hesiod Theogony: s-249">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -34983,7 +34983,7 @@
    <sentence id="2273918"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.602"
-             span="ἕτερον0::1">
+             span="Hesiod Theogony: s-250">
       <word id="1"
             form="ἕτερον"
             lemma="ἕτερος1"
@@ -35037,7 +35037,7 @@
    <sentence id="2273919"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.603-1.605"
-             span="ὅς0::2">
+             span="Hesiod Theogony: s-251">
       <word id="1"
             form="ὅς"
             lemma="ὅς1"
@@ -35182,7 +35182,7 @@
    <sentence id="2273920"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.605-1.607"
-             span="ὅ0::3">
+             span="Hesiod Theogony: s-252">
       <word id="1"
             form="ὅ"
             lemma="ὁ1"
@@ -35285,7 +35285,7 @@
    <sentence id="2273921"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.607-1.610"
-             span="ᾧ0::4">
+             span="Hesiod Theogony: s-253">
       <word id="1"
             form="ᾧ"
             lemma="ὅς1"
@@ -35465,7 +35465,7 @@
    <sentence id="2273922"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.610-1.612"
-             span="ὃς0:.4">
+             span="Hesiod Theogony: s-254">
       <word id="1"
             form="ὃς"
             lemma="ὅς1"
@@ -35624,7 +35624,7 @@
    <sentence id="2273923"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.613-1.614"
-             span="ὣς1:.5">
+             span="Hesiod Theogony: s-255">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -35708,7 +35708,7 @@
    <sentence id="2273924"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.613-1.616"
-             span="οὐδὲ1:.6">
+             span="Hesiod Theogony: s-256">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -35883,7 +35883,7 @@
    <sentence id="2273925"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.617-1.620"
-             span="Βριάρεῳ0::0">
+             span="Hesiod Theogony: s-257">
       <word id="1"
             form="Βριάρεῳ"
             lemma="βριάρεως1"
@@ -36063,7 +36063,7 @@
    <sentence id="2273926"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.620"
-             span="κατένασσε0:.0">
+             span="Hesiod Theogony: s-258">
       <word id="1"
             form="κατένασσε"
             lemma="καταναίω1"
@@ -36110,7 +36110,7 @@
    <sentence id="2273927"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.621-1.623"
-             span="ἔνθ᾽0:.1">
+             span="Hesiod Theogony: s-259">
       <word id="1"
             form="ἔνθ᾽"
             lemma="ἔνθα1"
@@ -36297,7 +36297,7 @@
    <sentence id="2273928"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.624-1.626"
-             span="ἀλλά0::1">
+             span="Hesiod Theogony: s-260">
       <word id="1"
             form="ἀλλά"
             lemma="ἀλλά1"
@@ -36470,7 +36470,7 @@
    <sentence id="2273929"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.627-1.628"
-             span="αὐτὴ0:.2">
+             span="Hesiod Theogony: s-261">
       <word id="1"
             form="αὐτὴ"
             lemma="αὐτός1"
@@ -36580,7 +36580,7 @@
    <sentence id="2273930"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.629-1.634"
-             span="δηρὸν0:.3">
+             span="Hesiod Theogony: s-262">
       <word id="1"
             form="δηρὸν"
             lemma="δηρός1"
@@ -36918,7 +36918,7 @@
    <sentence id="2273931"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.635-1.636"
-             span="οἵ1::2">
+             span="Hesiod Theogony: s-263">
       <word id="1"
             form="οἵ"
             lemma="ὁ1"
@@ -37014,7 +37014,7 @@
    <sentence id="2273932"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.637-1.638"
-             span="οὐδέ0:.4">
+             span="Hesiod Theogony: s-264">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -37154,7 +37154,7 @@
    <sentence id="2273933"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.639-1.641"
-             span="ἀλλ᾽0:.5">
+             span="Hesiod Theogony: s-265">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -37341,7 +37341,7 @@
    <sentence id="2273934"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.642-1.643"
-             span="ὡς1::3">
+             span="Hesiod Theogony: s-266">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -37472,7 +37472,7 @@
    <sentence id="2273935"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.644-1.645"
-             span="κέκλυτε0:.6">
+             span="Hesiod Theogony: s-267">
       <word id="1"
             form="κέκλυτε"
             lemma="κλύω1"
@@ -37626,7 +37626,7 @@
    <sentence id="2273936"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.646-1.648"
-             span="ἤδη0:.7">
+             span="Hesiod Theogony: s-268">
       <word id="1"
             form="ἤδη"
             lemma="ἤδη1"
@@ -37778,7 +37778,7 @@
    <sentence id="2273937"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.649-1.653"
-             span="ὑμεῖς0:.8">
+             span="Hesiod Theogony: s-269">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ1"
@@ -38021,7 +38021,7 @@
    <sentence id="2273938"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.654"
-             span="ὣς0::0">
+             span="Hesiod Theogony: s-270">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -38047,7 +38047,7 @@
    <sentence id="2273939"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.654"
-             span="τὸν0::1">
+             span="Hesiod Theogony: s-271">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -38101,7 +38101,7 @@
    <sentence id="2273940"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.655"
-             span="Δαιμόνι᾽0::2">
+             span="Hesiod Theogony: s-272">
       <word id="1"
             form="Δαιμόνι᾽"
             lemma="δαιμόνιος1"
@@ -38148,7 +38148,7 @@
    <sentence id="2273941"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.655-1.657"
-             span="ἀλλὰ0:.0">
+             span="Hesiod Theogony: s-273">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -38323,7 +38323,7 @@
    <sentence id="2273942"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.658-1.660"
-             span="σῇσι0:.1">
+             span="Hesiod Theogony: s-274">
       <word id="1"
             form="σῇσι"
             lemma="σός1"
@@ -38482,7 +38482,7 @@
    <sentence id="2273943"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.661-1.663"
-             span="τῷ0:.2">
+             span="Hesiod Theogony: s-275">
       <word id="1"
             form="τῷ"
             lemma="τῷ1"
@@ -38634,7 +38634,7 @@
    <sentence id="2273944"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.664"
-             span="ὣς1::3">
+             span="Hesiod Theogony: s-276">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -38660,7 +38660,7 @@
    <sentence id="2273945"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.664-1.665"
-             span="ἐπῄνεσσαν0::4">
+             span="Hesiod Theogony: s-277">
       <word id="1"
             form="ἐπῄνεσσαν"
             lemma="ἐπαινέω1"
@@ -38735,7 +38735,7 @@
    <sentence id="2273946"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.665-1.666"
-             span="πολέμου0::5">
+             span="Hesiod Theogony: s-278">
       <word id="1"
             form="πολέμου"
             lemma="πόλεμος1"
@@ -38819,7 +38819,7 @@
    <sentence id="2273947"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.666-1.670"
-             span="μάχην0:.3">
+             span="Hesiod Theogony: s-279">
       <word id="1"
             form="μάχην"
             lemma="μάχη1"
@@ -39097,7 +39097,7 @@
    <sentence id="2273948"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.671-1.673"
-             span="τῶν0:.4">
+             span="Hesiod Theogony: s-280">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -39249,7 +39249,7 @@
    <sentence id="2273949"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.674-1.675"
-             span="οἳ0:.5">
+             span="Hesiod Theogony: s-281">
       <word id="1"
             form="οἳ"
             lemma="ὁ1"
@@ -39352,7 +39352,7 @@
    <sentence id="2273950"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.676-1.678"
-             span="Τιτῆνες0::6">
+             span="Hesiod Theogony: s-282">
       <word id="1"
             form="Τιτῆνες"
             lemma="Τιτάν1"
@@ -39469,7 +39469,7 @@
    <sentence id="2273951"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.678-1.683"
-             span="δεινὸν0::7">
+             span="Hesiod Theogony: s-283">
       <word id="1"
             form="δεινὸν"
             lemma="δεινός1"
@@ -39775,7 +39775,7 @@
    <sentence id="2273952"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.684"
-             span="ὣς2:.6">
+             span="Hesiod Theogony: s-284">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -39836,7 +39836,7 @@
    <sentence id="2273953"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.685-1.686"
-             span="φωνὴ0::8">
+             span="Hesiod Theogony: s-285">
       <word id="1"
             form="φωνὴ"
             lemma="φωνή1"
@@ -39897,7 +39897,7 @@
    <sentence id="2273954"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.686"
-             span="οἳ1:.7">
+             span="Hesiod Theogony: s-286">
       <word id="1"
             form="οἳ"
             lemma="ὁ1"
@@ -39944,7 +39944,7 @@
    <sentence id="2273955"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.687-1.689"
-             span="οὐδ᾽0::0">
+             span="Hesiod Theogony: s-287">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -40131,7 +40131,7 @@
    <sentence id="2273956"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.689-1.690"
-             span="ἄμυδις0::1">
+             span="Hesiod Theogony: s-288">
       <word id="1"
             form="ἄμυδις"
             lemma="ἄμυδις1"
@@ -40220,7 +40220,7 @@
    <sentence id="2273957"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.690-1.693"
-             span="οἱ0::2">
+             span="Hesiod Theogony: s-289">
       <word id="1"
             form="οἱ"
             lemma="ὁ1"
@@ -40358,7 +40358,7 @@
    <sentence id="2273958"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.693-1.694"
-             span="ἀμφὶ0:.0">
+             span="Hesiod Theogony: s-290">
       <word id="1"
             form="ἀμφὶ"
             lemma="ἀμφί1"
@@ -40468,7 +40468,7 @@
    <sentence id="2273959"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.695-1.696"
-             span="ἔζεε0::3">
+             span="Hesiod Theogony: s-291">
       <word id="1"
             form="ἔζεε"
             lemma="ζέω1"
@@ -40550,7 +40550,7 @@
    <sentence id="2273960"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.696-1.699"
-             span="τοὺς0:.1">
+             span="Hesiod Theogony: s-292">
       <word id="1"
             form="τοὺς"
             lemma="ὁ1"
@@ -40758,7 +40758,7 @@
    <sentence id="2273961"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.700"
-             span="καῦμα0::4">
+             span="Hesiod Theogony: s-293">
       <word id="1"
             form="καῦμα"
             lemma="καῦμα1"
@@ -40805,7 +40805,7 @@
    <sentence id="2273962"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.700-1.703"
-             span="εἴσατο0::5">
+             span="Hesiod Theogony: s-294">
       <word id="1"
             form="εἴσατο"
             lemma="εἴδομαι"
@@ -40959,7 +40959,7 @@
    <sentence id="2273963"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.703-1.704"
-             span="τοῖος0::6">
+             span="Hesiod Theogony: s-295">
       <word id="1"
             form="τοῖος"
             lemma="τοῖος1"
@@ -41076,7 +41076,7 @@
    <sentence id="2273964"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.705"
-             span="τόσσος0:.2">
+             span="Hesiod Theogony: s-296">
       <word id="1"
             form="τόσσος"
             lemma="τόσος1"
@@ -41130,7 +41130,7 @@
    <sentence id="2273965"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.706-1.709"
-             span="σὺν0::7">
+             span="Hesiod Theogony: s-297">
       <word id="1"
             form="σὺν"
             lemma="σύν1"
@@ -41345,7 +41345,7 @@
    <sentence id="2273966"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.709-1.710"
-             span="ὄτοβος0:.3">
+             span="Hesiod Theogony: s-298">
       <word id="1"
             form="ὄτοβος"
             lemma="ὄτοβος1"
@@ -41434,7 +41434,7 @@
    <sentence id="2273967"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.711"
-             span="ἐκλίνθη0::8">
+             span="Hesiod Theogony: s-299">
       <word id="1"
             form="ἐκλίνθη"
             lemma="κλίνω1"
@@ -41467,7 +41467,7 @@
    <sentence id="2273968"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.711-1.712"
-             span="πρὶν0:.4">
+             span="Hesiod Theogony: s-300">
       <word id="1"
             form="πρὶν"
             lemma="πρίν1"
@@ -41542,7 +41542,7 @@
    <sentence id="2273969"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.713-1.720"
-             span="οἳ0::9">
+             span="Hesiod Theogony: s-301">
       <word id="1"
             form="οἳ"
             lemma="ὁ1"
@@ -41990,7 +41990,7 @@
    <sentence id="2273970"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.721"
-             span="τόσσον1:.5">
+             span="Hesiod Theogony: s-302">
       <word id="1"
             form="τόσσον"
             lemma="τόσος1"
@@ -42076,7 +42076,7 @@
    <sentence id="2273971"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.722-1.723"
-             span="ἐννέα0::10">
+             span="Hesiod Theogony: s-303">
       <word id="1"
             form="ἐννέα"
             lemma="ἐννέα1"
@@ -42202,7 +42202,7 @@
    <sentence id="2273972"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.724-1.725"
-             span="ἐννέα1:.6">
+             span="Hesiod Theogony: s-304">
       <word id="1"
             form="ἐννέα"
             lemma="ἐννέα1"
@@ -42342,7 +42342,7 @@
    <sentence id="2273973"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.726"
-             span="τὸν0::11">
+             span="Hesiod Theogony: s-305">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -42389,7 +42389,7 @@
    <sentence id="2273974"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.726-1.727"
-             span="ἀμφὶ2::12">
+             span="Hesiod Theogony: s-306">
       <word id="1"
             form="ἀμφὶ"
             lemma="ἀμφί1"
@@ -42457,7 +42457,7 @@
    <sentence id="2273975"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.727-1.728"
-             span="αὐτὰρ0:.7">
+             span="Hesiod Theogony: s-307">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -42525,7 +42525,7 @@
    <sentence id="2273976"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.729-1.731"
-             span="ἔνθα0:.0">
+             span="Hesiod Theogony: s-308">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -42656,7 +42656,7 @@
    <sentence id="2273977"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.732"
-             span="τοῖς0:.1">
+             span="Hesiod Theogony: s-309">
       <word id="1"
             form="τοῖς"
             lemma="ὁ1"
@@ -42696,7 +42696,7 @@
    <sentence id="2273978"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.732-1.733"
-             span="θύρας0:.2">
+             span="Hesiod Theogony: s-310">
       <word id="1"
             form="θύρας"
             lemma="θύρα1"
@@ -42778,7 +42778,7 @@
    <sentence id="2273979"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.734-1.735"
-             span="ἔνθα1:.3">
+             span="Hesiod Theogony: s-311">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -42881,7 +42881,7 @@
    <sentence id="2273980"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.736-1.743"
-             span="ἔνθα2::0">
+             span="Hesiod Theogony: s-312">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -43301,7 +43301,7 @@
    <sentence id="2273981"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.743-1.744"
-             span="δεινὸν0:.4">
+             span="Hesiod Theogony: s-313">
       <word id="1"
             form="δεινὸν"
             lemma="δεινός1"
@@ -43371,7 +43371,7 @@
    <sentence id="2273982"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.744-1.745"
-             span="Νυκτὸς0:.5">
+             span="Hesiod Theogony: s-314">
       <word id="1"
             form="Νυκτὸς"
             lemma="νύξ1"
@@ -43446,7 +43446,7 @@
    <sentence id="2273983"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.746-1.750"
-             span="τῶν0::1">
+             span="Hesiod Theogony: s-315">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -43661,7 +43661,7 @@
    <sentence id="2273984"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.750-1.756"
-             span="ἣ0:.6">
+             span="Hesiod Theogony: s-316">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -44104,7 +44104,7 @@
    <sentence id="2273985"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.757"
-             span="Νὺξ0:.7">
+             span="Hesiod Theogony: s-317">
       <word id="1"
             form="Νὺξ"
             lemma="νύξ1"
@@ -44167,7 +44167,7 @@
    <sentence id="2273986"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.758-1.759"
-             span="ἔνθα5::2">
+             span="Hesiod Theogony: s-318">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -44277,7 +44277,7 @@
    <sentence id="2273987"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.759-1.761"
-             span="οὐδέ2:.8">
+             span="Hesiod Theogony: s-319">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -44403,7 +44403,7 @@
    <sentence id="2273988"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.762-1.765"
-             span="τῶν1::3">
+             span="Hesiod Theogony: s-320">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -44629,7 +44629,7 @@
    <sentence id="2273989"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.765-1.766"
-             span="ἔχει1::4">
+             span="Hesiod Theogony: s-321">
       <word id="1"
             form="ἔχει"
             lemma="ἔχω1"
@@ -44683,7 +44683,7 @@
    <sentence id="2273990"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.766"
-             span="ἐχθρὸς0:.9">
+             span="Hesiod Theogony: s-322">
       <word id="1"
             form="ἐχθρὸς"
             lemma="ἐχθρός1"
@@ -44739,7 +44739,7 @@
    <sentence id="2273991"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.767-1.770"
-             span="ἔνθα0::0">
+             span="Hesiod Theogony: s-323">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -44935,7 +44935,7 @@
    <sentence id="2273992"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.770-1.773"
-             span="ἐς0:.0">
+             span="Hesiod Theogony: s-324">
       <word id="1"
             form="ἐς"
             lemma="εἰς1"
@@ -45143,7 +45143,7 @@
    <sentence id="2273993"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.774"
-             span="[ἰφθίμου0:.1">
+             span="Hesiod Theogony: s-325">
       <word id="1"
             form="[ἰφθίμου"
             lemma="ἴφθιμος1"
@@ -45206,7 +45206,7 @@
    <sentence id="2273994"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.775-1.777"
-             span="]0::1">
+             span="Hesiod Theogony: s-326">
       <word id="1"
             form="]"
             lemma="βραξκετ1"
@@ -45323,7 +45323,7 @@
    <sentence id="2273995"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.777-1.778"
-             span="νόσφιν0::2">
+             span="Hesiod Theogony: s-327">
       <word id="1"
             form="νόσφιν"
             lemma="νόσφι1"
@@ -45398,7 +45398,7 @@
    <sentence id="2273996"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.778-1.779"
-             span="ἀμφὶ0:.2">
+             span="Hesiod Theogony: s-328">
       <word id="1"
             form="ἀμφὶ"
             lemma="ἀμφί1"
@@ -45466,7 +45466,7 @@
    <sentence id="2273997"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.780-1.781"
-             span="παῦρα0:.3">
+             span="Hesiod Theogony: s-329">
       <word id="1"
             form="παῦρα"
             lemma="παῦρος1"
@@ -45578,7 +45578,7 @@
    <sentence id="2273998"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.782-1.787"
-             span="ὁππότ᾽0::3">
+             span="Hesiod Theogony: s-330">
       <word id="1"
             form="ὁππότ᾽"
             lemma="ὁπότε1"
@@ -45865,7 +45865,7 @@
    <sentence id="2273999"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.787-1.789"
-             span="πολλὸν0::4">
+             span="Hesiod Theogony: s-331">
       <word id="1"
             form="πολλὸν"
             lemma="πολύς1"
@@ -45975,7 +45975,7 @@
    <sentence id="2274000"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.789"
-             span="δεκάτη0::5">
+             span="Hesiod Theogony: s-332">
       <word id="1"
             form="δεκάτη"
             lemma="δέκατος1"
@@ -46022,7 +46022,7 @@
    <sentence id="2274001"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.790-1.792"
-             span="ἐννέα0:.4">
+             span="Hesiod Theogony: s-333">
       <word id="1"
             form="ἐννέα"
             lemma="ἐννέα1"
@@ -46218,7 +46218,7 @@
    <sentence id="2274002"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.793-1.795"
-             span="ὅς0::6">
+             span="Hesiod Theogony: s-334">
       <word id="1"
             form="ὅς"
             lemma="ὅς1"
@@ -46363,7 +46363,7 @@
    <sentence id="2274003"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.796-1.798"
-             span="οὐδέ0:.5">
+             span="Hesiod Theogony: s-335">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -46550,7 +46550,7 @@
    <sentence id="2274004"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.799-1.800"
-             span="αὐτὰρ0:.6">
+             span="Hesiod Theogony: s-336">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -46667,7 +46667,7 @@
    <sentence id="2274005"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.801-1.803"
-             span="εἰνάετες0::7">
+             span="Hesiod Theogony: s-337">
       <word id="1"
             form="εἰνάετες"
             lemma="εἰναετής1"
@@ -46837,7 +46837,7 @@
    <sentence id="2274006"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.803-1.804"
-             span="δεκάτῳ0:.7">
+             span="Hesiod Theogony: s-338">
       <word id="1"
             form="δεκάτῳ"
             lemma="δέκατος1"
@@ -46942,7 +46942,7 @@
    <sentence id="2274007"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.805-1.806"
-             span="τοῖον0:.8">
+             span="Hesiod Theogony: s-339">
       <word id="1"
             form="τοῖον"
             lemma="τοῖος1"
@@ -47066,7 +47066,7 @@
    <sentence id="2274008"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.807-1.810"
-             span="ἔνθα0:.0">
+             span="Hesiod Theogony: s-340">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -47276,7 +47276,7 @@
    <sentence id="2274009"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.811-1.813"
-             span="ἔνθα1::0">
+             span="Hesiod Theogony: s-341">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα1"
@@ -47402,7 +47402,7 @@
    <sentence id="2274010"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.813-1.814"
-             span="πρόσθεν0:.1">
+             span="Hesiod Theogony: s-342">
       <word id="1"
             form="πρόσθεν"
             lemma="πρόσθεν1"
@@ -47491,7 +47491,7 @@
    <sentence id="2274011"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.815-1.817"
-             span="αὐτὰρ0::1">
+             span="Hesiod Theogony: s-343">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -47608,7 +47608,7 @@
    <sentence id="2274012"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.817-1.819"
-             span="Βριάρεών0:.2">
+             span="Hesiod Theogony: s-344">
       <word id="1"
             form="Βριάρεών"
             lemma="βριάρεως1"
@@ -47746,7 +47746,7 @@
    <sentence id="2274013"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.820-1.822"
-             span="αὐτὰρ0::0">
+             span="Hesiod Theogony: s-345">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -47907,7 +47907,7 @@
    <sentence id="2274014"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.823-1.824"
-             span="οὗ0::1">
+             span="Hesiod Theogony: s-346">
       <word id="1"
             form="οὗ"
             lemma="ἕ1"
@@ -48033,7 +48033,7 @@
    <sentence id="2274015"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.824-1.827"
-             span="ἐκ0::2">
+             span="Hesiod Theogony: s-347">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -48227,7 +48227,7 @@
    <sentence id="2274016"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.828"
-             span="πασέων0::3">
+             span="Hesiod Theogony: s-348">
       <word id="1"
             form="πασέων"
             lemma="πᾶς1"
@@ -48288,7 +48288,7 @@
    <sentence id="2274017"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.829-1.830"
-             span="φωναὶ0::4">
+             span="Hesiod Theogony: s-349">
       <word id="1"
             form="φωναὶ"
             lemma="φωνή1"
@@ -48377,7 +48377,7 @@
    <sentence id="2274018"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.830-1.835"
-             span="ἄλλοτε0:.0">
+             span="Hesiod Theogony: s-350">
       <word id="1"
             form="ἄλλοτε"
             lemma="ἄλλοτε1"
@@ -48754,7 +48754,7 @@
    <sentence id="2274019"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.836-1.838"
-             span="καί0:.1">
+             span="Hesiod Theogony: s-351">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -48955,7 +48955,7 @@
    <sentence id="2274020"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.839-1.841"
-             span="σκληρὸν0:.2">
+             span="Hesiod Theogony: s-352">
       <word id="1"
             form="σκληρὸν"
             lemma="σκληρός1"
@@ -49128,7 +49128,7 @@
    <sentence id="2274021"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.842-1.843"
-             span="ποσσὶ0::5">
+             span="Hesiod Theogony: s-353">
       <word id="1"
             form="ποσσὶ"
             lemma="πούς1"
@@ -49203,7 +49203,7 @@
    <sentence id="2274022"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.843"
-             span="ἐπεστενάχιζε0:.3">
+             span="Hesiod Theogony: s-354">
       <word id="1"
             form="ἐπεστενάχιζε"
             lemma="ἐπιστοναχίζω1"
@@ -49236,7 +49236,7 @@
    <sentence id="2274023"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.844-1.846"
-             span="καῦμα0:.4">
+             span="Hesiod Theogony: s-355">
       <word id="1"
             form="καῦμα"
             lemma="καῦμα1"
@@ -49416,7 +49416,7 @@
    <sentence id="2274024"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.847"
-             span="ἔζεε0::6">
+             span="Hesiod Theogony: s-356">
       <word id="1"
             form="ἔζεε"
             lemma="ζέω1"
@@ -49484,7 +49484,7 @@
    <sentence id="2274025"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.848-1.849"
-             span="θυῖε0::7">
+             span="Hesiod Theogony: s-357">
       <word id="1"
             form="θυῖε"
             lemma="θυίω1"
@@ -49629,7 +49629,7 @@
    <sentence id="2274026"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.850-1.852"
-             span="τρέε0:.5">
+             span="Hesiod Theogony: s-358">
       <word id="1"
             form="τρέε"
             lemma="τρέω1"
@@ -49788,7 +49788,7 @@
    <sentence id="2274027"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.853-1.855"
-             span="Ζεὺς0::0">
+             span="Hesiod Theogony: s-359">
       <word id="1"
             form="Ζεὺς"
             lemma="Ζεύς1"
@@ -49968,7 +49968,7 @@
    <sentence id="2274028"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.855-1.856"
-             span="ἀμφὶ0:.0">
+             span="Hesiod Theogony: s-360">
       <word id="1"
             form="ἀμφὶ"
             lemma="ἀμφί1"
@@ -50036,7 +50036,7 @@
    <sentence id="2274029"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.857-1.858"
-             span="αὐτὰρ0:.1">
+             span="Hesiod Theogony: s-361">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -50153,7 +50153,7 @@
    <sentence id="2274030"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.859-1.861"
-             span="φλὸξ0:.2">
+             span="Hesiod Theogony: s-362">
       <word id="1"
             form="φλὸξ"
             lemma="φλόξ1"
@@ -50256,7 +50256,7 @@
    <sentence id="2274031"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.861-1.864"
-             span="πολλὴ0:.3">
+             span="Hesiod Theogony: s-363">
       <word id="1"
             form="πολλὴ"
             lemma="πολύς1"
@@ -50459,7 +50459,7 @@
    <sentence id="2274032"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.865-1.866"
-             span="οὔρεος1:.4">
+             span="Hesiod Theogony: s-364">
       <word id="1"
             form="οὔρεος"
             lemma="ὄρος1"
@@ -50562,7 +50562,7 @@
    <sentence id="2274033"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.867"
-             span="ὣς1:.5">
+             span="Hesiod Theogony: s-365">
       <word id="1"
             form="ὣς"
             lemma="ὡς1"
@@ -50623,7 +50623,7 @@
    <sentence id="2274034"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.868"
-             span="ῥῖψε0:.6">
+             span="Hesiod Theogony: s-366">
       <word id="1"
             form="ῥῖψε"
             lemma="ῥίπτω1"
@@ -50691,7 +50691,7 @@
    <sentence id="2274035"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.869-1.870"
-             span="ἐκ0::1">
+             span="Hesiod Theogony: s-367">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -50815,7 +50815,7 @@
    <sentence id="2274036"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.871"
-             span="οἵ0::2">
+             span="Hesiod Theogony: s-368">
       <word id="1"
             form="οἵ"
             lemma="ὁ1"
@@ -50906,7 +50906,7 @@
    <sentence id="2274037"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.872"
-             span="οἱ0::3">
+             span="Hesiod Theogony: s-369">
       <word id="1"
             form="οἱ"
             lemma="ὁ1"
@@ -50969,7 +50969,7 @@
    <sentence id="2274038"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.873-1.874"
-             span="αἳ0::4">
+             span="Hesiod Theogony: s-370">
       <word id="1"
             form="αἳ"
             lemma="ὁ1"
@@ -51086,7 +51086,7 @@
    <sentence id="2274039"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.875-1.876"
-             span="ἄλλοτε0::5">
+             span="Hesiod Theogony: s-371">
       <word id="1"
             form="ἄλλοτε"
             lemma="ἄλλοτε1"
@@ -51168,7 +51168,7 @@
    <sentence id="2274040"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.876-1.877"
-             span="κακοῦ0::6">
+             span="Hesiod Theogony: s-372">
       <word id="1"
             form="κακοῦ"
             lemma="κακός1"
@@ -51264,7 +51264,7 @@
    <sentence id="2274041"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.878-1.880"
-             span="αἳ1:.7">
+             span="Hesiod Theogony: s-373">
       <word id="1"
             form="αἳ"
             lemma="ὁ1"
@@ -51409,7 +51409,7 @@
    <sentence id="2274042"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.881-1.885"
-             span="αὐτὰρ1::7">
+             span="Hesiod Theogony: s-374">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -51610,7 +51610,7 @@
    <sentence id="2274043"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.885"
-             span="ὃ0:.8">
+             span="Hesiod Theogony: s-375">
       <word id="1"
             form="ὃ"
             lemma="ὁ1"
@@ -51664,7 +51664,7 @@
    <sentence id="2274044"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.886-1.887"
-             span="Ζεὺς0:.0">
+             span="Hesiod Theogony: s-376">
       <word id="1"
             form="Ζεὺς"
             lemma="Ζεύς1"
@@ -51783,7 +51783,7 @@
    <sentence id="2274045"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.888-1.891"
-             span="ἀλλ᾽0:.1">
+             span="Hesiod Theogony: s-377">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -51979,7 +51979,7 @@
    <sentence id="2274046"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.892-1.893"
-             span="τὼς0:.2">
+             span="Hesiod Theogony: s-378">
       <word id="1"
             form="τὼς"
             lemma="τώς1"
@@ -52096,7 +52096,7 @@
    <sentence id="2274047"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.894"
-             span="ἐκ0::0">
+             span="Hesiod Theogony: s-379">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -52157,7 +52157,7 @@
    <sentence id="2274048"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.895-1.896"
-             span="πρώτην1:.3">
+             span="Hesiod Theogony: s-380">
       <word id="1"
             form="πρώτην"
             lemma="πρότερος1"
@@ -52271,7 +52271,7 @@
    <sentence id="2274049"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.897-1.898"
-             span="αὐτὰρ0::1">
+             span="Hesiod Theogony: s-381">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -52390,7 +52390,7 @@
    <sentence id="2274050"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.899-1.900"
-             span="ἀλλ᾽1:.4">
+             span="Hesiod Theogony: s-382">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -52528,7 +52528,7 @@
    <sentence id="2274051"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.901-1.906"
-             span="δεύτερον0:.0">
+             span="Hesiod Theogony: s-383">
       <word id="1"
             form="δεύτερον"
             lemma="δεύτερος1"
@@ -52892,7 +52892,7 @@
    <sentence id="2274052"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.907-1.909"
-             span="τρεῖς0::0">
+             span="Hesiod Theogony: s-384">
       <word id="1"
             form="τρεῖς"
             lemma="τρεῖς1"
@@ -53058,7 +53058,7 @@
    <sentence id="2274053"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.910-1.911"
-             span="τῶν0::1">
+             span="Hesiod Theogony: s-385">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -53126,7 +53126,7 @@
    <sentence id="2274054"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.911"
-             span="καλὸν0:.1">
+             span="Hesiod Theogony: s-386">
       <word id="1"
             form="καλὸν"
             lemma="καλός1"
@@ -53180,7 +53180,7 @@
    <sentence id="2274055"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.912-1.914"
-             span="αὐτὰρ0::2">
+             span="Hesiod Theogony: s-387">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -53325,7 +53325,7 @@
    <sentence id="2274056"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.914"
-             span="ἔδωκε0:.2">
+             span="Hesiod Theogony: s-388">
       <word id="1"
             form="ἔδωκε"
             lemma="δίδωμι1"
@@ -53365,7 +53365,7 @@
    <sentence id="2274057"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.915-1.917"
-             span="μνημοσύνης0:.3">
+             span="Hesiod Theogony: s-389">
       <word id="1"
             form="μνημοσύνης"
             lemma="μνημοσύνη1"
@@ -53517,7 +53517,7 @@
    <sentence id="2274058"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.918-1.920"
-             span="Λητὼ0:.4">
+             span="Hesiod Theogony: s-390">
       <word id="1"
             form="Λητὼ"
             lemma="Λητώ1"
@@ -53662,7 +53662,7 @@
    <sentence id="2274059"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.921"
-             span="λοισθοτάτην0::3">
+             span="Hesiod Theogony: s-391">
       <word id="1"
             form="λοισθοτάτην"
             lemma="λοῖσθος1"
@@ -53716,7 +53716,7 @@
    <sentence id="2274060"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.922-1.923"
-             span="ἣ2:.5">
+             span="Hesiod Theogony: s-392">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -53833,7 +53833,7 @@
    <sentence id="2274061"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.924-1.929"
-             span="αὐτὸς0:.6">
+             span="Hesiod Theogony: s-393">
       <word id="1"
             form="αὐτὸς"
             lemma="αὐτός1"
@@ -54148,7 +54148,7 @@
    <sentence id="2274062"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.929.1"
-             span="Ἥρη1:.7">
+             span="Hesiod Theogony: s-394">
       <word id="1"
             form="Ἥρη"
             lemma="Ἥρα1"
@@ -54209,7 +54209,7 @@
    <sentence id="2274063"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.929.2-1.929.4"
-             span="ἐκ2::4">
+             span="Hesiod Theogony: s-395">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -54377,7 +54377,7 @@
    <sentence id="2274064"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.929.5-1.929.7"
-             span="αὐτὰρ1:.8">
+             span="Hesiod Theogony: s-396">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -54515,7 +54515,7 @@
    <sentence id="2274065"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.929.8-1.929.9"
-             span="συμμάρψας0:.9">
+             span="Hesiod Theogony: s-397">
       <word id="1"
             form="συμμάρψας"
             lemma="συμμάρπτω1"
@@ -54632,7 +54632,7 @@
    <sentence id="2274066"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.929.10-1.929.11"
-             span="τοὔνεκά0::5">
+             span="Hesiod Theogony: s-398">
       <word id="1"
             form="τοὔνεκά"
             lemma="τοὔνεκα1"
@@ -54700,7 +54700,7 @@
    <sentence id="2274067"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.929.11-1.929.12"
-             span="ἣ4::6">
+             span="Hesiod Theogony: s-399">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -54754,7 +54754,7 @@
    <sentence id="2274068"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.929.12-1.929.13"
-             span="τὴν0:.10">
+             span="Hesiod Theogony: s-400">
       <word id="1"
             form="τὴν"
             lemma="ὁ1"
@@ -54864,7 +54864,7 @@
    <sentence id="2274069"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.929.14-1.929.19"
-             span="Μῆτις0::7">
+             span="Hesiod Theogony: s-401">
       <word id="1"
             form="Μῆτις"
             lemma="μῆτις1"
@@ -55172,7 +55172,7 @@
    <sentence id="2274070"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.929.20"
-             span="]0:.11">
+             span="Hesiod Theogony: s-402">
       <word id="1"
             form="]"
             lemma="βραξκετ1"
@@ -55240,7 +55240,7 @@
    <sentence id="2274071"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.930-1.933"
-             span="Ἐκ0:.12">
+             span="Hesiod Theogony: s-403">
       <word id="1"
             form="Ἐκ"
             lemma="ἐκ1"
@@ -55441,7 +55441,7 @@
    <sentence id="2274072"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.933-1.937"
-             span="αὐτὰρ2:.13">
+             span="Hesiod Theogony: s-404">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -55663,7 +55663,7 @@
    <sentence id="2274073"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.938-1.939"
-             span="Ζηνὶ0:.0">
+             span="Hesiod Theogony: s-405">
       <word id="1"
             form="Ζηνὶ"
             lemma="Ζεύς1"
@@ -55780,7 +55780,7 @@
    <sentence id="2274074"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.940-1.942"
-             span="Καδμείη0::0">
+             span="Hesiod Theogony: s-406">
       <word id="1"
             form="Καδμείη"
             lemma="Καδμεῖος1"
@@ -55911,7 +55911,7 @@
    <sentence id="2274075"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.942"
-             span="νῦν0:.1">
+             span="Hesiod Theogony: s-407">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -55958,7 +55958,7 @@
    <sentence id="2274076"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.943-1.944"
-             span="Ἀλκμήνη0:.2">
+             span="Hesiod Theogony: s-408">
       <word id="1"
             form="Ἀλκμήνη"
             lemma="Ἀλκμήνη1"
@@ -56047,7 +56047,7 @@
    <sentence id="2274077"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.945-1.946"
-             span="ἀγλαΐην0:.3">
+             span="Hesiod Theogony: s-409">
       <word id="1"
             form="ἀγλαΐην"
             lemma="ἀγλαία1"
@@ -56143,7 +56143,7 @@
    <sentence id="2274078"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.947-1.948"
-             span="χρυσοκόμης0:.4">
+             span="Hesiod Theogony: s-410">
       <word id="1"
             form="χρυσοκόμης"
             lemma="χρυσοκόμης1"
@@ -56239,7 +56239,7 @@
    <sentence id="2274079"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.949"
-             span="τὴν0:.5">
+             span="Hesiod Theogony: s-411">
       <word id="1"
             form="τὴν"
             lemma="ὁ1"
@@ -56307,7 +56307,7 @@
    <sentence id="2274080"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.950-1.955"
-             span="ἥβην0:.6">
+             span="Hesiod Theogony: s-412">
       <word id="1"
             form="ἥβην"
             lemma="ἥβη1"
@@ -56613,7 +56613,7 @@
    <sentence id="2274081"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.956-1.957"
-             span="ἠελίῳ0:.7">
+             span="Hesiod Theogony: s-413">
       <word id="1"
             form="ἠελίῳ"
             lemma="ἠέλιος1"
@@ -56709,7 +56709,7 @@
    <sentence id="2274082"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.958-1.960"
-             span="Αἰήτης0:.8">
+             span="Hesiod Theogony: s-414">
       <word id="1"
             form="Αἰήτης"
             lemma="Αἰήτης1"
@@ -56837,7 +56837,7 @@
    <sentence id="2274083"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.961-1.962"
-             span="ἣ0:.9">
+             span="Hesiod Theogony: s-415">
       <word id="1"
             form="ἣ"
             lemma="ὁ1"
@@ -56933,7 +56933,7 @@
    <sentence id="2274084"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.963-1.964"
-             span="ὑμεῖς0:.0">
+             span="Hesiod Theogony: s-416">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ1"
@@ -57064,7 +57064,7 @@
    <sentence id="2274085"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.965-1.968"
-             span="νῦν1:.1">
+             span="Hesiod Theogony: s-417">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -57251,7 +57251,7 @@
    <sentence id="2274086"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.969-1.973"
-             span="Δημήτηρ0::0">
+             span="Hesiod Theogony: s-418">
       <word id="1"
             form="Δημήτηρ"
             lemma="Δημήτηρ1"
@@ -57501,7 +57501,7 @@
    <sentence id="2274087"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.973-1.974"
-             span="τῷ0:.2">
+             span="Hesiod Theogony: s-419">
       <word id="1"
             form="τῷ"
             lemma="ὁ1"
@@ -57653,7 +57653,7 @@
    <sentence id="2274088"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.975-1.978"
-             span="Κάδμῳ0:.3">
+             span="Hesiod Theogony: s-420">
       <word id="1"
             form="Κάδμῳ"
             lemma="Κάδμος1"
@@ -57861,7 +57861,7 @@
    <sentence id="2274089"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.979-1.983"
-             span="κούρη0:.4">
+             span="Hesiod Theogony: s-421">
       <word id="1"
             form="κούρη"
             lemma="κόρη1"
@@ -58090,7 +58090,7 @@
    <sentence id="2274090"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.984-1.985"
-             span="Τιθωνῷ0:.5">
+             span="Hesiod Theogony: s-422">
       <word id="1"
             form="Τιθωνῷ"
             lemma="Τιθωνός1"
@@ -58193,7 +58193,7 @@
    <sentence id="2274091"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.986-1.987"
-             span="αὐτὰρ0:.6">
+             span="Hesiod Theogony: s-423">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -58296,7 +58296,7 @@
    <sentence id="2274092"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.988-1.991"
-             span="τόν0:.7">
+             span="Hesiod Theogony: s-424">
       <word id="1"
             form="τόν"
             lemma="ὁ1"
@@ -58506,7 +58506,7 @@
    <sentence id="2274093"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.992-1.996"
-             span="κούρην0:.8">
+             span="Hesiod Theogony: s-425">
       <word id="1"
             form="κούρην"
             lemma="κόρη1"
@@ -58737,7 +58737,7 @@
    <sentence id="2274094"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.997-1.999"
-             span="τοὺς1:.9">
+             span="Hesiod Theogony: s-426">
       <word id="1"
             form="τοὺς"
             lemma="ὁ1"
@@ -58896,7 +58896,7 @@
    <sentence id="2274095"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1000-1.1002"
-             span="καί2::1">
+             span="Hesiod Theogony: s-427">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -59066,7 +59066,7 @@
    <sentence id="2274096"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1002"
-             span="μεγάλου0:.10">
+             span="Hesiod Theogony: s-428">
       <word id="1"
             form="μεγάλου"
             lemma="μέγας1"
@@ -59113,7 +59113,7 @@
    <sentence id="2274097"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1003"
-             span="αὐτὰρ0:,:0">
+             span="Hesiod Theogony: s-429">
       <word id="1"
             form="αὐτὰρ"
             lemma="ἀτάρ1"
@@ -59155,7 +59155,7 @@
    <sentence id="2274098"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1003-1.1007"
-             span="ἁλίοιο0:.0">
+             span="Hesiod Theogony: s-430">
       <word id="1"
             form="ἁλίοιο"
             lemma="ἅλιος1"
@@ -59399,7 +59399,7 @@
    <sentence id="2274099"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1008-1.1010"
-             span="Αἰνείαν0:.1">
+             span="Hesiod Theogony: s-431">
       <word id="1"
             form="Αἰνείαν"
             lemma="Αἰνείας1"
@@ -59523,7 +59523,7 @@
    <sentence id="2274100"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1011-1.1013"
-             span="Κίρκη0::0">
+             span="Hesiod Theogony: s-432">
       <word id="1"
             form="Κίρκη"
             lemma="Κίρκη1"
@@ -59677,7 +59677,7 @@
    <sentence id="2274101"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1014"
-             span="[Τηλέγονον0:.2">
+             span="Hesiod Theogony: s-433">
       <word id="1"
             form="[Τηλέγονον"
             lemma="Τηλέγονος"
@@ -59738,7 +59738,7 @@
    <sentence id="2274102"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1015-1.1016"
-             span="]0:.3">
+             span="Hesiod Theogony: s-434">
       <word id="1"
             form="]"
             lemma="βραξκετ1"
@@ -59841,7 +59841,7 @@
    <sentence id="2274103"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1017-1.1018"
-             span="Ναυσίθοον0:.4">
+             span="Hesiod Theogony: s-435">
       <word id="1"
             form="Ναυσίθοον"
             lemma="Ναυσίθοος1"
@@ -59946,7 +59946,7 @@
    <sentence id="2274104"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1019-1.1020"
-             span="αὗται0:.5">
+             span="Hesiod Theogony: s-436">
       <word id="1"
             form="αὗται"
             lemma="οὗτος1"
@@ -60035,7 +60035,7 @@
    <sentence id="2274105"
              document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1"
              subdoc="1.1021-1.1022"
-             span="νῦν0:.6">
+             span="Hesiod Theogony: s-437">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"

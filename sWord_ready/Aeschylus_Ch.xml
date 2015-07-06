@@ -11,7 +11,7 @@
    <sentence id="2895783"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="1-2"
-             span="Ἑρμῆ0::0">
+             span="Aeschylus Ch: s-1">
       <word id="1"
             form="Ἑρμῆ"
             lemma="Ἑρμῆς1"
@@ -114,7 +114,7 @@
    <sentence id="2895784"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="3"
-             span="ἥκω0:.0">
+             span="Aeschylus Ch: s-2">
       <word id="1"
             form="ἥκω"
             lemma="ἥκω1"
@@ -175,7 +175,7 @@
    <sentence id="2895785"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="4-7"
-             span="τύμβου0:.1">
+             span="Aeschylus Ch: s-3">
       <word id="1"
             form="τύμβου"
             lemma="τύμβος1"
@@ -287,7 +287,7 @@
    <sentence id="2895786"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="8"
-             span="τὸν0:πενθητήριον0">
+             span="Aeschylus Ch: s-4">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -336,7 +336,7 @@
    <sentence id="2895787"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="10-11"
-             span="οὐ0:.2">
+             span="Aeschylus Ch: s-5">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -460,7 +460,7 @@
    <sentence id="2895788"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="10"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-6">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -493,7 +493,7 @@
    <sentence id="2895789"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="10-12"
-             span="τίς0:;1">
+             span="Aeschylus Ch: s-7">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -568,7 +568,7 @@
    <sentence id="2895790"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="12"
-             span="ποίᾳ0:;2">
+             span="Aeschylus Ch: s-8">
       <word id="1"
             form="ποίᾳ"
             lemma="ποῖος1"
@@ -601,7 +601,7 @@
    <sentence id="2895791"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="13"
-             span="πότερα0:;3">
+             span="Aeschylus Ch: s-9">
       <word id="1"
             form="πότερα"
             lemma="πότερος1"
@@ -648,7 +648,7 @@
    <sentence id="2895792"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="14-15"
-             span="ἢ0:;4">
+             span="Aeschylus Ch: s-10">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -739,7 +739,7 @@
    <sentence id="2895793"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="16"
-             span="οὐδέν0::1">
+             span="Aeschylus Ch: s-11">
       <word id="1"
             form="οὐδέν"
             lemma="οὐδείς1"
@@ -781,7 +781,7 @@
    <sentence id="2895794"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="16-18"
-             span="καὶ1:.3">
+             span="Aeschylus Ch: s-12">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -879,7 +879,7 @@
    <sentence id="2895795"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="18-19"
-             span="ὦ0:.4">
+             span="Aeschylus Ch: s-13">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -989,7 +989,7 @@
    <sentence id="2895796"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="20-21"
-             span="Πυλάδη0:.5">
+             span="Aeschylus Ch: s-14">
       <word id="1"
             form="Πυλάδη"
             lemma="Πυλάδης"
@@ -1101,7 +1101,7 @@
    <sentence id="2895797"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="22-23"
-             span="ἰαλτὸς0:.0">
+             span="Aeschylus Ch: s-15">
       <word id="1"
             form="ἰαλτὸς"
             lemma="ἰαλτός"
@@ -1176,7 +1176,7 @@
    <sentence id="2895798"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="24-25"
-             span="πρέπει0::0">
+             span="Aeschylus Ch: s-16">
       <word id="1"
             form="πρέπει"
             lemma="πρέπω1"
@@ -1246,7 +1246,7 @@
    <sentence id="2895799"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="26"
-             span="δι᾽0:.1">
+             span="Aeschylus Ch: s-17">
       <word id="1"
             form="δι᾽"
             lemma="διά1"
@@ -1300,7 +1300,7 @@
    <sentence id="2895800"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="27-31"
-             span="λινοφθόροι0:.2">
+             span="Aeschylus Ch: s-18">
       <word id="1"
             form="λινοφθόροι"
             lemma="λινοφθόρος1"
@@ -1410,7 +1410,7 @@
    <sentence id="2895801"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="32-36"
-             span="τορὸς0:.0">
+             span="Aeschylus Ch: s-19">
       <word id="1"
             form="τορὸς"
             lemma="τορός1"
@@ -1590,7 +1590,7 @@
    <sentence id="2895802"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="37-41"
-             span="κριταί0:.1">
+             span="Aeschylus Ch: s-20">
       <word id="1"
             form="κριταί"
             lemma="κριτής1"
@@ -1714,7 +1714,7 @@
    <sentence id="2895803"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="42-46"
-             span="τοιάνδε0:.0">
+             span="Aeschylus Ch: s-21">
       <word id="1"
             form="τοιάνδε"
             lemma="τοιόσδε1"
@@ -1831,7 +1831,7 @@
    <sentence id="2895804"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="46-47"
-             span="φοβοῦ-0:.1">
+             span="Aeschylus Ch: s-22">
       <word id="1"
             form="φοβοῦ-"
             lemma="οτηερ"
@@ -1885,7 +1885,7 @@
    <sentence id="2895805"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="48"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-23">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -1948,7 +1948,7 @@
    <sentence id="2895806"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="49-50"
-             span="ἰὼ1:.2">
+             span="Aeschylus Ch: s-24">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -2018,7 +2018,7 @@
    <sentence id="2895807"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="51-53"
-             span="ἀνήλιοι0:.3">
+             span="Aeschylus Ch: s-25">
       <word id="1"
             form="ἀνήλιοι"
             lemma="ἀνήλιος1"
@@ -2079,7 +2079,7 @@
    <sentence id="2895808"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="55-58"
-             span="σέβας0:.0">
+             span="Aeschylus Ch: s-26">
       <word id="1"
             form="σέβας"
             lemma="σέβας1"
@@ -2196,7 +2196,7 @@
    <sentence id="2895809"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="58-59"
-             span="φοβεῖ-0:.1">
+             span="Aeschylus Ch: s-27">
       <word id="1"
             form="φοβεῖ-"
             lemma="φοβέω"
@@ -2236,7 +2236,7 @@
    <sentence id="2895810"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="59-60"
-             span="τὸ1:.2">
+             span="Aeschylus Ch: s-28">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -2341,7 +2341,7 @@
    <sentence id="2895811"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="61-65"
-             span="ῥοπὴ0:.3">
+             span="Aeschylus Ch: s-29">
       <word id="1"
             form="ῥοπὴ"
             lemma="ῥοπή1"
@@ -2528,7 +2528,7 @@
    <sentence id="2895812"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="66-67"
-             span="δι᾽0:.0">
+             span="Aeschylus Ch: s-30">
       <word id="1"
             form="δι᾽"
             lemma="διά1"
@@ -2617,7 +2617,7 @@
    <sentence id="2895813"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="68-70"
-             span="διαλγὴς0:.1">
+             span="Aeschylus Ch: s-31">
       <word id="1"
             form="διαλγὴς"
             lemma="διαλγής1"
@@ -2692,7 +2692,7 @@
    <sentence id="2895814"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="71-74"
-             span="θιγόντι0:.0">
+             span="Aeschylus Ch: s-32">
       <word id="1"
             form="θιγόντι"
             lemma="θιγγάνω1"
@@ -2860,7 +2860,7 @@
    <sentence id="2895815"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="75-76"
-             span="ἐμοὶ0::0">
+             span="Aeschylus Ch: s-33">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ1"
@@ -2937,7 +2937,7 @@
    <sentence id="2895816"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="76-81"
-             span="[0:.0">
+             span="Aeschylus Ch: s-34">
       <word id="1"
             form="["
             lemma="οτηερ"
@@ -3112,7 +3112,7 @@
    <sentence id="2895817"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="82-83b"
-             span="δακρύω0:.1">
+             span="Aeschylus Ch: s-35">
       <word id="1"
             form="δακρύω"
             lemma="δακρύω1"
@@ -3201,7 +3201,7 @@
    <sentence id="2895818"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="84-86"
-             span="δμωαὶ0::0">
+             span="Aeschylus Ch: s-36">
       <word id="1"
             form="δμωαὶ"
             lemma="δμωή1"
@@ -3332,7 +3332,7 @@
    <sentence id="2895819"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="87"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-37">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -3386,7 +3386,7 @@
    <sentence id="2895820"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="88"
-             span="πῶς0:;1">
+             span="Aeschylus Ch: s-38">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -3447,7 +3447,7 @@
    <sentence id="2895821"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="89-90"
-             span="πότερα0:;2">
+             span="Aeschylus Ch: s-39">
       <word id="1"
             form="πότερα"
             lemma="πότερος1"
@@ -3559,7 +3559,7 @@
    <sentence id="2895822"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="91-92"
-             span="τῶνδ᾽0:.0">
+             span="Aeschylus Ch: s-40">
       <word id="1"
             form="τῶνδ᾽"
             lemma="ὅδε1"
@@ -3690,7 +3690,7 @@
    <sentence id="2895823"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="93-95"
-             span="ἢ0:;3">
+             span="Aeschylus Ch: s-41">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -3858,7 +3858,7 @@
    <sentence id="2895824"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="96-99"
-             span="ἢ1:;4">
+             span="Aeschylus Ch: s-42">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -4054,7 +4054,7 @@
    <sentence id="2895825"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="100"
-             span="τῆσδ᾽0::1">
+             span="Aeschylus Ch: s-43">
       <word id="1"
             form="τῆσδ᾽"
             lemma="ὅδε1"
@@ -4122,7 +4122,7 @@
    <sentence id="2895826"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="101"
-             span="κοινὸν0:.1">
+             span="Aeschylus Ch: s-44">
       <word id="1"
             form="κοινὸν"
             lemma="κοινός1"
@@ -4176,7 +4176,7 @@
    <sentence id="2895827"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="102"
-             span="μὴ0:.2">
+             span="Aeschylus Ch: s-45">
       <word id="1"
             form="μὴ"
             lemma="μή1"
@@ -4230,7 +4230,7 @@
    <sentence id="2895828"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="103-104"
-             span="τὸ0:.3">
+             span="Aeschylus Ch: s-46">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -4333,7 +4333,7 @@
    <sentence id="2895829"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="105"
-             span="λέγοις0:.4">
+             span="Aeschylus Ch: s-47">
       <word id="1"
             form="λέγοις"
             lemma="λέγω3"
@@ -4401,7 +4401,7 @@
    <sentence id="2895830"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="106-107"
-             span="αἰδουμένη0:.0">
+             span="Aeschylus Ch: s-48">
       <word id="1"
             form="αἰδουμένη"
             lemma="αἰδέομαι1"
@@ -4527,7 +4527,7 @@
    <sentence id="2895831"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="108"
-             span="λέγοις0:.1">
+             span="Aeschylus Ch: s-49">
       <word id="1"
             form="λέγοις"
             lemma="λέγω3"
@@ -4588,7 +4588,7 @@
    <sentence id="2895832"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="109"
-             span="φθέγγου0:.2">
+             span="Aeschylus Ch: s-50">
       <word id="1"
             form="φθέγγου"
             lemma="φθέγγομαι1"
@@ -4635,7 +4635,7 @@
    <sentence id="2895833"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="110"
-             span="τίνας0:;0">
+             span="Aeschylus Ch: s-51">
       <word id="1"
             form="τίνας"
             lemma="τίς"
@@ -4689,7 +4689,7 @@
    <sentence id="2895834"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="111"
-             span="πρῶτον0:.3">
+             span="Aeschylus Ch: s-52">
       <word id="1"
             form="πρῶτον"
             lemma="πρῶτος1"
@@ -4752,7 +4752,7 @@
    <sentence id="2895835"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="112"
-             span="ἐμοί0:;1">
+             span="Aeschylus Ch: s-53">
       <word id="1"
             form="ἐμοί"
             lemma="ἐγώ1"
@@ -4813,7 +4813,7 @@
    <sentence id="2895836"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="113"
-             span="αὐτὴ0:.4">
+             span="Aeschylus Ch: s-54">
       <word id="1"
             form="αὐτὴ"
             lemma="αὐτός1"
@@ -4867,7 +4867,7 @@
    <sentence id="2895837"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="114"
-             span="τίν᾽0:;2">
+             span="Aeschylus Ch: s-55">
       <word id="1"
             form="τίν᾽"
             lemma="τίς"
@@ -4928,7 +4928,7 @@
    <sentence id="2895838"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="115"
-             span="μέμνησ᾽0:.5">
+             span="Aeschylus Ch: s-56">
       <word id="1"
             form="μέμνησ᾽"
             lemma="μιμνήσκω1"
@@ -4989,7 +4989,7 @@
    <sentence id="2895839"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="116"
-             span="εὖ0:.6">
+             span="Aeschylus Ch: s-57">
       <word id="1"
             form="εὖ"
             lemma="εὖ1"
@@ -5059,7 +5059,7 @@
    <sentence id="2895840"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="117"
-             span="τοῖς0:-0">
+             span="Aeschylus Ch: s-58">
       <word id="1"
             form="τοῖς"
             lemma="ὁ1"
@@ -5122,7 +5122,7 @@
    <sentence id="2895841"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="118"
-             span="τί0:;3">
+             span="Aeschylus Ch: s-59">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -5148,7 +5148,7 @@
    <sentence id="2895842"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="118"
-             span="δίδασκ᾽0:.7">
+             span="Aeschylus Ch: s-60">
       <word id="1"
             form="δίδασκ᾽"
             lemma="διδάσκω1"
@@ -5181,7 +5181,7 @@
    <sentence id="2895843"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="119"
-             span="ἐλθεῖν0:-1">
+             span="Aeschylus Ch: s-61">
       <word id="1"
             form="ἐλθεῖν"
             lemma="ἔρχομαι1"
@@ -5251,7 +5251,7 @@
    <sentence id="2895844"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="120"
-             span="πότερα0:;4">
+             span="Aeschylus Ch: s-62">
       <word id="1"
             form="πότερα"
             lemma="πότερος1"
@@ -5298,7 +5298,7 @@
    <sentence id="2895845"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="121"
-             span="ἅπλῶς0:.8">
+             span="Aeschylus Ch: s-63">
       <word id="1"
             form="ἅπλῶς"
             lemma="ἁπλόος"
@@ -5361,7 +5361,7 @@
    <sentence id="2895846"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="122"
-             span="καὶ1:;5">
+             span="Aeschylus Ch: s-64">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -5415,7 +5415,7 @@
    <sentence id="2895847"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="123"
-             span="πῶς0:;6">
+             span="Aeschylus Ch: s-65">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -5485,7 +5485,7 @@
    <sentence id="2895848"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="124-128"
-             span="κῆρυξ0::0">
+             span="Aeschylus Ch: s-66">
       <word id="1"
             form="κῆρυξ"
             lemma="κῆρυξ1"
@@ -5791,7 +5791,7 @@
    <sentence id="2895849"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="129-131"
-             span="κἀγὼ0::1">
+             span="Aeschylus Ch: s-67">
       <word id="1"
             form="κἀγὼ"
             lemma="ἐγώ1"
@@ -5915,7 +5915,7 @@
    <sentence id="2895850"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="131"
-             span="πῶς1:;7">
+             span="Aeschylus Ch: s-68">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -5948,7 +5948,7 @@
    <sentence id="2895851"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="132-134"
-             span="πεπραμένοι0:.9">
+             span="Aeschylus Ch: s-69">
       <word id="1"
             form="πεπραμένοι"
             lemma="πιπράσκω1"
@@ -6102,7 +6102,7 @@
    <sentence id="2895852"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="135"
-             span="κἀγὼ1::2">
+             span="Aeschylus Ch: s-70">
       <word id="1"
             form="κἀγὼ"
             lemma="ἐγώ1"
@@ -6144,7 +6144,7 @@
    <sentence id="2895853"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="135-137"
-             span="ἐκ1:.10">
+             span="Aeschylus Ch: s-71">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ1"
@@ -6268,7 +6268,7 @@
    <sentence id="2895854"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="138-139"
-             span="ἐλθεῖν1::3">
+             span="Aeschylus Ch: s-72">
       <word id="1"
             form="ἐλθεῖν"
             lemma="ἔρχομαι1"
@@ -6392,7 +6392,7 @@
    <sentence id="2895855"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="140-141"
-             span="αὐτῇ0:.11">
+             span="Aeschylus Ch: s-73">
       <word id="1"
             form="αὐτῇ"
             lemma="αὐτός1"
@@ -6481,7 +6481,7 @@
    <sentence id="2895856"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="142-144"
-             span="ἡμῖν0:.12">
+             span="Aeschylus Ch: s-74">
       <word id="1"
             form="ἡμῖν"
             lemma="ἐγώ1"
@@ -6649,7 +6649,7 @@
    <sentence id="2895857"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="145-146"
-             span="ταῦτ᾽0::4">
+             span="Aeschylus Ch: s-75">
       <word id="1"
             form="ταῦτ᾽"
             lemma="οὗτος1"
@@ -6759,7 +6759,7 @@
    <sentence id="2895858"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="147-148"
-             span="ἡμῖν1:.13">
+             span="Aeschylus Ch: s-76">
       <word id="1"
             form="ἡμῖν"
             lemma="ἐγώ1"
@@ -6876,7 +6876,7 @@
    <sentence id="2895859"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="149"
-             span="τοιαῖσδ᾽0:.14">
+             span="Aeschylus Ch: s-77">
       <word id="1"
             form="τοιαῖσδ᾽"
             lemma="τοιόσδε1"
@@ -6930,7 +6930,7 @@
    <sentence id="2895860"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="150-151"
-             span="ὑμᾶς0:.15">
+             span="Aeschylus Ch: s-78">
       <word id="1"
             form="ὑμᾶς"
             lemma="σύ"
@@ -7021,7 +7021,7 @@
    <sentence id="2895861"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="152-156"
-             span="ἵετε0:.0">
+             span="Aeschylus Ch: s-79">
       <word id="1"
             form="ἵετε"
             lemma="ἵημι1"
@@ -7159,7 +7159,7 @@
    <sentence id="2895862"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="156-157"
-             span="κλύε0:.1">
+             span="Aeschylus Ch: s-80">
       <word id="1"
             form="κλύε"
             lemma="κλύω1"
@@ -7285,7 +7285,7 @@
    <sentence id="2895863"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="158-163"
-             span="ὀτοτοτοτοτοτοτοῖ0:.2">
+             span="Aeschylus Ch: s-81">
       <word id="1"
             form="ὀτοτοτοτοτοτοτοῖ"
             lemma="ὀτοτοῖ1"
@@ -7493,7 +7493,7 @@
    <sentence id="2895864"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="164"
-             span="ἔχει0::0">
+             span="Aeschylus Ch: s-82">
       <word id="1"
             form="ἔχει"
             lemma="ἔχω1"
@@ -7547,7 +7547,7 @@
    <sentence id="2895865"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="165"
-             span="νέου0::1">
+             span="Aeschylus Ch: s-83">
       <word id="1"
             form="νέου"
             lemma="νέος1"
@@ -7594,7 +7594,7 @@
    <sentence id="2895866"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="166"
-             span="λέγοις0::2">
+             span="Aeschylus Ch: s-84">
       <word id="1"
             form="λέγοις"
             lemma="λέγω3"
@@ -7620,7 +7620,7 @@
    <sentence id="2895867"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="166"
-             span="ὀρχεῖται0:.0">
+             span="Aeschylus Ch: s-85">
       <word id="1"
             form="ὀρχεῖται"
             lemma="ὀρχέομαι1"
@@ -7660,7 +7660,7 @@
    <sentence id="2895868"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="167"
-             span="ὁρῶ0:.1">
+             span="Aeschylus Ch: s-86">
       <word id="1"
             form="ὁρῶ"
             lemma="ὁράω1"
@@ -7707,7 +7707,7 @@
    <sentence id="2895869"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="168"
-             span="τίνος0:;0">
+             span="Aeschylus Ch: s-87">
       <word id="1"
             form="τίνος"
             lemma="τίς"
@@ -7777,7 +7777,7 @@
    <sentence id="2895870"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="170"
-             span="εὐξύμβολον0:.2">
+             span="Aeschylus Ch: s-88">
       <word id="1"
             form="εὐξύμβολον"
             lemma="εὐσύμβολος1"
@@ -7824,7 +7824,7 @@
    <sentence id="2895871"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="171"
-             span="πῶς0:;1">
+             span="Aeschylus Ch: s-89">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -7859,7 +7859,7 @@
    <sentence id="2895872"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="171"
-             span="παλαιὰ0:.3">
+             span="Aeschylus Ch: s-90">
       <word id="1"
             form="παλαιὰ"
             lemma="παλαιός1"
@@ -7899,7 +7899,7 @@
    <sentence id="2895873"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="172"
-             span="οὐκ0:.4">
+             span="Aeschylus Ch: s-91">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -7960,7 +7960,7 @@
    <sentence id="2895874"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="173"
-             span="ἐχθροὶ0:.5">
+             span="Aeschylus Ch: s-92">
       <word id="1"
             form="ἐχθροὶ"
             lemma="ἐχθρός1"
@@ -8023,7 +8023,7 @@
    <sentence id="2895875"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="174"
-             span="καὶ0:-0">
+             span="Aeschylus Ch: s-93">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -8084,7 +8084,7 @@
    <sentence id="2895876"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="175"
-             span="ποίαις0:;2">
+             span="Aeschylus Ch: s-94">
       <word id="1"
             form="ποίαις"
             lemma="ποῖος1"
@@ -8119,7 +8119,7 @@
    <sentence id="2895877"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="175"
-             span="τοῦτο0:.6">
+             span="Aeschylus Ch: s-95">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος1"
@@ -8159,7 +8159,7 @@
    <sentence id="2895878"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="176"
-             span="αὐτοῖσιν0:.7">
+             span="Aeschylus Ch: s-96">
       <word id="1"
             form="αὐτοῖσιν"
             lemma="αὐτός1"
@@ -8215,7 +8215,7 @@
    <sentence id="2895879"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="177"
-             span="μῶν0:;3">
+             span="Aeschylus Ch: s-97">
       <word id="1"
             form="μῶν"
             lemma="μῶν1"
@@ -8276,7 +8276,7 @@
    <sentence id="2895880"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="178"
-             span="μάλιστ᾽0:.8">
+             span="Aeschylus Ch: s-98">
       <word id="1"
             form="μάλιστ᾽"
             lemma="μάλιστα1"
@@ -8316,7 +8316,7 @@
    <sentence id="2895881"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="179"
-             span="καὶ1:;4">
+             span="Aeschylus Ch: s-99">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -8370,7 +8370,7 @@
    <sentence id="2895882"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="180"
-             span="ἔπεμψε0:.9">
+             span="Aeschylus Ch: s-100">
       <word id="1"
             form="ἔπεμψε"
             lemma="πέμπω1"
@@ -8417,7 +8417,7 @@
    <sentence id="2895883"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="181-182"
-             span="οὐχ0:.10">
+             span="Aeschylus Ch: s-101">
       <word id="1"
             form="οὐχ"
             lemma="οὐ1"
@@ -8520,7 +8520,7 @@
    <sentence id="2895884"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="183-184"
-             span="κἀμοὶ0::3">
+             span="Aeschylus Ch: s-102">
       <word id="1"
             form="κἀμοὶ"
             lemma="ἐγώ1"
@@ -8618,7 +8618,7 @@
    <sentence id="2895885"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="185-187"
-             span="ἐξ0::4">
+             span="Aeschylus Ch: s-103">
       <word id="1"
             form="ἐξ"
             lemma="ἐκ1"
@@ -8728,7 +8728,7 @@
    <sentence id="2895886"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="187-188"
-             span="πῶς2:;5">
+             span="Aeschylus Ch: s-104">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -8803,7 +8803,7 @@
    <sentence id="2895887"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="189-191"
-             span="ἀλλ᾽0:.11">
+             span="Aeschylus Ch: s-105">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -8948,7 +8948,7 @@
    <sentence id="2895888"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="192-194"
-             span="ἐγὼ0:.12">
+             span="Aeschylus Ch: s-106">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -9116,7 +9116,7 @@
    <sentence id="2895889"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="194"
-             span="φεῦ0:.0">
+             span="Aeschylus Ch: s-107">
       <word id="1"
             form="φεῦ"
             lemma="φεῦ1"
@@ -9144,7 +9144,7 @@
    <sentence id="2895890"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="195-200"
-             span="εἴθ᾽0:.1">
+             span="Aeschylus Ch: s-108">
       <word id="1"
             form="εἴθ᾽"
             lemma="εἴτε"
@@ -9450,7 +9450,7 @@
    <sentence id="2895891"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="201-203"
-             span="ἀλλ᾽1::0">
+             span="Aeschylus Ch: s-109">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -9553,7 +9553,7 @@
    <sentence id="2895892"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="203-204"
-             span="εἰ0:.2">
+             span="Aeschylus Ch: s-110">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -9649,7 +9649,7 @@
    <sentence id="2895893"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="205-208"
-             span="καὶ1:.3">
+             span="Aeschylus Ch: s-111">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -9873,7 +9873,7 @@
    <sentence id="2895894"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="209-210"
-             span="πτέρναι0:.4">
+             span="Aeschylus Ch: s-112">
       <word id="1"
             form="πτέρναι"
             lemma="πτέρνα1"
@@ -9962,7 +9962,7 @@
    <sentence id="2895895"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="211"
-             span="πάρεστι0:.5">
+             span="Aeschylus Ch: s-113">
       <word id="1"
             form="πάρεστι"
             lemma="πάρειμι1"
@@ -10016,7 +10016,7 @@
    <sentence id="2895896"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="212-213"
-             span="εὔχου0:.6">
+             span="Aeschylus Ch: s-114">
       <word id="1"
             form="εὔχου"
             lemma="εὔχομαι1"
@@ -10112,7 +10112,7 @@
    <sentence id="2895897"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="214"
-             span="ἐπεὶ0:;0">
+             span="Aeschylus Ch: s-115">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -10175,7 +10175,7 @@
    <sentence id="2895898"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="215"
-             span="εἰς1:.7">
+             span="Aeschylus Ch: s-116">
       <word id="1"
             form="εἰς"
             lemma="εἰς1"
@@ -10229,7 +10229,7 @@
    <sentence id="2895899"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="216"
-             span="καὶ5:;1">
+             span="Aeschylus Ch: s-117">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -10283,7 +10283,7 @@
    <sentence id="2895900"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="217"
-             span="σύνοιδ᾽0:.8">
+             span="Aeschylus Ch: s-118">
       <word id="1"
             form="σύνοιδ᾽"
             lemma="σύνοιδα1"
@@ -10330,7 +10330,7 @@
    <sentence id="2895901"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="218"
-             span="καὶ6:;2">
+             span="Aeschylus Ch: s-119">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -10384,7 +10384,7 @@
    <sentence id="2895902"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="219"
-             span="ὅδ᾽0::1">
+             span="Aeschylus Ch: s-120">
       <word id="1"
             form="ὅδ᾽"
             lemma="ὅδε1"
@@ -10410,7 +10410,7 @@
    <sentence id="2895903"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="219"
-             span="μὴ1:.9">
+             span="Aeschylus Ch: s-121">
       <word id="1"
             form="μὴ"
             lemma="μή1"
@@ -10457,7 +10457,7 @@
    <sentence id="2895904"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="220"
-             span="ἀλλ᾽2:;3">
+             span="Aeschylus Ch: s-122">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -10546,7 +10546,7 @@
    <sentence id="2895905"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="221"
-             span="αὐτὸς0:.10">
+             span="Aeschylus Ch: s-123">
       <word id="1"
             form="αὐτὸς"
             lemma="αὐτός1"
@@ -10593,7 +10593,7 @@
    <sentence id="2895906"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="222"
-             span="ἀλλ᾽3:.11">
+             span="Aeschylus Ch: s-124">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -10654,7 +10654,7 @@
    <sentence id="2895907"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="223"
-             span="κἀν0:σοῖς0">
+             span="Aeschylus Ch: s-125">
       <word id="1"
             form="κἀν"
             lemma="εἰς1"
@@ -10747,7 +10747,7 @@
    <sentence id="2895908"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="224"
-             span="ὡς0:;4">
+             span="Aeschylus Ch: s-126">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -10817,7 +10817,7 @@
    <sentence id="2895909"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="225"
-             span="αὐτὸν0::0">
+             span="Aeschylus Ch: s-127">
       <word id="1"
             form="αὐτὸν"
             lemma="αὐτός1"
@@ -10871,7 +10871,7 @@
    <sentence id="2895910"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="226-227"
-             span="κουρὰν0:.0">
+             span="Aeschylus Ch: s-128">
       <word id="1"
             form="κουρὰν"
             lemma="κουρά1"
@@ -11004,7 +11004,7 @@
    <sentence id="2895911"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="230-229"
-             span="σκέψαι0:.1">
+             span="Aeschylus Ch: s-129">
       <word id="1"
             form="σκέψαι"
             lemma="σκέπτομαι1"
@@ -11086,7 +11086,7 @@
    <sentence id="2895912"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="231-232"
-             span="ἰδοῦ0:.2">
+             span="Aeschylus Ch: s-130">
       <word id="1"
             form="ἰδοῦ"
             lemma="εἶδον1"
@@ -11203,7 +11203,7 @@
    <sentence id="2895913"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="233"
-             span="ἔνδον0::1">
+             span="Aeschylus Ch: s-131">
       <word id="1"
             form="ἔνδον"
             lemma="ἔνδον1"
@@ -11278,7 +11278,7 @@
    <sentence id="2895914"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="234"
-             span="τοὺς0:.3">
+             span="Aeschylus Ch: s-132">
       <word id="1"
             form="τοὺς"
             lemma="ὁ1"
@@ -11339,7 +11339,7 @@
    <sentence id="2895915"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="235-237"
-             span="ὦ0:.4">
+             span="Aeschylus Ch: s-133">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -11463,7 +11463,7 @@
    <sentence id="2895916"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="238-239"
-             span="ὦ1::2">
+             span="Aeschylus Ch: s-134">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -11533,7 +11533,7 @@
    <sentence id="2895917"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="239-241"
-             span="προσαυδᾶν0::3">
+             span="Aeschylus Ch: s-135">
       <word id="1"
             form="προσαυδᾶν"
             lemma="προσαυδάω1"
@@ -11657,7 +11657,7 @@
    <sentence id="2895918"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="241"
-             span="ἡ0::4">
+             span="Aeschylus Ch: s-136">
       <word id="1"
             form="ἡ"
             lemma="ὁ1"
@@ -11697,7 +11697,7 @@
    <sentence id="2895919"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="242"
-             span="καὶ1::5">
+             span="Aeschylus Ch: s-137">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -11762,7 +11762,7 @@
    <sentence id="2895920"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="243-244"
-             span="πιστὸς0::6">
+             span="Aeschylus Ch: s-138">
       <word id="1"
             form="πιστὸς"
             lemma="πιστός2"
@@ -11837,7 +11837,7 @@
    <sentence id="2895921"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="244-245"
-             span="Κράτος0:.5">
+             span="Aeschylus Ch: s-139">
       <word id="1"
             form="Κράτος"
             lemma="κράτος1"
@@ -11933,7 +11933,7 @@
    <sentence id="2895922"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="246"
-             span="Ζεῦ0::7">
+             span="Aeschylus Ch: s-140">
       <word id="1"
             form="Ζεῦ"
             lemma="Ζεύς1"
@@ -11994,7 +11994,7 @@
    <sentence id="2895923"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="247-249"
-             span="ἰδοῦ1:.6">
+             span="Aeschylus Ch: s-141">
       <word id="1"
             form="ἰδοῦ"
             lemma="εἶδον1"
@@ -12104,7 +12104,7 @@
    <sentence id="2895924"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="249-250"
-             span="τοὺς1::8">
+             span="Aeschylus Ch: s-142">
       <word id="1"
             form="τοὺς"
             lemma="ὁ1"
@@ -12158,7 +12158,7 @@
    <sentence id="2895925"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="250-251"
-             span="οὐ0:.7">
+             span="Aeschylus Ch: s-143">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -12228,7 +12228,7 @@
    <sentence id="2895926"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="252-254"
-             span="οὕτω0:.8">
+             span="Aeschylus Ch: s-144">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως1"
@@ -12394,7 +12394,7 @@
    <sentence id="2895927"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="255-257"
-             span="καὶ4:;0">
+             span="Aeschylus Ch: s-145">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -12525,7 +12525,7 @@
    <sentence id="2895928"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="258-259"
-             span="οὔτ᾽0::9">
+             span="Aeschylus Ch: s-146">
       <word id="1"
             form="οὔ"
             lemma="οὔτε1"
@@ -12628,7 +12628,7 @@
    <sentence id="2895929"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="260-261"
-             span="οὔτ᾽1:.9">
+             span="Aeschylus Ch: s-147">
       <word id="1"
             form="οὔ"
             lemma="οὔτε1"
@@ -12731,7 +12731,7 @@
    <sentence id="2895930"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="262-263"
-             span="κόμιζ᾽0:.10">
+             span="Aeschylus Ch: s-148">
       <word id="1"
             form="κόμιζ᾽"
             lemma="κομίζω1"
@@ -12841,7 +12841,7 @@
    <sentence id="2895931"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="264-267"
-             span="ὦ0::0">
+             span="Aeschylus Ch: s-149">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -13042,7 +13042,7 @@
    <sentence id="2895932"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="267-268"
-             span="οὓς0:.0">
+             span="Aeschylus Ch: s-150">
       <word id="1"
             form="οὓς"
             lemma="ὅς1"
@@ -13117,7 +13117,7 @@
    <sentence id="2895933"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="269-273"
-             span="οὔτοι0::1">
+             span="Aeschylus Ch: s-151">
       <word id="1"
             form="οὔτοι"
             lemma="οὔτοι1"
@@ -13318,7 +13318,7 @@
    <sentence id="2895934"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="274-275"
-             span="τρόπον0::2">
+             span="Aeschylus Ch: s-152">
       <word id="1"
             form="τρόπον"
             lemma="τρόπος1"
@@ -13402,7 +13402,7 @@
    <sentence id="2895935"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="276-277"
-             span="αὐτὸν1:.1">
+             span="Aeschylus Ch: s-153">
       <word id="1"
             form="αὐτὸν"
             lemma="αὐτός1"
@@ -13505,7 +13505,7 @@
    <sentence id="2895936"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="278-281"
-             span="τὰ0::3">
+             span="Aeschylus Ch: s-154">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -13685,7 +13685,7 @@
    <sentence id="2895937"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="282"
-             span="λευκὰς0::4">
+             span="Aeschylus Ch: s-155">
       <word id="1"
             form="λευκὰς"
             lemma="λευκός1"
@@ -13748,7 +13748,7 @@
    <sentence id="2895938"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="283-284"
-             span="ἄλλας0::5">
+             span="Aeschylus Ch: s-156">
       <word id="1"
             form="ἄλλας"
             lemma="ἄλλος1"
@@ -13830,7 +13830,7 @@
    <sentence id="2895939"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="285-290"
-             span="τὸ0:.2">
+             span="Aeschylus Ch: s-157">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -14094,7 +14094,7 @@
    <sentence id="2895940"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="291-294"
-             span="καὶ4::6">
+             span="Aeschylus Ch: s-158">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -14262,7 +14262,7 @@
    <sentence id="2895941"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="294"
-             span="δέχεσθαι0:.3">
+             span="Aeschylus Ch: s-159">
       <word id="1"
             form="δέχεσθαι"
             lemma="δέχομαι1"
@@ -14325,7 +14325,7 @@
    <sentence id="2895942"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="295-296"
-             span="πάντων0:.4">
+             span="Aeschylus Ch: s-160">
       <word id="1"
             form="πάντων"
             lemma="πᾶς"
@@ -14416,7 +14416,7 @@
    <sentence id="2895943"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="297"
-             span="τοιοῖσδε0:;0">
+             span="Aeschylus Ch: s-161">
       <word id="1"
             form="τοιοῖσδε"
             lemma="τοιόσδε1"
@@ -14463,7 +14463,7 @@
    <sentence id="2895944"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="298"
-             span="κεἰ0:.5">
+             span="Aeschylus Ch: s-162">
       <word id="1"
             form="κεἰ"
             lemma="εἰ1"
@@ -14524,7 +14524,7 @@
    <sentence id="2895945"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="299-304"
-             span="πολλοὶ0:.6">
+             span="Aeschylus Ch: s-163">
       <word id="1"
             form="πολλοὶ"
             lemma="πολύς1"
@@ -14795,7 +14795,7 @@
    <sentence id="2895946"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="305"
-             span="θήλεια0::7">
+             span="Aeschylus Ch: s-164">
       <word id="1"
             form="θήλεια"
             lemma="θῆλυς1"
@@ -14837,7 +14837,7 @@
    <sentence id="2895947"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="305"
-             span="εἰ1:.7">
+             span="Aeschylus Ch: s-165">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -14900,7 +14900,7 @@
    <sentence id="2895948"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="306-308"
-             span="ἀλλ᾽0:.0">
+             span="Aeschylus Ch: s-166">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -14996,7 +14996,7 @@
    <sentence id="2895949"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="309-310"
-             span="ἀντὶ0::0">
+             span="Aeschylus Ch: s-167">
       <word id="1"
             form="ἀντὶ"
             lemma="ἀντί1"
@@ -15057,7 +15057,7 @@
    <sentence id="2895950"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="310-311"
-             span="τοὐφειλόμενον0::1">
+             span="Aeschylus Ch: s-168">
       <word id="1"
             form="τοὐφειλόμενον"
             lemma="ὀφείλω1"
@@ -15104,7 +15104,7 @@
    <sentence id="2895951"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="312-313"
-             span="ἀντὶ1:.1">
+             span="Aeschylus Ch: s-169">
       <word id="1"
             form="ἀντὶ"
             lemma="ἀντί1"
@@ -15165,7 +15165,7 @@
    <sentence id="2895952"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="313-314"
-             span="δράσαντι0:.2">
+             span="Aeschylus Ch: s-170">
       <word id="1"
             form="δράσαντι"
             lemma="δράω1"
@@ -15235,7 +15235,7 @@
    <sentence id="2895953"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="315-320"
-             span="ὦ0:;0">
+             span="Aeschylus Ch: s-171">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -15422,7 +15422,7 @@
    <sentence id="2895954"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="320-322"
-             span="χάριτες0:.0">
+             span="Aeschylus Ch: s-172">
       <word id="1"
             form="χάριτες"
             lemma="χάρις1"
@@ -15490,7 +15490,7 @@
    <sentence id="2895955"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="323-326"
-             span="τέκνον0::0">
+             span="Aeschylus Ch: s-173">
       <word id="1"
             form="τέκνον"
             lemma="τέκνον1"
@@ -15614,7 +15614,7 @@
    <sentence id="2895956"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="327-328"
-             span="ὀτοτύζεται0:.0">
+             span="Aeschylus Ch: s-174">
       <word id="1"
             form="ὀτοτύζεται"
             lemma="ὀτοτύζω1"
@@ -15689,7 +15689,7 @@
    <sentence id="2895957"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="329-331"
-             span="πατέρων0:.1">
+             span="Aeschylus Ch: s-175">
       <word id="1"
             form="πατέρων"
             lemma="πατήρ1"
@@ -15778,7 +15778,7 @@
    <sentence id="2895958"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="332-333"
-             span="κλῦθὶ0:.0">
+             span="Aeschylus Ch: s-176">
       <word id="1"
             form="κλῦθὶ"
             lemma="κλύω1"
@@ -15860,7 +15860,7 @@
    <sentence id="2895959"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="334-335"
-             span="δίπαις0:.1">
+             span="Aeschylus Ch: s-177">
       <word id="1"
             form="δίπαις"
             lemma="δίπαις1"
@@ -15914,7 +15914,7 @@
    <sentence id="2895960"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="336-337"
-             span="τάφος0:.2">
+             span="Aeschylus Ch: s-178">
       <word id="1"
             form="τάφος"
             lemma="τάφος2"
@@ -15975,7 +15975,7 @@
    <sentence id="2895961"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="338"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-179">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -16061,7 +16061,7 @@
    <sentence id="2895962"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="339"
-             span="οὐκ0:;1">
+             span="Aeschylus Ch: s-180">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -16103,7 +16103,7 @@
    <sentence id="2895963"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="340-341"
-             span="ἀλλ᾽0::0">
+             span="Aeschylus Ch: s-181">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -16185,7 +16185,7 @@
    <sentence id="2895964"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="342-344"
-             span="ἀντὶ0:.0">
+             span="Aeschylus Ch: s-182">
       <word id="1"
             form="ἀντὶ"
             lemma="ἀντί1"
@@ -16274,7 +16274,7 @@
    <sentence id="2895965"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="345-347"
-             span="εἰ0::0">
+             span="Aeschylus Ch: s-183">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -16370,7 +16370,7 @@
    <sentence id="2895966"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="348-353"
-             span="λιπὼν0:,2">
+             span="Aeschylus Ch: s-184">
       <word id="1"
             form="λιπὼν"
             lemma="λείπω1"
@@ -16522,7 +16522,7 @@
    <sentence id="2895967"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="354-359"
-             span="φίλος0::0">
+             span="Aeschylus Ch: s-185">
       <word id="1"
             form="φίλος"
             lemma="φίλος1"
@@ -16676,7 +16676,7 @@
    <sentence id="2895968"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="360-362"
-             span="βασιλεὺς0:.0">
+             span="Aeschylus Ch: s-186">
       <word id="1"
             form="βασιλεὺς"
             lemma="βασιλεύς1"
@@ -16786,7 +16786,7 @@
    <sentence id="2895969"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="363-366"
-             span="μηδ᾽0:.0">
+             span="Aeschylus Ch: s-187">
       <word id="1"
             form="μη"
             lemma="μηδέ1"
@@ -16917,7 +16917,7 @@
    <sentence id="2895970"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="367-371"
-             span="πάρος0:.1">
+             span="Aeschylus Ch: s-188">
       <word id="1"
             form="πάρος"
             lemma="πάρος1"
@@ -17048,7 +17048,7 @@
    <sentence id="2895971"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="372-374"
-             span="ταῦτα0::0">
+             span="Aeschylus Ch: s-189">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος1"
@@ -17181,7 +17181,7 @@
    <sentence id="2895972"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="374"
-             span="δύνασαι0:.0">
+             span="Aeschylus Ch: s-190">
       <word id="1"
             form="δύνασαι"
             lemma="δύναμαι1"
@@ -17207,7 +17207,7 @@
    <sentence id="2895973"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="375-376"
-             span="ἀλλὰ0::1">
+             span="Aeschylus Ch: s-191">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -17268,7 +17268,7 @@
    <sentence id="2895974"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="376-378"
-             span="τῶν0::2">
+             span="Aeschylus Ch: s-192">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -17403,7 +17403,7 @@
    <sentence id="2895975"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="379"
-             span="παισὶ0:.1">
+             span="Aeschylus Ch: s-193">
       <word id="1"
             form="παισὶ"
             lemma="παῖς1"
@@ -17443,7 +17443,7 @@
    <sentence id="2895976"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="380-381"
-             span="τοῦτο0:.0">
+             span="Aeschylus Ch: s-194">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος1"
@@ -17513,7 +17513,7 @@
    <sentence id="2895977"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="382-385"
-             span="Ζεῦ0:.1">
+             span="Aeschylus Ch: s-195">
       <word id="1"
             form="Ζεῦ"
             lemma="ζεύς1"
@@ -17653,7 +17653,7 @@
    <sentence id="2895978"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="386-389"
-             span="ἐφυμνῆσαι0::0">
+             span="Aeschylus Ch: s-196">
       <word id="1"
             form="ἐφυμνῆσαι"
             lemma="ἐφυμνέω1"
@@ -17756,7 +17756,7 @@
    <sentence id="2895979"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="389-390"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-197">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -17817,7 +17817,7 @@
    <sentence id="2895980"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="390-392"
-             span="πάροιθεν0:.0">
+             span="Aeschylus Ch: s-198">
       <word id="1"
             form="πάροιθεν"
             lemma="πάροιθε1"
@@ -17901,7 +17901,7 @@
    <sentence id="2895981"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="393-396"
-             span="καί0:;0">
+             span="Aeschylus Ch: s-199">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -18011,7 +18011,7 @@
    <sentence id="2895982"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="397"
-             span="πιστὰ0:.0">
+             span="Aeschylus Ch: s-200">
       <word id="1"
             form="πιστὰ"
             lemma="πιστόν1"
@@ -18044,7 +18044,7 @@
    <sentence id="2895983"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="398"
-             span="δίκαν0:.1">
+             span="Aeschylus Ch: s-201">
       <word id="1"
             form="δίκαν"
             lemma="δίκη1"
@@ -18091,7 +18091,7 @@
    <sentence id="2895984"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="399"
-             span="κλῦτε0:.2">
+             span="Aeschylus Ch: s-202">
       <word id="1"
             form="κλῦτε"
             lemma="κλύω1"
@@ -18145,7 +18145,7 @@
    <sentence id="2895985"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="400-402"
-             span="ἀλλὰ0:.0">
+             span="Aeschylus Ch: s-203">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -18243,7 +18243,7 @@
    <sentence id="2895986"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="402-404"
-             span="βοᾷ0:.1">
+             span="Aeschylus Ch: s-204">
       <word id="1"
             form="βοᾷ"
             lemma="βοάω1"
@@ -18346,7 +18346,7 @@
    <sentence id="2895987"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="405-409"
-             span="πόποι0:.0">
+             span="Aeschylus Ch: s-205">
       <word id="1"
             form="πόποι"
             lemma="πόποι1"
@@ -18491,7 +18491,7 @@
    <sentence id="2895988"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="409"
-             span="πᾷ0:;0">
+             span="Aeschylus Ch: s-206">
       <word id="1"
             form="πᾷ"
             lemma="πῆ1"
@@ -18552,7 +18552,7 @@
    <sentence id="2895989"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="410-414"
-             span="πέπαλται0:.0">
+             span="Aeschylus Ch: s-207">
       <word id="1"
             form="πέπαλται"
             lemma="πάλλω1"
@@ -18727,7 +18727,7 @@
    <sentence id="2895990"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="415-417"
-             span="ὅταν0:.1">
+             span="Aeschylus Ch: s-208">
       <word id="1"
             form="ὅταν"
             lemma="ὅταν1"
@@ -18837,7 +18837,7 @@
    <sentence id="2895991"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="418-419"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-209">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -18956,7 +18956,7 @@
    <sentence id="2895992"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="420"
-             span="πάρεστι0:.0">
+             span="Aeschylus Ch: s-210">
       <word id="1"
             form="πάρεστι"
             lemma="πάρειμι1"
@@ -19017,7 +19017,7 @@
    <sentence id="2895993"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="421-422"
-             span="λύκος0:.1">
+             span="Aeschylus Ch: s-211">
       <word id="1"
             form="λύκος"
             lemma="λύκος1"
@@ -19101,7 +19101,7 @@
    <sentence id="2895994"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="423-428"
-             span="ἔκοψα0:.0">
+             span="Aeschylus Ch: s-212">
       <word id="1"
             form="ἔκοψα"
             lemma="κόπτω1"
@@ -19325,7 +19325,7 @@
    <sentence id="2895995"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="429-433"
-             span="ἰὼ0:.0">
+             span="Aeschylus Ch: s-213">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -19486,7 +19486,7 @@
    <sentence id="2895996"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="434"
-             span="τὸ0:.0">
+             span="Aeschylus Ch: s-214">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -19540,7 +19540,7 @@
    <sentence id="2895997"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="435-437"
-             span="πατρὸς0:;0">
+             span="Aeschylus Ch: s-215">
       <word id="1"
             form="πατρὸς"
             lemma="πατήρ1"
@@ -19643,7 +19643,7 @@
    <sentence id="2895998"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="438"
-             span="ἔπειτ᾽0:.1">
+             span="Aeschylus Ch: s-216">
       <word id="1"
             form="ἔπειτ᾽"
             lemma="ἔπειτα1"
@@ -19683,7 +19683,7 @@
    <sentence id="2895999"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="439"
-             span="ἐμασχαλίσθη0::0">
+             span="Aeschylus Ch: s-217">
       <word id="1"
             form="ἐμασχαλίσθη"
             lemma="μασχαλίζω1"
@@ -19744,7 +19744,7 @@
    <sentence id="2896000"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="440-442"
-             span="ἔπρασσε0:.0">
+             span="Aeschylus Ch: s-218">
       <word id="1"
             form="ἔπρασσε"
             lemma="πράσσω1"
@@ -19854,7 +19854,7 @@
    <sentence id="2896001"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="443"
-             span="κλύεις0:.1">
+             span="Aeschylus Ch: s-219">
       <word id="1"
             form="κλύεις"
             lemma="κλύω1"
@@ -19894,7 +19894,7 @@
    <sentence id="2896002"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="445"
-             span="λέγεις0::0">
+             span="Aeschylus Ch: s-220">
       <word id="1"
             form="λέγεις"
             lemma="λέγω3"
@@ -19927,7 +19927,7 @@
    <sentence id="2896003"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="445-446"
-             span="ἐγὼ0::1">
+             span="Aeschylus Ch: s-221">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -19988,7 +19988,7 @@
    <sentence id="2896004"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="447-449"
-             span="μυχῷ0:.0">
+             span="Aeschylus Ch: s-222">
       <word id="1"
             form="μυχῷ"
             lemma="μυχός1"
@@ -20105,7 +20105,7 @@
    <sentence id="2896005"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="450"
-             span="τοιαῦτ᾽0:.1">
+             span="Aeschylus Ch: s-223">
       <word id="1"
             form="τοιαῦτ᾽"
             lemma="τοιοῦτος1"
@@ -20166,7 +20166,7 @@
    <sentence id="2896006"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="451-452"
-             span="δι᾽0:.0">
+             span="Aeschylus Ch: s-224">
       <word id="1"
             form="δι᾽"
             lemma="διά1"
@@ -20248,7 +20248,7 @@
    <sentence id="2896007"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="453-454"
-             span="τὰ0:.1">
+             span="Aeschylus Ch: s-225">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -20337,7 +20337,7 @@
    <sentence id="2896008"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="455"
-             span="πρέπει0:.2">
+             span="Aeschylus Ch: s-226">
       <word id="1"
             form="πρέπει"
             lemma="πρέπω1"
@@ -20384,7 +20384,7 @@
    <sentence id="2896009"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="456"
-             span="σὲ0:.0">
+             span="Aeschylus Ch: s-227">
       <word id="1"
             form="σὲ"
             lemma="σύ1"
@@ -20459,7 +20459,7 @@
    <sentence id="2896010"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="457"
-             span="ἐγὼ0:.1">
+             span="Aeschylus Ch: s-228">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -20499,7 +20499,7 @@
    <sentence id="2896011"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="458"
-             span="στάσις0::0">
+             span="Aeschylus Ch: s-229">
       <word id="1"
             form="στάσις"
             lemma="στάσις1"
@@ -20546,7 +20546,7 @@
    <sentence id="2896012"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="459-460"
-             span="ἄκουσον0:.2">
+             span="Aeschylus Ch: s-230">
       <word id="1"
             form="ἄκουσον"
             lemma="ἀκούω1"
@@ -20628,7 +20628,7 @@
    <sentence id="2896013"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="461"
-             span="Ἄρης0:.0">
+             span="Aeschylus Ch: s-231">
       <word id="1"
             form="Ἄρης"
             lemma="Ἄρης1"
@@ -20691,7 +20691,7 @@
    <sentence id="2896014"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="462"
-             span="ἰὼ0:.1">
+             span="Aeschylus Ch: s-232">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -20745,7 +20745,7 @@
    <sentence id="2896015"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="463"
-             span="τρόμος0:.2">
+             span="Aeschylus Ch: s-233">
       <word id="1"
             form="τρόμος"
             lemma="τρόμος1"
@@ -20792,7 +20792,7 @@
    <sentence id="2896016"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="464-465"
-             span="τὸ0:.3">
+             span="Aeschylus Ch: s-234">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -20867,7 +20867,7 @@
    <sentence id="2896017"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="466-468"
-             span="ὦ0:.0">
+             span="Aeschylus Ch: s-235">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -20944,7 +20944,7 @@
    <sentence id="2896018"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="469"
-             span="ἰὼ0::0">
+             span="Aeschylus Ch: s-236">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -20993,7 +20993,7 @@
    <sentence id="2896019"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="470"
-             span="ἰὼ1:.1">
+             span="Aeschylus Ch: s-237">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -21035,7 +21035,7 @@
    <sentence id="2896020"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="471-474"
-             span="δώμασιν0:.0">
+             span="Aeschylus Ch: s-238">
       <word id="1"
             form="δώμασιν"
             lemma="δῶμα1"
@@ -21198,7 +21198,7 @@
    <sentence id="2896021"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="475"
-             span="θεῶν0:.1">
+             span="Aeschylus Ch: s-239">
       <word id="1"
             form="θεῶν"
             lemma="θεός1"
@@ -21261,7 +21261,7 @@
    <sentence id="2896022"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="476-478"
-             span="ἀλλὰ0:.0">
+             span="Aeschylus Ch: s-240">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -21371,7 +21371,7 @@
    <sentence id="2896023"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="479-480"
-             span="πάτερ0:.0">
+             span="Aeschylus Ch: s-241">
       <word id="1"
             form="πάτερ"
             lemma="πατήρ"
@@ -21481,7 +21481,7 @@
    <sentence id="2896024"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="481-482"
-             span="κἀγώ0:.1">
+             span="Aeschylus Ch: s-242">
       <word id="1"
             form="κἀγώ"
             lemma="ἐγώ1"
@@ -21591,7 +21591,7 @@
    <sentence id="2896025"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="483-484"
-             span="οὕτω0::0">
+             span="Aeschylus Ch: s-243">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως1"
@@ -21659,7 +21659,7 @@
    <sentence id="2896026"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="484-485"
-             span="εἰ0:.2">
+             span="Aeschylus Ch: s-244">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -21757,7 +21757,7 @@
    <sentence id="2896027"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="486-487"
-             span="κἀγὼ0::1">
+             span="Aeschylus Ch: s-245">
       <word id="1"
             form="κἀγὼ"
             lemma="ἐγώ1"
@@ -21846,7 +21846,7 @@
    <sentence id="2896028"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="488"
-             span="πάντων0:.3">
+             span="Aeschylus Ch: s-246">
       <word id="1"
             form="πάντων"
             lemma="πᾶς"
@@ -21900,7 +21900,7 @@
    <sentence id="2896029"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="489"
-             span="ὦ0:.4">
+             span="Aeschylus Ch: s-247">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -21968,7 +21968,7 @@
    <sentence id="2896030"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="490"
-             span="ὦ1:.5">
+             span="Aeschylus Ch: s-248">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -22036,7 +22036,7 @@
    <sentence id="2896031"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="491"
-             span="μέμνησο0:.6">
+             span="Aeschylus Ch: s-249">
       <word id="1"
             form="μέμνησο"
             lemma="μιμνήσκω1"
@@ -22090,7 +22090,7 @@
    <sentence id="2896032"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="492"
-             span="μέμνησο1:.7">
+             span="Aeschylus Ch: s-250">
       <word id="1"
             form="μέμνησο"
             lemma="μιμνήσκω1"
@@ -22137,7 +22137,7 @@
    <sentence id="2896033"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="493"
-             span="πέδαις0:.8">
+             span="Aeschylus Ch: s-251">
       <word id="1"
             form="πέδαις"
             lemma="πέδη1"
@@ -22191,7 +22191,7 @@
    <sentence id="2896034"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="494"
-             span="αἰσχρῶς0:.9">
+             span="Aeschylus Ch: s-252">
       <word id="1"
             form="αἰσχρῶς"
             lemma="αἰσχρός1"
@@ -22247,7 +22247,7 @@
    <sentence id="2896035"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="495"
-             span="ἆρ᾽0:;0">
+             span="Aeschylus Ch: s-253">
       <word id="1"
             form="ἆρ᾽"
             lemma="ἆρα1"
@@ -22301,7 +22301,7 @@
    <sentence id="2896036"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="496"
-             span="ἆρ᾽1:;1">
+             span="Aeschylus Ch: s-254">
       <word id="1"
             form="ἆρ᾽"
             lemma="ἆρα1"
@@ -22362,7 +22362,7 @@
    <sentence id="2896037"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="497-499"
-             span="ἤτοι0:.10">
+             span="Aeschylus Ch: s-255">
       <word id="1"
             form="ἤτοι"
             lemma="ἤτοι1"
@@ -22500,7 +22500,7 @@
    <sentence id="2896038"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="500-501"
-             span="καὶ0::2">
+             span="Aeschylus Ch: s-256">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -22603,7 +22603,7 @@
    <sentence id="2896039"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="502-504"
-             span="οἴκτιρε0::3">
+             span="Aeschylus Ch: s-257">
       <word id="1"
             form="οἴκτιρε"
             lemma="οἰκτείρω1"
@@ -22769,7 +22769,7 @@
    <sentence id="2896040"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="505-506"
-             span="παῖδες0::4">
+             span="Aeschylus Ch: s-258">
       <word id="1"
             form="παῖδες"
             lemma="παῖς1"
@@ -22832,7 +22832,7 @@
    <sentence id="2896041"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="506-507"
-             span="φελλοὶ0:.11">
+             span="Aeschylus Ch: s-259">
       <word id="1"
             form="φελλοὶ"
             lemma="φελλός1"
@@ -22937,7 +22937,7 @@
    <sentence id="2896042"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="508"
-             span="ἄκου᾽0:.12">
+             span="Aeschylus Ch: s-260">
       <word id="1"
             form="ἄκου᾽"
             lemma="ἀκούω1"
@@ -22998,7 +22998,7 @@
    <sentence id="2896043"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="509"
-             span="αὐτὸς0:.13">
+             span="Aeschylus Ch: s-261">
       <word id="1"
             form="αὐτὸς"
             lemma="αὐτός1"
@@ -23052,7 +23052,7 @@
    <sentence id="2896044"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="510-511"
-             span="καὶ0:.0">
+             span="Aeschylus Ch: s-262">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -23148,7 +23148,7 @@
    <sentence id="2896045"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="512-513"
-             span="τὰ0:.1">
+             span="Aeschylus Ch: s-263">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -23258,7 +23258,7 @@
    <sentence id="2896046"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="514"
-             span="ἔσται0::0">
+             span="Aeschylus Ch: s-264">
       <word id="1"
             form="ἔσται"
             lemma="εἰμί1"
@@ -23277,7 +23277,7 @@
    <sentence id="2896047"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="514-516"
-             span="πυθέσθαι0:;0">
+             span="Aeschylus Ch: s-265">
       <word id="1"
             form="πυθέσθαι"
             lemma="πυνθάνομαι1"
@@ -23415,7 +23415,7 @@
    <sentence id="2896048"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="517-518"
-             span="θανόντι0::1">
+             span="Aeschylus Ch: s-266">
       <word id="1"
             form="θανόντι"
             lemma="θνήσκω1"
@@ -23476,7 +23476,7 @@
    <sentence id="2896049"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="518"
-             span="οὐκ0:.2">
+             span="Aeschylus Ch: s-267">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -23523,7 +23523,7 @@
    <sentence id="2896050"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="519"
-             span="τὰ1:.3">
+             span="Aeschylus Ch: s-268">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -23584,7 +23584,7 @@
    <sentence id="2896051"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="520-521"
-             span="τὰ2::2">
+             span="Aeschylus Ch: s-269">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -23689,7 +23689,7 @@
    <sentence id="2896052"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="521"
-             span="ὧδ᾽0:.4">
+             span="Aeschylus Ch: s-270">
       <word id="1"
             form="ὧδ᾽"
             lemma="ὧδε1"
@@ -23722,7 +23722,7 @@
    <sentence id="2896053"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="522"
-             span="θέλοντι0:.5">
+             span="Aeschylus Ch: s-271">
       <word id="1"
             form="θέλοντι"
             lemma="ἐθέλω1"
@@ -23797,7 +23797,7 @@
    <sentence id="2896054"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="523"
-             span="οἶδ᾽0::3">
+             span="Aeschylus Ch: s-272">
       <word id="1"
             form="οἶδ᾽"
             lemma="οἶδα1"
@@ -23858,7 +23858,7 @@
    <sentence id="2896055"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="523-525"
-             span="ἔκ0:.6">
+             span="Aeschylus Ch: s-273">
       <word id="1"
             form="ἔκ"
             lemma="ἐκ1"
@@ -23954,7 +23954,7 @@
    <sentence id="2896056"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="526"
-             span="ἦ0:;1">
+             span="Aeschylus Ch: s-274">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -24022,7 +24022,7 @@
    <sentence id="2896057"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="527"
-             span="τεκεῖν0:.7">
+             span="Aeschylus Ch: s-275">
       <word id="1"
             form="τεκεῖν"
             lemma="τίκτω1"
@@ -24083,7 +24083,7 @@
    <sentence id="2896058"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="528"
-             span="καὶ3:;2">
+             span="Aeschylus Ch: s-276">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -24137,7 +24137,7 @@
    <sentence id="2896059"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="529"
-             span="ἐν0:.8">
+             span="Aeschylus Ch: s-277">
       <word id="1"
             form="ἐν"
             lemma="ἐν1"
@@ -24193,7 +24193,7 @@
    <sentence id="2896060"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="530"
-             span="τίνος1:;3">
+             span="Aeschylus Ch: s-278">
       <word id="1"
             form="τίνος"
             lemma="τίς"
@@ -24265,7 +24265,7 @@
    <sentence id="2896061"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="531"
-             span="αὐτὴ1:.9">
+             span="Aeschylus Ch: s-279">
       <word id="1"
             form="αὐτὴ"
             lemma="αὐτός1"
@@ -24312,7 +24312,7 @@
    <sentence id="2896062"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="532"
-             span="καὶ5:;4">
+             span="Aeschylus Ch: s-280">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -24373,7 +24373,7 @@
    <sentence id="2896063"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="533"
-             span="ὥστ᾽1:.10">
+             span="Aeschylus Ch: s-281">
       <word id="1"
             form="ὥστ᾽"
             lemma="ὥστε1"
@@ -24436,7 +24436,7 @@
    <sentence id="2896064"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="534"
-             span="οὔτοι0::4">
+             span="Aeschylus Ch: s-282">
       <word id="1"
             form="οὔτοι"
             lemma="οὔτοι1"
@@ -24471,7 +24471,7 @@
    <sentence id="2896065"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="534"
-             span="ἀνδρὸς0:.11">
+             span="Aeschylus Ch: s-283">
       <word id="1"
             form="ἀνδρὸς"
             lemma="ἀνήρ1"
@@ -24504,7 +24504,7 @@
    <sentence id="2896066"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="535"
-             span="ἡ0:.12">
+             span="Aeschylus Ch: s-284">
       <word id="1"
             form="ἡ"
             lemma="ὁ1"
@@ -24558,7 +24558,7 @@
    <sentence id="2896067"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="536-537"
-             span="πολλοὶ0::5">
+             span="Aeschylus Ch: s-285">
       <word id="1"
             form="πολλοὶ"
             lemma="πολύς1"
@@ -24654,7 +24654,7 @@
    <sentence id="2896068"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="538-539"
-             span="πέμπει0:.13">
+             span="Aeschylus Ch: s-286">
       <word id="1"
             form="πέμπει"
             lemma="πέμπω1"
@@ -24743,7 +24743,7 @@
    <sentence id="2896069"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="540-541"
-             span="ἀλλ᾽0:.0">
+             span="Aeschylus Ch: s-287">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -24839,7 +24839,7 @@
    <sentence id="2896070"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="542"
-             span="κρίνω0:.1">
+             span="Aeschylus Ch: s-288">
       <word id="1"
             form="κρίνω"
             lemma="κρίνω1"
@@ -24900,7 +24900,7 @@
    <sentence id="2896071"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="543-549"
-             span="εἰ0::0">
+             span="Aeschylus Ch: s-289">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -25220,7 +25220,7 @@
    <sentence id="2896072"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="549-550"
-             span="ἐκδρακοντωθεὶς0:.2">
+             span="Aeschylus Ch: s-290">
       <word id="1"
             form="ἐκδρακοντωθεὶς"
             lemma="ἐκδρακοντόομαι1"
@@ -25302,7 +25302,7 @@
    <sentence id="2896073"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="551"
-             span="τερασκόπον0:.3">
+             span="Aeschylus Ch: s-291">
       <word id="1"
             form="τερασκόπον"
             lemma="τερασκόπος1"
@@ -25356,7 +25356,7 @@
    <sentence id="2896074"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="552"
-             span="γένοιτο0:.4">
+             span="Aeschylus Ch: s-292">
       <word id="1"
             form="γένοιτο"
             lemma="γίγνομαι1"
@@ -25389,7 +25389,7 @@
    <sentence id="2896075"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="552-553"
-             span="τἄλλα0:.5">
+             span="Aeschylus Ch: s-293">
       <word id="1"
             form="τἄλλα"
             lemma="ἄλλος1"
@@ -25513,7 +25513,7 @@
    <sentence id="2896076"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="554"
-             span="ἁπλοῦς0::1">
+             span="Aeschylus Ch: s-294">
       <word id="1"
             form="ἁπλοῦς"
             lemma="ἁπλόος1"
@@ -25555,7 +25555,7 @@
    <sentence id="2896077"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="554-559"
-             span="τήνδε0:.6">
+             span="Aeschylus Ch: s-295">
       <word id="1"
             form="τήνδε"
             lemma="ὅδε1"
@@ -25835,7 +25835,7 @@
    <sentence id="2896078"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="560-562"
-             span="ξένῳ0:.7">
+             span="Aeschylus Ch: s-296">
       <word id="1"
             form="ξένῳ"
             lemma="ξένος2"
@@ -26001,7 +26001,7 @@
    <sentence id="2896079"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="563-564"
-             span="ἄμφω0:.8">
+             span="Aeschylus Ch: s-297">
       <word id="1"
             form="ἄμφω"
             lemma="ἄμφω1"
@@ -26083,7 +26083,7 @@
    <sentence id="2896080"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="565-566"
-             span="καὶ5::2">
+             span="Aeschylus Ch: s-298">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -26186,7 +26186,7 @@
    <sentence id="2896081"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="567-568"
-             span="μενοῦμεν0::3">
+             span="Aeschylus Ch: s-299">
       <word id="1"
             form="μενοῦμεν"
             lemma="μένω1"
@@ -26268,7 +26268,7 @@
    <sentence id="2896082"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="569-570"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-300">
       <word id="2"
             form="τί"
             lemma="τίς"
@@ -26364,7 +26364,7 @@
    <sentence id="2896083"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="571-576"
-             span="εἰ1:.9">
+             span="Aeschylus Ch: s-301">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -26693,7 +26693,7 @@
    <sentence id="2896084"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="577-578"
-             span="φόνου0:.10">
+             span="Aeschylus Ch: s-302">
       <word id="1"
             form="φόνου"
             lemma="φόνος1"
@@ -26775,7 +26775,7 @@
    <sentence id="2896085"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="579-580"
-             span="νῦν0::4">
+             span="Aeschylus Ch: s-303">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -26885,7 +26885,7 @@
    <sentence id="2896086"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="581-582"
-             span="ὑμῖν0:.11">
+             span="Aeschylus Ch: s-304">
       <word id="1"
             form="ὑμῖν"
             lemma="σύ"
@@ -27002,7 +27002,7 @@
    <sentence id="2896087"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="583-584"
-             span="τὰ1:.12">
+             span="Aeschylus Ch: s-305">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -27098,7 +27098,7 @@
    <sentence id="2896088"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="585-588"
-             span="πολλὰ0::0">
+             span="Aeschylus Ch: s-306">
       <word id="1"
             form="πολλὰ"
             lemma="πολύς1"
@@ -27215,7 +27215,7 @@
    <sentence id="2896089"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="589-593"
-             span="πλάθουσι0:.0">
+             span="Aeschylus Ch: s-307">
       <word id="1"
             form="πλάθουσι"
             lemma="πλάθω1"
@@ -27353,7 +27353,7 @@
    <sentence id="2896090"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="594-598"
-             span="ἀλλ᾽0:;0">
+             span="Aeschylus Ch: s-308">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -27491,7 +27491,7 @@
    <sentence id="2896091"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="599-601"
-             span="ξυζύγους0:.0">
+             span="Aeschylus Ch: s-309">
       <word id="1"
             form="ξυζύγους"
             lemma="σύζυγος1"
@@ -27594,7 +27594,7 @@
    <sentence id="2896092"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="602-611"
-             span="ἴστω0:.0">
+             span="Aeschylus Ch: s-310">
       <word id="1"
             form="ἴστω"
             lemma="οἶδα1"
@@ -27881,7 +27881,7 @@
    <sentence id="2896093"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="612-621"
-             span="ἄλλαν0:.0">
+             span="Aeschylus Ch: s-311">
       <word id="1"
             form="ἄλλαν"
             lemma="ἄλλος1"
@@ -28119,7 +28119,7 @@
    <sentence id="2896094"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="622"
-             span="κιγχάνει0:.1">
+             span="Aeschylus Ch: s-312">
       <word id="1"
             form="κιγχάνει"
             lemma="κιχάνω1"
@@ -28159,7 +28159,7 @@
    <sentence id="2896095"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="623-628"
-             span="ἐπεὶ0:.0">
+             span="Aeschylus Ch: s-313">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -28385,7 +28385,7 @@
    <sentence id="2896096"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="629-630"
-             span="τίω0:.1">
+             span="Aeschylus Ch: s-314">
       <word id="1"
             form="τίω"
             lemma="τίω1"
@@ -28460,7 +28460,7 @@
    <sentence id="2896097"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="631-632"
-             span="κακῶν0::0">
+             span="Aeschylus Ch: s-315">
       <word id="1"
             form="κακῶν"
             lemma="κακός1"
@@ -28514,7 +28514,7 @@
    <sentence id="2896098"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="632-633"
-             span="γοᾶται0::1">
+             span="Aeschylus Ch: s-316">
       <word id="1"
             form="γοᾶται"
             lemma="γοάω1"
@@ -28575,7 +28575,7 @@
    <sentence id="2896099"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="633-634"
-             span="ᾔκασεν0:.0">
+             span="Aeschylus Ch: s-317">
       <word id="1"
             form="ᾔκασεν"
             lemma="εἰκάζω1"
@@ -28643,7 +28643,7 @@
    <sentence id="2896100"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="635-636"
-             span="θεοστυγήτῳ0:.1">
+             span="Aeschylus Ch: s-318">
       <word id="1"
             form="θεοστυγήτῳ"
             lemma="θεοστύγητος1"
@@ -28704,7 +28704,7 @@
    <sentence id="2896101"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="637"
-             span="σέβει0:.2">
+             span="Aeschylus Ch: s-319">
       <word id="1"
             form="σέβει"
             lemma="σέβω1"
@@ -28758,7 +28758,7 @@
    <sentence id="2896102"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="638"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-320">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -28805,7 +28805,7 @@
    <sentence id="2896103"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="639-641"
-             span="τὸ0:.0">
+             span="Aeschylus Ch: s-321">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -28887,7 +28887,7 @@
    <sentence id="2896104"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="641-645"
-             span="τὸ1:.1">
+             span="Aeschylus Ch: s-322">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -29029,7 +29029,7 @@
    <sentence id="2896105"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="646"
-             span="Δίκας0::0">
+             span="Aeschylus Ch: s-323">
       <word id="1"
             form="Δίκας"
             lemma="δίκη1"
@@ -29069,7 +29069,7 @@
    <sentence id="2896106"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="647"
-             span="προχαλκεύει0::1">
+             span="Aeschylus Ch: s-324">
       <word id="1"
             form="προχαλκεύει"
             lemma="προχαλκεύω1"
@@ -29109,7 +29109,7 @@
    <sentence id="2896107"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="648-651"
-             span="τέκνον0:.0">
+             span="Aeschylus Ch: s-325">
       <word id="1"
             form="τέκνον"
             lemma="τέκνον1"
@@ -29205,7 +29205,7 @@
    <sentence id="2896108"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="652"
-             span="παῖ0:.0">
+             span="Aeschylus Ch: s-326">
       <word id="1"
             form="παῖ"
             lemma="παῖς1"
@@ -29266,7 +29266,7 @@
    <sentence id="2896109"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="653"
-             span="τίς0:;0">
+             span="Aeschylus Ch: s-327">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -29378,7 +29378,7 @@
    <sentence id="2896110"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="655-656"
-             span="τρίτον0:.1">
+             span="Aeschylus Ch: s-328">
       <word id="1"
             form="τρίτον"
             lemma="τρίτος1"
@@ -29467,7 +29467,7 @@
    <sentence id="2896111"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="657"
-             span="εἶεν0::0">
+             span="Aeschylus Ch: s-329">
       <word id="1"
             form="εἶεν"
             lemma="εἶεν1"
@@ -29500,7 +29500,7 @@
    <sentence id="2896112"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="657"
-             span="ποδαπὸς0:;1">
+             span="Aeschylus Ch: s-330">
       <word id="1"
             form="ποδαπὸς"
             lemma="ποδαπός1"
@@ -29542,7 +29542,7 @@
    <sentence id="2896113"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="657"
-             span="πόθεν0:;2">
+             span="Aeschylus Ch: s-331">
       <word id="1"
             form="πόθεν"
             lemma="πόθεν1"
@@ -29570,7 +29570,7 @@
    <sentence id="2896114"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="658-659"
-             span="ἄγγελλε0:.2">
+             span="Aeschylus Ch: s-332">
       <word id="1"
             form="ἄγγελλε"
             lemma="ἀγγέλλω1"
@@ -29666,7 +29666,7 @@
    <sentence id="2896115"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="660-662"
-             span="τάχυνε0:.3">
+             span="Aeschylus Ch: s-333">
       <word id="1"
             form="τάχυνε"
             lemma="ταχύνω1"
@@ -29820,7 +29820,7 @@
    <sentence id="2896116"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="663-664"
-             span="ἐξελθέτω0::1">
+             span="Aeschylus Ch: s-334">
       <word id="1"
             form="ἐξελθέτω"
             lemma="ἐξέρχομαι1"
@@ -29920,7 +29920,7 @@
    <sentence id="2896117"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="665-666"
-             span="αἰδὼς0::2">
+             span="Aeschylus Ch: s-335">
       <word id="1"
             form="αἰδὼς"
             lemma="αἰδώς1"
@@ -29988,7 +29988,7 @@
    <sentence id="2896118"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="666-667"
-             span="εἶπε0:.4">
+             span="Aeschylus Ch: s-336">
       <word id="1"
             form="εἶπε"
             lemma="εἶπον1"
@@ -30065,7 +30065,7 @@
    <sentence id="2896119"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="668"
-             span="ξένοι0::3">
+             span="Aeschylus Ch: s-337">
       <word id="1"
             form="ξένοι"
             lemma="ξένος1"
@@ -30126,7 +30126,7 @@
    <sentence id="2896120"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="668-671"
-             span="πάρεστι0:.5">
+             span="Aeschylus Ch: s-338">
       <word id="1"
             form="πάρεστι"
             lemma="πάρειμι1"
@@ -30287,7 +30287,7 @@
    <sentence id="2896121"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="672-673"
-             span="εἰ0:κοινώσομεν0">
+             span="Aeschylus Ch: s-339">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -30397,7 +30397,7 @@
    <sentence id="2896122"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="674"
-             span="ξένος1::4">
+             span="Aeschylus Ch: s-340">
       <word id="1"
             form="ξένος"
             lemma="ξένος2"
@@ -30451,7 +30451,7 @@
    <sentence id="2896123"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="675-679"
-             span="στείχοντα0::5">
+             span="Aeschylus Ch: s-341">
       <word id="1"
             form="στείχοντα"
             lemma="στείχω1"
@@ -30659,7 +30659,7 @@
    <sentence id="2896124"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="679-682"
-             span="πεύθομαι0:.6">
+             span="Aeschylus Ch: s-342">
       <word id="1"
             form="πεύθομαι"
             lemma="πεύθομαι1"
@@ -30853,7 +30853,7 @@
    <sentence id="2896125"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="683-685"
-             span="εἴτ᾽0:.7">
+             span="Aeschylus Ch: s-343">
       <word id="1"
             form="εἴτ᾽"
             lemma="εἴτε1"
@@ -31044,7 +31044,7 @@
    <sentence id="2896126"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="686-687"
-             span="νῦν0:.8">
+             span="Aeschylus Ch: s-344">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -31126,7 +31126,7 @@
    <sentence id="2896127"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="688"
-             span="τοσαῦτ᾽0:.9">
+             span="Aeschylus Ch: s-345">
       <word id="1"
             form="τοσαῦτ᾽"
             lemma="τοσοῦτος1"
@@ -31159,7 +31159,7 @@
    <sentence id="2896128"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="688-690"
-             span="εἰ1:.10">
+             span="Aeschylus Ch: s-346">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -31292,7 +31292,7 @@
    <sentence id="2896129"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="691"
-             span="οἲ0:.0">
+             span="Aeschylus Ch: s-347">
       <word id="1"
             form="οἲ"
             lemma="οἴ"
@@ -31367,7 +31367,7 @@
    <sentence id="2896130"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="692-695"
-             span="ὦ0:.1">
+             span="Aeschylus Ch: s-348">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -31540,7 +31540,7 @@
    <sentence id="2896131"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="696-699"
-             span="καὶ0:.2">
+             span="Aeschylus Ch: s-349">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -31764,7 +31764,7 @@
    <sentence id="2896132"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="700-702"
-             span="ἐγὼ0::0">
+             span="Aeschylus Ch: s-350">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -31881,7 +31881,7 @@
    <sentence id="2896133"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="702-703"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-351">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -31935,7 +31935,7 @@
    <sentence id="2896134"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="704-706"
-             span="πρὸς0:.3">
+             span="Aeschylus Ch: s-352">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -32073,7 +32073,7 @@
    <sentence id="2896135"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="707-708"
-             span="οὔτοι0:.4">
+             span="Aeschylus Ch: s-353">
       <word id="1"
             form="οὔτοι"
             lemma="οὔτοι1"
@@ -32176,7 +32176,7 @@
    <sentence id="2896136"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="709"
-             span="ἄλλος0:.5">
+             span="Aeschylus Ch: s-354">
       <word id="1"
             form="ἄλλος"
             lemma="ἄλλος1"
@@ -32237,7 +32237,7 @@
    <sentence id="2896137"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="710-711"
-             span="ἀλλ᾽0:.6">
+             span="Aeschylus Ch: s-355">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -32326,7 +32326,7 @@
    <sentence id="2896138"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="712-713"
-             span="ἄγ᾽0::1">
+             span="Aeschylus Ch: s-356">
       <word id="1"
             form="ἄγ᾽"
             lemma="ἄγω1"
@@ -32422,7 +32422,7 @@
    <sentence id="2896139"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="714"
-             span="κἀκεῖ0:.7">
+             span="Aeschylus Ch: s-357">
       <word id="1"
             form="κἀκεῖ"
             lemma="ἐκεῖ1"
@@ -32469,7 +32469,7 @@
    <sentence id="2896140"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="715"
-             span="αἰνῶ0:.8">
+             span="Aeschylus Ch: s-358">
       <word id="1"
             form="αἰνῶ"
             lemma="αἰνέω1"
@@ -32532,7 +32532,7 @@
    <sentence id="2896141"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="716-718"
-             span="ἡμεῖς0:.9">
+             span="Aeschylus Ch: s-359">
       <word id="1"
             form="ἡμεῖς"
             lemma="ἐγώ1"
@@ -32649,7 +32649,7 @@
    <sentence id="2896142"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="719-721"
-             span="εἶεν0:;0">
+             span="Aeschylus Ch: s-360">
       <word id="1"
             form="εἶεν"
             lemma="εἶεν1"
@@ -32752,7 +32752,7 @@
    <sentence id="2896143"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="722-725"
-             span="ὦ0::0">
+             span="Aeschylus Ch: s-361">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -32918,7 +32918,7 @@
    <sentence id="2896144"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="726-729"
-             span="νῦν3:.0">
+             span="Aeschylus Ch: s-362">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -33049,7 +33049,7 @@
    <sentence id="2896145"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="730"
-             span="ἔοικεν0::0">
+             span="Aeschylus Ch: s-363">
       <word id="1"
             form="ἔοικεν"
             lemma="ἔοικα1"
@@ -33103,7 +33103,7 @@
    <sentence id="2896146"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="731"
-             span="τροφὸν0:.0">
+             span="Aeschylus Ch: s-364">
       <word id="1"
             form="τροφὸν"
             lemma="τροφός1"
@@ -33157,7 +33157,7 @@
    <sentence id="2896147"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="732"
-             span="ποῖ0:;0">
+             span="Aeschylus Ch: s-365">
       <word id="1"
             form="ποῖ"
             lemma="ποῖ1"
@@ -33225,7 +33225,7 @@
    <sentence id="2896148"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="733"
-             span="λύπη0:;1">
+             span="Aeschylus Ch: s-366">
       <word id="1"
             form="λύπη"
             lemma="λύπη1"
@@ -33279,7 +33279,7 @@
    <sentence id="2896149"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="734-741"
-             span="Αἴγισθον0:.1">
+             span="Aeschylus Ch: s-367">
       <word id="1"
             form="Αἴγισθον"
             lemma="Αἴγισθος1"
@@ -33634,7 +33634,7 @@
    <sentence id="2896150"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="742-743"
-             span="ἦ0:.2">
+             span="Aeschylus Ch: s-368">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -33723,7 +33723,7 @@
    <sentence id="2896151"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="743"
-             span="ὦ0::1">
+             span="Aeschylus Ch: s-369">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -33765,7 +33765,7 @@
    <sentence id="2896152"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="744-746"
-             span="ὥς0:.3">
+             span="Aeschylus Ch: s-370">
       <word id="1"
             form="ὥς"
             lemma="ὡς1"
@@ -33903,7 +33903,7 @@
    <sentence id="2896153"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="747"
-             span="ἀλλ᾽0::2">
+             span="Aeschylus Ch: s-371">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -33957,7 +33957,7 @@
    <sentence id="2896154"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="748"
-             span="τὰ1::3">
+             span="Aeschylus Ch: s-372">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -34018,7 +34018,7 @@
    <sentence id="2896155"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="749-753"
-             span="φίλον0::4">
+             span="Aeschylus Ch: s-373">
       <word id="1"
             form="φίλον"
             lemma="φίλος1"
@@ -34221,7 +34221,7 @@
    <sentence id="2896156"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="753-754"
-             span="-1::5">
+             span="Aeschylus Ch: s-374">
       <word id="1"
             form="-"
             lemma="punc1"
@@ -34363,7 +34363,7 @@
    <sentence id="2896157"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="755-757"
-             span="οὐ0::6">
+             span="Aeschylus Ch: s-375">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -34515,7 +34515,7 @@
    <sentence id="2896158"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="757"
-             span="νέα0:.4">
+             span="Aeschylus Ch: s-376">
       <word id="1"
             form="νέα"
             lemma="νέος1"
@@ -34571,7 +34571,7 @@
    <sentence id="2896159"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="758-760"
-             span="τούτων0:.5">
+             span="Aeschylus Ch: s-377">
       <word id="1"
             form="τούτων"
             lemma="οὗτος1"
@@ -34732,7 +34732,7 @@
    <sentence id="2896160"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="761-762"
-             span="ἐγὼ0::7">
+             span="Aeschylus Ch: s-378">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -34807,7 +34807,7 @@
    <sentence id="2896161"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="763"
-             span="τεθνηκότος0:.6">
+             span="Aeschylus Ch: s-379">
       <word id="1"
             form="τεθνηκότος"
             lemma="θνήσκω1"
@@ -34854,7 +34854,7 @@
    <sentence id="2896162"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="764-765"
-             span="στείχω0:.7">
+             span="Aeschylus Ch: s-380">
       <word id="1"
             form="στείχω"
             lemma="στείχω1"
@@ -34957,7 +34957,7 @@
    <sentence id="2896163"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="766"
-             span="πῶς0:;0">
+             span="Aeschylus Ch: s-381">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -35011,7 +35011,7 @@
    <sentence id="2896164"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="767"
-             span="ἦ0:;1">
+             span="Aeschylus Ch: s-382">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -35046,7 +35046,7 @@
    <sentence id="2896165"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="767"
-             span="λέγ᾽0:.0">
+             span="Aeschylus Ch: s-383">
       <word id="1"
             form="λέγ᾽"
             lemma="λέγω3"
@@ -35100,7 +35100,7 @@
    <sentence id="2896166"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="768"
-             span="εἰ0:.1">
+             span="Aeschylus Ch: s-384">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -35181,7 +35181,7 @@
    <sentence id="2896167"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="769"
-             span="ἄγειν0:.2">
+             span="Aeschylus Ch: s-385">
       <word id="1"
             form="ἄγειν"
             lemma="ἄγω1"
@@ -35221,7 +35221,7 @@
    <sentence id="2896168"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="770"
-             span="μή0::0">
+             span="Aeschylus Ch: s-386">
       <word id="1"
             form="μή"
             lemma="μή1"
@@ -35282,7 +35282,7 @@
    <sentence id="2896169"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="771-772"
-             span="ἀλλ᾽0:.3">
+             span="Aeschylus Ch: s-387">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -35385,7 +35385,7 @@
    <sentence id="2896170"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="773"
-             span="ἐν0:.4">
+             span="Aeschylus Ch: s-388">
       <word id="1"
             form="ἐν"
             lemma="ἐν1"
@@ -35439,7 +35439,7 @@
    <sentence id="2896171"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="774"
-             span="ἀλλ᾽1:;2">
+             span="Aeschylus Ch: s-389">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -35500,7 +35500,7 @@
    <sentence id="2896172"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="775"
-             span="ἀλλ᾽2:.5">
+             span="Aeschylus Ch: s-390">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -35570,7 +35570,7 @@
    <sentence id="2896173"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="776"
-             span="καὶ1:;3">
+             span="Aeschylus Ch: s-391">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -35605,7 +35605,7 @@
    <sentence id="2896174"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="776"
-             span="Ὀρέστης0:.6">
+             span="Aeschylus Ch: s-392">
       <word id="1"
             form="Ὀρέστης"
             lemma="Ὀρέστης1"
@@ -35654,7 +35654,7 @@
    <sentence id="2896175"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="777"
-             span="οὔπω0::1">
+             span="Aeschylus Ch: s-393">
       <word id="1"
             form="οὔπω"
             lemma="οὔπω1"
@@ -35682,7 +35682,7 @@
    <sentence id="2896176"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="777"
-             span="κακός0:.7">
+             span="Aeschylus Ch: s-394">
       <word id="1"
             form="κακός"
             lemma="κακός1"
@@ -35736,7 +35736,7 @@
    <sentence id="2896177"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="778"
-             span="τί0:;4">
+             span="Aeschylus Ch: s-395">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -35762,7 +35762,7 @@
    <sentence id="2896178"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="778"
-             span="ἔχεις0:;5">
+             span="Aeschylus Ch: s-396">
       <word id="1"
             form="ἔχεις"
             lemma="ἔχω1"
@@ -35809,7 +35809,7 @@
    <sentence id="2896179"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="779"
-             span="ἄγγελλ᾽0:.8">
+             span="Aeschylus Ch: s-397">
       <word id="1"
             form="ἄγγελλ᾽"
             lemma="ἀγγέλλω1"
@@ -35856,7 +35856,7 @@
    <sentence id="2896180"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="780"
-             span="μέλει0:.9">
+             span="Aeschylus Ch: s-398">
       <word id="1"
             form="μέλει"
             lemma="μέλω1"
@@ -35910,7 +35910,7 @@
    <sentence id="2896181"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="781"
-             span="ἀλλ᾽3:.10">
+             span="Aeschylus Ch: s-399">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -35971,7 +35971,7 @@
    <sentence id="2896182"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="782"
-             span="γένοιτο0:.11">
+             span="Aeschylus Ch: s-400">
       <word id="1"
             form="γένοιτο"
             lemma="γίγνομαι1"
@@ -36032,7 +36032,7 @@
    <sentence id="2896183"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="783-786"
-             span="νῦν0:.0">
+             span="Aeschylus Ch: s-401">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -36177,7 +36177,7 @@
    <sentence id="2896184"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="787-788"
-             span="διὰ0::0">
+             span="Aeschylus Ch: s-402">
       <word id="1"
             form="διὰ"
             lemma="διά1"
@@ -36224,7 +36224,7 @@
    <sentence id="2896185"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="788"
-             span="ὦ0:.1">
+             span="Aeschylus Ch: s-403">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -36278,7 +36278,7 @@
    <sentence id="2896186"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="789-793"
-             span="ἓ0:.0">
+             span="Aeschylus Ch: s-404">
       <word id="1"
             form="ἓ"
             lemma="ἔ"
@@ -36479,7 +36479,7 @@
    <sentence id="2896187"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="794-796"
-             span="ἴσθι0:.0">
+             span="Aeschylus Ch: s-405">
       <word id="1"
             form="ἴσθι"
             lemma="οἶδα1"
@@ -36575,7 +36575,7 @@
    <sentence id="2896188"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="796-799"
-             span="σὺ0:;0">
+             span="Aeschylus Ch: s-406">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -36699,7 +36699,7 @@
    <sentence id="2896189"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="800-802"
-             span="οἵ0::0">
+             span="Aeschylus Ch: s-407">
       <word id="1"
             form="οἵ"
             lemma="ὅς1"
@@ -36795,7 +36795,7 @@
    <sentence id="2896190"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="803-804"
-             span="ἄγετε0:.0">
+             span="Aeschylus Ch: s-408">
       <word id="1"
             form="[ἄγετε]"
             lemma="ἄγε1"
@@ -36863,7 +36863,7 @@
    <sentence id="2896191"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="805"
-             span="γέρων0:.1">
+             span="Aeschylus Ch: s-409">
       <word id="1"
             form="γέρων"
             lemma="γέρων1"
@@ -36917,7 +36917,7 @@
    <sentence id="2896192"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="806-810"
-             span="τὸ0:.0">
+             span="Aeschylus Ch: s-410">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -37111,7 +37111,7 @@
    <sentence id="2896193"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="811-813"
-             span="ξυλλάβοι0::0">
+             span="Aeschylus Ch: s-411">
       <word id="1"
             form="ξυλλάβοι"
             lemma="συλλαμβάνω1"
@@ -37216,7 +37216,7 @@
    <sentence id="2896194"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="815"
-             span="πολλὰ0:.0">
+             span="Aeschylus Ch: s-412">
       <word id="1"
             form="[πολλὰ"
             lemma="πολύς1"
@@ -37270,7 +37270,7 @@
    <sentence id="2896195"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="816-818"
-             span="ἄσκοπον0:.1">
+             span="Aeschylus Ch: s-413">
       <word id="1"
             form="ἄσκοπον"
             lemma="ἄσκοπος2"
@@ -37403,7 +37403,7 @@
    <sentence id="2896196"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="819-823"
-             span="καὶ0::0">
+             span="Aeschylus Ch: s-414">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -37552,7 +37552,7 @@
    <sentence id="2896197"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="823"
-             span="πλεῖ0::1">
+             span="Aeschylus Ch: s-415">
       <word id="2"
             form="πλεῖ"
             lemma="πλέω1"
@@ -37585,7 +37585,7 @@
    <sentence id="2896198"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="825"
-             span="ἐμὸν0::2">
+             span="Aeschylus Ch: s-416">
       <word id="1"
             form="ἐμὸν"
             lemma="ἐμός1"
@@ -37632,7 +37632,7 @@
    <sentence id="2896199"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="825-826"
-             span="ἄ-0:.0">
+             span="Aeschylus Ch: s-417">
       <word id="1"
             form="ἄ-"
             lemma="οτηερ"
@@ -37686,7 +37686,7 @@
    <sentence id="2896200"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="827-830"
-             span="σὺ0:.0">
+             span="Aeschylus Ch: s-418">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -37852,7 +37852,7 @@
    <sentence id="2896201"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="831-837"
-             span="Περσέως0:.0">
+             span="Aeschylus Ch: s-419">
       <word id="1"
             form="Περσέως"
             lemma="Περσεύς1"
@@ -38095,7 +38095,7 @@
    <sentence id="2896202"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="838"
-             span="ἥκω0::0">
+             span="Aeschylus Ch: s-420">
       <word id="1"
             form="ἥκω"
             lemma="ἥκω1"
@@ -38156,7 +38156,7 @@
    <sentence id="2896203"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="839-841"
-             span="νέαν0:.0">
+             span="Aeschylus Ch: s-421">
       <word id="1"
             form="νέαν"
             lemma="νέος1"
@@ -38266,7 +38266,7 @@
    <sentence id="2896204"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="841-843"
-             span="καὶ0:.1">
+             span="Aeschylus Ch: s-422">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -38376,7 +38376,7 @@
    <sentence id="2896205"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="844"
-             span="πῶς0:;0">
+             span="Aeschylus Ch: s-423">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -38430,7 +38430,7 @@
    <sentence id="2896206"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="845-846"
-             span="ἢ0:;1">
+             span="Aeschylus Ch: s-424">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -38512,7 +38512,7 @@
    <sentence id="2896207"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="847"
-             span="τί0:;2">
+             span="Aeschylus Ch: s-425">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -38573,7 +38573,7 @@
    <sentence id="2896208"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="848-849"
-             span="ἠκούσαμεν0:.2">
+             span="Aeschylus Ch: s-426">
       <word id="1"
             form="ἠκούσαμεν"
             lemma="ἀκούω1"
@@ -38648,7 +38648,7 @@
    <sentence id="2896209"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="849-850"
-             span="οὐδὲν0:.3">
+             span="Aeschylus Ch: s-427">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς1"
@@ -38732,7 +38732,7 @@
    <sentence id="2896210"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="851-853"
-             span="ἰδεῖν0:.4">
+             span="Aeschylus Ch: s-428">
       <word id="1"
             form="ἰδεῖν"
             lemma="εἶδον1"
@@ -38891,7 +38891,7 @@
    <sentence id="2896211"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="854"
-             span="οὔτοι0:.5">
+             span="Aeschylus Ch: s-429">
       <word id="1"
             form="οὔτοι"
             lemma="οὔτοι1"
@@ -38938,7 +38938,7 @@
    <sentence id="2896212"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="855-858"
-             span="Ζεῦ0:;0">
+             span="Aeschylus Ch: s-430">
       <word id="1"
             form="Ζεῦ"
             lemma="Ζεύς1"
@@ -39092,7 +39092,7 @@
    <sentence id="2896213"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="859-865"
-             span="νῦν0:.0">
+             span="Aeschylus Ch: s-431">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -39321,7 +39321,7 @@
    <sentence id="2896214"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="866-868"
-             span="τοιάνδε0:.1">
+             span="Aeschylus Ch: s-432">
       <word id="1"
             form="τοιάνδε"
             lemma="τοιόσδε1"
@@ -39403,7 +39403,7 @@
    <sentence id="2896215"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="868"
-             span="εἴη0:.2">
+             span="Aeschylus Ch: s-433">
       <word id="1"
             form="εἴη"
             lemma="εἰμί1"
@@ -39443,7 +39443,7 @@
    <sentence id="2896216"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="869"
-             span="ἒ0:.0">
+             span="Aeschylus Ch: s-434">
       <word id="1"
             form="ἒ"
             lemma="ἒ1"
@@ -39492,7 +39492,7 @@
    <sentence id="2896217"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="870"
-             span="ἔα0::0">
+             span="Aeschylus Ch: s-435">
       <word id="1"
             form="ἔα"
             lemma="ἔα1"
@@ -39534,7 +39534,7 @@
    <sentence id="2896218"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="871"
-             span="πῶς0:;0">
+             span="Aeschylus Ch: s-436">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -39560,7 +39560,7 @@
    <sentence id="2896219"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="871"
-             span="πῶς1:;1">
+             span="Aeschylus Ch: s-437">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -39593,7 +39593,7 @@
    <sentence id="2896220"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="872-874"
-             span="ἀποσταθῶμεν0::1">
+             span="Aeschylus Ch: s-438">
       <word id="1"
             form="ἀποσταθῶμεν"
             lemma="ἀφίστημι1"
@@ -39675,7 +39675,7 @@
    <sentence id="2896221"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="874"
-             span="μάχης0:.1">
+             span="Aeschylus Ch: s-439">
       <word id="1"
             form="μάχης"
             lemma="μάχη1"
@@ -39722,7 +39722,7 @@
    <sentence id="2896222"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="875"
-             span="οἴμοι0::0">
+             span="Aeschylus Ch: s-440">
       <word id="1"
             form="οἴμοι"
             lemma="οἴμοι1"
@@ -39778,7 +39778,7 @@
    <sentence id="2896223"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="876"
-             span="οἴμοι1:.0">
+             span="Aeschylus Ch: s-441">
       <word id="1"
             form="οἴμοι"
             lemma="οἴμοι1"
@@ -39841,7 +39841,7 @@
    <sentence id="2896224"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="877"
-             span="Αἴγισθος0:.1">
+             span="Aeschylus Ch: s-442">
       <word id="1"
             form="Αἴγισθος"
             lemma="Αἴγισθος1"
@@ -39874,7 +39874,7 @@
    <sentence id="2896225"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="877-879"
-             span="ἀλλ᾽0::1">
+             span="Aeschylus Ch: s-443">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -39956,7 +39956,7 @@
    <sentence id="2896226"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="879-880"
-             span="καὶ1::2">
+             span="Aeschylus Ch: s-444">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -40045,7 +40045,7 @@
    <sentence id="2896227"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="880"
-             span="τί0:;0">
+             span="Aeschylus Ch: s-445">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -40080,7 +40080,7 @@
    <sentence id="2896228"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="881"
-             span="ἰοὺ0:.2">
+             span="Aeschylus Ch: s-446">
       <word id="1"
             form="ἰοὺ"
             lemma="ἰού1"
@@ -40115,7 +40115,7 @@
    <sentence id="2896229"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="882-883"
-             span="κωφοῖς0:;1">
+             span="Aeschylus Ch: s-447">
       <word id="1"
             form="κωφοῖς"
             lemma="κωφός1"
@@ -40176,7 +40176,7 @@
    <sentence id="2896230"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="883"
-             span="ποῖ0:;2">
+             span="Aeschylus Ch: s-448">
       <word id="1"
             form="ποῖ"
             lemma="ποῖ1"
@@ -40211,7 +40211,7 @@
    <sentence id="2896231"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="883"
-             span="τί1:;3">
+             span="Aeschylus Ch: s-449">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -40237,7 +40237,7 @@
    <sentence id="2896232"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="884-885"
-             span="ἔοικε0:.3">
+             span="Aeschylus Ch: s-450">
       <word id="1"
             form="ἔοικε"
             lemma="ἔοικα1"
@@ -40326,7 +40326,7 @@
    <sentence id="2896233"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="885"
-             span="τί2:;4">
+             span="Aeschylus Ch: s-451">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -40366,7 +40366,7 @@
    <sentence id="2896234"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="885"
-             span="τίνα0:;5">
+             span="Aeschylus Ch: s-452">
       <word id="1"
             form="τίνα"
             lemma="τίς"
@@ -40406,7 +40406,7 @@
    <sentence id="2896235"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="886"
-             span="τὸν0:.4">
+             span="Aeschylus Ch: s-453">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -40460,7 +40460,7 @@
    <sentence id="2896236"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="887"
-             span="οἲ0:.5">
+             span="Aeschylus Ch: s-454">
       <word id="1"
             form="οἲ"
             lemma="οἴ"
@@ -40502,7 +40502,7 @@
    <sentence id="2896237"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="887"
-             span="ξυνῆκα0:.6">
+             span="Aeschylus Ch: s-455">
       <word id="1"
             form="ξυνῆκα"
             lemma="συνίημι1"
@@ -40542,7 +40542,7 @@
    <sentence id="2896238"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="888"
-             span="δόλοις0:.7">
+             span="Aeschylus Ch: s-456">
       <word id="1"
             form="δόλοις"
             lemma="δόλος1"
@@ -40596,7 +40596,7 @@
    <sentence id="2896239"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="889"
-             span="δοίη0::3">
+             span="Aeschylus Ch: s-457">
       <word id="1"
             form="δοίη"
             lemma="δίδωμι1"
@@ -40650,7 +40650,7 @@
    <sentence id="2896240"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="890"
-             span="εἰδῶμεν0::4">
+             span="Aeschylus Ch: s-458">
       <word id="1"
             form="εἰδῶμεν"
             lemma="οἶδα1"
@@ -40704,7 +40704,7 @@
    <sentence id="2896241"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="891"
-             span="ἐνταῦθα0:.8">
+             span="Aeschylus Ch: s-459">
       <word id="1"
             form="ἐνταῦθα"
             lemma="ἐνταῦθα1"
@@ -40758,7 +40758,7 @@
    <sentence id="2896242"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="892"
-             span="σὲ0::5">
+             span="Aeschylus Ch: s-460">
       <word id="1"
             form="σὲ"
             lemma="σύ"
@@ -40791,7 +40791,7 @@
    <sentence id="2896243"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="892"
-             span="τῷδε0:.9">
+             span="Aeschylus Ch: s-461">
       <word id="1"
             form="τῷδε"
             lemma="ὅδε1"
@@ -40831,7 +40831,7 @@
    <sentence id="2896244"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="893"
-             span="οἲ1:.10">
+             span="Aeschylus Ch: s-462">
       <word id="1"
             form="οἲ"
             lemma="οἴ"
@@ -40873,7 +40873,7 @@
    <sentence id="2896245"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="893"
-             span="τέθνηκας0:.11">
+             span="Aeschylus Ch: s-463">
       <word id="1"
             form="τέθνηκας"
             lemma="θνήσκω1"
@@ -40920,7 +40920,7 @@
    <sentence id="2896246"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="894"
-             span="φιλεῖς0:;6">
+             span="Aeschylus Ch: s-464">
       <word id="1"
             form="φιλεῖς"
             lemma="φιλέω1"
@@ -40953,7 +40953,7 @@
    <sentence id="2896247"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="894-895"
-             span="τοιγὰρ0::6">
+             span="Aeschylus Ch: s-465">
       <word id="1"
             form="τοιγὰρ"
             lemma="τοιγάρ1"
@@ -41000,7 +41000,7 @@
    <sentence id="2896248"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="895"
-             span="θανόντα0:.12">
+             span="Aeschylus Ch: s-466">
       <word id="1"
             form="θανόντα"
             lemma="θνήσκω1"
@@ -41054,7 +41054,7 @@
    <sentence id="2896249"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="896-898"
-             span="ἐπίσχες0:.13">
+             span="Aeschylus Ch: s-467">
       <word id="1"
             form="ἐπίσχες"
             lemma="ἐπέχω"
@@ -41234,7 +41234,7 @@
    <sentence id="2896250"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="899"
-             span="Πυλάδη0:;7">
+             span="Aeschylus Ch: s-468">
       <word id="1"
             form="Πυλάδη"
             lemma="Πυλάδης"
@@ -41267,7 +41267,7 @@
    <sentence id="2896251"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="899"
-             span="μητέρ᾽0:;8">
+             span="Aeschylus Ch: s-469">
       <word id="1"
             form="μητέρ᾽"
             lemma="μήτηρ1"
@@ -41300,7 +41300,7 @@
    <sentence id="2896252"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="900-901"
-             span="ποῦ0:;0">
+             span="Aeschylus Ch: s-470">
       <word id="1"
             form="ποῦ"
             lemma="ποῦ"
@@ -41405,7 +41405,7 @@
    <sentence id="2896253"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="902"
-             span="ἅπαντας0:.0">
+             span="Aeschylus Ch: s-471">
       <word id="1"
             form="ἅπαντας"
             lemma="ἅπας1"
@@ -41459,7 +41459,7 @@
    <sentence id="2896254"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="903"
-             span="κρίνω0:.1">
+             span="Aeschylus Ch: s-472">
       <word id="1"
             form="κρίνω"
             lemma="κρίνω1"
@@ -41527,7 +41527,7 @@
    <sentence id="2896255"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="904"
-             span="ἕπου0:.2">
+             span="Aeschylus Ch: s-473">
       <word id="1"
             form="ἕπου"
             lemma="ἕπομαι1"
@@ -41595,7 +41595,7 @@
    <sentence id="2896256"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="905"
-             span="καὶ1::0">
+             span="Aeschylus Ch: s-474">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -41656,7 +41656,7 @@
    <sentence id="2896257"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="906-907"
-             span="τούτῳ0:.3">
+             span="Aeschylus Ch: s-475">
       <word id="1"
             form="τούτῳ"
             lemma="οὗτος1"
@@ -41773,7 +41773,7 @@
    <sentence id="2896258"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="908"
-             span="ἐγώ0:.4">
+             span="Aeschylus Ch: s-476">
       <word id="1"
             form="ἐγώ"
             lemma="ἐγώ1"
@@ -41841,7 +41841,7 @@
    <sentence id="2896259"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="909"
-             span="πατροκτονοῦσα0:;1">
+             span="Aeschylus Ch: s-477">
       <word id="1"
             form="πατροκτονοῦσα"
             lemma="πατροκτονέω1"
@@ -41881,7 +41881,7 @@
    <sentence id="2896260"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="910"
-             span="ἡ0:.5">
+             span="Aeschylus Ch: s-478">
       <word id="1"
             form="ἡ"
             lemma="ὁ1"
@@ -41958,7 +41958,7 @@
    <sentence id="2896261"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="911"
-             span="καὶ2:.6">
+             span="Aeschylus Ch: s-479">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -42012,7 +42012,7 @@
    <sentence id="2896262"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="912"
-             span="οὐδὲν0:;2">
+             span="Aeschylus Ch: s-480">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς1"
@@ -42066,7 +42066,7 @@
    <sentence id="2896263"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="913"
-             span="τεκοῦσα0:.7">
+             span="Aeschylus Ch: s-481">
       <word id="1"
             form="τεκοῦσα"
             lemma="τίκτω1"
@@ -42127,7 +42127,7 @@
    <sentence id="2896264"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="914"
-             span="οὔτοι0:.8">
+             span="Aeschylus Ch: s-482">
       <word id="1"
             form="οὔτοι"
             lemma="οὔτοι1"
@@ -42181,7 +42181,7 @@
    <sentence id="2896265"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="915"
-             span="αἰκῶς0:.9">
+             span="Aeschylus Ch: s-483">
       <word id="1"
             form="αἰκῶς"
             lemma="ἀικής1"
@@ -42228,7 +42228,7 @@
    <sentence id="2896266"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="916"
-             span="ποῦ1:;3">
+             span="Aeschylus Ch: s-484">
       <word id="1"
             form="ποῦ"
             lemma="ποῦ"
@@ -42298,7 +42298,7 @@
    <sentence id="2896267"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="917"
-             span="αἰσχύνομαί0:.10">
+             span="Aeschylus Ch: s-485">
       <word id="1"
             form="αἰσχύνομαί"
             lemma="αἰσχύνω1"
@@ -42345,7 +42345,7 @@
    <sentence id="2896268"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="918"
-             span="μὴ0:.11">
+             span="Aeschylus Ch: s-486">
       <word id="1"
             form="μὴ"
             lemma="μή1"
@@ -42420,7 +42420,7 @@
    <sentence id="2896269"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="919"
-             span="μὴ1:.12">
+             span="Aeschylus Ch: s-487">
       <word id="1"
             form="μὴ"
             lemma="μή1"
@@ -42481,7 +42481,7 @@
    <sentence id="2896270"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="920"
-             span="ἄλγος0:.13">
+             span="Aeschylus Ch: s-488">
       <word id="1"
             form="ἄλγος"
             lemma="ἄλγος1"
@@ -42544,7 +42544,7 @@
    <sentence id="2896271"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="921"
-             span="τρέφει0:.14">
+             span="Aeschylus Ch: s-489">
       <word id="1"
             form="τρέφει"
             lemma="τρέφω1"
@@ -42605,7 +42605,7 @@
    <sentence id="2896272"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="922"
-             span="κτενεῖν0:.15">
+             span="Aeschylus Ch: s-490">
       <word id="1"
             form="κτενεῖν"
             lemma="κτείνω1"
@@ -42673,7 +42673,7 @@
    <sentence id="2896273"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="923"
-             span="σύ0:.16">
+             span="Aeschylus Ch: s-491">
       <word id="1"
             form="σύ"
             lemma="σύ"
@@ -42741,7 +42741,7 @@
    <sentence id="2896274"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="924"
-             span="ὅρα0:.17">
+             span="Aeschylus Ch: s-492">
       <word id="1"
             form="ὅρα"
             lemma="ὁράω1"
@@ -42795,7 +42795,7 @@
    <sentence id="2896275"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="925"
-             span="τὰς0:;4">
+             span="Aeschylus Ch: s-493">
       <word id="1"
             form="τὰς"
             lemma="ὁ1"
@@ -42870,7 +42870,7 @@
    <sentence id="2896276"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="926"
-             span="ἔοικα0:.18">
+             span="Aeschylus Ch: s-494">
       <word id="1"
             form="ἔοικα"
             lemma="ἔοικα1"
@@ -42924,7 +42924,7 @@
    <sentence id="2896277"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="927"
-             span="πατρὸς2:.19">
+             span="Aeschylus Ch: s-495">
       <word id="1"
             form="πατρὸς"
             lemma="πατήρ1"
@@ -42978,7 +42978,7 @@
    <sentence id="2896278"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="928"
-             span="οἲ0:.20">
+             span="Aeschylus Ch: s-496">
       <word id="1"
             form="οἲ"
             lemma="οἴ"
@@ -43039,7 +43039,7 @@
    <sentence id="2896279"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="929"
-             span="ἦ0:.21">
+             span="Aeschylus Ch: s-497">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -43102,7 +43102,7 @@
    <sentence id="2896280"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="930"
-             span="ἔκανες0:.22">
+             span="Aeschylus Ch: s-498">
       <word id="1"
             form="ἔκανες"
             lemma="καίνω1"
@@ -43193,7 +43193,7 @@
    <sentence id="2896281"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="931"
-             span="στένω0:.23">
+             span="Aeschylus Ch: s-499">
       <word id="1"
             form="στένω"
             lemma="στένω1"
@@ -43254,7 +43254,7 @@
    <sentence id="2896282"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="932-934"
-             span="ἐπεὶ1:.24">
+             span="Aeschylus Ch: s-500">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -43385,7 +43385,7 @@
    <sentence id="2896283"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="935-936"
-             span="ἔμολε0::0">
+             span="Aeschylus Ch: s-501">
       <word id="1"
             form="ἔμολε"
             lemma="βλώσκω1"
@@ -43453,7 +43453,7 @@
    <sentence id="2896284"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="937-938"
-             span="ἔμολε1:.0">
+             span="Aeschylus Ch: s-502">
       <word id="1"
             form="ἔμολε"
             lemma="βλώσκω1"
@@ -43542,7 +43542,7 @@
    <sentence id="2896285"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="939-941"
-             span="ἔλασε0:.1">
+             span="Aeschylus Ch: s-503">
       <word id="1"
             form="ἔλασε"
             lemma="ἐλαύνω1"
@@ -43638,7 +43638,7 @@
    <sentence id="2896286"
              document_id="urn:cts:greekLit:tlg0085.tlg006.perseus-grc2"
              subdoc="942-945"
-             span="ἐπολολύξατ᾽0:.0">
+             span="Aeschylus Ch: s-504">
       <word id="1"
             form="ἐπολολύξατ᾽"
             lemma="ἐπολολύζω1"
