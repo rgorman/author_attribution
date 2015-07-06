@@ -130,7 +130,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.3"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="20"
@@ -158,7 +158,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.3"/>
       <word id="19"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -249,7 +249,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.5"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -310,7 +310,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.6"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="12"
@@ -352,7 +352,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.6"/>
       <word id="14"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -462,7 +462,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.8"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -555,7 +555,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.9"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -611,7 +611,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.10"/>
       <word id="18"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -679,7 +679,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.11"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -707,7 +707,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.12"/>
       <word id="13"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -796,7 +796,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.13"/>
       <word id="12"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -892,7 +892,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.15"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -962,7 +962,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.16"/>
       <word id="23"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="24"
@@ -1025,7 +1025,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.18"/>
       <word id="32"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="34"
@@ -1102,7 +1102,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.19"/>
       <word id="43"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -1151,7 +1151,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.20"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -1193,7 +1193,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.20"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -1240,7 +1240,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.21"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -1296,7 +1296,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.22"/>
       <word id="14"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="19"
@@ -1338,7 +1338,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.22"/>
       <word id="20"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -1420,7 +1420,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.24"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -1448,7 +1448,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.24"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -1504,7 +1504,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.26"/>
       <word id="23"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -1572,7 +1572,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.27"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -1661,7 +1661,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.28"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -1731,7 +1731,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.29"/>
       <word id="22"
             form="."
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -1792,7 +1792,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.30"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -1827,7 +1827,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.31"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -1841,7 +1841,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.32"/>
       <word id="15"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -1881,7 +1881,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.32"/>
       <word id="5"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -1942,7 +1942,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.33"/>
       <word id="8"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -1996,7 +1996,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.34"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -2078,7 +2078,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.36"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -2113,7 +2113,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.36"/>
       <word id="16"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -2153,7 +2153,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.37"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="12"
@@ -2174,7 +2174,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.37"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="5"
@@ -2223,7 +2223,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.38"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -2321,7 +2321,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.40"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -2370,7 +2370,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.40"/>
       <word id="19"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -2431,7 +2431,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.41"/>
       <word id="8"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -2548,7 +2548,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.43"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -2653,7 +2653,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.45"/>
       <word id="31"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -2742,7 +2742,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.47"/>
       <word id="12"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -2852,7 +2852,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.49"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="19"
@@ -2887,7 +2887,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.50"/>
       <word id="20"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -2927,7 +2927,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.50"/>
       <word id="5"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -2960,7 +2960,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.51"/>
       <word id="4"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -3009,7 +3009,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.51"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -3044,7 +3044,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.52"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="22"
@@ -3065,7 +3065,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.52"/>
       <word id="19"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -3139,7 +3139,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.53"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -3188,7 +3188,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.54"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="18"
@@ -3209,7 +3209,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.55"/>
       <word id="16"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -3283,7 +3283,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.55"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -3318,7 +3318,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.56"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="18"
@@ -3346,7 +3346,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.56"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -3413,7 +3413,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.57"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="4"
@@ -3434,7 +3434,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.57"/>
       <word id="8"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -3523,7 +3523,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.59"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -3544,7 +3544,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.59"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -3593,7 +3593,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.60"/>
       <word id="22"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="23"
@@ -3621,7 +3621,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.61"/>
       <word id="26"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -3700,7 +3700,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.62"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -3784,7 +3784,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.63"/>
       <word id="20"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -3852,7 +3852,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.65"/>
       <word id="9"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -3892,7 +3892,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.65"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -3990,7 +3990,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.67"/>
       <word id="19"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -4051,7 +4051,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.68"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -4105,7 +4105,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.69"/>
       <word id="7"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -4222,7 +4222,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.71"/>
       <word id="16"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -4269,7 +4269,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.72"/>
       <word id="6"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -4379,7 +4379,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.74"/>
       <word id="15"
             form=";"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -4489,7 +4489,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.76"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -4550,7 +4550,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.77"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -4592,7 +4592,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.78"/>
       <word id="4"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="3"
@@ -4627,7 +4627,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.78"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -4669,7 +4669,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.79"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -4697,7 +4697,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.79"/>
       <word id="19"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -4718,7 +4718,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.80"/>
       <word id="22"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="27"
@@ -4774,7 +4774,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.81"/>
       <word id="30"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="28"
@@ -4795,7 +4795,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.81"/>
       <word id="33"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="34"
@@ -4837,7 +4837,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.82"/>
       <word id="39"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -4898,7 +4898,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.83"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="24"
@@ -4961,7 +4961,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.84"/>
       <word id="17"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="20"
@@ -4996,7 +4996,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.85"/>
       <word id="22"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="20"
@@ -5038,7 +5038,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.85"/>
       <word id="28"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -5092,7 +5092,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.86"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="4"
@@ -5113,7 +5113,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.87"/>
       <word id="10"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -5216,7 +5216,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.88"/>
       <word id="14"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="6"
@@ -5258,7 +5258,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.89"/>
       <word id="20"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -5305,7 +5305,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.89"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -5375,7 +5375,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.91"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -5403,7 +5403,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.91"/>
       <word id="20"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -5417,7 +5417,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.92"/>
       <word id="22"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -5485,7 +5485,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.93"/>
       <word id="9"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -5532,7 +5532,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.93"/>
       <word id="6"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -5586,7 +5586,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.94"/>
       <word id="7"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -5612,7 +5612,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.95"/>
       <word id="3"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="2"
@@ -5675,7 +5675,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.96"/>
       <word id="12"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -5778,7 +5778,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.97"/>
       <word id="14"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="16"
@@ -5820,7 +5820,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.98"/>
       <word id="20"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="24"
@@ -5883,7 +5883,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.100"/>
       <word id="29"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="26"
@@ -5904,7 +5904,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.100"/>
       <word id="32"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -5972,7 +5972,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.101"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -6026,7 +6026,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.102"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -6045,7 +6045,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.103"/>
       <word id="2"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="1"
@@ -6157,7 +6157,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.104"/>
       <word id="18"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="24"
@@ -6213,7 +6213,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.105"/>
       <word id="26"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -6316,7 +6316,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.107"/>
       <word id="14"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -6351,7 +6351,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.107"/>
       <word id="19"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -6398,7 +6398,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.108"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -6468,7 +6468,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.110"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -6545,7 +6545,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.111"/>
       <word id="27"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -6608,7 +6608,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.112"/>
       <word id="36"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="41"
@@ -6650,7 +6650,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.113"/>
       <word id="42"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="43"
@@ -6685,7 +6685,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.114"/>
       <word id="47"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="55"
@@ -6727,7 +6727,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.114"/>
       <word id="53"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -6780,7 +6780,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.115"/>
       <word id="3"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -6834,7 +6834,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.116"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -6888,7 +6888,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.116"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -6942,7 +6942,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.117"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -6975,7 +6975,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.118"/>
       <word id="4"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="3"
@@ -6989,7 +6989,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.118"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="5"
@@ -7024,7 +7024,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.119"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -7087,7 +7087,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.119"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="5"
@@ -7171,7 +7171,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.121"/>
       <word id="19"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="22"
@@ -7199,7 +7199,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.121"/>
       <word id="23"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -7255,7 +7255,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.122"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="13"
@@ -7283,7 +7283,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.123"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -7311,7 +7311,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.123"/>
       <word id="14"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -7386,7 +7386,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.125"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -7428,7 +7428,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.126"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="13"
@@ -7449,7 +7449,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.126"/>
       <word id="19"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="21"
@@ -7505,7 +7505,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.127"/>
       <word id="27"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -7580,7 +7580,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.129"/>
       <word id="10"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -7650,7 +7650,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.130"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -7697,7 +7697,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.131"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="11"
@@ -7725,7 +7725,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.131"/>
       <word id="10"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -7802,7 +7802,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.132"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -7830,7 +7830,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.133"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="23"
@@ -7844,7 +7844,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.133"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="16"
@@ -7893,7 +7893,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.134"/>
       <word id="22"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -7942,7 +7942,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.135"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -7970,7 +7970,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.135"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -8026,7 +8026,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.136"/>
       <word id="17"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -8047,7 +8047,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.137"/>
       <word id="20"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="21"
@@ -8075,7 +8075,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.137"/>
       <word id="24"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="26"
@@ -8117,7 +8117,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.138"/>
       <word id="30"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -8171,7 +8171,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.139"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -8255,7 +8255,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.140"/>
       <word id="19"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="5"
@@ -8276,7 +8276,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.140"/>
       <word id="22"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -8400,7 +8400,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.143"/>
       <word id="17"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="19"
@@ -8442,7 +8442,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.143"/>
       <word id="23"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -8526,7 +8526,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.144"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -8568,7 +8568,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.145"/>
       <word id="16"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -8636,7 +8636,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.146"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -8657,7 +8657,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.147"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -8734,7 +8734,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.148"/>
       <word id="23"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="24"
@@ -8748,7 +8748,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.149"/>
       <word id="25"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="33"
@@ -8818,7 +8818,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.149"/>
       <word id="35"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -8872,7 +8872,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.150"/>
       <word id="7"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -8947,7 +8947,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.152"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="12"
@@ -9031,7 +9031,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.153"/>
       <word id="22"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -9101,7 +9101,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.154"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="29"
@@ -9171,7 +9171,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.155"/>
       <word id="18"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="29"
@@ -9199,7 +9199,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.156"/>
       <word id="22"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="29"
@@ -9234,7 +9234,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.156"/>
       <word id="27"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="29"
@@ -9297,7 +9297,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.157"/>
       <word id="36"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxY"
             head="39"
@@ -9318,7 +9318,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.157"/>
       <word id="39"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="COORD"
             head="34"
@@ -9367,7 +9367,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.158"/>
       <word id="46"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -9444,7 +9444,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.159"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -9486,7 +9486,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.160"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -9540,7 +9540,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.161"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -9568,7 +9568,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.161"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="12"
@@ -9582,7 +9582,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.162"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -9631,7 +9631,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.162"/>
       <word id="20"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="27"
@@ -9687,7 +9687,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.163"/>
       <word id="28"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -9741,7 +9741,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.164"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -9769,7 +9769,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.165"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -9811,7 +9811,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.165"/>
       <word id="17"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -9872,7 +9872,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.166"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -9905,7 +9905,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.167"/>
       <word id="4"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -9933,7 +9933,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.167"/>
       <word id="8"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -9989,7 +9989,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.168"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -10052,7 +10052,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.169"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -10087,7 +10087,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.169"/>
       <word id="12"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -10143,7 +10143,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.170"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -10204,7 +10204,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.171"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -10251,7 +10251,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.171"/>
       <word id="6"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -10305,7 +10305,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.172"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -10340,7 +10340,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.173"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -10361,7 +10361,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.173"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -10417,7 +10417,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.174"/>
       <word id="23"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -10501,7 +10501,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.175"/>
       <word id="10"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -10562,7 +10562,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.176"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -10576,7 +10576,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.177"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="5"
@@ -10625,7 +10625,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.177"/>
       <word id="17"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -10812,7 +10812,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.181"/>
       <word id="26"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="33"
@@ -10826,7 +10826,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.181"/>
       <word id="28"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="33"
@@ -10847,7 +10847,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.181"/>
       <word id="31"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="33"
@@ -10875,7 +10875,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.182"/>
       <word id="35"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="36"
@@ -10896,7 +10896,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.182"/>
       <word id="38"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -10924,7 +10924,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.183"/>
       <word id="2"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -10966,7 +10966,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.183"/>
       <word id="8"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -11134,7 +11134,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.187"/>
       <word id="22"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="19"
@@ -11169,7 +11169,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.187"/>
       <word id="27"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="28"
@@ -11183,7 +11183,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.188"/>
       <word id="29"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="34"
@@ -11225,7 +11225,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.188"/>
       <word id="35"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -11328,7 +11328,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.190"/>
       <word id="14"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -11405,7 +11405,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.192"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -11489,7 +11489,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.193"/>
       <word id="21"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="23"
@@ -11510,7 +11510,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.193"/>
       <word id="24"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="26"
@@ -11531,7 +11531,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.194"/>
       <word id="27"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="29"
@@ -11580,7 +11580,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.195"/>
       <word id="34"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -11687,7 +11687,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.196"/>
       <word id="12"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -11741,7 +11741,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.197"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -11804,7 +11804,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.198"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -11888,7 +11888,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.200"/>
       <word id="28"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -11971,7 +11971,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.200"/>
       <word id="6"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12025,7 +12025,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.201"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12121,7 +12121,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.203"/>
       <word id="13"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12168,7 +12168,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.203"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12219,7 +12219,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.204"/>
       <word id="4"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -12282,7 +12282,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.205"/>
       <word id="13"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12352,7 +12352,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.206"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -12380,7 +12380,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.206"/>
       <word id="12"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12485,7 +12485,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.209"/>
       <word id="13"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12595,7 +12595,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.211"/>
       <word id="15"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12670,7 +12670,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.212"/>
       <word id="10"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12724,7 +12724,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.213"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12785,7 +12785,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.214"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12846,7 +12846,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.215"/>
       <word id="8"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -12900,7 +12900,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.216"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="3"
@@ -12921,7 +12921,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.216"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -12991,7 +12991,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.217"/>
       <word id="20"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="30"
@@ -13019,7 +13019,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.218"/>
       <word id="24"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="25"
@@ -13047,7 +13047,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.218"/>
       <word id="28"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13133,7 +13133,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.220"/>
       <word id="9"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13187,7 +13187,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.220"/>
       <word id="7"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13269,7 +13269,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.222"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13323,7 +13323,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.222"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13393,7 +13393,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.223"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="5"
@@ -13407,7 +13407,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.224"/>
       <word id="10"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13454,7 +13454,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.224"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="5"
@@ -13475,7 +13475,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.224"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -13489,7 +13489,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.225"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13536,7 +13536,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.226"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13632,7 +13632,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.227"/>
       <word id="13"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13707,7 +13707,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.229"/>
       <word id="10"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13810,7 +13810,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.231"/>
       <word id="14"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13906,7 +13906,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.233"/>
       <word id="13"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -13974,7 +13974,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.234"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -14021,7 +14021,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.235"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -14075,7 +14075,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.236"/>
       <word id="7"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -14143,7 +14143,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.237"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -14218,7 +14218,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.238"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="6"
@@ -14295,7 +14295,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.240"/>
       <word id="21"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="COORD"
             head="6"
@@ -14330,7 +14330,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.240"/>
       <word id="26"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -14363,7 +14363,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.241"/>
       <word id="4"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -14412,7 +14412,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.242"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -14487,7 +14487,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.243"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="12"
@@ -14522,7 +14522,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.243"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -14543,7 +14543,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.244"/>
       <word id="18"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="23"
@@ -14571,7 +14571,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.244"/>
       <word id="22"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -14606,7 +14606,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.245"/>
       <word id="3"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -14655,7 +14655,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.245"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -14690,7 +14690,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.246"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -14739,7 +14739,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.247"/>
       <word id="22"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="26"
@@ -14774,7 +14774,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.248"/>
       <word id="27"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -14821,7 +14821,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.248"/>
       <word id="6"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -14875,7 +14875,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.249"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -14903,7 +14903,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.249"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -14987,7 +14987,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.251"/>
       <word id="23"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -15048,7 +15048,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.252"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -15116,7 +15116,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.253"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="4"
@@ -15165,7 +15165,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.254"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -15221,7 +15221,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.255"/>
       <word id="24"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -15282,7 +15282,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.256"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="5"
@@ -15317,7 +15317,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.256"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -15380,7 +15380,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.257"/>
       <word id="22"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -15427,7 +15427,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.258"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -15502,7 +15502,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.259"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -15600,7 +15600,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.260"/>
       <word id="24"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -15668,7 +15668,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.261"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -15729,7 +15729,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.262"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -15785,7 +15785,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.263"/>
       <word id="16"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -15853,7 +15853,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.264"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -15888,7 +15888,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.265"/>
       <word id="14"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="COORD"
             head="3"
@@ -15902,7 +15902,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.266"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -15944,7 +15944,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.266"/>
       <word id="22"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -15998,7 +15998,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.267"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -16047,7 +16047,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.268"/>
       <word id="14"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16094,7 +16094,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.269"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -16136,7 +16136,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.269"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -16157,7 +16157,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.270"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16204,7 +16204,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.270"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16281,7 +16281,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.272"/>
       <word id="9"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16363,7 +16363,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.273"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16438,7 +16438,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.274"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="12"
@@ -16473,7 +16473,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.274"/>
       <word id="15"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16555,7 +16555,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.276"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16609,7 +16609,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.277"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16656,7 +16656,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.277"/>
       <word id="6"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16738,7 +16738,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.279"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -16780,7 +16780,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.279"/>
       <word id="17"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16841,7 +16841,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.280"/>
       <word id="8"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -16909,7 +16909,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.281"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="2"
@@ -17049,7 +17049,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.284"/>
       <word id="29"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -17149,7 +17149,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.285"/>
       <word id="11"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -17224,7 +17224,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.286"/>
       <word id="10"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -17278,7 +17278,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.287"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -17313,7 +17313,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.288"/>
       <word id="12"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -17353,7 +17353,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.288"/>
       <word id="5"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -17421,7 +17421,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.289"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -17442,7 +17442,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.290"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -17477,7 +17477,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.290"/>
       <word id="17"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -17570,7 +17570,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.291"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="21"
@@ -17633,7 +17633,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.292"/>
       <word id="19"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="21"
@@ -17745,7 +17745,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.294"/>
       <word id="35"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="36"
@@ -17787,7 +17787,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.295"/>
       <word id="41"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -17841,7 +17841,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.296"/>
       <word id="7"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -17895,7 +17895,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.297"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="6"
@@ -17930,7 +17930,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.297"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -17972,7 +17972,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.299"/>
       <word id="18"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="19"
@@ -17993,7 +17993,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.300"/>
       <word id="21"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -18033,7 +18033,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.300"/>
       <word id="5"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -18073,7 +18073,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.301"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -18101,7 +18101,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.301"/>
       <word id="9"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -18162,7 +18162,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.302"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -18223,7 +18223,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.303"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -18258,7 +18258,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.303"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -18279,7 +18279,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.305"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -18314,7 +18314,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.305"/>
       <word id="21"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -18368,7 +18368,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.306"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -18424,7 +18424,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.307"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -18513,7 +18513,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.309"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="21"
@@ -18562,7 +18562,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.310"/>
       <word id="19"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="21"
@@ -18604,7 +18604,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.310"/>
       <word id="25"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -18700,7 +18700,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.311"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -18735,7 +18735,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.311"/>
       <word id="18"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -18796,7 +18796,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.312"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -18810,7 +18810,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.313"/>
       <word id="10"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="3"
@@ -18845,7 +18845,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.313"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -18906,7 +18906,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.314"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="16"
@@ -18948,7 +18948,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.315"/>
       <word id="14"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="16"
@@ -19011,7 +19011,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.316"/>
       <word id="23"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="28"
@@ -19074,7 +19074,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.317"/>
       <word id="32"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19114,7 +19114,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.317"/>
       <word id="5"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19161,7 +19161,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.318"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -19238,7 +19238,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.319"/>
       <word id="17"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -19259,7 +19259,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.320"/>
       <word id="20"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19329,7 +19329,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.321"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19376,7 +19376,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.321"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -19418,7 +19418,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.322"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -19439,7 +19439,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.323"/>
       <word id="15"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19521,7 +19521,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.324"/>
       <word id="11"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19591,7 +19591,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.325"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -19640,7 +19640,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.326"/>
       <word id="15"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19668,7 +19668,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.327"/>
       <word id="2"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="4"
@@ -19696,7 +19696,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.327"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19820,7 +19820,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.329"/>
       <word id="17"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19874,7 +19874,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.330"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -19902,7 +19902,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.330"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -19963,7 +19963,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.331"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="1"
@@ -20026,7 +20026,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.332"/>
       <word id="17"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="19"
@@ -20075,7 +20075,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.333"/>
       <word id="24"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="32"
@@ -20138,7 +20138,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.335"/>
       <word id="33"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="32"
@@ -20173,7 +20173,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.335"/>
       <word id="38"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -20206,7 +20206,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.336"/>
       <word id="4"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -20316,7 +20316,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.337"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -20386,7 +20386,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.338"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -20435,7 +20435,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.339"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -20449,7 +20449,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.340"/>
       <word id="17"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -20517,7 +20517,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.341"/>
       <word id="9"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -20599,7 +20599,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.342"/>
       <word id="11"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -20681,7 +20681,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.344"/>
       <word id="11"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -20723,7 +20723,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.344"/>
       <word id="4"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -20791,7 +20791,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.345"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="4"
@@ -20847,7 +20847,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.346"/>
       <word id="17"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -20915,7 +20915,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.348"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -20957,7 +20957,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.348"/>
       <word id="15"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -21004,7 +21004,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.349"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -21030,7 +21030,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.350"/>
       <word id="3"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="1"
@@ -21086,7 +21086,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.351"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -21142,7 +21142,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.351"/>
       <word id="19"
             form=";"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -21233,7 +21233,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.353"/>
       <word id="11"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -21294,7 +21294,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.354"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -21362,7 +21362,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.355"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -21418,7 +21418,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.355"/>
       <word id="17"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -21472,7 +21472,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.356"/>
       <word id="7"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -21507,7 +21507,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.357"/>
       <word id="3"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="2"
@@ -21570,7 +21570,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.358"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -21612,7 +21612,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.358"/>
       <word id="18"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -21694,7 +21694,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.360"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -21750,7 +21750,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.361"/>
       <word id="19"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="22"
@@ -21778,7 +21778,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.361"/>
       <word id="23"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -21860,7 +21860,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.363"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="22"
@@ -21923,7 +21923,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.364"/>
       <word id="20"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="22"
@@ -21965,7 +21965,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.364"/>
       <word id="26"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -22033,7 +22033,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.365"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -22136,7 +22136,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.367"/>
       <word id="14"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -22162,7 +22162,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.368"/>
       <word id="3"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -22251,7 +22251,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.369"/>
       <word id="12"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -22375,7 +22375,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.371"/>
       <word id="17"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -22438,7 +22438,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.372"/>
       <word id="7"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -22506,7 +22506,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.373"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -22588,7 +22588,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.375"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -22623,7 +22623,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.375"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -22658,7 +22658,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.376"/>
       <word id="21"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="23"
@@ -22749,7 +22749,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.378"/>
       <word id="34"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="35"
@@ -22777,7 +22777,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.378"/>
       <word id="38"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="18"
@@ -22833,7 +22833,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.379"/>
       <word id="46"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -22985,7 +22985,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.382"/>
       <word id="21"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -23032,7 +23032,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.383"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -23079,7 +23079,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.383"/>
       <word id="6"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -23147,7 +23147,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.384"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="11"
@@ -23196,7 +23196,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.385"/>
       <word id="16"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -23306,7 +23306,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.388"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="38"
@@ -23355,7 +23355,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.389"/>
       <word id="22"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="38"
@@ -23404,7 +23404,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.390"/>
       <word id="29"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="38"
@@ -23453,7 +23453,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.390"/>
       <word id="36"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="38"
@@ -23523,7 +23523,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.391"/>
       <word id="46"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -23627,7 +23627,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.392"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -23732,7 +23732,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.395"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="22"
@@ -23788,7 +23788,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.395"/>
       <word id="21"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="22"
@@ -23872,7 +23872,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.397"/>
       <word id="33"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="38"
@@ -23914,7 +23914,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.397"/>
       <word id="39"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="45"
@@ -23991,7 +23991,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.399"/>
       <word id="50"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="53"
@@ -24019,7 +24019,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.399"/>
       <word id="54"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="57"
@@ -24075,7 +24075,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.400"/>
       <word id="62"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -24153,7 +24153,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.401"/>
       <word id="4"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -24188,7 +24188,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.401"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -24284,7 +24284,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.403"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="24"
@@ -24354,7 +24354,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.404"/>
       <word id="23"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -24435,7 +24435,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.405"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -24449,7 +24449,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.405"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -24540,7 +24540,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.408"/>
       <word id="22"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="34"
@@ -24610,7 +24610,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.409"/>
       <word id="32"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="34"
@@ -24666,7 +24666,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.410"/>
       <word id="40"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -24742,7 +24742,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.410"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -24798,7 +24798,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.411"/>
       <word id="13"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -24879,7 +24879,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.412"/>
       <word id="7"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -24998,7 +24998,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.414"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -25033,7 +25033,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.415"/>
       <word id="20"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -25073,7 +25073,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.415"/>
       <word id="5"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -25099,7 +25099,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.416"/>
       <word id="3"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="19"
@@ -25120,7 +25120,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.416"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="3"
@@ -25225,7 +25225,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.419"/>
       <word id="21"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -25286,7 +25286,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.420"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -25333,7 +25333,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.420"/>
       <word id="6"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -25359,7 +25359,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.421"/>
       <word id="3"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -25429,7 +25429,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.422"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -25464,7 +25464,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.422"/>
       <word id="18"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -25499,7 +25499,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.423"/>
       <word id="3"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -25560,7 +25560,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.423"/>
       <word id="8"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -25621,7 +25621,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.424"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -25670,7 +25670,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.425"/>
       <word id="15"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="17"
@@ -25698,7 +25698,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.426"/>
       <word id="19"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="40"
@@ -25733,7 +25733,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.426"/>
       <word id="24"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="37"
@@ -25831,7 +25831,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.428"/>
       <word id="38"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -25924,7 +25924,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.429"/>
       <word id="10"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -26020,7 +26020,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.431"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -26118,7 +26118,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.432"/>
       <word id="27"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -26151,7 +26151,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.433"/>
       <word id="4"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="5"
@@ -26172,7 +26172,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.433"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="5"
@@ -26200,7 +26200,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.434"/>
       <word id="11"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -26235,7 +26235,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.434"/>
       <word id="16"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="15"
@@ -26249,7 +26249,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.435"/>
       <word id="18"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -26310,7 +26310,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.435"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -26364,7 +26364,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.436"/>
       <word id="7"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -26432,7 +26432,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.437"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="23"
@@ -26467,7 +26467,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.438"/>
       <word id="14"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="23"
@@ -26516,7 +26516,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.439"/>
       <word id="21"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="23"
@@ -26558,7 +26558,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.440"/>
       <word id="27"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -26627,7 +26627,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.440"/>
       <word id="4"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -26655,7 +26655,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.440"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -26802,7 +26802,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.442"/>
       <word id="10"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -26851,7 +26851,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.442"/>
       <word id="5"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -26877,7 +26877,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.443"/>
       <word id="3"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="9"
@@ -26905,7 +26905,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.443"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="3"
@@ -26954,7 +26954,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.444"/>
       <word id="14"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27015,7 +27015,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.445"/>
       <word id="8"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27034,7 +27034,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.446"/>
       <word id="2"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="1"
@@ -27083,7 +27083,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.446"/>
       <word id="9"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27172,7 +27172,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.448"/>
       <word id="12"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="APOS"
             head="11"
@@ -27200,7 +27200,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.448"/>
       <word id="16"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27240,7 +27240,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.449"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -27282,7 +27282,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.449"/>
       <word id="11"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27308,7 +27308,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.450"/>
       <word id="3"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27362,7 +27362,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.450"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -27467,7 +27467,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.453"/>
       <word id="22"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27514,7 +27514,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.453"/>
       <word id="6"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -27563,7 +27563,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.454"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -27591,7 +27591,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.455"/>
       <word id="17"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27673,7 +27673,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.456"/>
       <word id="11"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27720,7 +27720,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.457"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27788,7 +27788,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.458"/>
       <word id="9"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27828,7 +27828,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.459"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -27856,7 +27856,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.459"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="7"
@@ -27912,7 +27912,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.461"/>
       <word id="17"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -27973,7 +27973,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.462"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="10"
@@ -28015,7 +28015,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.462"/>
       <word id="14"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28111,7 +28111,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.464"/>
       <word id="13"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="14"
@@ -28174,7 +28174,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.465"/>
       <word id="22"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28221,7 +28221,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.466"/>
       <word id="6"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28261,7 +28261,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.466"/>
       <word id="5"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28364,7 +28364,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.469"/>
       <word id="14"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28432,7 +28432,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.470"/>
       <word id="9"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28514,7 +28514,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.471"/>
       <word id="11"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28582,7 +28582,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.472"/>
       <word id="9"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="13"
@@ -28715,7 +28715,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.475"/>
       <word id="28"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28764,7 +28764,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.475"/>
       <word id="5"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="6"
@@ -28785,7 +28785,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.476"/>
       <word id="8"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="9"
@@ -28813,7 +28813,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.476"/>
       <word id="12"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28902,7 +28902,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.478"/>
       <word id="12"
             form=":"
-            lemma="πυνξ1"
+            lemma="punc1"
             postag="u--------"
             relation="AuxK"
             head="0"
@@ -28956,7 +28956,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.479"/>
       <word id="7"
             form=","
-            lemma="ξομμα1"
+            lemma="comma1"
             postag="u--------"
             relation="AuxX"
             head="8"
@@ -29033,7 +29033,7 @@
             cite="urn:cts:greekLit:tlg0020.tlg003:1.480"/>
       <word id="18"
             form="."
-            lemma="περιοδ1"
+            lemma="period1"
             postag="u--------"
             relation="AuxK"
             head="0"
