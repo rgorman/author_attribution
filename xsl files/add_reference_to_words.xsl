@@ -4,7 +4,8 @@
     <xsl:output method="xml" indent="yes"/>
     
     <xsl:template match="treebank">
-        <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+        <treebank>
+            <xsl:copy-of select="@*"/>
             <xsl:for-each select="comment">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
