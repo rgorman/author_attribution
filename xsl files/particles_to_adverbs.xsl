@@ -25,14 +25,14 @@
                                     <word id="{./@id}" insertion_id="{./@insertion_id}"  
                                         atificial="{./@artificial}"  form="{./@form}" lemma="{./@lemma}"
                                         postag="d--------" relation="{./@relation}"
-                                        head="{./@head}"/>
+                                        head="{./@head}" cite="{./@cite}"/>
                                     
                                     
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <word id="{./@id}" form="{./@form}" lemma="{./@lemma}"
                                         postag="d--------" relation="{./@relation}"
-                                        head="{./@head}"/>
+                                        head="{./@head}" cite="{./@cite}"/>
                                 </xsl:otherwise>
                             </xsl:choose>
                             
