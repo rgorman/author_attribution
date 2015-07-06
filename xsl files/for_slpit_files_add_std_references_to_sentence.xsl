@@ -4,7 +4,8 @@
     <xsl:output method="xml" indent="yes"/>
     
     <xsl:template match="treebank">
-        <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+        <treebank>
+            <xsl:copy-of select="@*"/>
             <xsl:for-each select="comment">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
@@ -17,7 +18,7 @@
            <xsl:for-each select="sentence">
                <xsl:variable name="number"><xsl:number/></xsl:variable>
                <sentence id="{./@id}" document_id="{./@document_id}" subdoc="{./@subdoc}"><xsl:attribute name="span">
-                  <xsl:value-of select="$reference"/>: s-<xsl:value-of select="$number + 5717"/>
+                  <xsl:value-of select="$reference"/>: s-<xsl:value-of select="$number + 2178"/>
                </xsl:attribute>
                       <xsl:for-each select="word">
                           <xsl:copy-of select="."/>
