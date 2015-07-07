@@ -14,6 +14,23 @@
             <xsl:for-each select="annotator">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
-        </treebank>
+            <xsl:for-each select="sentence">
+                <sentence id="{./@id}" document_id="{./@document_id}" subdoc="{./@subdoc}"
+                    span="{./@span}">
+                    
+                    <xsl:for-each select="word">
+                        <word><xsl:copy-of select="@*"/><xsl:attribute name="DepDist">
+                            <xsl:choose>
+                                <xsl:when test="./@head != '0'">
+                                    <xsl:value-of select="abs(./@head - ./@id)"/>
+                                </xsl:when>
+                            </xsl:choose>
+                            
+                        </xsl:attribute></word>
+                    </xsl:for-each>
+                    
+                </sentence>
+            </xsl:for-each>
+        </treebank>   
     </xsl:template>
 </xsl:stylesheet>
