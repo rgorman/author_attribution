@@ -6,7 +6,7 @@
     <xsl:output method="xml" indent="yes"/>
     
     <xsl:template match="treebank">
-        <treebank>
+        <sWord_document>
             <xsl:copy-of select="@*"/>
             <xsl:copy-of select="@*"/>
             <xsl:for-each select="comment">
@@ -64,6 +64,6 @@
                     
                 </sentence>
             </xsl:for-each>
-        </treebank>
+        </sWord_document>
     </xsl:template>
 </xsl:stylesheet>

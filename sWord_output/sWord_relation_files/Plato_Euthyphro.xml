@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+<sWord_document version="1.5" xml:lang="grc" direction="ltr" format="aldt">
    <comment xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Plato Euthyphro</comment>
    <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
@@ -47085,4 +47085,4 @@
              head="17"
              cite="Plato Euthyphro: s-426 w-57">OBJ_CO-COORD-ADV-ATR_CO-COORD-AuxC-OBJ-AuxP-ADV-PRED-#</sWord>
    </sentence>
-</treebank>
+</sWord_document>
