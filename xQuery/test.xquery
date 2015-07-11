@@ -18,14 +18,14 @@ return
                             (sum(for $w in $s/word
                             let $wi := data($w/@id)
                             let $wh := data($w/@head)
-                            let $wc := data(count($w))
                             
                             
+                           where $wh > 0 
                             
                             return
                                 
                                 abs($wh - $wi)
-                            )) div (count($w))
+                            )) div (count($w) -1)
                         }"
                 >
                     
