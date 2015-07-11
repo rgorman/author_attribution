@@ -16,7 +16,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1-2"
              span="Aeschylus Prometheus: s-1"
-             depDist="4.066666666666666">
+             depDist="2.9285714285714284">
       <word id="1"
             form="Χθονὸς"
             lemma="χθών1"
@@ -127,7 +127,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="3-6"
              span="Aeschylus Prometheus: s-2"
-             depDist="3.76">
+             depDist="2.6666666666666665">
       <word id="1"
             form="Ἥφαιστε"
             lemma="Ἥφαιστος1"
@@ -308,7 +308,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="7-8"
              span="Aeschylus Prometheus: s-3"
-             depDist="4.538461538461538">
+             depDist="2.8333333333333335">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -405,7 +405,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="8-11"
              span="Aeschylus Prometheus: s-4"
-             depDist="3.272727272727273">
+             depDist="2.142857142857143">
       <word id="1"
             form="τοιᾶσδέ"
             lemma="τοιόσδε1"
@@ -565,7 +565,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="12-13"
              span="Aeschylus Prometheus: s-5"
-             depDist="4.1875">
+             depDist="2.6666666666666665">
       <word id="1"
             form="Κράτος"
             lemma="κράτος1"
@@ -685,7 +685,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="14-15"
              span="Aeschylus Prometheus: s-6"
-             depDist="2.9166666666666665">
+             depDist="1.7272727272727273">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -775,7 +775,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="16"
              span="Aeschylus Prometheus: s-7"
-             depDist="5.222222222222222">
+             depDist="3.75">
       <word id="1"
             form="πάντως"
             lemma="πάντως1"
@@ -846,7 +846,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="17"
              span="Aeschylus Prometheus: s-8"
-             depDist="4.285714285714286">
+             depDist="2.8333333333333335">
       <word id="1"
             form="ἐξωριάζειν"
             lemma="ἐξωριάζω1"
@@ -903,7 +903,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="18-23"
              span="Aeschylus Prometheus: s-9"
-             depDist="4.142857142857143">
+             depDist="2.8823529411764706">
       <word id="1"
             form="τῆς"
             lemma="ὁ1"
@@ -1154,7 +1154,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="23-25"
              span="Aeschylus Prometheus: s-10"
-             depDist="4.25">
+             depDist="2.7333333333333334">
       <word id="1"
             form="ἀσμένῳ"
             lemma="ἄσμενος1"
@@ -1272,7 +1272,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="26-27"
              span="Aeschylus Prometheus: s-11"
-             depDist="3.6666666666666665">
+             depDist="2.125">
       <word id="1"
             form="ἀεὶ"
             lemma="ἀεί1"
@@ -1341,7 +1341,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="27"
              span="Aeschylus Prometheus: s-12"
-             depDist="3">
+             depDist="1.5">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -1396,7 +1396,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="28"
              span="Aeschylus Prometheus: s-13"
-             depDist="2.5">
+             depDist="1.4">
       <word id="1"
             form="τοιαῦτ᾽"
             lemma="τοιοῦτος1"
@@ -1444,7 +1444,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="29-30"
              span="Aeschylus Prometheus: s-14"
-             depDist="4.166666666666667">
+             depDist="2.6363636363636362">
       <word id="1"
             form="θεὸς"
             lemma="θεός1"
@@ -1534,7 +1534,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="31-32"
              span="Aeschylus Prometheus: s-15"
-             depDist="3.2857142857142856">
+             depDist="2.076923076923077">
       <word id="1"
             form="ἀνθ᾽"
             lemma="ἀντί1"
@@ -1638,7 +1638,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="33-34"
              span="Aeschylus Prometheus: s-16"
-             depDist="3.75">
+             depDist="2.142857142857143">
       <word id="1"
             form="πολλοὺς"
             lemma="πολύς1"
@@ -1700,7 +1700,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="34"
              span="Aeschylus Prometheus: s-17"
-             depDist="3.8333333333333335">
+             depDist="2.4">
       <word id="1"
             form="Διὸς"
             lemma="Ζεύς1"
@@ -1750,7 +1750,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="35"
              span="Aeschylus Prometheus: s-18"
-             depDist="4.777777777777778">
+             depDist="3.125">
       <word id="1"
             form="ἅπας"
             lemma="ἅπας1"
@@ -1821,7 +1821,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="36"
              span="Aeschylus Prometheus: s-19"
-             depDist="3">
+             depDist="1.5714285714285714">
       <word id="1"
             form="εἶεν"
             lemma="εἶεν1"
@@ -1883,7 +1883,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="37-38"
              span="Aeschylus Prometheus: s-20"
-             depDist="4.066666666666666">
+             depDist="2.857142857142857">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -1994,7 +1994,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="39"
              span="Aeschylus Prometheus: s-21"
-             depDist="4.333333333333333">
+             depDist="2.75">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -2065,7 +2065,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="40"
              span="Aeschylus Prometheus: s-22"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="σύμφημ᾽"
             lemma="σύμφημι1"
@@ -2085,7 +2085,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="40-41"
              span="Aeschylus Prometheus: s-23"
-             depDist="5">
+             depDist="3.4444444444444446">
       <word id="1"
             form="ἀνηκουστεῖν"
             lemma="ἀνηκουστέω1"
@@ -2163,7 +2163,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="41"
              span="Aeschylus Prometheus: s-24"
-             depDist="2.2">
+             depDist="0.75">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -2204,7 +2204,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="42"
              span="Aeschylus Prometheus: s-25"
-             depDist="5.1">
+             depDist="3.5555555555555554">
       <word id="1"
             form="αἰεί"
             lemma="ἀεί1"
@@ -2282,7 +2282,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="43"
              span="Aeschylus Prometheus: s-26"
-             depDist="4.142857142857143">
+             depDist="2.6666666666666665">
       <word id="1"
             form="ἄκος"
             lemma="ἄκος1"
@@ -2339,7 +2339,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="43-44"
              span="Aeschylus Prometheus: s-27"
-             depDist="3.7777777777777777">
+             depDist="2.25">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -2408,7 +2408,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="45"
              span="Aeschylus Prometheus: s-28"
-             depDist="3">
+             depDist="1.4">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -2458,7 +2458,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="46"
              span="Aeschylus Prometheus: s-29"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -2492,7 +2492,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="46-47"
              span="Aeschylus Prometheus: s-30"
-             depDist="6.785714285714286">
+             depDist="5.384615384615385">
       <word id="1"
             form="πόνων"
             lemma="πόνος1"
@@ -2600,7 +2600,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="48"
              span="Aeschylus Prometheus: s-31"
-             depDist="3.2857142857142856">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ἔμπας"
             lemma="ἔμπας1"
@@ -2655,7 +2655,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="49"
              span="Aeschylus Prometheus: s-32"
-             depDist="4.428571428571429">
+             depDist="3">
       <word id="1"
             form="ἅπαντ᾽"
             lemma="ἅπας1"
@@ -2712,7 +2712,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="50"
              span="Aeschylus Prometheus: s-33"
-             depDist="2.7142857142857144">
+             depDist="1.3333333333333333">
       <word id="1"
             form="ἐλεύθερος"
             lemma="ἐλεύθερος1"
@@ -2767,7 +2767,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="51"
              span="Aeschylus Prometheus: s-34"
-             depDist="2.5">
+             depDist="1.2">
       <word id="1"
             form="ἔγνωκα"
             lemma="γιγνώσκω1"
@@ -2815,7 +2815,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="52-53"
              span="Aeschylus Prometheus: s-35"
-             depDist="3">
+             depDist="2">
       <word id="1"
             form="οὔκουν"
             lemma="οὔκουν1"
@@ -2912,7 +2912,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="54"
              span="Aeschylus Prometheus: s-36"
-             depDist="3.142857142857143">
+             depDist="1.5">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -2967,7 +2967,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="55-56"
              span="Aeschylus Prometheus: s-37"
-             depDist="3.230769230769231">
+             depDist="1.6666666666666667">
       <word id="1"
             form="βαλών"
             lemma="βάλλω1"
@@ -3064,7 +3064,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="57"
              span="Aeschylus Prometheus: s-38"
-             depDist="2.2857142857142856">
+             depDist="1">
       <word id="1"
             form="περαίνεται"
             lemma="περαίνω1"
@@ -3119,7 +3119,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="58"
              span="Aeschylus Prometheus: s-39"
-             depDist="3">
+             depDist="1.5714285714285714">
       <word id="1"
             form="ἄρασσε"
             lemma="ἀράσσω1"
@@ -3181,7 +3181,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="59"
              span="Aeschylus Prometheus: s-40"
-             depDist="4.5">
+             depDist="3">
       <word id="1"
             form="δεινὸς"
             lemma="δεινός1"
@@ -3245,7 +3245,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="60"
              span="Aeschylus Prometheus: s-41"
-             depDist="2.8333333333333335">
+             depDist="2">
       <word id="1"
             form="ἄραρεν"
             lemma="ἀραρίσκω1"
@@ -3293,7 +3293,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="61-62"
              span="Aeschylus Prometheus: s-42"
-             depDist="2.9285714285714284">
+             depDist="1.8461538461538463">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -3399,7 +3399,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="63"
              span="Aeschylus Prometheus: s-43"
-             depDist="3.125">
+             depDist="1.5714285714285714">
       <word id="1"
             form="πλὴν"
             lemma="πλήν1"
@@ -3461,7 +3461,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="64-65"
              span="Aeschylus Prometheus: s-44"
-             depDist="3.5">
+             depDist="1.8888888888888888">
       <word id="1"
             form="ἀδαμαντίνου"
             lemma="ἀδαμάντινος1"
@@ -3537,7 +3537,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="66"
              span="Aeschylus Prometheus: s-45"
-             depDist="2.875">
+             depDist="1.1428571428571428">
       <word id="1"
             form="αἰαῖ"
             lemma="αἰαῖ1"
@@ -3599,7 +3599,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="67-68"
              span="Aeschylus Prometheus: s-46"
-             depDist="3.909090909090909">
+             depDist="2.5">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -3682,7 +3682,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="68"
              span="Aeschylus Prometheus: s-47"
-             depDist="4">
+             depDist="2.5">
       <word id="1"
             form="ὅπως"
             lemma="ὅπως1"
@@ -3739,7 +3739,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="69"
              span="Aeschylus Prometheus: s-48"
-             depDist="1.8">
+             depDist="0.75">
       <word id="1"
             form="ὁρᾷς"
             lemma="ὁράω1"
@@ -3780,7 +3780,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="70"
              span="Aeschylus Prometheus: s-49"
-             depDist="2.3333333333333335">
+             depDist="1.4">
       <word id="1"
             form="ὁρῶ"
             lemma="ὁράω1"
@@ -3828,7 +3828,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="71"
              span="Aeschylus Prometheus: s-50"
-             depDist="3.3333333333333335">
+             depDist="1.8">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -3876,7 +3876,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="72"
              span="Aeschylus Prometheus: s-51"
-             depDist="4.444444444444445">
+             depDist="2.375">
       <word id="1"
             form="δρᾶν"
             lemma="δράω1"
@@ -3947,7 +3947,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="73"
              span="Aeschylus Prometheus: s-52"
-             depDist="3.75">
+             depDist="2.142857142857143">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -4011,7 +4011,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="74"
              span="Aeschylus Prometheus: s-53"
-             depDist="3">
+             depDist="1.5714285714285714">
       <word id="1"
             form="χώρει"
             lemma="χωρέω1"
@@ -4073,7 +4073,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="75"
              span="Aeschylus Prometheus: s-54"
-             depDist="2.625">
+             depDist="1.4285714285714286">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -4135,7 +4135,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="76"
              span="Aeschylus Prometheus: s-55"
-             depDist="2.5">
+             depDist="1.2">
       <word id="1"
             form="ἐρρωμένως"
             lemma="ἐρρωμένος1"
@@ -4183,7 +4183,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="77"
              span="Aeschylus Prometheus: s-56"
-             depDist="5.555555555555555">
+             depDist="4.375">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -4256,7 +4256,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="78"
              span="Aeschylus Prometheus: s-57"
-             depDist="3.1666666666666665">
+             depDist="1.6">
       <word id="1"
             form="ὅμοια"
             lemma="ὁμοῖος1"
@@ -4304,7 +4304,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="79-80"
              span="Aeschylus Prometheus: s-58"
-             depDist="3.6">
+             depDist="2.4285714285714284">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -4415,7 +4415,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="81"
              span="Aeschylus Prometheus: s-59"
-             depDist="2.2857142857142856">
+             depDist="1.3333333333333333">
       <word id="1"
             form="στείχωμεν"
             lemma="στείχω1"
@@ -4470,7 +4470,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="82-83"
              span="Aeschylus Prometheus: s-60"
-             depDist="3">
+             depDist="1.7777777777777777">
       <word id="1"
             form="ἐνταῦθα"
             lemma="ἐνταῦθα1"
@@ -4546,7 +4546,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="83-84"
              span="Aeschylus Prometheus: s-61"
-             depDist="5.6">
+             depDist="4.111111111111111">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -4624,7 +4624,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="85-86"
              span="Aeschylus Prometheus: s-62"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="ψευδωνύμως"
             lemma="ψευδώνυμος1"
@@ -4672,7 +4672,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="86-87"
              span="Aeschylus Prometheus: s-63"
-             depDist="3.0833333333333335">
+             depDist="1.9090909090909092">
       <word id="1"
             form="αὐτὸν"
             lemma="αὐτός1"
@@ -4762,7 +4762,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="88-91"
              span="Aeschylus Prometheus: s-64"
-             depDist="6.448275862068965">
+             depDist="4.892857142857143">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -4973,7 +4973,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="92"
              span="Aeschylus Prometheus: s-65"
-             depDist="3.7777777777777777">
+             depDist="3.125">
       <word id="1"
             form="ἴδεσθέ"
             lemma="εἶδον1"
@@ -5044,7 +5044,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="93-95"
              span="Aeschylus Prometheus: s-66"
-             depDist="3">
+             depDist="2.125">
       <word id="1"
             form="δέρχθηθ᾽"
             lemma="δέρκομαι1"
@@ -5113,7 +5113,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="96-97"
              span="Aeschylus Prometheus: s-67"
-             depDist="3.3636363636363638">
+             depDist="2">
       <word id="1"
             form="τοιόνδ᾽"
             lemma="τοιόσδε1"
@@ -5196,7 +5196,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="98-100"
              span="Aeschylus Prometheus: s-68"
-             depDist="3.736842105263158">
+             depDist="2.3333333333333335">
       <word id="1"
             form="φεῦ"
             lemma="φεῦ1"
@@ -5335,7 +5335,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="101"
              span="Aeschylus Prometheus: s-69"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι1"
@@ -5369,7 +5369,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="101-103"
              span="Aeschylus Prometheus: s-70"
-             depDist="3.7142857142857144">
+             depDist="2.3076923076923075">
       <word id="1"
             form="πάντα"
             lemma="πᾶς1"
@@ -5473,7 +5473,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="103-105"
              span="Aeschylus Prometheus: s-71"
-             depDist="3.2222222222222223">
+             depDist="2.1176470588235294">
       <word id="1"
             form="τὴν"
             lemma="ὁ1"
@@ -5605,7 +5605,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="106-107"
              span="Aeschylus Prometheus: s-72"
-             depDist="5.133333333333334">
+             depDist="3.4285714285714284">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -5716,7 +5716,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="107-108"
              span="Aeschylus Prometheus: s-73"
-             depDist="3.5555555555555554">
+             depDist="2">
       <word id="1"
             form="θνητοῖς"
             lemma="θνητός1"
@@ -5785,7 +5785,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="109-111"
              span="Aeschylus Prometheus: s-74"
-             depDist="3.5294117647058822">
+             depDist="2.5">
       <word id="1"
             form="ναρθηκοπλήρωτον"
             lemma="ναρθηκοπλήρωτος1"
@@ -5910,7 +5910,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="112-113"
              span="Aeschylus Prometheus: s-75"
-             depDist="2.75">
+             depDist="1.4285714285714286">
       <word id="1"
             form="τοιῶνδε"
             lemma="τοῖος"
@@ -5972,7 +5972,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="114"
              span="Aeschylus Prometheus: s-76"
-             depDist="3.1666666666666665">
+             depDist="1.6">
       <word id="1"
             form="ἆ"
             lemma="ἆ1"
@@ -6022,7 +6022,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="115-116"
              span="Aeschylus Prometheus: s-77"
-             depDist="4.176470588235294">
+             depDist="3">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -6147,7 +6147,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="117-118"
              span="Aeschylus Prometheus: s-78"
-             depDist="3">
+             depDist="2.0833333333333335">
       <word id="1"
             form="ἵκετο"
             lemma="ἱκνέομαι1"
@@ -6244,7 +6244,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="119-123"
              span="Aeschylus Prometheus: s-79"
-             depDist="3.814814814814815">
+             depDist="2.8846153846153846">
       <word id="1"
             form="ὁρᾶτε"
             lemma="ὁράω1"
@@ -6439,7 +6439,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="124-125"
              span="Aeschylus Prometheus: s-80"
-             depDist="3.4545454545454546">
+             depDist="1.9">
       <word id="1"
             form="φεῦ"
             lemma="φεῦ1"
@@ -6522,7 +6522,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="125-126"
              span="Aeschylus Prometheus: s-81"
-             depDist="3.7142857142857144">
+             depDist="2.1666666666666665">
       <word id="1"
             form="αἰθὴρ"
             lemma="αἰθήρ1"
@@ -6577,7 +6577,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="127"
              span="Aeschylus Prometheus: s-82"
-             depDist="4.142857142857143">
+             depDist="2.6666666666666665">
       <word id="1"
             form="πᾶν"
             lemma="πᾶς1"
@@ -6634,7 +6634,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="128"
              span="Aeschylus Prometheus: s-83"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="μηδὲν"
             lemma="μηδείς1"
@@ -6661,7 +6661,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="128-131"
              span="Aeschylus Prometheus: s-84"
-             depDist="3.6875">
+             depDist="2.3333333333333335">
       <word id="1"
             form="φιλία"
             lemma="φίλιος1"
@@ -6779,7 +6779,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="132"
              span="Aeschylus Prometheus: s-85"
-             depDist="3">
+             depDist="1.6">
       <word id="1"
             form="κραιπνοφόροι"
             lemma="κραιπνοφόρος1"
@@ -6827,7 +6827,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="133-131"
              span="Aeschylus Prometheus: s-86"
-             depDist="3.6875">
+             depDist="2.2">
       <word id="1"
             form="κτύπου"
             lemma="κτύπος1"
@@ -6945,7 +6945,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="135"
              span="Aeschylus Prometheus: s-87"
-             depDist="2.3333333333333335">
+             depDist="1.4">
       <word id="1"
             form="σύθην"
             lemma="σεύω1"
@@ -6993,7 +6993,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="136-143b"
              span="Aeschylus Prometheus: s-88"
-             depDist="6.45945945945946">
+             depDist="3.6944444444444446">
       <word id="1"
             form="αἰαῖ"
             lemma="αἰαῖ1"
@@ -7258,7 +7258,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="144"
              span="Aeschylus Prometheus: s-89"
-             depDist="2">
+             depDist="1">
       <word id="1"
             form="λεύσσω"
             lemma="λεύσσω1"
@@ -7292,7 +7292,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="144-149"
              span="Aeschylus Prometheus: s-90"
-             depDist="3.2941176470588234">
+             depDist="2.0625">
       <word id="1"
             form="φοβερὰ"
             lemma="φοβερός1"
@@ -7417,7 +7417,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="150-151"
              span="Aeschylus Prometheus: s-91"
-             depDist="3.2857142857142856">
+             depDist="1.1666666666666667">
       <word id="1"
             form="νέοι"
             lemma="νέος1"
@@ -7472,7 +7472,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="151-150"
              span="Aeschylus Prometheus: s-92"
-             depDist="3.75">
+             depDist="2.142857142857143">
       <word id="1"
             form="νεοχμοῖς"
             lemma="νεοχμός1"
@@ -7534,7 +7534,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="151"
              span="Aeschylus Prometheus: s-93"
-             depDist="3.4285714285714284">
+             depDist="1.8333333333333333">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -7589,7 +7589,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="152-157"
              span="Aeschylus Prometheus: s-94"
-             depDist="5.0344827586206895">
+             depDist="3.6785714285714284">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -7798,7 +7798,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="158-159"
              span="Aeschylus Prometheus: s-95"
-             depDist="4.3">
+             depDist="2.6666666666666665">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -7874,7 +7874,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="160-161"
              span="Aeschylus Prometheus: s-96"
-             depDist="6">
+             depDist="4.7">
       <word id="1"
             form="τίς"
             lemma="τίς1"
@@ -7961,7 +7961,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="162-163"
              span="Aeschylus Prometheus: s-97"
-             depDist="2.6">
+             depDist="1.4444444444444444">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -8037,7 +8037,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="163-167"
              span="Aeschylus Prometheus: s-98"
-             depDist="4.241379310344827">
+             depDist="2.892857142857143">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -8246,7 +8246,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="168-172"
              span="Aeschylus Prometheus: s-99"
-             depDist="4.703703703703703">
+             depDist="3.3461538461538463">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -8441,7 +8441,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="173-179"
              span="Aeschylus Prometheus: s-100"
-             depDist="4.233333333333333">
+             depDist="3">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -8657,7 +8657,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="180-182"
              span="Aeschylus Prometheus: s-101"
-             depDist="5.933333333333334">
+             depDist="4.5">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -8770,7 +8770,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="183"
              span="Aeschylus Prometheus: s-102"
-             depDist="2.7142857142857144">
+             depDist="1.3333333333333333">
       <word id="1"
             form="ἐμὰς"
             lemma="ἐμός1"
@@ -8825,7 +8825,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="184-187"
              span="Aeschylus Prometheus: s-103"
-             depDist="4.888888888888889">
+             depDist="3.176470588235294">
       <word id="1"
             form="δέδια"
             lemma="δείδω1"
@@ -8957,7 +8957,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="187-188"
              span="Aeschylus Prometheus: s-104"
-             depDist="3.3">
+             depDist="1.7777777777777777">
       <word id="1"
             form="ἀκίχητα"
             lemma="ἀκίχητος1"
@@ -9033,7 +9033,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="189-190"
              span="Aeschylus Prometheus: s-105"
-             depDist="3.8333333333333335">
+             depDist="3.090909090909091">
       <word id="1"
             form="οἶδ᾽"
             lemma="οἶδα1"
@@ -9125,7 +9125,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="190-192"
              span="Aeschylus Prometheus: s-106"
-             depDist="3.1818181818181817">
+             depDist="1.6">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -9208,7 +9208,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="193-195"
              span="Aeschylus Prometheus: s-107"
-             depDist="5.6">
+             depDist="3.9285714285714284">
       <word id="1"
             form="τὴν"
             lemma="ὁ1"
@@ -9319,7 +9319,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="196-198"
              span="Aeschylus Prometheus: s-108"
-             depDist="4.9">
+             depDist="3.9473684210526314">
       <word id="1"
             form="πάντ᾽"
             lemma="πᾶς1"
@@ -9465,7 +9465,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="199"
              span="Aeschylus Prometheus: s-109"
-             depDist="2.4444444444444446">
+             depDist="1.5">
       <word id="1"
             form="δίδαξον"
             lemma="διδάσκω1"
@@ -9534,7 +9534,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="200"
              span="Aeschylus Prometheus: s-110"
-             depDist="5.833333333333333">
+             depDist="4.411764705882353">
       <word id="1"
             form="ἀλγεινὰ"
             lemma="ἀλγεινός1"
@@ -9670,7 +9670,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="201-208"
              span="Aeschylus Prometheus: s-111"
-             depDist="6.8431372549019605">
+             depDist="4.96">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -10033,7 +10033,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="208-210"
              span="Aeschylus Prometheus: s-112"
-             depDist="3.4615384615384617">
+             depDist="2.0833333333333335">
       <word id="1"
             form="αἱμύλας"
             lemma="αἱμύλος1"
@@ -10130,7 +10130,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="211-215"
              span="Aeschylus Prometheus: s-113"
-             depDist="6.051282051282051">
+             depDist="3.6578947368421053">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ1"
@@ -10411,7 +10411,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="216-217"
              span="Aeschylus Prometheus: s-114"
-             depDist="3">
+             depDist="1.6363636363636365">
       <word id="1"
             form="τοιαῦτ᾽"
             lemma="τοιοῦτος1"
@@ -10501,7 +10501,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="218-220"
              span="Aeschylus Prometheus: s-115"
-             depDist="3.933333333333333">
+             depDist="2.642857142857143">
       <word id="1"
             form="κράτιστα"
             lemma="κράτιστος1"
@@ -10612,7 +10612,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="221-223"
              span="Aeschylus Prometheus: s-116"
-             depDist="3.3846153846153846">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ἐμαῖς"
             lemma="ἐμός1"
@@ -10709,7 +10709,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="223-225"
              span="Aeschylus Prometheus: s-117"
-             depDist="4.571428571428571">
+             depDist="2.8461538461538463">
       <word id="1"
             form="τοιάδ᾽"
             lemma="τοιόσδε1"
@@ -10813,7 +10813,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="226-227"
              span="Aeschylus Prometheus: s-118"
-             depDist="3.4615384615384617">
+             depDist="2.5833333333333335">
       <word id="1"
             form="ἔνεστι"
             lemma="ἔειμι"
@@ -10910,7 +10910,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="228-229"
              span="Aeschylus Prometheus: s-119"
-             depDist="5">
+             depDist="3.2857142857142856">
       <word id="1"
             form="ὃ"
             lemma="ὅς1"
@@ -11021,7 +11021,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="230-233"
              span="Aeschylus Prometheus: s-120"
-             depDist="4.555555555555555">
+             depDist="2.8823529411764706">
       <word id="1"
             form="ὅπως"
             lemma="ὅπως1"
@@ -11153,7 +11153,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="233-235"
              span="Aeschylus Prometheus: s-121"
-             depDist="4.421052631578948">
+             depDist="3.0555555555555554">
       <word id="1"
             form="βροτῶν"
             lemma="βροτός1"
@@ -11292,7 +11292,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="236"
              span="Aeschylus Prometheus: s-122"
-             depDist="2.4285714285714284">
+             depDist="0.8333333333333334">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -11347,7 +11347,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="237"
              span="Aeschylus Prometheus: s-123"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -11381,7 +11381,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="237-238"
              span="Aeschylus Prometheus: s-124"
-             depDist="3.6666666666666665">
+             depDist="2.875">
       <word id="1"
             form="ἐξελυσάμην"
             lemma="ἐκλύω1"
@@ -11450,7 +11450,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="239-240"
              span="Aeschylus Prometheus: s-125"
-             depDist="3.857142857142857">
+             depDist="2.6923076923076925">
       <word id="1"
             form="τῷ"
             lemma="τῷ1"
@@ -11554,7 +11554,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="241-243"
              span="Aeschylus Prometheus: s-126"
-             depDist="3.9523809523809526">
+             depDist="2.45">
       <word id="1"
             form="θνητοὺς"
             lemma="θνητός1"
@@ -11707,7 +11707,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="244-246"
              span="Aeschylus Prometheus: s-127"
-             depDist="4.666666666666667">
+             depDist="2.9285714285714284">
       <word id="1"
             form="σιδηρόφρων"
             lemma="σιδηρόφρων1"
@@ -11820,7 +11820,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="246-247"
              span="Aeschylus Prometheus: s-128"
-             depDist="4.538461538461538">
+             depDist="3">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -11917,7 +11917,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="248"
              span="Aeschylus Prometheus: s-129"
-             depDist="4.444444444444445">
+             depDist="2.875">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -11988,7 +11988,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="249"
              span="Aeschylus Prometheus: s-130"
-             depDist="3">
+             depDist="1.7142857142857142">
       <word id="1"
             form="μή"
             lemma="μή1"
@@ -12050,7 +12050,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="250"
              span="Aeschylus Prometheus: s-131"
-             depDist="2.4285714285714284">
+             depDist="1.1666666666666667">
       <word id="1"
             form="θνητούς"
             lemma="θνητός1"
@@ -12105,7 +12105,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="251"
              span="Aeschylus Prometheus: s-132"
-             depDist="4">
+             depDist="2.4285714285714284">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -12169,7 +12169,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="252"
              span="Aeschylus Prometheus: s-133"
-             depDist="3.1666666666666665">
+             depDist="1.6">
       <word id="1"
             form="τυφλὰς"
             lemma="τυφλός1"
@@ -12217,7 +12217,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="253"
              span="Aeschylus Prometheus: s-134"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="μέγ᾽"
             lemma="μέγας1"
@@ -12265,7 +12265,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="254"
              span="Aeschylus Prometheus: s-135"
-             depDist="4">
+             depDist="2.4285714285714284">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -12327,7 +12327,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="255"
              span="Aeschylus Prometheus: s-136"
-             depDist="3.142857142857143">
+             depDist="1.6666666666666667">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -12382,7 +12382,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="256"
              span="Aeschylus Prometheus: s-137"
-             depDist="3">
+             depDist="1.5">
       <word id="1"
             form="ἀφ᾽"
             lemma="ἀπό1"
@@ -12437,7 +12437,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="257"
              span="Aeschylus Prometheus: s-138"
-             depDist="4.25">
+             depDist="2.7142857142857144">
       <word id="1"
             form="τοιοῖσδε"
             lemma="τοιόσδε1"
@@ -12501,7 +12501,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="258"
              span="Aeschylus Prometheus: s-139"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="αἰκίζεταί"
             lemma="αἰκίζω1"
@@ -12549,7 +12549,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="259"
              span="Aeschylus Prometheus: s-140"
-             depDist="2.5">
+             depDist="1.2857142857142858">
       <word id="1"
             form="οὐ"
             lemma="οὐδέ1"
@@ -12611,7 +12611,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="260"
              span="Aeschylus Prometheus: s-141"
-             depDist="4.363636363636363">
+             depDist="2.7">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -12696,7 +12696,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="261"
              span="Aeschylus Prometheus: s-142"
-             depDist="2">
+             depDist="1">
       <word id="1"
             form="δόξει"
             lemma="δοκέω1"
@@ -12730,7 +12730,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="261"
              span="Aeschylus Prometheus: s-143"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -12766,7 +12766,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="261-262"
              span="Aeschylus Prometheus: s-144"
-             depDist="2">
+             depDist="0.75">
       <word id="1"
             form="οὐχ"
             lemma="οὐ1"
@@ -12807,7 +12807,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="262-263"
              span="Aeschylus Prometheus: s-145"
-             depDist="5.8">
+             depDist="4.5">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -12922,7 +12922,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="263-264"
              span="Aeschylus Prometheus: s-146"
-             depDist="3.5454545454545454">
+             depDist="2.1">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -13005,7 +13005,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="265-267"
              span="Aeschylus Prometheus: s-147"
-             depDist="5">
+             depDist="3.3076923076923075">
       <word id="1"
             form="ἐλαφρὸν"
             lemma="ἐλαφρός1"
@@ -13111,7 +13111,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="267"
              span="Aeschylus Prometheus: s-148"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -13159,7 +13159,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="268"
              span="Aeschylus Prometheus: s-149"
-             depDist="2.4285714285714284">
+             depDist="1">
       <word id="1"
             form="ἑκὼν"
             lemma="ἑκών1"
@@ -13214,7 +13214,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="269"
              span="Aeschylus Prometheus: s-150"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="θνητοῖς"
             lemma="θνητός1"
@@ -13262,7 +13262,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="270-272"
              span="Aeschylus Prometheus: s-151"
-             depDist="3.4210526315789473">
+             depDist="2.2222222222222223">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -13401,7 +13401,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="273-275"
              span="Aeschylus Prometheus: s-152"
-             depDist="4.166666666666667">
+             depDist="2.8260869565217392">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -13575,7 +13575,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="276-277"
              span="Aeschylus Prometheus: s-153"
-             depDist="2.6666666666666665">
+             depDist="1.375">
       <word id="1"
             form="πίθεσθέ"
             lemma="πείθω1"
@@ -13644,7 +13644,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="277-278"
              span="Aeschylus Prometheus: s-154"
-             depDist="4.444444444444445">
+             depDist="2.875">
       <word id="1"
             form="ταὐτά"
             lemma="ταὐτός1"
@@ -13713,7 +13713,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="279-280"
              span="Aeschylus Prometheus: s-155"
-             depDist="2.4285714285714284">
+             depDist="1.1666666666666667">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -13768,7 +13768,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="281-285"
              span="Aeschylus Prometheus: s-156"
-             depDist="7.0344827586206895">
+             depDist="5.428571428571429">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -13979,7 +13979,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="286-289"
              span="Aeschylus Prometheus: s-157"
-             depDist="4.052631578947368">
+             depDist="3.1666666666666665">
       <word id="1"
             form="ἥκω"
             lemma="ἥκω1"
@@ -14118,7 +14118,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="290"
              span="Aeschylus Prometheus: s-158"
-             depDist="3.888888888888889">
+             depDist="2.25">
       <word id="1"
             form="ταῖς"
             lemma="ὁ1"
@@ -14187,7 +14187,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="291-294"
              span="Aeschylus Prometheus: s-159"
-             depDist="4.5">
+             depDist="3.130434782608696">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -14363,7 +14363,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="295-296"
              span="Aeschylus Prometheus: s-160"
-             depDist="5.642857142857143">
+             depDist="4.461538461538462">
       <word id="1"
             form="γνώσῃ"
             lemma="γιγνώσκω1"
@@ -14469,7 +14469,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="296-297"
              span="Aeschylus Prometheus: s-161"
-             depDist="2.888888888888889">
+             depDist="1.75">
       <word id="1"
             form="φέρε"
             lemma="φέρω1"
@@ -14538,7 +14538,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="298-299"
              span="Aeschylus Prometheus: s-162"
-             depDist="3.090909090909091">
+             depDist="1.9">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -14621,7 +14621,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="300"
              span="Aeschylus Prometheus: s-163"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔα"
             lemma="ἔα1"
@@ -14650,7 +14650,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="300"
              span="Aeschylus Prometheus: s-164"
-             depDist="2.25">
+             depDist="0.6666666666666666">
       <word id="1"
             form="τί"
             lemma="τις1"
@@ -14684,7 +14684,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="300-301"
              span="Aeschylus Prometheus: s-165"
-             depDist="3.125">
+             depDist="1.5714285714285714">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -14746,7 +14746,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="301-304"
              span="Aeschylus Prometheus: s-166"
-             depDist="3.8333333333333335">
+             depDist="2.8823529411764706">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -14878,7 +14878,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="304-305"
              span="Aeschylus Prometheus: s-167"
-             depDist="3">
+             depDist="1.625">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -14947,7 +14947,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="306-308"
              span="Aeschylus Prometheus: s-168"
-             depDist="4.7368421052631575">
+             depDist="3.888888888888889">
       <word id="1"
             form="δέρκου"
             lemma="δέρκομαι1"
@@ -15086,7 +15086,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="309-310"
              span="Aeschylus Prometheus: s-169"
-             depDist="3.375">
+             depDist="2.2">
       <word id="1"
             form="ὁρῶ"
             lemma="ὁράω1"
@@ -15204,7 +15204,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="311-312"
              span="Aeschylus Prometheus: s-170"
-             depDist="2.2857142857142856">
+             depDist="1">
       <word id="1"
             form="γίγνωσκε"
             lemma="γιγνώσκω1"
@@ -15259,7 +15259,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="312"
              span="Aeschylus Prometheus: s-171"
-             depDist="4.625">
+             depDist="3.142857142857143">
       <word id="1"
             form="νέος"
             lemma="νέος1"
@@ -15323,7 +15323,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="313-316"
              span="Aeschylus Prometheus: s-172"
-             depDist="5.233333333333333">
+             depDist="3.793103448275862">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -15539,7 +15539,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="317-318"
              span="Aeschylus Prometheus: s-173"
-             depDist="4.125">
+             depDist="2.533333333333333">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -15657,7 +15657,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="319"
              span="Aeschylus Prometheus: s-174"
-             depDist="3.4285714285714284">
+             depDist="2.1666666666666665">
       <word id="1"
             form="ἀρχαῖ᾽"
             lemma="ἀρχαῖος1"
@@ -15712,7 +15712,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="320-321"
              span="Aeschylus Prometheus: s-175"
-             depDist="4.75">
+             depDist="3.090909090909091">
       <word id="1"
             form="τοιαῦτα"
             lemma="τοιοῦτος1"
@@ -15802,7 +15802,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="322-323"
              span="Aeschylus Prometheus: s-176"
-             depDist="5.888888888888889">
+             depDist="4.470588235294118">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -15936,7 +15936,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="324-326"
              span="Aeschylus Prometheus: s-177"
-             depDist="3.7777777777777777">
+             depDist="2.4705882352941178">
       <word id="1"
             form="οὔκουν"
             lemma="οὔκουν1"
@@ -16068,7 +16068,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="327-328"
              span="Aeschylus Prometheus: s-178"
-             depDist="3.142857142857143">
+             depDist="1.8461538461538463">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -16172,7 +16172,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="329"
              span="Aeschylus Prometheus: s-179"
-             depDist="3.5">
+             depDist="2.142857142857143">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -16234,7 +16234,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="330-331"
              span="Aeschylus Prometheus: s-180"
-             depDist="2.8333333333333335">
+             depDist="1.6363636363636365">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -16324,7 +16324,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="332-333"
              span="Aeschylus Prometheus: s-181"
-             depDist="2.75">
+             depDist="1.8181818181818181">
       <word id="1"
             form="ζηλῶ"
             lemma="ζηλόω1"
@@ -16414,7 +16414,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="334"
              span="Aeschylus Prometheus: s-182"
-             depDist="3.5">
+             depDist="2.142857142857143">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -16476,7 +16476,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="335"
              span="Aeschylus Prometheus: s-183"
-             depDist="2.8333333333333335">
+             depDist="1.4">
       <word id="1"
             form="πάντως"
             lemma="πάντως1"
@@ -16524,7 +16524,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="335"
              span="Aeschylus Prometheus: s-184"
-             depDist="3.2">
+             depDist="1.75">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -16567,7 +16567,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="336"
              span="Aeschylus Prometheus: s-185"
-             depDist="2.625">
+             depDist="1.7142857142857142">
       <word id="1"
             form="πάπταινε"
             lemma="παπταίνω1"
@@ -16629,7 +16629,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="337-338"
              span="Aeschylus Prometheus: s-186"
-             depDist="3.6363636363636362">
+             depDist="2.3">
       <word id="1"
             form="πολλῷ"
             lemma="πολύς1"
@@ -16714,7 +16714,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="338"
              span="Aeschylus Prometheus: s-187"
-             depDist="2.6">
+             depDist="1">
       <word id="1"
             form="ἔργῳ"
             lemma="ἔργον1"
@@ -16755,7 +16755,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="340"
              span="Aeschylus Prometheus: s-188"
-             depDist="3">
+             depDist="1.5">
       <word id="1"
             form="ὁρμώμενον"
             lemma="ὁρμάω1"
@@ -16796,7 +16796,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="341-342"
              span="Aeschylus Prometheus: s-189"
-             depDist="2.8">
+             depDist="1.7142857142857142">
       <word id="1"
             form="αὐχῶ"
             lemma="αὐχέω1"
@@ -16907,7 +16907,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="343"
              span="Aeschylus Prometheus: s-190"
-             depDist="2.875">
+             depDist="1.4285714285714286">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -16969,7 +16969,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="343b"
              span="Aeschylus Prometheus: s-191"
-             depDist="2.8">
+             depDist="1.25">
       <word id="1"
             form="προθυμίας"
             lemma="προθυμία1"
@@ -17010,7 +17010,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="343b-344"
              span="Aeschylus Prometheus: s-192"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="ἀτὰρ"
             lemma="ἀτάρ1"
@@ -17044,7 +17044,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="344-345"
              span="Aeschylus Prometheus: s-193"
-             depDist="3.3846153846153846">
+             depDist="2.0833333333333335">
       <word id="1"
             form="μάτην"
             lemma="μάτην1"
@@ -17141,7 +17141,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="346"
              span="Aeschylus Prometheus: s-194"
-             depDist="2.5">
+             depDist="1.4">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -17189,7 +17189,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="347-348"
              span="Aeschylus Prometheus: s-195"
-             depDist="4.3125">
+             depDist="2.8666666666666667">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -17307,7 +17307,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="349-352"
              span="Aeschylus Prometheus: s-196"
-             depDist="6.142857142857143">
+             depDist="4.333333333333333">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -17511,7 +17511,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="353-356"
              span="Aeschylus Prometheus: s-197"
-             depDist="3.611111111111111">
+             depDist="2.1176470588235294">
       <word id="1"
             form="τὸν"
             lemma="ὁ1"
@@ -17643,7 +17643,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="356-357"
              span="Aeschylus Prometheus: s-198"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="πᾶσιν"
             lemma="πᾶς1"
@@ -17719,7 +17719,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="358-359"
              span="Aeschylus Prometheus: s-199"
-             depDist="2.857142857142857">
+             depDist="1.6923076923076923">
       <word id="1"
             form="ἐξ"
             lemma="ἐκ1"
@@ -17823,7 +17823,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="360-363"
              span="Aeschylus Prometheus: s-200"
-             depDist="2.8947368421052633">
+             depDist="1.8888888888888888">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -17962,7 +17962,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="363-364"
              span="Aeschylus Prometheus: s-201"
-             depDist="4.7">
+             depDist="3.111111111111111">
       <word id="1"
             form="φρένας"
             lemma="φρήν1"
@@ -18040,7 +18040,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="365-367"
              span="Aeschylus Prometheus: s-202"
-             depDist="3.533333333333333">
+             depDist="2.2142857142857144">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -18151,7 +18151,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="368-369"
              span="Aeschylus Prometheus: s-203"
-             depDist="3.375">
+             depDist="1.8571428571428572">
       <word id="1"
             form="κορυφαῖς"
             lemma="κορυφή1"
@@ -18213,7 +18213,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="369-371"
              span="Aeschylus Prometheus: s-204"
-             depDist="2.9285714285714284">
+             depDist="1.9230769230769231">
       <word id="1"
             form="ἔνθεν"
             lemma="ἔνθεν1"
@@ -18317,7 +18317,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="372-374"
              span="Aeschylus Prometheus: s-205"
-             depDist="3.7333333333333334">
+             depDist="2.7142857142857144">
       <word id="1"
             form="τοιόνδε"
             lemma="τοιόσδε1"
@@ -18428,7 +18428,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="375-376"
              span="Aeschylus Prometheus: s-206"
-             depDist="5">
+             depDist="3.8181818181818183">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -18520,7 +18520,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="376"
              span="Aeschylus Prometheus: s-207"
-             depDist="2">
+             depDist="0.75">
       <word id="1"
             form="σεαυτὸν"
             lemma="σαυτοῦ"
@@ -18561,7 +18561,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="377-378"
              span="Aeschylus Prometheus: s-208"
-             depDist="3.2857142857142856">
+             depDist="2.076923076923077">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -18665,7 +18665,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="379-380"
              span="Aeschylus Prometheus: s-209"
-             depDist="3.2142857142857144">
+             depDist="1.9230769230769231">
       <word id="1"
             form="οὔκουν"
             lemma="οὔκουν1"
@@ -18769,7 +18769,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="381-382"
              span="Aeschylus Prometheus: s-210"
-             depDist="4.933333333333334">
+             depDist="3.2142857142857144">
       <word id="1"
             form="ἐάν"
             lemma="ἐάν1"
@@ -18882,7 +18882,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="383-384"
              span="Aeschylus Prometheus: s-211"
-             depDist="4.090909090909091">
+             depDist="2.6">
       <word id="1"
             form="ἐν"
             lemma="ἐν1"
@@ -18965,7 +18965,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="384"
              span="Aeschylus Prometheus: s-212"
-             depDist="1.6666666666666667">
+             depDist="0.5">
       <word id="1"
             form="δίδασκέ"
             lemma="διδάσκω1"
@@ -18992,7 +18992,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="385"
              span="Aeschylus Prometheus: s-213"
-             depDist="3.2857142857142856">
+             depDist="1.6666666666666667">
       <word id="1"
             form="μόχθον"
             lemma="μόχθος1"
@@ -19049,7 +19049,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="386-387"
              span="Aeschylus Prometheus: s-214"
-             depDist="3.75">
+             depDist="2.933333333333333">
       <word id="1"
             form="ἔα"
             lemma="ἐάω1"
@@ -19169,7 +19169,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="388"
              span="Aeschylus Prometheus: s-215"
-             depDist="2.6666666666666665">
+             depDist="1.6">
       <word id="1"
             form="ἐμὸν"
             lemma="ἐμός1"
@@ -19217,7 +19217,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="389"
              span="Aeschylus Prometheus: s-216"
-             depDist="3.888888888888889">
+             depDist="2.375">
       <word id="1"
             form="σαφῶς"
             lemma="σαφής1"
@@ -19286,7 +19286,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="390"
              span="Aeschylus Prometheus: s-217"
-             depDist="4.777777777777778">
+             depDist="3.25">
       <word id="1"
             form="μὴ"
             lemma="μή1"
@@ -19355,7 +19355,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="391"
              span="Aeschylus Prometheus: s-218"
-             depDist="4">
+             depDist="2.4285714285714284">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -19419,7 +19419,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="392"
              span="Aeschylus Prometheus: s-219"
-             depDist="3">
+             depDist="2">
       <word id="1"
             form="τούτου"
             lemma="οὗτος1"
@@ -19474,7 +19474,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="393"
              span="Aeschylus Prometheus: s-220"
-             depDist="4.222222222222222">
+             depDist="2.625">
       <word id="1"
             form="ἡ"
             lemma="ὁ1"
@@ -19545,7 +19545,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="394"
              span="Aeschylus Prometheus: s-221"
-             depDist="2.888888888888889">
+             depDist="1.625">
       <word id="1"
             form="στέλλου"
             lemma="στέλλω1"
@@ -19614,7 +19614,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="395"
              span="Aeschylus Prometheus: s-222"
-             depDist="3">
+             depDist="1.6">
       <word id="1"
             form="ὁρμωμένῳ"
             lemma="ὁρμάω1"
@@ -19662,7 +19662,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="396-397"
              span="Aeschylus Prometheus: s-223"
-             depDist="3">
+             depDist="1.625">
       <word id="1"
             form="λευρὸν"
             lemma="λευρός1"
@@ -19731,7 +19731,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="397-398"
              span="Aeschylus Prometheus: s-224"
-             depDist="4.111111111111111">
+             depDist="2.625">
       <word id="1"
             form="ἄσμενος"
             lemma="ἄσμενος1"
@@ -19800,7 +19800,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="399"
              span="Aeschylus Prometheus: s-225"
-             depDist="3">
+             depDist="2.142857142857143">
       <word id="1"
             form="στένω"
             lemma="στένω1"
@@ -19862,7 +19862,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="400-402"
              span="Aeschylus Prometheus: s-226"
-             depDist="4.333333333333333">
+             depDist="2.727272727272727">
       <word id="1"
             form="δακρυσίστακτα"
             lemma="δακρυσίστακτος1"
@@ -19952,7 +19952,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="403-406"
              span="Aeschylus Prometheus: s-227"
-             depDist="4.928571428571429">
+             depDist="3.3076923076923075">
       <word id="1"
             form="ἀμέγαρτα"
             lemma="ἀμέγαρτος1"
@@ -20056,7 +20056,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="407-414"
              span="Aeschylus Prometheus: s-228"
-             depDist="6.470588235294118">
+             depDist="3.8181818181818183">
       <word id="1"
             form="πρόπασα"
             lemma="πρόπας1"
@@ -20300,7 +20300,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="415-419"
              span="Aeschylus Prometheus: s-229"
-             depDist="6.24">
+             depDist="3.625">
       <word id="1"
             form="Κολχίδος"
             lemma="Κολχίς"
@@ -20483,7 +20483,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="420-424"
              span="Aeschylus Prometheus: s-230"
-             depDist="5.625">
+             depDist="3.8260869565217392">
       <word id="1"
             form="?"
             lemma="οτηερ"
@@ -20659,7 +20659,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="425-430"
              span="Aeschylus Prometheus: s-231"
-             depDist="5.75">
+             depDist="3.4444444444444446">
       <word id="2"
             form="[?"
             lemma="οτηερ"
@@ -20861,7 +20861,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="431-435"
              span="Aeschylus Prometheus: s-232"
-             depDist="6.076923076923077">
+             depDist="4.36">
       <word id="1"
             form="?"
             lemma="οτηερ"
@@ -21049,7 +21049,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="436-437"
              span="Aeschylus Prometheus: s-233"
-             depDist="3.1">
+             depDist="1.8888888888888888">
       <word id="1"
             form="μή"
             lemma="μή1"
@@ -21125,7 +21125,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="437-438"
              span="Aeschylus Prometheus: s-234"
-             depDist="2.5">
+             depDist="1.3333333333333333">
       <word id="1"
             form="συννοίᾳ"
             lemma="σύννοια1"
@@ -21201,7 +21201,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="439-440"
              span="Aeschylus Prometheus: s-235"
-             depDist="5.466666666666667">
+             depDist="3.9285714285714284">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι1"
@@ -21314,7 +21314,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="441"
              span="Aeschylus Prometheus: s-236"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -21348,7 +21348,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="441-442"
              span="Aeschylus Prometheus: s-237"
-             depDist="3.857142857142857">
+             depDist="2.3333333333333335">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -21403,7 +21403,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="442-444"
              span="Aeschylus Prometheus: s-238"
-             depDist="3.6666666666666665">
+             depDist="2.5294117647058822">
       <word id="1"
             form="τἀν"
             lemma="ἐν1"
@@ -21535,7 +21535,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="445-446"
              span="Aeschylus Prometheus: s-239"
-             depDist="3.2142857142857144">
+             depDist="2.3076923076923075">
       <word id="1"
             form="λέξω"
             lemma="λέγω3"
@@ -21639,7 +21639,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="447-451"
              span="Aeschylus Prometheus: s-240"
-             depDist="7.96875">
+             depDist="5.580645161290323">
       <word id="1"
             form="οἳ"
             lemma="ὅς1"
@@ -21869,7 +21869,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="452-453"
              span="Aeschylus Prometheus: s-241"
-             depDist="3.4166666666666665">
+             depDist="2.4545454545454546">
       <word id="1"
             form="κατώρυχες"
             lemma="κατῶρυξ1"
@@ -21961,7 +21961,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="454-458"
              span="Aeschylus Prometheus: s-242"
-             depDist="5.351351351351352">
+             depDist="3.9444444444444446">
       <word id="1"
             form="ἦν"
             lemma="εἰμί1"
@@ -22226,7 +22226,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="459-461"
              span="Aeschylus Prometheus: s-243"
-             depDist="3.85">
+             depDist="2.526315789473684">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -22372,7 +22372,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="462-466"
              span="Aeschylus Prometheus: s-244"
-             depDist="4.448275862068965">
+             depDist="2.857142857142857">
       <word id="1"
             form="κἄζευξα"
             lemma="ζεύγνυμι1"
@@ -22581,7 +22581,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="467-468"
              span="Aeschylus Prometheus: s-245"
-             depDist="3.909090909090909">
+             depDist="2.4">
       <word id="1"
             form="θαλασσόπλαγκτα"
             lemma="θαλασσόπλαγκτος1"
@@ -22664,7 +22664,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="469-471"
              span="Aeschylus Prometheus: s-246"
-             depDist="3.588235294117647">
+             depDist="2.1875">
       <word id="1"
             form="τοιαῦτα"
             lemma="τοιοῦτος1"
@@ -22789,7 +22789,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="472"
              span="Aeschylus Prometheus: s-247"
-             depDist="2">
+             depDist="1">
       <word id="1"
             form="πέπονθας"
             lemma="πάσχω1"
@@ -22823,7 +22823,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="472-475"
              span="Aeschylus Prometheus: s-248"
-             depDist="5.291666666666667">
+             depDist="4.304347826086956">
       <word id="1"
             form="ἀποσφαλεὶς"
             lemma="ἀποσφάλλω1"
@@ -23001,7 +23001,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="476-477"
              span="Aeschylus Prometheus: s-249"
-             depDist="3.5">
+             depDist="2.3076923076923075">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -23105,7 +23105,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="478-483"
              span="Aeschylus Prometheus: s-250"
-             depDist="5.6521739130434785">
+             depDist="4.155555555555556">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -23433,7 +23433,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="484-487"
              span="Aeschylus Prometheus: s-251"
-             depDist="5.5">
+             depDist="3.9565217391304346">
       <word id="1"
             form="τρόπους"
             lemma="τρόπος1"
@@ -23607,7 +23607,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="488-492"
              span="Aeschylus Prometheus: s-252"
-             depDist="6.515151515151516">
+             depDist="5.5">
       <word id="1"
             form="γαμψωνύχων"
             lemma="γαμψῶνυξ1"
@@ -23848,7 +23848,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="493-495"
              span="Aeschylus Prometheus: s-253"
-             depDist="6.190476190476191">
+             depDist="4.45">
       <word id="1"
             form="σπλάγχνων"
             lemma="σπλάγχνον1"
@@ -24003,7 +24003,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="496-499"
              span="Aeschylus Prometheus: s-254"
-             depDist="3.9130434782608696">
+             depDist="2.3636363636363638">
       <word id="1"
             form="κνίσῃ"
             lemma="κνῖσα1"
@@ -24170,7 +24170,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="500"
              span="Aeschylus Prometheus: s-255"
-             depDist="3.8333333333333335">
+             depDist="2.4">
       <word id="1"
             form="τοιαῦτα"
             lemma="τοιοῦτος1"
@@ -24220,7 +24220,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="500-503"
              span="Aeschylus Prometheus: s-256"
-             depDist="5.565217391304348">
+             depDist="3.9545454545454546">
       <word id="1"
             form="ἔνερθε"
             lemma="ἔνερθε1"
@@ -24387,7 +24387,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="504"
              span="Aeschylus Prometheus: s-257"
-             depDist="4.090909090909091">
+             depDist="2.4">
       <word id="1"
             form="οὐδείς"
             lemma="οὐδείς"
@@ -24472,7 +24472,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="505-506"
              span="Aeschylus Prometheus: s-258"
-             depDist="3.857142857142857">
+             depDist="2.6153846153846154">
       <word id="1"
             form="βραχεῖ"
             lemma="βραχύς1"
@@ -24578,7 +24578,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="507-508"
              span="Aeschylus Prometheus: s-259"
-             depDist="4.384615384615385">
+             depDist="2.8333333333333335">
       <word id="1"
             form="μή"
             lemma="μή1"
@@ -24675,7 +24675,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="508-510"
              span="Aeschylus Prometheus: s-260"
-             depDist="5.4375">
+             depDist="3.7333333333333334">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -24795,7 +24795,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="511-513"
              span="Aeschylus Prometheus: s-261"
-             depDist="4.368421052631579">
+             depDist="2.9444444444444446">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -24934,7 +24934,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="514"
              span="Aeschylus Prometheus: s-262"
-             depDist="4.142857142857143">
+             depDist="2.6666666666666665">
       <word id="1"
             form="τέχνη"
             lemma="τέχνη1"
@@ -24991,7 +24991,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="515"
              span="Aeschylus Prometheus: s-263"
-             depDist="2.8333333333333335">
+             depDist="1.4">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -25039,7 +25039,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="516"
              span="Aeschylus Prometheus: s-264"
-             depDist="2.5">
+             depDist="1.8">
       <word id="1"
             form="Μοῖραι"
             lemma="μοῖρα1"
@@ -25089,7 +25089,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="517"
              span="Aeschylus Prometheus: s-265"
-             depDist="3">
+             depDist="1.6">
       <word id="1"
             form="τούτων"
             lemma="οὗτος1"
@@ -25137,7 +25137,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="518"
              span="Aeschylus Prometheus: s-266"
-             depDist="2.5714285714285716">
+             depDist="1.3333333333333333">
       <word id="1"
             form="οὔκουν"
             lemma="οὔκουν1"
@@ -25192,7 +25192,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="519"
              span="Aeschylus Prometheus: s-267"
-             depDist="2.5">
+             depDist="1.2857142857142858">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -25254,7 +25254,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="520"
              span="Aeschylus Prometheus: s-268"
-             depDist="3.125">
+             depDist="1.5714285714285714">
       <word id="1"
             form="τοῦτ᾽"
             lemma="οὗτος1"
@@ -25316,7 +25316,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="521"
              span="Aeschylus Prometheus: s-269"
-             depDist="3">
+             depDist="1.5714285714285714">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -25378,7 +25378,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="522-524"
              span="Aeschylus Prometheus: s-270"
-             depDist="5.0625">
+             depDist="3.6666666666666665">
       <word id="1"
             form="ἄλλου"
             lemma="ἄλλος1"
@@ -25498,7 +25498,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="524-525"
              span="Aeschylus Prometheus: s-271"
-             depDist="4.5">
+             depDist="2.888888888888889">
       <word id="1"
             form="τόνδε"
             lemma="ὅδε1"
@@ -25574,7 +25574,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="526-535"
              span="Aeschylus Prometheus: s-272"
-             depDist="6.1">
+             depDist="4.344827586206897">
       <word id="1"
             form="μηδάμ᾽"
             lemma="μηδαμός1"
@@ -25790,7 +25790,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="536"
              span="Aeschylus Prometheus: s-273"
-             depDist="3">
+             depDist="1.5714285714285714">
       <word id="1"
             form="ἀλλά"
             lemma="ἀλλά1"
@@ -25852,7 +25852,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="537-539"
              span="Aeschylus Prometheus: s-274"
-             depDist="5.3125">
+             depDist="3.6">
       <word id="1"
             form="ἁδύ"
             lemma="ἡδύς1"
@@ -25972,7 +25972,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="539-541"
              span="Aeschylus Prometheus: s-275"
-             depDist="3">
+             depDist="1.75">
       <word id="1"
             form="φρίσ-"
             lemma="οτηερ"
@@ -26041,7 +26041,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="542-543"
              span="Aeschylus Prometheus: s-276"
-             depDist="3.4166666666666665">
+             depDist="2">
       <word id="1"
             form="Ζῆνα"
             lemma="Ζεύς1"
@@ -26131,7 +26131,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="545"
              span="Aeschylus Prometheus: s-277"
-             depDist="4.2">
+             depDist="3.5555555555555554">
       <word id="1"
             form="φέρ᾽"
             lemma="φέρω1"
@@ -26209,7 +26209,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="546"
              span="Aeschylus Prometheus: s-278"
-             depDist="3.375">
+             depDist="3">
       <word id="1"
             form="εἰπὲ"
             lemma="εἶπον1"
@@ -26277,7 +26277,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="547"
              span="Aeschylus Prometheus: s-279"
-             depDist="3.2">
+             depDist="1.75">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -26320,7 +26320,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="547-550"
              span="Aeschylus Prometheus: s-280"
-             depDist="3.533333333333333">
+             depDist="2.5">
       <word id="1"
             form="οὐ"
             lemma="οὐδέ1"
@@ -26431,7 +26431,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="550-551"
              span="Aeschylus Prometheus: s-281"
-             depDist="3.375">
+             depDist="1.8571428571428572">
       <word id="1"
             form="οὔποτε"
             lemma="οὔποτε1"
@@ -26493,7 +26493,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="552-553"
              span="Aeschylus Prometheus: s-282"
-             depDist="4">
+             depDist="2.6">
       <word id="1"
             form="ἔμαθον"
             lemma="μανθάνω1"
@@ -26576,7 +26576,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="554-560"
              span="Aeschylus Prometheus: s-283"
-             depDist="3.870967741935484">
+             depDist="2.7666666666666666">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -26799,7 +26799,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="561"
              span="Aeschylus Prometheus: s-284"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -26835,7 +26835,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="561"
              span="Aeschylus Prometheus: s-285"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -26871,7 +26871,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="561-563"
              span="Aeschylus Prometheus: s-286"
-             depDist="3.2222222222222223">
+             depDist="2.25">
       <word id="1"
             form="τίνα"
             lemma="τίς"
@@ -26940,7 +26940,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="564"
              span="Aeschylus Prometheus: s-287"
-             depDist="2.4">
+             depDist="0.75">
       <word id="1"
             form="τίνος"
             lemma="τίς"
@@ -26981,7 +26981,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="565"
              span="Aeschylus Prometheus: s-288"
-             depDist="2.857142857142857">
+             depDist="2">
       <word id="1"
             form="σήμηνον"
             lemma="σημαίνω1"
@@ -27036,7 +27036,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="566-568"
              span="Aeschylus Prometheus: s-289"
-             depDist="4.136363636363637">
+             depDist="2.4285714285714284">
       <word id="1"
             form="ἆ"
             lemma="ἆ1"
@@ -27196,7 +27196,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="568-569"
              span="Aeschylus Prometheus: s-290"
-             depDist="2.6666666666666665">
+             depDist="1.8">
       <word id="1"
             form="φοβοῦμαι"
             lemma="φοβέω1"
@@ -27244,7 +27244,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="570"
              span="Aeschylus Prometheus: s-291"
-             depDist="3.857142857142857">
+             depDist="2.8461538461538463">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -27348,7 +27348,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="571-573"
              span="Aeschylus Prometheus: s-292"
-             depDist="4.055555555555555">
+             depDist="2.411764705882353">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -27480,7 +27480,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="574-575"
              span="Aeschylus Prometheus: s-293"
-             depDist="3">
+             depDist="1.75">
       <word id="1"
             form="ὑπὸ"
             lemma="ὑπό1"
@@ -27549,7 +27549,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="576-577"
              span="Aeschylus Prometheus: s-294"
-             depDist="3.75">
+             depDist="1.5454545454545454">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -27639,7 +27639,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="578-580"
              span="Aeschylus Prometheus: s-295"
-             depDist="4.470588235294118">
+             depDist="2.9375">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -27764,7 +27764,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="580-582"
              span="Aeschylus Prometheus: s-296"
-             depDist="4.2727272727272725">
+             depDist="2.6">
       <word id="1"
             form="ἓ"
             lemma="ἕ"
@@ -27847,7 +27847,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="583-586"
              span="Aeschylus Prometheus: s-297"
-             depDist="5.636363636363637">
+             depDist="4.095238095238095">
       <word id="1"
             form="πυρί"
             lemma="πῦρ1"
@@ -28007,7 +28007,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="585-587"
              span="Aeschylus Prometheus: s-298"
-             depDist="3.2857142857142856">
+             depDist="1.8461538461538463">
       <word id="1"
             form="ἄδην"
             lemma="ἅδην1"
@@ -28111,7 +28111,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="588"
              span="Aeschylus Prometheus: s-299"
-             depDist="2.3333333333333335">
+             depDist="1.4">
       <word id="1"
             form="κλύεις"
             lemma="κλύω1"
@@ -28159,7 +28159,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="589-590"
              span="Aeschylus Prometheus: s-300"
-             depDist="2.909090909090909">
+             depDist="1.7">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -28242,7 +28242,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="590-592"
              span="Aeschylus Prometheus: s-301"
-             depDist="4.235294117647059">
+             depDist="3">
       <word id="1"
             form="ἣ"
             lemma="ὅς1"
@@ -28367,7 +28367,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="593"
              span="Aeschylus Prometheus: s-302"
-             depDist="3.5714285714285716">
+             depDist="2">
       <word id="1"
             form="πόθεν"
             lemma="πόθεν1"
@@ -28422,7 +28422,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="594"
              span="Aeschylus Prometheus: s-303"
-             depDist="2.75">
+             depDist="2">
       <word id="1"
             form="εἰπέ"
             lemma="εἶπον1"
@@ -28486,7 +28486,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="595-596"
              span="Aeschylus Prometheus: s-304"
-             depDist="5">
+             depDist="3.3333333333333335">
       <word id="1"
             form="τίς"
             lemma="τίς1"
@@ -28583,7 +28583,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="597-599"
              span="Aeschylus Prometheus: s-305"
-             depDist="3.176470588235294">
+             depDist="1.9375">
       <word id="1"
             form="θεόσυτόν"
             lemma="θεόσυτος1"
@@ -28708,7 +28708,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="600-601"
              span="Aeschylus Prometheus: s-306"
-             depDist="3.4166666666666665">
+             depDist="2.090909090909091">
       <word id="1"
             form="σκιρτημάτων"
             lemma="σκίρτημα1"
@@ -28798,7 +28798,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="601-603"
              span="Aeschylus Prometheus: s-307"
-             depDist="5.866666666666666">
+             depDist="4.214285714285714">
       <word id="1"
             form="δυσ-"
             lemma="οτηερ"
@@ -28913,7 +28913,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="604-607"
              span="Aeschylus Prometheus: s-308"
-             depDist="4.083333333333333">
+             depDist="2.8260869565217392">
       <word id="1"
             form="ἀλλά"
             lemma="ἀλλά1"
@@ -29089,7 +29089,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="608"
              span="Aeschylus Prometheus: s-309"
-             depDist="2.4285714285714284">
+             depDist="1.3333333333333333">
       <word id="1"
             form="θρόει"
             lemma="θροέω1"
@@ -29144,7 +29144,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="609-611"
              span="Aeschylus Prometheus: s-310"
-             depDist="3.5">
+             depDist="2.608695652173913">
       <word id="1"
             form="λέξω"
             lemma="λέγω3"
@@ -29320,7 +29320,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="612"
              span="Aeschylus Prometheus: s-311"
-             depDist="2.6666666666666665">
+             depDist="1.2">
       <word id="1"
             form="πυρὸς"
             lemma="πῦρ1"
@@ -29368,7 +29368,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="613-614"
              span="Aeschylus Prometheus: s-312"
-             depDist="3.642857142857143">
+             depDist="1.9230769230769231">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -29472,7 +29472,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="615"
              span="Aeschylus Prometheus: s-313"
-             depDist="2.7142857142857144">
+             depDist="1.6666666666666667">
       <word id="1"
             form="ἁρμοῖ"
             lemma="ἁρμοῖ1"
@@ -29527,7 +29527,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="616"
              span="Aeschylus Prometheus: s-314"
-             depDist="2.7142857142857144">
+             depDist="1.6666666666666667">
       <word id="1"
             form="οὔκουν"
             lemma="οὔκουν1"
@@ -29582,7 +29582,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="617"
              span="Aeschylus Prometheus: s-315"
-             depDist="2">
+             depDist="1">
       <word id="1"
             form="λέγ᾽"
             lemma="λέγω3"
@@ -29616,7 +29616,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="617"
              span="Aeschylus Prometheus: s-316"
-             depDist="2.8333333333333335">
+             depDist="1.4">
       <word id="1"
             form="πᾶν"
             lemma="πᾶς1"
@@ -29664,7 +29664,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="618"
              span="Aeschylus Prometheus: s-317"
-             depDist="3.142857142857143">
+             depDist="2.3333333333333335">
       <word id="1"
             form="σήμηνον"
             lemma="σημαίνω1"
@@ -29719,7 +29719,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="619"
              span="Aeschylus Prometheus: s-318"
-             depDist="4.3">
+             depDist="2.6666666666666665">
       <word id="1"
             form="βούλευμα"
             lemma="βούλευμα1"
@@ -29797,7 +29797,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="620"
              span="Aeschylus Prometheus: s-319"
-             depDist="3.6666666666666665">
+             depDist="2.2">
       <word id="1"
             form="ποινὰς"
             lemma="ποινή1"
@@ -29845,7 +29845,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="621"
              span="Aeschylus Prometheus: s-320"
-             depDist="3">
+             depDist="2">
       <word id="1"
             form="τοσοῦτον"
             lemma="τοσοῦτος"
@@ -29893,7 +29893,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="622-623"
              span="Aeschylus Prometheus: s-321"
-             depDist="4.1875">
+             depDist="2.8">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -30011,7 +30011,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="624"
              span="Aeschylus Prometheus: s-322"
-             depDist="4.5">
+             depDist="2.888888888888889">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -30089,7 +30089,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="625"
              span="Aeschylus Prometheus: s-323"
-             depDist="2.5">
+             depDist="1.2857142857142858">
       <word id="1"
             form="μήτοι"
             lemma="μήτοι1"
@@ -30151,7 +30151,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="626"
              span="Aeschylus Prometheus: s-324"
-             depDist="2.857142857142857">
+             depDist="1.6666666666666667">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -30206,7 +30206,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="627"
              span="Aeschylus Prometheus: s-325"
-             depDist="2.6666666666666665">
+             depDist="1.5">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -30275,7 +30275,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="628"
              span="Aeschylus Prometheus: s-326"
-             depDist="4.181818181818182">
+             depDist="3">
       <word id="1"
             form="φθόνος"
             lemma="φθόνος1"
@@ -30360,7 +30360,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="629"
              span="Aeschylus Prometheus: s-327"
-             depDist="2.888888888888889">
+             depDist="1.875">
       <word id="1"
             form="μή"
             lemma="μή1"
@@ -30431,7 +30431,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="630"
              span="Aeschylus Prometheus: s-328"
-             depDist="2.8333333333333335">
+             depDist="1.4">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -30479,7 +30479,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="630"
              span="Aeschylus Prometheus: s-329"
-             depDist="1.6666666666666667">
+             depDist="0.5">
       <word id="1"
             form="ἄκουε"
             lemma="ἀκούω1"
@@ -30506,7 +30506,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="631"
              span="Aeschylus Prometheus: s-330"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="μήπω"
             lemma="μήπω1"
@@ -30542,7 +30542,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="631"
              span="Aeschylus Prometheus: s-331"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="μοῖραν"
             lemma="μοῖρα1"
@@ -30590,7 +30590,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="632-633"
              span="Aeschylus Prometheus: s-332"
-             depDist="3.1666666666666665">
+             depDist="2">
       <word id="1"
             form="τὴν"
             lemma="ὁ1"
@@ -30680,7 +30680,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="634"
              span="Aeschylus Prometheus: s-333"
-             depDist="3.375">
+             depDist="1.8571428571428572">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -30742,7 +30742,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="635-636"
              span="Aeschylus Prometheus: s-334"
-             depDist="5.647058823529412">
+             depDist="3.9375">
       <word id="1"
             form="σὸν"
             lemma="σός1"
@@ -30869,7 +30869,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="637-639"
              span="Aeschylus Prometheus: s-335"
-             depDist="8.25">
+             depDist="6.631578947368421">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -31017,7 +31017,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="640-642"
              span="Aeschylus Prometheus: s-336"
-             depDist="4.1875">
+             depDist="2.7333333333333334">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -31135,7 +31135,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="642-644"
              span="Aeschylus Prometheus: s-337"
-             depDist="3.2">
+             depDist="2.0714285714285716">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι1"
@@ -31246,7 +31246,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="645-649"
              span="Aeschylus Prometheus: s-338"
-             depDist="4.107142857142857">
+             depDist="2.8518518518518516">
       <word id="1"
             form="αἰεὶ"
             lemma="ἀεί1"
@@ -31448,7 +31448,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="649-651"
              span="Aeschylus Prometheus: s-339"
-             depDist="3.8333333333333335">
+             depDist="2.3636363636363638">
       <word id="1"
             form="Ζεὺς"
             lemma="Ζεύς1"
@@ -31538,7 +31538,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="651-654"
              span="Aeschylus Prometheus: s-340"
-             depDist="4.264705882352941">
+             depDist="2.9393939393939394">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -31782,7 +31782,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="655-657"
              span="Aeschylus Prometheus: s-341"
-             depDist="2.8">
+             depDist="1.5714285714285714">
       <word id="1"
             form="τοιοῖσδε"
             lemma="τοιόσδε1"
@@ -31893,7 +31893,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="658-660"
              span="Aeschylus Prometheus: s-342"
-             depDist="4.045454545454546">
+             depDist="2.7142857142857144">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -32053,7 +32053,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="661-662"
              span="Aeschylus Prometheus: s-343"
-             depDist="2.5">
+             depDist="1.5555555555555556">
       <word id="1"
             form="ἧκον"
             lemma="ἥκω1"
@@ -32129,7 +32129,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="663-666"
              span="Aeschylus Prometheus: s-344"
-             depDist="3.32">
+             depDist="2.2083333333333335">
       <word id="1"
             form="τέλος"
             lemma="τέλος1"
@@ -32310,7 +32310,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="667-668"
              span="Aeschylus Prometheus: s-345"
-             depDist="4.1875">
+             depDist="2.3333333333333335">
       <word id="1"
             form="κεἰ"
             lemma="εἰ1"
@@ -32430,7 +32430,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="669-671"
              span="Aeschylus Prometheus: s-346"
-             depDist="4.333333333333333">
+             depDist="2.6363636363636362">
       <word id="1"
             form="τοιοῖσδε"
             lemma="τοιόσδε1"
@@ -32522,7 +32522,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="671-672"
              span="Aeschylus Prometheus: s-347"
-             depDist="2.8">
+             depDist="1.7777777777777777">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -32598,7 +32598,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="673-677"
              span="Aeschylus Prometheus: s-348"
-             depDist="4.103448275862069">
+             depDist="2.857142857142857">
       <word id="1"
             form="εὐθὺς"
             lemma="εὐθύς2"
@@ -32807,7 +32807,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="677-679"
              span="Aeschylus Prometheus: s-349"
-             depDist="3.625">
+             depDist="2.3333333333333335">
       <word id="1"
             form="βουκόλος"
             lemma="βουκόλος1"
@@ -32925,7 +32925,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="680-681"
              span="Aeschylus Prometheus: s-350"
-             depDist="4.222222222222222">
+             depDist="2.625">
       <word id="1"
             form="ἀπροσδόκητος"
             lemma="ἀπροσδόκητος1"
@@ -32994,7 +32994,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="681-682"
              span="Aeschylus Prometheus: s-351"
-             depDist="4.5">
+             depDist="2.888888888888889">
       <word id="1"
             form="οἰστροπλὴξ"
             lemma="οἰστροπλήξ1"
@@ -33070,7 +33070,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="683"
              span="Aeschylus Prometheus: s-352"
-             depDist="2">
+             depDist="1">
       <word id="1"
             form="κλύεις"
             lemma="κλύω1"
@@ -33104,7 +33104,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="683-684"
              span="Aeschylus Prometheus: s-353"
-             depDist="6.083333333333333">
+             depDist="4.7272727272727275">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -33196,7 +33196,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="684-685"
              span="Aeschylus Prometheus: s-354"
-             depDist="3">
+             depDist="1.5714285714285714">
       <word id="1"
             form="μη"
             lemma="μηδέ1"
@@ -33258,7 +33258,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="685-686"
              span="Aeschylus Prometheus: s-355"
-             depDist="3.25">
+             depDist="1.8571428571428572">
       <word id="1"
             form="νόσημα"
             lemma="νόσημα1"
@@ -33320,7 +33320,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="687"
              span="Aeschylus Prometheus: s-356"
-             depDist="2.5714285714285716">
+             depDist="1.1666666666666667">
       <word id="1"
             form="ἔα"
             lemma="ἔα1"
@@ -33375,7 +33375,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="688-692"
              span="Aeschylus Prometheus: s-357"
-             depDist="6.033333333333333">
+             depDist="2.793103448275862">
       <word id="1"
             form="οὔποτ᾽"
             lemma="οὔποτε1"
@@ -33591,7 +33591,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="693-695"
              span="Aeschylus Prometheus: s-358"
-             depDist="2.8">
+             depDist="1.1111111111111112">
       <word id="1"
             form="ἰὼ"
             lemma="ἰώ1"
@@ -33667,7 +33667,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="696"
              span="Aeschylus Prometheus: s-359"
-             depDist="3.4444444444444446">
+             depDist="0.875">
       <word id="1"
             form="πρῴ"
             lemma="πρωί1"
@@ -33736,7 +33736,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="697"
              span="Aeschylus Prometheus: s-360"
-             depDist="2.875">
+             depDist="2">
       <word id="1"
             form="ἐπίσχες"
             lemma="ἐπέχω"
@@ -33798,7 +33798,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="698"
              span="Aeschylus Prometheus: s-361"
-             depDist="2">
+             depDist="0.6666666666666666">
       <word id="1"
             form="λέγ᾽"
             lemma="λέγω3"
@@ -33832,7 +33832,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="698-699"
              span="Aeschylus Prometheus: s-362"
-             depDist="4.909090909090909">
+             depDist="3.3">
       <word id="1"
             form="τοῖς"
             lemma="ὁ1"
@@ -33917,7 +33917,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="700-701"
              span="Aeschylus Prometheus: s-363"
-             depDist="3">
+             depDist="1.625">
       <word id="1"
             form="τὴν"
             lemma="ὁ1"
@@ -33986,7 +33986,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="701-702"
              span="Aeschylus Prometheus: s-364"
-             depDist="3.6363636363636362">
+             depDist="2.4">
       <word id="1"
             form="μαθεῖν"
             lemma="μανθάνω1"
@@ -34069,7 +34069,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="703-704"
              span="Aeschylus Prometheus: s-365"
-             depDist="2.8666666666666667">
+             depDist="1.7142857142857142">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -34180,7 +34180,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="705-706"
              span="Aeschylus Prometheus: s-366"
-             depDist="5.166666666666667">
+             depDist="3.8823529411764706">
       <word id="1"
             form="σύ"
             lemma="σύ"
@@ -34314,7 +34314,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="707-708"
              span="Aeschylus Prometheus: s-367"
-             depDist="4.25">
+             depDist="2.727272727272727">
       <word id="1"
             form="πρῶτον"
             lemma="πρῶτος1"
@@ -34404,7 +34404,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="709-711"
              span="Aeschylus Prometheus: s-368"
-             depDist="3.764705882352941">
+             depDist="2.75">
       <word id="1"
             form="Σκύθας"
             lemma="Σκύθης1"
@@ -34529,7 +34529,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="712-713"
              span="Aeschylus Prometheus: s-369"
-             depDist="3">
+             depDist="1.7272727272727273">
       <word id="1"
             form="οἷς"
             lemma="ὅς1"
@@ -34619,7 +34619,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="714-715"
              span="Aeschylus Prometheus: s-370"
-             depDist="3.6153846153846154">
+             depDist="2.3333333333333335">
       <word id="1"
             form="λαιᾶς"
             lemma="λαιός"
@@ -34716,7 +34716,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="716"
              span="Aeschylus Prometheus: s-371"
-             depDist="4">
+             depDist="2.4285714285714284">
       <word id="1"
             form="ἀνήμεροι"
             lemma="ἀνήμερος1"
@@ -34780,7 +34780,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="717-721"
              span="Aeschylus Prometheus: s-372"
-             depDist="6.2">
+             depDist="5.352941176470588">
       <word id="1"
             form="ἥξεις"
             lemma="ἥκω1"
@@ -35033,7 +35033,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="721-727"
              span="Aeschylus Prometheus: s-373"
-             depDist="4.5">
+             depDist="3.2">
       <word id="1"
             form="ἀστρογείτονας"
             lemma="ἀστρογείτων1"
@@ -35293,7 +35293,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="728"
              span="Aeschylus Prometheus: s-374"
-             depDist="2.7142857142857144">
+             depDist="1.5">
       <word id="1"
             form="αὗταί"
             lemma="οὗτος1"
@@ -35348,7 +35348,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="729-731"
              span="Aeschylus Prometheus: s-375"
-             depDist="5.368421052631579">
+             depDist="4.111111111111111">
       <word id="1"
             form="ἰσθμὸν"
             lemma="ἰσθμός1"
@@ -35487,7 +35487,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="732-734"
              span="Aeschylus Prometheus: s-376"
-             depDist="4.866666666666666">
+             depDist="3.2857142857142856">
       <word id="1"
             form="ἔσται"
             lemma="εἰμί1"
@@ -35598,7 +35598,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="734-735"
              span="Aeschylus Prometheus: s-377"
-             depDist="3.75">
+             depDist="2.2857142857142856">
       <word id="1"
             form="λιποῦσα"
             lemma="λιπάω1"
@@ -35660,7 +35660,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="735-737"
              span="Aeschylus Prometheus: s-378"
-             depDist="3.466666666666667">
+             depDist="2.2142857142857144">
       <word id="1"
             form="ἆρ᾽"
             lemma="ἆρα"
@@ -35771,7 +35771,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="737-738"
              span="Aeschylus Prometheus: s-379"
-             depDist="3.7">
+             depDist="2.111111111111111">
       <word id="1"
             form="τῇδε"
             lemma="ὅδε1"
@@ -35847,7 +35847,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="739-740"
              span="Aeschylus Prometheus: s-380"
-             depDist="3.75">
+             depDist="2.727272727272727">
       <word id="1"
             form="πικροῦ"
             lemma="πικρός1"
@@ -35937,7 +35937,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="740-741"
              span="Aeschylus Prometheus: s-381"
-             depDist="3.5">
+             depDist="2.076923076923077">
       <word id="1"
             form="οὓς"
             lemma="ὅς1"
@@ -36041,7 +36041,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="742"
              span="Aeschylus Prometheus: s-382"
-             depDist="3.25">
+             depDist="1.5714285714285714">
       <word id="1"
             form="ἰώ"
             lemma="ἰώ1"
@@ -36105,7 +36105,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="743"
              span="Aeschylus Prometheus: s-383"
-             depDist="4.714285714285714">
+             depDist="3.3333333333333335">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -36162,7 +36162,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="743-744"
              span="Aeschylus Prometheus: s-384"
-             depDist="2.8">
+             depDist="1.6666666666666667">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -36238,7 +36238,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="745"
              span="Aeschylus Prometheus: s-385"
-             depDist="4.5">
+             depDist="3">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -36300,7 +36300,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="746"
              span="Aeschylus Prometheus: s-386"
-             depDist="3.857142857142857">
+             depDist="2.3333333333333335">
       <word id="1"
             form="δυσχείμερόν"
             lemma="δυσχείμερος1"
@@ -36357,7 +36357,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="747-750"
              span="Aeschylus Prometheus: s-387"
-             depDist="7.1923076923076925">
+             depDist="6.2">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -36547,7 +36547,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="750-751"
              span="Aeschylus Prometheus: s-388"
-             depDist="5.416666666666667">
+             depDist="3.8181818181818183">
       <word id="1"
             form="κρεῖσσον"
             lemma="κρείσσων1"
@@ -36639,7 +36639,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="752-753"
              span="Aeschylus Prometheus: s-389"
-             depDist="3.8666666666666667">
+             depDist="2.5714285714285716">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -36750,7 +36750,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="754"
              span="Aeschylus Prometheus: s-390"
-             depDist="2.5714285714285716">
+             depDist="1.3333333333333333">
       <word id="1"
             form="αὕτη"
             lemma="οὗτος1"
@@ -36805,7 +36805,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="755-756"
              span="Aeschylus Prometheus: s-391"
-             depDist="3.1333333333333333">
+             depDist="2">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -36916,7 +36916,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="757"
              span="Aeschylus Prometheus: s-392"
-             depDist="2.75">
+             depDist="1.4285714285714286">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -36978,7 +36978,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="758"
              span="Aeschylus Prometheus: s-393"
-             depDist="2.7777777777777777">
+             depDist="1.875">
       <word id="1"
             form="ἥδοι᾽"
             lemma="ἥδομαι1"
@@ -37047,7 +37047,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="759"
              span="Aeschylus Prometheus: s-394"
-             depDist="6.25">
+             depDist="4.7272727272727275">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -37139,7 +37139,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="760"
              span="Aeschylus Prometheus: s-395"
-             depDist="4">
+             depDist="2.4285714285714284">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -37201,7 +37201,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="761"
              span="Aeschylus Prometheus: s-396"
-             depDist="3">
+             depDist="1.4">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -37249,7 +37249,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="762"
              span="Aeschylus Prometheus: s-397"
-             depDist="4.428571428571429">
+             depDist="3">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -37306,7 +37306,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="763"
              span="Aeschylus Prometheus: s-398"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="ποίῳ"
             lemma="ποῖος1"
@@ -37342,7 +37342,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="763"
              span="Aeschylus Prometheus: s-399"
-             depDist="2.5">
+             depDist="1.7142857142857142">
       <word id="1"
             form="σήμηνον"
             lemma="σημαίνω1"
@@ -37406,7 +37406,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="764"
              span="Aeschylus Prometheus: s-400"
-             depDist="2.2857142857142856">
+             depDist="1.3333333333333333">
       <word id="1"
             form="γαμεῖ"
             lemma="γαμέω1"
@@ -37461,7 +37461,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="765"
              span="Aeschylus Prometheus: s-401"
-             depDist="2.857142857142857">
+             depDist="1.3333333333333333">
       <word id="1"
             form="θέορτον"
             lemma="θέορτος1"
@@ -37520,7 +37520,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="765"
              span="Aeschylus Prometheus: s-402"
-             depDist="3.8333333333333335">
+             depDist="2.8">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -37570,7 +37570,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="766"
              span="Aeschylus Prometheus: s-403"
-             depDist="3.7142857142857144">
+             depDist="2.8333333333333335">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -37631,7 +37631,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="766"
              span="Aeschylus Prometheus: s-404"
-             depDist="3.857142857142857">
+             depDist="2.3333333333333335">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -37688,7 +37688,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="767"
              span="Aeschylus Prometheus: s-405"
-             depDist="2.8333333333333335">
+             depDist="1.4">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -37736,7 +37736,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="768"
              span="Aeschylus Prometheus: s-406"
-             depDist="2.142857142857143">
+             depDist="1">
       <word id="1"
             form="ἣ"
             lemma="ὅς1"
@@ -37791,7 +37791,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="769"
              span="Aeschylus Prometheus: s-407"
-             depDist="2.75">
+             depDist="1.5714285714285714">
       <word id="1"
             form="οὐ"
             lemma="οὐδέ1"
@@ -37853,7 +37853,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="770"
              span="Aeschylus Prometheus: s-408"
-             depDist="5.583333333333333">
+             depDist="4.181818181818182">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -37947,7 +37947,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="771"
              span="Aeschylus Prometheus: s-409"
-             depDist="3.2222222222222223">
+             depDist="2">
       <word id="1"
             form="τίς"
             lemma="τίς"
@@ -38018,7 +38018,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="772"
              span="Aeschylus Prometheus: s-410"
-             depDist="3.75">
+             depDist="2.142857142857143">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -38080,7 +38080,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="773"
              span="Aeschylus Prometheus: s-411"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -38107,7 +38107,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="773"
              span="Aeschylus Prometheus: s-412"
-             depDist="3.125">
+             depDist="1.5714285714285714">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -38169,7 +38169,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="774"
              span="Aeschylus Prometheus: s-413"
-             depDist="4.111111111111111">
+             depDist="2.5">
       <word id="1"
             form="τρίτος"
             lemma="τρίτος1"
@@ -38240,7 +38240,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="775"
              span="Aeschylus Prometheus: s-414"
-             depDist="3.5714285714285716">
+             depDist="2">
       <word id="1"
             form="ἥδ᾽"
             lemma="ὅδε1"
@@ -38297,7 +38297,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="776"
              span="Aeschylus Prometheus: s-415"
-             depDist="3.75">
+             depDist="2.2857142857142856">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -38359,7 +38359,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="777"
              span="Aeschylus Prometheus: s-416"
-             depDist="3.4285714285714284">
+             depDist="1.8333333333333333">
       <word id="1"
             form="μή"
             lemma="μή1"
@@ -38414,7 +38414,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="778"
              span="Aeschylus Prometheus: s-417"
-             depDist="2.8333333333333335">
+             depDist="1.2">
       <word id="1"
             form="δυοῖν"
             lemma="δύο1"
@@ -38462,7 +38462,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="779"
              span="Aeschylus Prometheus: s-418"
-             depDist="2.25">
+             depDist="1">
       <word id="1"
             form="ποίοιν"
             lemma="ποῖος1"
@@ -38500,7 +38500,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="779"
              span="Aeschylus Prometheus: s-419"
-             depDist="3.142857142857143">
+             depDist="1.8333333333333333">
       <word id="1"
             form="πρόδειξον"
             lemma="προδείκνυμι1"
@@ -38555,7 +38555,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="780"
              span="Aeschylus Prometheus: s-420"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="δίδωμ᾽"
             lemma="δίδωμι1"
@@ -38575,7 +38575,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="780-781"
              span="Aeschylus Prometheus: s-421"
-             depDist="3.375">
+             depDist="2.3333333333333335">
       <word id="1"
             form="ἑλοῦ"
             lemma="αἱρέω1"
@@ -38693,7 +38693,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="782-783"
              span="Aeschylus Prometheus: s-422"
-             depDist="5.684210526315789">
+             depDist="4.166666666666667">
       <word id="1"
             form="τούτων"
             lemma="οὗτος1"
@@ -38834,7 +38834,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="784-785"
              span="Aeschylus Prometheus: s-423"
-             depDist="4.142857142857143">
+             depDist="3.3846153846153846">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -38940,7 +38940,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="785"
              span="Aeschylus Prometheus: s-424"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος1"
@@ -38974,7 +38974,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="786-787"
              span="Aeschylus Prometheus: s-425"
-             depDist="3.076923076923077">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -39071,7 +39071,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="788-789"
              span="Aeschylus Prometheus: s-426"
-             depDist="3.5">
+             depDist="2.1333333333333333">
       <word id="1"
             form="σοὶ"
             lemma="σύ1"
@@ -39189,7 +39189,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="790-797"
              span="Aeschylus Prometheus: s-427"
-             depDist="7.326530612244898">
+             depDist="5.458333333333333">
       <word id="1"
             form="ὅταν"
             lemma="ὅταν1"
@@ -39540,7 +39540,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="798-800"
              span="Aeschylus Prometheus: s-428"
-             depDist="6.368421052631579">
+             depDist="4.666666666666667">
       <word id="1"
             form="πέλας"
             lemma="πέλας1"
@@ -39681,7 +39681,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="801"
              span="Aeschylus Prometheus: s-429"
-             depDist="3.7142857142857144">
+             depDist="2.1666666666666665">
       <word id="1"
             form="τοιοῦτο"
             lemma="τοιοῦτος"
@@ -39736,7 +39736,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="802"
              span="Aeschylus Prometheus: s-430"
-             depDist="2.8333333333333335">
+             depDist="1.6">
       <word id="1"
             form="ἄλλην"
             lemma="ἄλλος1"
@@ -39784,7 +39784,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="803-806"
              span="Aeschylus Prometheus: s-431"
-             depDist="3.4782608695652173">
+             depDist="2.272727272727273">
       <word id="1"
             form="ὀξυστόμους"
             lemma="ὀξύστομος1"
@@ -39951,7 +39951,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="807"
              span="Aeschylus Prometheus: s-432"
-             depDist="3">
+             depDist="1.5">
       <word id="1"
             form="τούτοις"
             lemma="οὗτος1"
@@ -39992,7 +39992,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="807-809"
              span="Aeschylus Prometheus: s-433"
-             depDist="3.6842105263157894">
+             depDist="2.6666666666666665">
       <word id="1"
             form="τηλουρὸν"
             lemma="τηλουρός1"
@@ -40133,7 +40133,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="810-812"
              span="Aeschylus Prometheus: s-434"
-             depDist="3.2">
+             depDist="2.1052631578947367">
       <word id="1"
             form="τούτου"
             lemma="οὗτος1"
@@ -40279,7 +40279,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="813-815"
              span="Aeschylus Prometheus: s-435"
-             depDist="4.708333333333333">
+             depDist="3.739130434782609">
       <word id="1"
             form="οὗτός"
             lemma="οὗτος1"
@@ -40453,7 +40453,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="816-817"
              span="Aeschylus Prometheus: s-436"
-             depDist="6.75">
+             depDist="5.4">
       <word id="1"
             form="τῶν"
             lemma="ὁ1"
@@ -40573,7 +40573,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="818"
              span="Aeschylus Prometheus: s-437"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="σχολὴ"
             lemma="σχολή1"
@@ -40635,7 +40635,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="819-821"
              span="Aeschylus Prometheus: s-438"
-             depDist="7">
+             depDist="5.428571428571429">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -40746,7 +40746,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="821-822"
              span="Aeschylus Prometheus: s-439"
-             depDist="3.625">
+             depDist="2.2">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -40864,7 +40864,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="823"
              span="Aeschylus Prometheus: s-440"
-             depDist="3.142857142857143">
+             depDist="1.5">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -40919,7 +40919,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="824-826"
              span="Aeschylus Prometheus: s-441"
-             depDist="4.826086956521739">
+             depDist="3.3181818181818183">
       <word id="1"
             form="ὅπως"
             lemma="ὅπως1"
@@ -41086,7 +41086,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="827-828"
              span="Aeschylus Prometheus: s-442"
-             depDist="4.8125">
+             depDist="3.3333333333333335">
       <word id="1"
             form="ὄχλον"
             lemma="ὄχλος1"
@@ -41204,7 +41204,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="829-835"
              span="Aeschylus Prometheus: s-443"
-             depDist="5.7727272727272725">
+             depDist="3.883720930232558">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -41520,7 +41520,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="835"
              span="Aeschylus Prometheus: s-444"
-             depDist="2.6">
+             depDist="1.5">
       <word id="1"
             form="τῶνδε"
             lemma="ὅδε1"
@@ -41561,7 +41561,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="836-838"
              span="Aeschylus Prometheus: s-445"
-             depDist="3.411764705882353">
+             depDist="2.1875">
       <word id="1"
             form="ἐντεῦθεν"
             lemma="ἐντεῦθεν1"
@@ -41686,7 +41686,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="839-841"
              span="Aeschylus Prometheus: s-446"
-             depDist="4.476190476190476">
+             depDist="3.05">
       <word id="1"
             form="χρόνον"
             lemma="χρόνος1"
@@ -41839,7 +41839,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="842-843"
              span="Aeschylus Prometheus: s-447"
-             depDist="2.933333333333333">
+             depDist="1.7857142857142858">
       <word id="1"
             form="σημεῖά"
             lemma="σημεῖον1"
@@ -41950,7 +41950,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="844-845"
              span="Aeschylus Prometheus: s-448"
-             depDist="4.277777777777778">
+             depDist="2.9411764705882355">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -42082,7 +42082,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="846-847"
              span="Aeschylus Prometheus: s-449"
-             depDist="2.923076923076923">
+             depDist="2">
       <word id="1"
             form="ἔστιν"
             lemma="εἰμί1"
@@ -42179,7 +42179,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="848-849"
              span="Aeschylus Prometheus: s-450"
-             depDist="3.076923076923077">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ἐνταῦθα"
             lemma="ἐνταῦθα1"
@@ -42276,7 +42276,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="850-852"
              span="Aeschylus Prometheus: s-451"
-             depDist="3.588235294117647">
+             depDist="2.375">
       <word id="1"
             form="ἐπώνυμον"
             lemma="ἐπώνυμος1"
@@ -42401,7 +42401,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="853-856"
              span="Aeschylus Prometheus: s-452"
-             depDist="4.421052631578948">
+             depDist="2.9444444444444446">
       <word id="1"
             form="πέμπτη"
             lemma="πέμπτος1"
@@ -42540,7 +42540,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="856-859"
              span="Aeschylus Prometheus: s-453"
-             depDist="4.869565217391305">
+             depDist="3.1818181818181817">
       <word id="1"
             form="οἱ"
             lemma="ὁ1"
@@ -42707,7 +42707,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="860-861"
              span="Aeschylus Prometheus: s-454"
-             depDist="2.7">
+             depDist="1.5555555555555556">
       <word id="1"
             form="Πελασγία"
             lemma="Πελασγικός1"
@@ -42783,7 +42783,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="862-863"
              span="Aeschylus Prometheus: s-455"
-             depDist="3.8461538461538463">
+             depDist="2.5833333333333335">
       <word id="1"
             form="γυνὴ"
             lemma="γυνή1"
@@ -42880,7 +42880,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="864"
              span="Aeschylus Prometheus: s-456"
-             depDist="3.625">
+             depDist="2.142857142857143">
       <word id="1"
             form="τοιάδ᾽"
             lemma="τοιόσδε1"
@@ -42942,7 +42942,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="865-867"
              span="Aeschylus Prometheus: s-457"
-             depDist="3.642857142857143">
+             depDist="2">
       <word id="1"
             form="μίαν"
             lemma="εἷς1"
@@ -43046,7 +43046,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="867-868"
              span="Aeschylus Prometheus: s-458"
-             depDist="2.6666666666666665">
+             depDist="1.5454545454545454">
       <word id="1"
             form="δυοῖν"
             lemma="δύο1"
@@ -43138,7 +43138,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="869"
              span="Aeschylus Prometheus: s-459"
-             depDist="3.2857142857142856">
+             depDist="1.8333333333333333">
       <word id="1"
             form="αὕτη"
             lemma="οὗτος1"
@@ -43193,7 +43193,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="870"
              span="Aeschylus Prometheus: s-460"
-             depDist="2.2857142857142856">
+             depDist="1">
       <word id="1"
             form="μακροῦ"
             lemma="μακρός1"
@@ -43248,7 +43248,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="871-873"
              span="Aeschylus Prometheus: s-461"
-             depDist="3.9411764705882355">
+             depDist="2.75">
       <word id="1"
             form="σπορᾶς"
             lemma="σπορά1"
@@ -43373,7 +43373,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="873-874"
              span="Aeschylus Prometheus: s-462"
-             depDist="3.6363636363636362">
+             depDist="2.3">
       <word id="1"
             form="τοιόνδε"
             lemma="τοιόσδε1"
@@ -43458,7 +43458,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="875-876"
              span="Aeschylus Prometheus: s-463"
-             depDist="6.555555555555555">
+             depDist="5.294117647058823">
       <word id="1"
             form="ὅπως"
             lemma="ὅπως1"
@@ -43594,7 +43594,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="877-880"
              span="Aeschylus Prometheus: s-464"
-             depDist="4.473684210526316">
+             depDist="2.888888888888889">
       <word id="1"
             form="ἐλελεῦ"
             lemma="ἐλελεῦ1"
@@ -43733,7 +43733,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="881"
              span="Aeschylus Prometheus: s-465"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="κραδία"
             lemma="καρδία1"
@@ -43781,7 +43781,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="882-884"
              span="Aeschylus Prometheus: s-466"
-             depDist="3.8125">
+             depDist="2.533333333333333">
       <word id="1"
             form="τροχοδινεῖται"
             lemma="τροχοδινέομαι1"
@@ -43899,7 +43899,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="885-886"
              span="Aeschylus Prometheus: s-467"
-             depDist="2.8">
+             depDist="1.5555555555555556">
       <word id="1"
             form="θολεροὶ"
             lemma="θολερός1"
@@ -43975,7 +43975,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="887-893"
              span="Aeschylus Prometheus: s-468"
-             depDist="6.7">
+             depDist="4.358974358974359">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -44263,7 +44263,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="894-896"
              span="Aeschylus Prometheus: s-469"
-             depDist="6.4375">
+             depDist="4.066666666666666">
       <word id="1"
             form="μήποτε"
             lemma="μήποτε1"
@@ -44381,7 +44381,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="897"
              span="Aeschylus Prometheus: s-470"
-             depDist="2.2222222222222223">
+             depDist="1">
       <word id="1"
             form="μη"
             lemma="μηδέ1"
@@ -44450,7 +44450,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="898-900"
              span="Aeschylus Prometheus: s-471"
-             depDist="2.6666666666666665">
+             depDist="1.7272727272727273">
       <word id="1"
             form="ταρβῶ"
             lemma="ταρβέω1"
@@ -44540,7 +44540,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="901-902"
              span="Aeschylus Prometheus: s-472"
-             depDist="7">
+             depDist="5.7272727272727275">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ1"
@@ -44634,7 +44634,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="902"
              span="Aeschylus Prometheus: s-473"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="[οὐ"
             lemma="οὐ1"
@@ -44661,7 +44661,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="902-903"
              span="Aeschylus Prometheus: s-474"
-             depDist="4.7">
+             depDist="3">
       <word id="2"
             form="μη"
             lemma="μηδέ1"
@@ -44737,7 +44737,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="904"
              span="Aeschylus Prometheus: s-475"
-             depDist="4.2">
+             depDist="2.5555555555555554">
       <word id="1"
             form="ἀπόλεμος"
             lemma="ἀπόλεμος1"
@@ -44815,7 +44815,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="905"
              span="Aeschylus Prometheus: s-476"
-             depDist="2.7142857142857144">
+             depDist="1.5">
       <word id="1"
             form="οὐ"
             lemma="οὐδέ1"
@@ -44870,7 +44870,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="906-906b"
              span="Aeschylus Prometheus: s-477"
-             depDist="3.4">
+             depDist="2.111111111111111">
       <word id="1"
             form="τὰν"
             lemma="ὁ"
@@ -44946,7 +44946,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="907-910"
              span="Aeschylus Prometheus: s-478"
-             depDist="4.884615384615385">
+             depDist="3.56">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -45134,7 +45134,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="910-912"
              span="Aeschylus Prometheus: s-479"
-             depDist="4.2">
+             depDist="2.857142857142857">
       <word id="1"
             form="πατρὸς"
             lemma="πατήρ1"
@@ -45245,7 +45245,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="913-914"
              span="Aeschylus Prometheus: s-480"
-             depDist="3.5384615384615383">
+             depDist="2.25">
       <word id="1"
             form="τοιῶνδε"
             lemma="τοιόσδε"
@@ -45342,7 +45342,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="915"
              span="Aeschylus Prometheus: s-481"
-             depDist="2.7142857142857144">
+             depDist="1.6666666666666667">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -45399,7 +45399,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="915-917"
              span="Aeschylus Prometheus: s-482"
-             depDist="3.2941176470588234">
+             depDist="2.125">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -45524,7 +45524,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="918-919"
              span="Aeschylus Prometheus: s-483"
-             depDist="3.2142857142857144">
+             depDist="2">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς1"
@@ -45628,7 +45628,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="920-921"
              span="Aeschylus Prometheus: s-484"
-             depDist="3.1818181818181817">
+             depDist="2">
       <word id="1"
             form="τοῖον"
             lemma="τοῖος1"
@@ -45711,7 +45711,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="922-923"
              span="Aeschylus Prometheus: s-485"
-             depDist="3.4615384615384617">
+             depDist="2.25">
       <word id="1"
             form="ὃς"
             lemma="ὅς1"
@@ -45808,7 +45808,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="924-925"
              span="Aeschylus Prometheus: s-486"
-             depDist="3.8461538461538463">
+             depDist="1.9166666666666667">
       <word id="1"
             form="θαλασσίαν"
             lemma="θαλασσία1"
@@ -45905,7 +45905,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="926-927"
              span="Aeschylus Prometheus: s-487"
-             depDist="4.25">
+             depDist="3.1333333333333333">
       <word id="1"
             form="πταίσας"
             lemma="πταίω1"
@@ -46025,7 +46025,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="928"
              span="Aeschylus Prometheus: s-488"
-             depDist="2.888888888888889">
+             depDist="1.25">
       <word id="1"
             form="σύ"
             lemma="σύ1"
@@ -46094,7 +46094,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="929"
              span="Aeschylus Prometheus: s-489"
-             depDist="3.3333333333333335">
+             depDist="1.625">
       <word id="1"
             form="ἅπερ"
             lemma="ὅς1"
@@ -46163,7 +46163,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="930"
              span="Aeschylus Prometheus: s-490"
-             depDist="2.5714285714285716">
+             depDist="1.3333333333333333">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -46218,7 +46218,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="931"
              span="Aeschylus Prometheus: s-491"
-             depDist="3.75">
+             depDist="1.8571428571428572">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -46280,7 +46280,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="932"
              span="Aeschylus Prometheus: s-492"
-             depDist="2.875">
+             depDist="1.5714285714285714">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -46342,7 +46342,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="933"
              span="Aeschylus Prometheus: s-493"
-             depDist="3.7">
+             depDist="2.6666666666666665">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -46420,7 +46420,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="934"
              span="Aeschylus Prometheus: s-494"
-             depDist="5.222222222222222">
+             depDist="3.75">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -46489,7 +46489,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="935"
              span="Aeschylus Prometheus: s-495"
-             depDist="3">
+             depDist="1.5">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -46530,7 +46530,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="935"
              span="Aeschylus Prometheus: s-496"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="πάντα"
             lemma="πᾶς1"
@@ -46573,7 +46573,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="936"
              span="Aeschylus Prometheus: s-497"
-             depDist="3.4285714285714284">
+             depDist="1.8333333333333333">
       <word id="1"
             form="οἱ"
             lemma="ὁ1"
@@ -46630,7 +46630,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="937"
              span="Aeschylus Prometheus: s-498"
-             depDist="2.7777777777777777">
+             depDist="1.5">
       <word id="1"
             form="σέβου"
             lemma="σέβομαι1"
@@ -46699,7 +46699,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="938"
              span="Aeschylus Prometheus: s-499"
-             depDist="4.666666666666667">
+             depDist="3.375">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ1"
@@ -46770,7 +46770,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="939-940"
              span="Aeschylus Prometheus: s-500"
-             depDist="3.1818181818181817">
+             depDist="2.2">
       <word id="1"
             form="δράτω"
             lemma="δράω1"
@@ -46853,7 +46853,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="940"
              span="Aeschylus Prometheus: s-501"
-             depDist="2.8333333333333335">
+             depDist="1.4">
       <word id="1"
             form="δαρὸν"
             lemma="δηρός1"
@@ -46901,7 +46901,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="941-942"
              span="Aeschylus Prometheus: s-502"
-             depDist="3.3333333333333335">
+             depDist="2.357142857142857">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -47012,7 +47012,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="943"
              span="Aeschylus Prometheus: s-503"
-             depDist="3.1666666666666665">
+             depDist="1.6">
       <word id="1"
             form="πάντως"
             lemma="πάντως1"
@@ -47060,7 +47060,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="944-946"
              span="Aeschylus Prometheus: s-504"
-             depDist="6.238095238095238">
+             depDist="4.5">
       <word id="1"
             form="σὲ"
             lemma="σύ1"
@@ -47213,7 +47213,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="947-948"
              span="Aeschylus Prometheus: s-505"
-             depDist="3.357142857142857">
+             depDist="2.3846153846153846">
       <word id="1"
             form="πατὴρ"
             lemma="πατήρ1"
@@ -47317,7 +47317,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="949-950"
              span="Aeschylus Prometheus: s-506"
-             depDist="4.666666666666667">
+             depDist="3.4545454545454546">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -47409,7 +47409,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="950-951"
              span="Aeschylus Prometheus: s-507"
-             depDist="4.9">
+             depDist="3.3333333333333335">
       <word id="1"
             form="μη"
             lemma="μηδέ1"
@@ -47485,7 +47485,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="951-952"
              span="Aeschylus Prometheus: s-508"
-             depDist="2.888888888888889">
+             depDist="2">
       <word id="1"
             form="ὁρᾷς"
             lemma="ὁράω1"
@@ -47554,7 +47554,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="953-954"
              span="Aeschylus Prometheus: s-509"
-             depDist="3.4">
+             depDist="2.142857142857143">
       <word id="1"
             form="σεμνόστομός"
             lemma="σεμνόστομος1"
@@ -47669,7 +47669,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="955-956"
              span="Aeschylus Prometheus: s-510"
-             depDist="2.5">
+             depDist="1.2222222222222223">
       <word id="1"
             form="νέον"
             lemma="νέος1"
@@ -47745,7 +47745,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="956-957"
              span="Aeschylus Prometheus: s-511"
-             depDist="4.222222222222222">
+             depDist="2.625">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -47814,7 +47814,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="958-959"
              span="Aeschylus Prometheus: s-512"
-             depDist="3.909090909090909">
+             depDist="2.7">
       <word id="1"
             form="τρίτον"
             lemma="τρίτος1"
@@ -47899,7 +47899,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="959-960"
              span="Aeschylus Prometheus: s-513"
-             depDist="3.5">
+             depDist="1.6363636363636365">
       <word id="1"
             form="μή"
             lemma="μή1"
@@ -47989,7 +47989,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="961"
              span="Aeschylus Prometheus: s-514"
-             depDist="3.142857142857143">
+             depDist="1.5">
       <word id="1"
             form="πολλοῦ"
             lemma="πολύς1"
@@ -48044,7 +48044,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="961-962"
              span="Aeschylus Prometheus: s-515"
-             depDist="3.625">
+             depDist="2.142857142857143">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -48106,7 +48106,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="963"
              span="Aeschylus Prometheus: s-516"
-             depDist="2.142857142857143">
+             depDist="1.1666666666666667">
       <word id="1"
             form="πεύσῃ"
             lemma="πυνθάνομαι1"
@@ -48161,7 +48161,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="964-965"
              span="Aeschylus Prometheus: s-517"
-             depDist="4.454545454545454">
+             depDist="2.8">
       <word id="1"
             form="τοιοῖσδε"
             lemma="τοιόσδε1"
@@ -48244,7 +48244,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="966-967"
              span="Aeschylus Prometheus: s-518"
-             depDist="4.2">
+             depDist="2.5">
       <word id="1"
             form="τῆς"
             lemma="ὁ1"
@@ -48355,7 +48355,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="968-969"
              span="Aeschylus Prometheus: s-519"
-             depDist="3.076923076923077">
+             depDist="2">
       <word id="1"
             form="κρεῖσσον"
             lemma="κρείσσων1"
@@ -48452,7 +48452,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="970"
              span="Aeschylus Prometheus: s-520"
-             depDist="3">
+             depDist="1.4">
       <word id="1"
             form="οὕτως"
             lemma="οὕτως1"
@@ -48500,7 +48500,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="971"
              span="Aeschylus Prometheus: s-521"
-             depDist="2.6666666666666665">
+             depDist="1.6">
       <word id="1"
             form="χλιδᾶν"
             lemma="χλιδάω1"
@@ -48548,7 +48548,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="972"
              span="Aeschylus Prometheus: s-522"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="χλιδῶ"
             lemma="χλιδάω1"
@@ -48568,7 +48568,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="972-973"
              span="Aeschylus Prometheus: s-523"
-             depDist="3.625">
+             depDist="2">
       <word id="1"
             form="χλιδῶντας"
             lemma="χλιδάω1"
@@ -48630,7 +48630,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="973"
              span="Aeschylus Prometheus: s-524"
-             depDist="3.4285714285714284">
+             depDist="1.8333333333333333">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -48685,7 +48685,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="974"
              span="Aeschylus Prometheus: s-525"
-             depDist="3.7142857142857144">
+             depDist="2.1666666666666665">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -48740,7 +48740,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="975-976"
              span="Aeschylus Prometheus: s-526"
-             depDist="3.357142857142857">
+             depDist="2.1538461538461537">
       <word id="1"
             form="ἁπλῷ"
             lemma="ἁπλός1"
@@ -48844,7 +48844,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="977"
              span="Aeschylus Prometheus: s-527"
-             depDist="2.375">
+             depDist="1.4285714285714286">
       <word id="1"
             form="κλύω"
             lemma="κλύω1"
@@ -48906,7 +48906,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="978"
              span="Aeschylus Prometheus: s-528"
-             depDist="3">
+             depDist="2.2222222222222223">
       <word id="1"
             form="νοσοῖμ᾽"
             lemma="νοσέω1"
@@ -48984,7 +48984,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="979"
              span="Aeschylus Prometheus: s-529"
-             depDist="2.5555555555555554">
+             depDist="1.625">
       <word id="1"
             form="εἴης"
             lemma="εἰμί1"
@@ -49053,7 +49053,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="980"
              span="Aeschylus Prometheus: s-530"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ὤμοι"
             lemma="ὤμοι1"
@@ -49082,7 +49082,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="980"
              span="Aeschylus Prometheus: s-531"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ὤμοι"
             lemma="ὤμοι1"
@@ -49111,7 +49111,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="980"
              span="Aeschylus Prometheus: s-532"
-             depDist="3.1666666666666665">
+             depDist="1.6">
       <word id="1"
             form="τόδε"
             lemma="ὅδε1"
@@ -49159,7 +49159,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="981"
              span="Aeschylus Prometheus: s-533"
-             depDist="2.5714285714285716">
+             depDist="1.5">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -49214,7 +49214,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="982"
              span="Aeschylus Prometheus: s-534"
-             depDist="3.625">
+             depDist="2">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -49276,7 +49276,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="983"
              span="Aeschylus Prometheus: s-535"
-             depDist="2.875">
+             depDist="1.7142857142857142">
       <word id="1"
             form="σὲ"
             lemma="σύ1"
@@ -49338,7 +49338,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="984"
              span="Aeschylus Prometheus: s-536"
-             depDist="2.2857142857142856">
+             depDist="1.1666666666666667">
       <word id="1"
             form="ἐρεῖν"
             lemma="ἐρῶ1"
@@ -49393,7 +49393,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="985"
              span="Aeschylus Prometheus: s-537"
-             depDist="3.2222222222222223">
+             depDist="1.75">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -49462,7 +49462,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="986"
              span="Aeschylus Prometheus: s-538"
-             depDist="3.125">
+             depDist="2.4285714285714284">
       <word id="1"
             form="ἐκερτόμησας"
             lemma="κερτομέω1"
@@ -49526,7 +49526,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="987-988"
              span="Aeschylus Prometheus: s-539"
-             depDist="6.5625">
+             depDist="4.933333333333334">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -49646,7 +49646,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="989-991"
              span="Aeschylus Prometheus: s-540"
-             depDist="2.789473684210526">
+             depDist="1.7777777777777777">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -49785,7 +49785,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="992-994"
              span="Aeschylus Prometheus: s-541"
-             depDist="4.277777777777778">
+             depDist="2.9411764705882355">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -49917,7 +49917,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="995-996"
              span="Aeschylus Prometheus: s-542"
-             depDist="2.933333333333333">
+             depDist="2">
       <word id="1"
             form="γνάμψει"
             lemma="γνάμπτω1"
@@ -50028,7 +50028,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="997"
              span="Aeschylus Prometheus: s-543"
-             depDist="2.75">
+             depDist="1.8571428571428572">
       <word id="1"
             form="ὅρα"
             lemma="ὁράω1"
@@ -50090,7 +50090,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="998"
              span="Aeschylus Prometheus: s-544"
-             depDist="2.7142857142857144">
+             depDist="1.3333333333333333">
       <word id="1"
             form="ὦπται"
             lemma="ὁράω1"
@@ -50145,7 +50145,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="999-1000"
              span="Aeschylus Prometheus: s-545"
-             depDist="3.642857142857143">
+             depDist="2.3846153846153846">
       <word id="1"
             form="τόλμησον"
             lemma="τολμάω1"
@@ -50249,7 +50249,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1001"
              span="Aeschylus Prometheus: s-546"
-             depDist="2.75">
+             depDist="2">
       <word id="1"
             form="ὀχλεῖς"
             lemma="ὀχλέω1"
@@ -50313,7 +50313,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1002-1006"
              span="Aeschylus Prometheus: s-547"
-             depDist="3.2083333333333335">
+             depDist="2.260869565217391">
       <word id="1"
             form="εἰσελθέτω"
             lemma="εἰσέρχομαι1"
@@ -50487,7 +50487,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1006"
              span="Aeschylus Prometheus: s-548"
-             depDist="2.25">
+             depDist="0.6666666666666666">
       <word id="1"
             form="τοῦ"
             lemma="ὁ1"
@@ -50521,7 +50521,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1007"
              span="Aeschylus Prometheus: s-549"
-             depDist="3.142857142857143">
+             depDist="2.1666666666666665">
       <word id="1"
             form="λέγων"
             lemma="λέγω3"
@@ -50576,7 +50576,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1008-1009"
              span="Aeschylus Prometheus: s-550"
-             depDist="3.111111111111111">
+             depDist="1.75">
       <word id="1"
             form="τέγγῃ"
             lemma="τέγγω1"
@@ -50645,7 +50645,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1009-1010"
              span="Aeschylus Prometheus: s-551"
-             depDist="4.769230769230769">
+             depDist="3.5">
       <word id="1"
             form="δακὼν"
             lemma="δάκνω1"
@@ -50744,7 +50744,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1011"
              span="Aeschylus Prometheus: s-552"
-             depDist="2.5">
+             depDist="1.4">
       <word id="1"
             form="ἀτὰρ"
             lemma="ἀτάρ1"
@@ -50792,7 +50792,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1012-1013"
              span="Aeschylus Prometheus: s-553"
-             depDist="5.461538461538462">
+             depDist="3.8333333333333335">
       <word id="1"
             form="αὐθαδία"
             lemma="αὐθαδία1"
@@ -50889,7 +50889,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1014-1016"
              span="Aeschylus Prometheus: s-554"
-             depDist="4.157894736842105">
+             depDist="3.2777777777777777">
       <word id="1"
             form="σκέψαι"
             lemma="σκέπτομαι1"
@@ -51028,7 +51028,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1016-1019"
              span="Aeschylus Prometheus: s-555"
-             depDist="5.92">
+             depDist="4.25">
       <word id="1"
             form="πρῶτα"
             lemma="πρῶτος1"
@@ -51209,7 +51209,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1020-1021"
              span="Aeschylus Prometheus: s-556"
-             depDist="3.3">
+             depDist="1.7777777777777777">
       <word id="1"
             form="μακρὸν"
             lemma="μακρός1"
@@ -51285,7 +51285,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1021-1025"
              span="Aeschylus Prometheus: s-557"
-             depDist="6.08">
+             depDist="4.375">
       <word id="1"
             form="Διὸς"
             lemma="Ζεύς1"
@@ -51466,7 +51466,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1026-1029"
              span="Aeschylus Prometheus: s-558"
-             depDist="3.9655172413793105">
+             depDist="2.857142857142857">
       <word id="1"
             form="τοιοῦδε"
             lemma="τοιόσδε1"
@@ -51675,7 +51675,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1030"
              span="Aeschylus Prometheus: s-559"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -51709,7 +51709,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1030-1031"
              span="Aeschylus Prometheus: s-560"
-             depDist="5.714285714285714">
+             depDist="4.230769230769231">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -51817,7 +51817,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1032-1033"
              span="Aeschylus Prometheus: s-561"
-             depDist="3.3076923076923075">
+             depDist="1.75">
       <word id="1"
             form="ψευδηγορεῖν"
             lemma="ψευδηγορέω1"
@@ -51914,7 +51914,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1033-1035"
              span="Aeschylus Prometheus: s-562"
-             depDist="4.928571428571429">
+             depDist="3.6153846153846154">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -52018,7 +52018,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1036-1037"
              span="Aeschylus Prometheus: s-563"
-             depDist="3.75">
+             depDist="2.2857142857142856">
       <word id="1"
             form="ἡμῖν"
             lemma="ἐγώ1"
@@ -52080,7 +52080,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1037-1038"
              span="Aeschylus Prometheus: s-564"
-             depDist="2.727272727272727">
+             depDist="1.8">
       <word id="1"
             form="ἄνωγε"
             lemma="ἄνωγα1"
@@ -52163,7 +52163,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1039"
              span="Aeschylus Prometheus: s-565"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="πιθοῦ"
             lemma="πείθω1"
@@ -52183,7 +52183,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1039"
              span="Aeschylus Prometheus: s-566"
-             depDist="4.166666666666667">
+             depDist="2.8">
       <word id="1"
             form="σοφῷ"
             lemma="σοφός1"
@@ -52233,7 +52233,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1040-1041"
              span="Aeschylus Prometheus: s-567"
-             depDist="4.25">
+             depDist="2.7142857142857144">
       <word id="1"
             form="εἰδότι"
             lemma="οἶδα1"
@@ -52295,7 +52295,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1041-1042"
              span="Aeschylus Prometheus: s-568"
-             depDist="5">
+             depDist="3.4444444444444446">
       <word id="1"
             form="πάσχειν"
             lemma="πάσχω1"
@@ -52373,7 +52373,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1043-1046"
              span="Aeschylus Prometheus: s-569"
-             depDist="4.2631578947368425">
+             depDist="2.7777777777777777">
       <word id="1"
             form="πρὸς"
             lemma="πρός1"
@@ -52512,7 +52512,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1046-1050"
              span="Aeschylus Prometheus: s-570"
-             depDist="4.15">
+             depDist="2.736842105263158">
       <word id="1"
             form="χθόνα"
             lemma="χθών1"
@@ -52658,7 +52658,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1050-1052"
              span="Aeschylus Prometheus: s-571"
-             depDist="3.3333333333333335">
+             depDist="1.8181818181818181">
       <word id="1"
             form="εἴς"
             lemma="εἰς1"
@@ -52748,7 +52748,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1053"
              span="Aeschylus Prometheus: s-572"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="πάντως"
             lemma="πάντως1"
@@ -52796,7 +52796,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1054-1055"
              span="Aeschylus Prometheus: s-573"
-             depDist="3.7">
+             depDist="2.111111111111111">
       <word id="1"
             form="τοιάδε"
             lemma="τοιόσδε1"
@@ -52872,7 +52872,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1056-1057"
              span="Aeschylus Prometheus: s-574"
-             depDist="3.4">
+             depDist="2.3333333333333335">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -52948,7 +52948,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1057"
              span="Aeschylus Prometheus: s-575"
-             depDist="2">
+             depDist="0.6666666666666666">
       <word id="1"
             form="τί"
             lemma="τίς"
@@ -52982,7 +52982,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1058-1062"
              span="Aeschylus Prometheus: s-576"
-             depDist="4.44">
+             depDist="3.0416666666666665">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -53163,7 +53163,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1063-1064"
              span="Aeschylus Prometheus: s-577"
-             depDist="3.3636363636363638">
+             depDist="2.2">
       <word id="1"
             form="ἄλλο"
             lemma="ἄλλος1"
@@ -53246,7 +53246,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1064-1065"
              span="Aeschylus Prometheus: s-578"
-             depDist="4.4">
+             depDist="2.888888888888889">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -53322,7 +53322,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1066"
              span="Aeschylus Prometheus: s-579"
-             depDist="2.5">
+             depDist="1.2">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -53370,7 +53370,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1067"
              span="Aeschylus Prometheus: s-580"
-             depDist="3.7777777777777777">
+             depDist="2.375">
       <word id="1"
             form="μετὰ"
             lemma="μετά1"
@@ -53441,7 +53441,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1068-1070"
              span="Aeschylus Prometheus: s-581"
-             depDist="2.857142857142857">
+             depDist="1.4615384615384615">
       <word id="1"
             form="τοὺς"
             lemma="ὁ1"
@@ -53545,7 +53545,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1071-1075"
              span="Aeschylus Prometheus: s-582"
-             depDist="4.88">
+             depDist="3.4166666666666665">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -53726,7 +53726,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1075-1076"
              span="Aeschylus Prometheus: s-583"
-             depDist="4.333333333333333">
+             depDist="3.5">
       <word id="1"
             form="μὴ"
             lemma="μή1"
@@ -53799,7 +53799,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1076-1079"
              span="Aeschylus Prometheus: s-584"
-             depDist="4.266666666666667">
+             depDist="2.642857142857143">
       <word id="1"
             form="εἰδυῖαι"
             lemma="οἶδα1"
@@ -53910,7 +53910,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1080-1081"
              span="Aeschylus Prometheus: s-585"
-             depDist="3.5">
+             depDist="1.8571428571428572">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -53972,7 +53972,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1082-1085"
              span="Aeschylus Prometheus: s-586"
-             depDist="4.9411764705882355">
+             depDist="3.3125">
       <word id="1"
             form="βρυχία"
             lemma="βρύχιος1"
@@ -54097,7 +54097,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1085-1087"
              span="Aeschylus Prometheus: s-587"
-             depDist="3.090909090909091">
+             depDist="2.2">
       <word id="1"
             form="σκιρτᾷ"
             lemma="σκιρτάω1"
@@ -54180,7 +54180,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1088"
              span="Aeschylus Prometheus: s-588"
-             depDist="2.4">
+             depDist="1.5">
       <word id="1"
             form="ξυντετάρακται"
             lemma="συνταράσσω1"
@@ -54221,7 +54221,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1089-1090"
              span="Aeschylus Prometheus: s-589"
-             depDist="3.7">
+             depDist="2.111111111111111">
       <word id="1"
             form="τοιάδ᾽"
             lemma="τοιόσδε1"
@@ -54297,7 +54297,7 @@
              document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
              subdoc="1091-1093"
              span="Aeschylus Prometheus: s-590"
-             depDist="4.2631578947368425">
+             depDist="2.7777777777777777">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"

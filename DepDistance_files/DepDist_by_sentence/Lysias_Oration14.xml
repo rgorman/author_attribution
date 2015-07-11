@@ -27,7 +27,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-1"
-             depDist="3">
+             depDist="2.0588235294117645">
       <word id="1"
             form="ἡγοῦμαι"
             lemma="ἡγέομαι"
@@ -159,7 +159,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-2"
-             depDist="4.7">
+             depDist="3.586206896551724">
       <word id="1"
             form="τοιοῦτον"
             lemma="τοιοῦτος"
@@ -375,7 +375,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-3"
-             depDist="6.7">
+             depDist="4.846153846153846">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -663,7 +663,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-4"
-             depDist="6.743589743589744">
+             depDist="5.105263157894737">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ"
@@ -942,7 +942,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-5"
-             depDist="4.777777777777778">
+             depDist="3.25">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -1011,7 +1011,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-6"
-             depDist="3.4">
+             depDist="2">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -1087,7 +1087,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-7"
-             depDist="4.454545454545454">
+             depDist="2.8">
       <word id="1"
             form="ὅσα"
             lemma="ὅσος"
@@ -1170,7 +1170,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-8"
-             depDist="2.5">
+             depDist="1.6">
       <word id="1"
             form="ἀνάγνωθι"
             lemma="ἀναγιγνώσκω"
@@ -1218,7 +1218,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-9"
-             depDist="4.764705882352941">
+             depDist="3.76">
       <word id="1"
             form="Νόμος"
             lemma="νόμος"
@@ -1581,7 +1581,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-10"
-             depDist="4.1923076923076925">
+             depDist="3.28">
       <word id="1"
             form="δοκεῖ"
             lemma="δοκέω"
@@ -1769,7 +1769,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-11"
-             depDist="2.6923076923076925">
+             depDist="1.75">
       <word id="1"
             form="τολμῶσι"
             lemma="τολμάω"
@@ -1866,7 +1866,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-12"
-             depDist="6.96875">
+             depDist="5.161290322580645">
       <word id="1"
             form="μάχην"
             lemma="μάχη"
@@ -2098,7 +2098,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-13"
-             depDist="3.85">
+             depDist="2.6315789473684212">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -2244,7 +2244,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-14"
-             depDist="2.2">
+             depDist="1.25">
       <word id="1"
             form="ἀνάγνωθί"
             lemma="ἀναγιγνώσκω"
@@ -2285,7 +2285,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-15"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="Νόμος"
             lemma="νόμος"
@@ -2305,7 +2305,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-16"
-             depDist="4.516129032258065">
+             depDist="3.6">
       <word id="1"
             form="ἀκούετε"
             lemma="ἀκούω"
@@ -2528,7 +2528,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-17"
-             depDist="2.5">
+             depDist="1.5714285714285714">
       <word id="1"
             form="σκέψασθε"
             lemma="σκέπτομαι"
@@ -2590,7 +2590,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-18"
-             depDist="4.25">
+             depDist="2.7142857142857144">
       <word id="1"
             form="οὐχ"
             lemma="οὐ"
@@ -2652,7 +2652,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-19"
-             depDist="3.857142857142857">
+             depDist="2.3333333333333335">
       <word id="1"
             form="οὐχ"
             lemma="οὐ"
@@ -2707,7 +2707,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-20"
-             depDist="3.6470588235294117">
+             depDist="2.75">
       <word id="1"
             form="ἡγοῦμαι"
             lemma="ἡγέομαι"
@@ -2832,7 +2832,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-21"
-             depDist="9.104166666666666">
+             depDist="7.361702127659575">
       <word id="1"
             form="ἀστρατείας"
             lemma="ἀστρατεία"
@@ -3180,7 +3180,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-22"
-             depDist="3.0588235294117645">
+             depDist="2.0625">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι"
@@ -3305,7 +3305,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-23"
-             depDist="4">
+             depDist="3">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ"
@@ -3507,7 +3507,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-24"
-             depDist="2.5">
+             depDist="1.2">
       <word id="1"
             form="καί"
             lemma="καί"
@@ -3555,7 +3555,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-25"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="Νόμος"
             lemma="νόμος"
@@ -3575,7 +3575,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-26"
-             depDist="5.016666666666667">
+             depDist="3.4237288135593222">
       <word id="1"
             form="οὗτος"
             lemma="οὗτος"
@@ -4003,7 +4003,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-27"
-             depDist="5.516129032258065">
+             depDist="4">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -4226,7 +4226,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-28"
-             depDist="3.5">
+             depDist="2.4761904761904763">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -4386,7 +4386,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-29"
-             depDist="5.105263157894737">
+             depDist="4.135135135135135">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -4658,7 +4658,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-30"
-             depDist="4.961538461538462">
+             depDist="4.04">
       <word id="1"
             form="ἐνθυμηθῆναι"
             lemma="ἐνθυμέομαι"
@@ -4848,7 +4848,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-31"
-             depDist="5.978260869565218">
+             depDist="5.066666666666666">
       <word id="1"
             form="θαυμάζω"
             lemma="θαυμάζω"
@@ -5176,7 +5176,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-32"
-             depDist="3.814814814814815">
+             depDist="2.576923076923077">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -5371,7 +5371,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-33"
-             depDist="4.923076923076923">
+             depDist="3.5">
       <word id="1"
             form="ἐὰν"
             lemma="ἐάν"
@@ -5468,7 +5468,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-34"
-             depDist="3">
+             depDist="1.8571428571428572">
       <word id="1"
             form="οὐδεὶς"
             lemma="οὐδείς"
@@ -5530,7 +5530,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-35"
-             depDist="4.2">
+             depDist="2.8421052631578947">
       <word id="1"
             form="ἐὰν"
             lemma="ἐάν"
@@ -5676,7 +5676,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-36"
-             depDist="4.076923076923077">
+             depDist="2.8627450980392157">
       <word id="1"
             form="ἐὰν"
             lemma="ἐάν"
@@ -6046,7 +6046,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-37"
-             depDist="6.735849056603773">
+             depDist="5.846153846153846">
       <word id="1"
             form="ἐνθυμεῖσθε"
             lemma="ἐνθυμέομαι"
@@ -6425,7 +6425,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-38"
-             depDist="4.766666666666667">
+             depDist="3.413793103448276">
       <word id="1"
             form="ἀλλʼ"
             lemma="ἀλλά"
@@ -6643,7 +6643,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-39"
-             depDist="3.6153846153846154">
+             depDist="2.64">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -6831,7 +6831,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-40"
-             depDist="3.772727272727273">
+             depDist="2.857142857142857">
       <word id="1"
             form="ἡγοῦμαι"
             lemma="ἡγέομαι"
@@ -6991,7 +6991,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-41"
-             depDist="3.5925925925925926">
+             depDist="2.5">
       <word id="1"
             form="ἀναβαίνοντες"
             lemma="ἀναβαίνω"
@@ -7186,7 +7186,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-42"
-             depDist="4.571428571428571">
+             depDist="2.95">
       <word id="1"
             form="ὃν"
             lemma="ὅς"
@@ -7339,7 +7339,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-43"
-             depDist="4.222222222222222">
+             depDist="3.2045454545454546">
       <word id="1"
             form="δεινὸν"
             lemma="δεινός"
@@ -7660,7 +7660,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-44"
-             depDist="6">
+             depDist="4.238095238095238">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -7820,7 +7820,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-45"
-             depDist="6.105263157894737">
+             depDist="4.388888888888889">
       <word id="1"
             form="ἐπειδὴ"
             lemma="ἐπεί"
@@ -7959,7 +7959,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-46"
-             depDist="9.56">
+             depDist="7.73469387755102">
       <word id="1"
             form="οὐκ"
             lemma="οὐ"
@@ -8317,7 +8317,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-47"
-             depDist="4.576923076923077">
+             depDist="3.32">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι"
@@ -8505,7 +8505,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-48"
-             depDist="6.181818181818182">
+             depDist="4.428571428571429">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -8667,7 +8667,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-49"
-             depDist="4.918367346938775">
+             depDist="3.9791666666666665">
       <word id="1"
             form="ἀξιῶ"
             lemma="ἀξιόω"
@@ -9016,7 +9016,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-50"
-             depDist="6.549295774647887">
+             depDist="4.514285714285714">
       <word id="1"
             form="ἐὰν"
             lemma="ἐάν"
@@ -9519,7 +9519,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-51"
-             depDist="3.5454545454545454">
+             depDist="2.5238095238095237">
       <word id="1"
             form="τίς"
             lemma="τις"
@@ -9679,7 +9679,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-52"
-             depDist="4.36">
+             depDist="3.375">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ"
@@ -9860,7 +9860,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-53"
-             depDist="4.742857142857143">
+             depDist="3.5294117647058822">
       <word id="1"
             form="ἐὰν"
             lemma="ἐάν"
@@ -10111,7 +10111,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-54"
-             depDist="3.8214285714285716">
+             depDist="2.888888888888889">
       <word id="1"
             form="θαυμάζω"
             lemma="θαυμάζω"
@@ -10313,7 +10313,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-55"
-             depDist="6.814814814814815">
+             depDist="5.038461538461538">
       <word id="1"
             form="ἧς"
             lemma="ὅς"
@@ -10510,7 +10510,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-56"
-             depDist="5.3076923076923075">
+             depDist="3.6666666666666665">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -10607,7 +10607,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-57"
-             depDist="2.7142857142857144">
+             depDist="1.8333333333333333">
       <word id="1"
             form="προσήκει"
             lemma="προσήκω"
@@ -10662,7 +10662,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-58"
-             depDist="7.238095238095238">
+             depDist="5.390243902439025">
       <word id="1"
             form="ἐπειδὴ"
             lemma="ἐπεί"
@@ -10964,7 +10964,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-59"
-             depDist="6.0344827586206895">
+             depDist="4.631578947368421">
       <word id="1"
             form="οὗτος"
             lemma="οὗτος"
@@ -11376,7 +11376,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-60"
-             depDist="2.5555555555555554">
+             depDist="1.625">
       <word id="1"
             form="μετεπέμφθη"
             lemma="μεταπέμπω"
@@ -11445,7 +11445,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-61"
-             depDist="4.136363636363637">
+             depDist="3.0952380952380953">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι"
@@ -11605,7 +11605,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-62"
-             depDist="3.7777777777777777">
+             depDist="2.125">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -11674,7 +11674,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-63"
-             depDist="5.388888888888889">
+             depDist="3.823529411764706">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -11806,7 +11806,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-64"
-             depDist="3.588235294117647">
+             depDist="2.375">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -11931,7 +11931,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-65"
-             depDist="4.333333333333333">
+             depDist="2.75">
       <word id="1"
             form="τελευτήσαντος"
             lemma="τελευτάω"
@@ -12000,7 +12000,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-66"
-             depDist="4.588235294117647">
+             depDist="2.8125">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -12125,7 +12125,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-67"
-             depDist="7.90625">
+             depDist="6.161290322580645">
       <word id="1"
             form="ὅσα"
             lemma="ὅσος"
@@ -12355,7 +12355,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-68"
-             depDist="3.9615384615384617">
+             depDist="2.88">
       <word id="1"
             form="Ἱππόνικος"
             lemma="Ἱππόνικος"
@@ -12543,7 +12543,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-69"
-             depDist="8.373831775700934">
+             depDist="7.245283018867925">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -13304,7 +13304,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-70"
-             depDist="3.7142857142857144">
+             depDist="2.1538461538461537">
       <word id="1"
             form="ἀνθʼ"
             lemma="ἀντί"
@@ -13408,7 +13408,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-71"
-             depDist="4.310344827586207">
+             depDist="3.3214285714285716">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι"
@@ -13617,7 +13617,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-72"
-             depDist="4.166666666666667">
+             depDist="3.1724137931034484">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ"
@@ -13833,7 +13833,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-73"
-             depDist="8.241379310344827">
+             depDist="6.5">
       <word id="1"
             form="καὶ"
             lemma="καὶ"
@@ -14044,7 +14044,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-74"
-             depDist="2.923076923076923">
+             depDist="2">
       <word id="1"
             form="τολμᾷ"
             lemma="τολμάω"
@@ -14141,7 +14141,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-75"
-             depDist="7.0181818181818185">
+             depDist="5.12962962962963">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -14534,7 +14534,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-76"
-             depDist="4.230769230769231">
+             depDist="3.16">
       <word id="1"
             form="καὶ"
             lemma="καὶ"
@@ -14722,7 +14722,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-77"
-             depDist="4.684210526315789">
+             depDist="3.2222222222222223">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -14861,7 +14861,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-78"
-             depDist="4.909090909090909">
+             depDist="3.3">
       <word id="1"
             form="ὥστʼ"
             lemma="ὥστε"
@@ -14944,7 +14944,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-79"
-             depDist="4.787878787878788">
+             depDist="3.375">
       <word id="1"
             form="ἀλλʼ"
             lemma="ἀλλά"
@@ -15181,7 +15181,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-80"
-             depDist="12.153846153846153">
+             depDist="10.372549019607844">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι"
@@ -15553,7 +15553,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-81"
-             depDist="6.196428571428571">
+             depDist="4.909090909090909">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -15951,7 +15951,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-82"
-             depDist="7.9523809523809526">
+             depDist="6.3">
       <word id="1"
             form="ὥστʼ"
             lemma="ὥστε"
@@ -16106,7 +16106,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-83"
-             depDist="5.928571428571429">
+             depDist="4.3076923076923075">
       <word id="1"
             form="ἃ"
             lemma="ὅς"
@@ -16210,7 +16210,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-84"
-             depDist="5">
+             depDist="3.7142857142857144">
       <word id="1"
             form="ἐπειδὴ"
             lemma="ἐπεί"
@@ -16421,7 +16421,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-85"
-             depDist="3.8372093023255816">
+             depDist="2.8095238095238093">
       <word id="1"
             form="καὶ"
             lemma="καὶ"
@@ -16728,7 +16728,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-86"
-             depDist="4.904761904761905">
+             depDist="3.4">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -16881,7 +16881,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-87"
-             depDist="6.214285714285714">
+             depDist="4.918918918918919">
       <word id="1"
             form="ὥστε"
             lemma="ὥστε"
@@ -17671,7 +17671,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-88"
-             depDist="3.8125">
+             depDist="2.8">
       <word id="1"
             form="σκέψασθαι"
             lemma="σκέπτομαι"
@@ -17789,7 +17789,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-89"
-             depDist="5.352941176470588">
+             depDist="3.625">
       <word id="1"
             form="πότερον"
             lemma="πότερος"
@@ -17916,7 +17916,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-90"
-             depDist="6.076923076923077">
+             depDist="4.828125">
       <word id="1"
             form="οὐχ"
             lemma="οὐ"
@@ -18377,7 +18377,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-91"
-             depDist="2.857142857142857">
+             depDist="1.5">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -18432,7 +18432,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-92"
-             depDist="3.823529411764706">
+             depDist="2.8125">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -18557,7 +18557,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-93"
-             depDist="4.625">
+             depDist="3.3043478260869565">
       <word id="1"
             form="καὶ"
             lemma="καὶ"
@@ -18731,7 +18731,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-94"
-             depDist="8.944444444444445">
+             depDist="7.171428571428572">
       <word id="1"
             form="τίς"
             lemma="τις"
@@ -18991,7 +18991,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-95"
-             depDist="5.40625">
+             depDist="4.193548387096774">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -19221,7 +19221,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-96"
-             depDist="9.020833333333334">
+             depDist="7.191489361702128">
       <word id="1"
             form="ὥστʼ"
             lemma="ὥστε"
@@ -19565,7 +19565,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-97"
-             depDist="4.795454545454546">
+             depDist="3.6511627906976742">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ"
@@ -19879,7 +19879,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-98"
-             depDist="4.575757575757576">
+             depDist="3.3125">
       <word id="1"
             form="ὑμεῖς"
             lemma="σύ"
@@ -20118,7 +20118,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-99"
-             depDist="3.0833333333333335">
+             depDist="2.1818181818181817">
       <word id="1"
             form="ἀνάγνωθι"
             lemma="ἀναγιγνώσκω"
@@ -20208,7 +20208,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-100"
-             depDist="2.7142857142857144">
+             depDist="1.3333333333333333">
       <word id="1"
             form="καὶ"
             lemma="καὶ"
@@ -20263,7 +20263,7 @@
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
              subdoc="1-47"
              span="Lysias Orat. 14: s-101"
-             depDist="2">
+             depDist="0">
       <word id="1"
             form="Νόμοι"
             lemma="νόμος"

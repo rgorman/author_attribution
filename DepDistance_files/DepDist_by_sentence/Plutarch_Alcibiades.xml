@@ -39,7 +39,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.1"
              subdoc=""
              span="Plutarch Alcibiades: s-1"
-             depDist="4.913043478260869">
+             depDist="2.227272727272727">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -206,7 +206,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.1"
              subdoc=""
              span="Plutarch Alcibiades: s-2"
-             depDist="5.25">
+             depDist="3.1052631578947367">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -352,7 +352,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.1"
              subdoc=""
              span="Plutarch Alcibiades: s-3"
-             depDist="6.533333333333333">
+             depDist="3.357142857142857">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -463,7 +463,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.2"
              subdoc=""
              span="Plutarch Alcibiades: s-4"
-             depDist="10.083333333333334">
+             depDist="3.8450704225352115">
       <word id="1"
             form="λέγεται"
             lemma="λέγω3"
@@ -975,7 +975,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.3"
              subdoc=""
              span="Plutarch Alcibiades: s-5"
-             depDist="5.757575757575758">
+             depDist="4.3125">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -1214,7 +1214,7 @@
              document_id=""
              subdoc="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.3"
              span="Plutarch Alcibiades: s-6"
-             depDist="6.310344827586207">
+             depDist="3.9642857142857144">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -1423,7 +1423,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.4"
              subdoc=""
              span="Plutarch Alcibiades: s-7"
-             depDist="3.4375">
+             depDist="2.066666666666667">
       <word id="1"
             form="τῇ"
             lemma="ὁ"
@@ -1541,7 +1541,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.4"
              subdoc=""
              span="Plutarch Alcibiades: s-8"
-             depDist="3.3333333333333335">
+             depDist="2.4545454545454546">
       <word id="1"
             form="μέμνηται"
             lemma="μιμνήσκω"
@@ -1631,7 +1631,7 @@
              document_id=""
              subdoc="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.4"
              span="Plutarch Alcibiades: s-9"
-             depDist="2.5714285714285716">
+             depDist="1.3333333333333333">
       <word id="1"
             form="εἶτʼ"
             lemma="εἶτα"
@@ -1686,7 +1686,7 @@
              document_id=""
              subdoc="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.4"
              span="Plutarch Alcibiades: s-10"
-             depDist="1.6666666666666667">
+             depDist="0.5">
       <word id="1"
             form="ὁλᾷς"
             lemma="ὁλάω"
@@ -1713,7 +1713,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.4"
              subdoc=""
              span="Plutarch Alcibiades: s-11"
-             depDist="2.6">
+             depDist="1">
       <word id="1"
             form="τὴν"
             lemma="ὁ"
@@ -1754,7 +1754,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.4"
              subdoc=""
              span="Plutarch Alcibiades: s-12"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="ὀρθῶς"
             lemma="ὀρθός"
@@ -1802,7 +1802,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.4"
              subdoc=""
              span="Plutarch Alcibiades: s-13"
-             depDist="3.7777777777777777">
+             depDist="2.125">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -1873,7 +1873,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:1.4"
              subdoc=""
              span="Plutarch Alcibiades: s-14"
-             depDist="5.521739130434782">
+             depDist="3.590909090909091">
       <word id="1"
             form="βαδίζει"
             lemma="βαδίζω"
@@ -2040,7 +2040,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.1"
              subdoc=""
              span="Plutarch Alcibiades: s-15"
-             depDist="9.52">
+             depDist="6.916666666666667">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -2223,7 +2223,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.1"
              subdoc=""
              span="Plutarch Alcibiades: s-16"
-             depDist="4.96">
+             depDist="2.375">
       <word id="1"
             form="φύσει"
             lemma="φύσις"
@@ -2404,7 +2404,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.2"
              subdoc=""
              span="Plutarch Alcibiades: s-17"
-             depDist="6.884615384615385">
+             depDist="4.16">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -2592,7 +2592,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.2"
              subdoc=""
              span="Plutarch Alcibiades: s-18"
-             depDist="8.709677419354838">
+             depDist="4.4">
       <word id="1"
             form="ἀφέντος"
             lemma="ἀφίημι"
@@ -2823,7 +2823,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.2"
              subdoc=""
              span="Plutarch Alcibiades: s-19"
-             depDist="4.5">
+             depDist="2.526315789473684">
       <word id="1"
             form="ἔτι"
             lemma="ἔτι"
@@ -2969,7 +2969,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.3"
              subdoc=""
              span="Plutarch Alcibiades: s-20"
-             depDist="2.9">
+             depDist="1.6666666666666667">
       <word id="1"
             form="πρῶτον"
             lemma="πρῶτος"
@@ -3045,7 +3045,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.3"
              subdoc=""
              span="Plutarch Alcibiades: s-21"
-             depDist="2.6666666666666665">
+             depDist="1.75">
       <word id="1"
             form="ὑπέπιπτε"
             lemma="ὑποπίπτω"
@@ -3114,7 +3114,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.3"
              subdoc=""
              span="Plutarch Alcibiades: s-22"
-             depDist="7.824561403508772">
+             depDist="2.982142857142857">
       <word id="1"
             form="μὴ"
             lemma="μή"
@@ -3519,7 +3519,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.4"
              subdoc=""
              span="Plutarch Alcibiades: s-23"
-             depDist="5.833333333333333">
+             depDist="3.4782608695652173">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -3695,7 +3695,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.4"
              subdoc=""
              span="Plutarch Alcibiades: s-24"
-             depDist="6.515151515151516">
+             depDist="4.15625">
       <word id="1"
             form="πλήκτρου"
             lemma="πλῆκτρον"
@@ -3934,7 +3934,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.5"
              subdoc=""
              span="Plutarch Alcibiades: s-25"
-             depDist="5.7407407407407405">
+             depDist="3.5">
       <word id="1"
             form="ἔτι"
             lemma="ἔτι"
@@ -4131,7 +4131,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.5"
              subdoc=""
              span="Plutarch Alcibiades: s-26"
-             depDist="3.875">
+             depDist="1.5714285714285714">
       <word id="1"
             form="αὐλείτωσαν"
             lemma="αὐλέω"
@@ -4193,7 +4193,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.5"
              subdoc=""
              span="Plutarch Alcibiades: s-27"
-             depDist="2.4">
+             depDist="1">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -4234,7 +4234,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.5"
              subdoc=""
              span="Plutarch Alcibiades: s-28"
-             depDist="7.65625">
+             depDist="4.67741935483871">
       <word id="1"
             form="ἡμῖν"
             lemma="ἐγώ"
@@ -4466,7 +4466,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.6"
              subdoc=""
              span="Plutarch Alcibiades: s-29"
-             depDist="3.875">
+             depDist="2.2666666666666666">
       <word id="1"
             form="τοιαῦτα"
             lemma="τοιοῦτος"
@@ -4584,7 +4584,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.6"
              subdoc=""
              span="Plutarch Alcibiades: s-30"
-             depDist="3.3">
+             depDist="2.263157894736842">
       <word id="1"
             form="ταχὺ"
             lemma="ταχύς"
@@ -4730,7 +4730,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:2.6"
              subdoc=""
              span="Plutarch Alcibiades: s-31"
-             depDist="3.3333333333333335">
+             depDist="1.9090909090909092">
       <word id="1"
             form="ὅθεν"
             lemma="ὅθεν"
@@ -4820,7 +4820,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:3.1"
              subdoc=""
              span="Plutarch Alcibiades: s-32"
-             depDist="3.95">
+             depDist="2.263157894736842">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -4966,7 +4966,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:3.1"
              subdoc=""
              span="Plutarch Alcibiades: s-33"
-             depDist="5.416666666666667">
+             depDist="2.5454545454545454">
       <word id="1"
             form="βουλομένου"
             lemma="βούλομαι"
@@ -5056,7 +5056,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:3.1"
              subdoc=""
              span="Plutarch Alcibiades: s-34"
-             depDist="6.68">
+             depDist="3.5416666666666665">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -5239,7 +5239,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:3.1"
              subdoc=""
              span="Plutarch Alcibiades: s-35"
-             depDist="5.214285714285714">
+             depDist="3.5384615384615383">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -5345,7 +5345,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:3.1"
              subdoc=""
              span="Plutarch Alcibiades: s-36"
-             depDist="8">
+             depDist="5.944444444444445">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -5486,7 +5486,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.1"
              subdoc=""
              span="Plutarch Alcibiades: s-37"
-             depDist="7.146341463414634">
+             depDist="3.7777777777777777">
       <word id="1"
             form="ἤδη"
             lemma="ἤδη"
@@ -6068,7 +6068,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.2"
              subdoc=""
              span="Plutarch Alcibiades: s-38"
-             depDist="4.038461538461538">
+             depDist="2.16">
       <word id="1"
             form="οὐδένα"
             lemma="οὐδείς"
@@ -6256,7 +6256,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.2"
              subdoc=""
              span="Plutarch Alcibiades: s-39"
-             depDist="6.852941176470588">
+             depDist="3.878787878787879">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -6500,7 +6500,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.3"
              subdoc=""
              span="Plutarch Alcibiades: s-40"
-             depDist="6.704545454545454">
+             depDist="3.2325581395348837">
       <word id="1"
             form="ταχὺ"
             lemma="ταχύς"
@@ -6816,7 +6816,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.3"
              subdoc=""
              span="Plutarch Alcibiades: s-41"
-             depDist="4">
+             depDist="2.875">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -6941,7 +6941,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.3"
              subdoc=""
              span="Plutarch Alcibiades: s-42"
-             depDist="9.242424242424242">
+             depDist="3.6769230769230767">
       <word id="1"
             form="καταφρονῶν"
             lemma="καταφρονέω"
@@ -7411,7 +7411,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.4"
              subdoc=""
              span="Plutarch Alcibiades: s-43"
-             depDist="4.388888888888889">
+             depDist="2.6470588235294117">
       <word id="1"
             form="ἐτύγχανε"
             lemma="τυγχάνω"
@@ -7543,7 +7543,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.5"
              subdoc=""
              span="Plutarch Alcibiades: s-44"
-             depDist="7.545454545454546">
+             depDist="3.462962962962963">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -7934,7 +7934,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.5"
              subdoc=""
              span="Plutarch Alcibiades: s-45"
-             depDist="7.689655172413793">
+             depDist="3.857142857142857">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -8145,7 +8145,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:4.5"
              subdoc=""
              span="Plutarch Alcibiades: s-46"
-             depDist="5.153846153846154">
+             depDist="2.9166666666666665">
       <word id="1"
             form="ἃ"
             lemma="ὅς"
@@ -8242,7 +8242,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.1"
              subdoc=""
              span="Plutarch Alcibiades: s-47"
-             depDist="4.125">
+             depDist="2.5714285714285716">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -8304,7 +8304,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.1"
              subdoc=""
              span="Plutarch Alcibiades: s-48"
-             depDist="7.9714285714285715">
+             depDist="4.676470588235294">
       <word id="1"
             form="πλὴν"
             lemma="πλήν"
@@ -8555,7 +8555,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.1"
              subdoc=""
              span="Plutarch Alcibiades: s-49"
-             depDist="4.56">
+             depDist="2.8333333333333335">
       <word id="1"
             form="ἑστιάσας"
             lemma="ἑστιάω"
@@ -8736,7 +8736,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.2"
              subdoc=""
              span="Plutarch Alcibiades: s-50"
-             depDist="5">
+             depDist="2.8333333333333335">
       <word id="1"
             form="παραιτουμένου"
             lemma="παραιτέομαι"
@@ -8875,7 +8875,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.2"
              subdoc=""
              span="Plutarch Alcibiades: s-51"
-             depDist="2.6666666666666665">
+             depDist="1.5">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -8944,7 +8944,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.2"
              subdoc=""
              span="Plutarch Alcibiades: s-52"
-             depDist="4.090909090909091">
+             depDist="2.7">
       <word id="1"
             form="ἕωθεν"
             lemma="ἕωθεν"
@@ -9027,7 +9027,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.2"
              subdoc=""
              span="Plutarch Alcibiades: s-53"
-             depDist="9.487804878048781">
+             depDist="4.175">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -9320,7 +9320,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.3"
              subdoc=""
              span="Plutarch Alcibiades: s-54"
-             depDist="2.8333333333333335">
+             depDist="1.2">
       <word id="1"
             form="ταῦτʼ"
             lemma="οὗτος"
@@ -9368,7 +9368,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.2"
              subdoc=""
              span="Plutarch Alcibiades: s-55"
-             depDist="4.888888888888889">
+             depDist="2.823529411764706">
       <word id="1"
             form="εἰωθότες"
             lemma="ἔθω"
@@ -9500,7 +9500,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.2"
              subdoc=""
              span="Plutarch Alcibiades: s-56"
-             depDist="2.7142857142857144">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ἐδέοντο"
             lemma="δέομαι"
@@ -9555,7 +9555,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.2"
              subdoc=""
              span="Plutarch Alcibiades: s-57"
-             depDist="2.7777777777777777">
+             depDist="1.375">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -9624,7 +9624,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.2"
              subdoc=""
              span="Plutarch Alcibiades: s-58"
-             depDist="3.25">
+             depDist="1.8571428571428572">
       <word id="1"
             form="διδόντων"
             lemma="δίδωμι"
@@ -9686,7 +9686,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:5.2"
              subdoc=""
              span="Plutarch Alcibiades: s-59"
-             depDist="3">
+             depDist="1.4">
       <word id="1"
             form="κ-"
             lemma="καί"
@@ -9734,7 +9734,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:6.1"
              subdoc=""
              span="Plutarch Alcibiades: s-60"
-             depDist="8.46875">
+             depDist="4.031746031746032">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -10188,7 +10188,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:6.2"
              subdoc=""
              span="Plutarch Alcibiades: s-61"
-             depDist="5.264705882352941">
+             depDist="3.0606060606060606">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -10432,7 +10432,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:6.2"
              subdoc=""
              span="Plutarch Alcibiades: s-62"
-             depDist="3.3">
+             depDist="2.2222222222222223">
       <word id="1"
             form="Ἀλκιβιάδης"
             lemma="Ἀλκιβιάδης"
@@ -10508,7 +10508,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:6.2"
              subdoc=""
              span="Plutarch Alcibiades: s-63"
-             depDist="4.466666666666667">
+             depDist="2.7142857142857144">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -10619,7 +10619,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:6.3"
              subdoc=""
              span="Plutarch Alcibiades: s-64"
-             depDist="6.576923076923077">
+             depDist="3.196078431372549">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -10989,7 +10989,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:6.4"
              subdoc=""
              span="Plutarch Alcibiades: s-65"
-             depDist="7.235294117647059">
+             depDist="4.48">
       <word id="1"
             form="ὥσπερ"
             lemma="ὥσπερ"
@@ -11352,7 +11352,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.1"
              subdoc=""
              span="Plutarch Alcibiades: s-66"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="τὴν"
             lemma="ὁ"
@@ -11442,7 +11442,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.1"
              subdoc=""
              span="Plutarch Alcibiades: s-67"
-             depDist="5.384615384615385">
+             depDist="3.0833333333333335">
       <word id="1"
             form="εἰπόντος"
             lemma="εἶπον"
@@ -11539,7 +11539,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.1"
              subdoc=""
              span="Plutarch Alcibiades: s-68"
-             depDist="6.095238095238095">
+             depDist="2.3">
       <word id="1"
             form="ἑτέρου"
             lemma="ἕτερος"
@@ -11692,7 +11692,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.1"
              subdoc=""
              span="Plutarch Alcibiades: s-69"
-             depDist="2.8">
+             depDist="1.25">
       <word id="1"
             form="οὐχὶ"
             lemma="οὐ"
@@ -11733,7 +11733,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.2"
              subdoc=""
              span="Plutarch Alcibiades: s-70"
-             depDist="3.7777777777777777">
+             depDist="2.25">
       <word id="1"
             form="Περικλεῖ"
             lemma="Περικλῆς"
@@ -11802,7 +11802,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.2"
              subdoc=""
              span="Plutarch Alcibiades: s-71"
-             depDist="6.787878787878788">
+             depDist="2.84375">
       <word id="1"
             form="πυθόμενος"
             lemma="πυνθάνομαι"
@@ -12039,7 +12039,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.2"
              subdoc=""
              span="Plutarch Alcibiades: s-72"
-             depDist="4.6">
+             depDist="2.6842105263157894">
       <word id="1"
             form="ἔτι"
             lemma="ἔτι"
@@ -12185,7 +12185,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.3"
              subdoc=""
              span="Plutarch Alcibiades: s-73"
-             depDist="4.392857142857143">
+             depDist="2.8518518518518516">
       <word id="1"
             form="ἰσχυρᾶς"
             lemma="ἰσχυρός"
@@ -12387,7 +12387,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.3"
              subdoc=""
              span="Plutarch Alcibiades: s-74"
-             depDist="3.7">
+             depDist="2.888888888888889">
       <word id="1"
             form="ἐγίνετο"
             lemma="γίγνομαι"
@@ -12463,7 +12463,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.3"
              subdoc=""
              span="Plutarch Alcibiades: s-75"
-             depDist="6.138888888888889">
+             depDist="4.057142857142857">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -12721,7 +12721,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.4"
              subdoc=""
              span="Plutarch Alcibiades: s-76"
-             depDist="7.975">
+             depDist="3.5384615384615383">
       <word id="1"
             form="ἔτι"
             lemma="ἔτι"
@@ -13007,7 +13007,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:7.4"
              subdoc=""
              span="Plutarch Alcibiades: s-77"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -13055,7 +13055,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.1"
              subdoc=""
              span="Plutarch Alcibiades: s-78"
-             depDist="7.1891891891891895">
+             depDist="3">
       <word id="1"
             form="Ἱππονίκῳ"
             lemma="Ἱππόνικος"
@@ -13320,7 +13320,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.1"
              subdoc=""
              span="Plutarch Alcibiades: s-79"
-             depDist="9.333333333333334">
+             depDist="5.446808510638298">
       <word id="1"
             form="περιβοήτου"
             lemma="περιβόητος"
@@ -13664,7 +13664,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.2"
              subdoc=""
              span="Plutarch Alcibiades: s-80"
-             depDist="4.875">
+             depDist="2.933333333333333">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -13782,7 +13782,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.2"
              subdoc=""
              span="Plutarch Alcibiades: s-81"
-             depDist="4.739130434782608">
+             depDist="2.1818181818181817">
       <word id="1"
             form="ἔνιοι"
             lemma="ἔνιοι"
@@ -13949,7 +13949,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.2"
              subdoc=""
              span="Plutarch Alcibiades: s-82"
-             depDist="5.055555555555555">
+             depDist="2.7058823529411766">
       <word id="1"
             form="εἶτα"
             lemma="εἶτα"
@@ -14083,7 +14083,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.2"
              subdoc=""
              span="Plutarch Alcibiades: s-83"
-             depDist="3.8260869565217392">
+             depDist="2">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -14250,7 +14250,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.2"
              subdoc=""
              span="Plutarch Alcibiades: s-84"
-             depDist="7">
+             depDist="4.206896551724138">
       <word id="1"
             form="εὔτακτος"
             lemma="εὔτακτος"
@@ -14466,7 +14466,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.3"
              subdoc=""
              span="Plutarch Alcibiades: s-85"
-             depDist="6.071428571428571">
+             depDist="2.814814814814815">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -14670,7 +14670,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.4"
              subdoc=""
              span="Plutarch Alcibiades: s-86"
-             depDist="5.592592592592593">
+             depDist="3">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -14865,7 +14865,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.4"
              subdoc=""
              span="Plutarch Alcibiades: s-87"
-             depDist="4.368421052631579">
+             depDist="2.6666666666666665">
       <word id="1"
             form="ἔμεινε"
             lemma="μένω"
@@ -15004,7 +15004,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.5"
              subdoc=""
              span="Plutarch Alcibiades: s-88"
-             depDist="4">
+             depDist="2.75">
       <word id="1"
             form="αὕτη"
             lemma="οὗτος"
@@ -15101,7 +15101,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:8.5"
              subdoc=""
              span="Plutarch Alcibiades: s-89"
-             depDist="4.260869565217392">
+             depDist="2.5">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -15268,7 +15268,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:9.1"
              subdoc=""
              span="Plutarch Alcibiades: s-90"
-             depDist="6.173913043478261">
+             depDist="3.3181818181818183">
       <word id="1"
             form="ὄντος"
             lemma="εἰμί"
@@ -15435,7 +15435,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:9.1"
              subdoc=""
              span="Plutarch Alcibiades: s-91"
-             depDist="7.961538461538462">
+             depDist="3.24">
       <word id="1"
             form="ἐπιτιμώντων"
             lemma="ἐπιτιμάω"
@@ -15623,7 +15623,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:9.1"
              subdoc=""
              span="Plutarch Alcibiades: s-92"
-             depDist="3.857142857142857">
+             depDist="2.5384615384615383">
       <word id="1"
             form="βούλομαι"
             lemma="βούλομαι"
@@ -15727,7 +15727,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.1"
              subdoc=""
              span="Plutarch Alcibiades: s-93"
-             depDist="5.833333333333333">
+             depDist="3.085714285714286">
       <word id="1"
             form="πρώτην"
             lemma="πρῶτος"
@@ -15985,7 +15985,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.1"
              subdoc=""
              span="Plutarch Alcibiades: s-94"
-             depDist="4.55">
+             depDist="2.263157894736842">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -16133,7 +16133,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.1"
              subdoc=""
              span="Plutarch Alcibiades: s-95"
-             depDist="6.12">
+             depDist="3.2916666666666665">
       <word id="1"
             form="πτοηθέντος"
             lemma="πτοέω"
@@ -16316,7 +16316,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.1"
              subdoc=""
              span="Plutarch Alcibiades: s-96"
-             depDist="3.5714285714285716">
+             depDist="2">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -16373,7 +16373,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.2"
              subdoc=""
              span="Plutarch Alcibiades: s-97"
-             depDist="6.659090909090909">
+             depDist="3.9767441860465116">
       <word id="1"
             form="μεγάλας"
             lemma="μέγας"
@@ -16691,7 +16691,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.2"
              subdoc=""
              span="Plutarch Alcibiades: s-98"
-             depDist="4.90625">
+             depDist="2.774193548387097">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -16921,7 +16921,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:10.2"
              subdoc=""
              span="Plutarch Alcibiades: s-99"
-             depDist="9.863636363636363">
+             depDist="4.2153846153846155">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -17391,7 +17391,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:11.1"
              subdoc=""
              span="Plutarch Alcibiades: s-100"
-             depDist="3.4166666666666665">
+             depDist="2.090909090909091">
       <word id="1"
             form="αἱ"
             lemma="ὁ"
@@ -17481,7 +17481,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:11.1"
              subdoc=""
              span="Plutarch Alcibiades: s-101"
-             depDist="4.8">
+             depDist="2.9285714285714284">
       <word id="1"
             form="ἑπτὰ"
             lemma="ἑπτὰ"
@@ -17592,7 +17592,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:11.1"
              subdoc=""
              span="Plutarch Alcibiades: s-102"
-             depDist="7.733333333333333">
+             depDist="4.827586206896552">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -17810,7 +17810,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:11.2"
              subdoc=""
              span="Plutarch Alcibiades: s-103"
-             depDist="3.2222222222222223">
+             depDist="2.375">
       <word id="1"
             form="λέγει"
             lemma="λέγω3"
@@ -17879,7 +17879,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:11.2"
              subdoc=""
              span="Plutarch Alcibiades: s-104"
-             depDist="3.125">
+             depDist="1.4285714285714286">
       <word id="1"
             form="σὲ"
             lemma="σύ"
@@ -17941,7 +17941,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:11.2"
              subdoc=""
              span="Plutarch Alcibiades: s-105"
-             depDist="3.2">
+             depDist="1.75">
       <word id="1"
             form="καλὸν"
             lemma="καλός"
@@ -17984,7 +17984,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:11.2"
              subdoc=""
              span="Plutarch Alcibiades: s-106"
-             depDist="9.366666666666667">
+             depDist="6.103448275862069">
       <word id="1"
             form="κάλλιστον"
             lemma="καλός"
@@ -18204,7 +18204,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:12.1"
              subdoc=""
              span="Plutarch Alcibiades: s-107"
-             depDist="3.3636363636363638">
+             depDist="2">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος"
@@ -18287,7 +18287,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:12.1"
              subdoc=""
              span="Plutarch Alcibiades: s-108"
-             depDist="7.4375">
+             depDist="5.032258064516129">
       <word id="1"
             form="σκηνὴν"
             lemma="σκηνή"
@@ -18519,7 +18519,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:12.1"
              subdoc=""
              span="Plutarch Alcibiades: s-109"
-             depDist="4.176470588235294">
+             depDist="2.375">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -18644,7 +18644,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:12.1"
              subdoc=""
              span="Plutarch Alcibiades: s-110"
-             depDist="4.333333333333333">
+             depDist="2.4">
       <word id="1"
             form="λέγεται"
             lemma="λέγω3"
@@ -18797,7 +18797,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:12.2"
              subdoc=""
              span="Plutarch Alcibiades: s-111"
-             depDist="6.24">
+             depDist="3.5416666666666665">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -18978,7 +18978,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:12.2"
              subdoc=""
              span="Plutarch Alcibiades: s-112"
-             depDist="3.8">
+             depDist="2.1052631578947367">
       <word id="1"
             form="πριάμενος"
             lemma="πρίαμαι"
@@ -19124,7 +19124,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:12.3"
              subdoc=""
              span="Plutarch Alcibiades: s-113"
-             depDist="5.903225806451613">
+             depDist="2.9">
       <word id="1"
             form="φαίνεται"
             lemma="φαίνω"
@@ -19347,7 +19347,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.1"
              subdoc=""
              span="Plutarch Alcibiades: s-114"
-             depDist="8.647058823529411">
+             depDist="4.104477611940299">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -19831,7 +19831,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.2"
              subdoc=""
              span="Plutarch Alcibiades: s-115"
-             depDist="4.470588235294118">
+             depDist="3.5">
       <word id="1"
             form="ἐντευκτικὸς"
             lemma="ἐντευκτικός"
@@ -19962,7 +19962,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.2"
              subdoc=""
              span="Plutarch Alcibiades: s-116"
-             depDist="3.3846153846153846">
+             depDist="1.6666666666666667">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -20059,7 +20059,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.2"
              subdoc=""
              span="Plutarch Alcibiades: s-117"
-             depDist="4.325">
+             depDist="3.128205128205128">
       <word id="1"
             form="φέρεται"
             lemma="φέρω"
@@ -20347,7 +20347,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.2"
              subdoc=""
              span="Plutarch Alcibiades: s-118"
-             depDist="6.466666666666667">
+             depDist="4.931034482758621">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -20565,7 +20565,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.3"
              subdoc=""
              span="Plutarch Alcibiades: s-119"
-             depDist="6.7317073170731705">
+             depDist="3.6">
       <word id="1"
             form="ἄτρεπτος"
             lemma="ἄτρεπτος"
@@ -20858,7 +20858,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.4"
              subdoc=""
              span="Plutarch Alcibiades: s-120"
-             depDist="5.67741935483871">
+             depDist="3.5">
       <word id="1"
             form="ἀναπεισθεὶς"
             lemma="ἀναπείθω"
@@ -21083,7 +21083,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.4"
              subdoc=""
              span="Plutarch Alcibiades: s-121"
-             depDist="6.125">
+             depDist="3.5806451612903225">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -21313,7 +21313,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.4"
              subdoc=""
              span="Plutarch Alcibiades: s-122"
-             depDist="5.2">
+             depDist="3">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -21494,7 +21494,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.5"
              subdoc=""
              span="Plutarch Alcibiades: s-123"
-             depDist="5.388888888888889">
+             depDist="2.6285714285714286">
       <word id="1"
             form="φαῦλος"
             lemma="φαῦλος"
@@ -21752,7 +21752,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.5"
              subdoc=""
              span="Plutarch Alcibiades: s-124"
-             depDist="3.7142857142857144">
+             depDist="2.1666666666666665">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -21807,7 +21807,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:13.5"
              subdoc=""
              span="Plutarch Alcibiades: s-125"
-             depDist="4.363636363636363">
+             depDist="2.9">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -21890,7 +21890,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.1"
              subdoc=""
              span="Plutarch Alcibiades: s-126"
-             depDist="3.789473684210526">
+             depDist="2.5555555555555554">
       <word id="1"
             form="τὸν"
             lemma="ὁ"
@@ -22031,7 +22031,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.1"
              subdoc=""
              span="Plutarch Alcibiades: s-127"
-             depDist="5.388888888888889">
+             depDist="3.5294117647058822">
       <word id="1"
             form="πρόξενος"
             lemma="πρόξενος"
@@ -22163,7 +22163,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.2"
              subdoc=""
              span="Plutarch Alcibiades: s-128"
-             depDist="10.351851851851851">
+             depDist="6.226415094339623">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -22547,7 +22547,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.3"
              subdoc=""
              span="Plutarch Alcibiades: s-129"
-             depDist="5.8">
+             depDist="3.020408163265306">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -22903,7 +22903,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.4"
              subdoc=""
              span="Plutarch Alcibiades: s-130"
-             depDist="8.753846153846155">
+             depDist="4.828125">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -23366,7 +23366,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.5"
              subdoc=""
              span="Plutarch Alcibiades: s-131"
-             depDist="5.733333333333333">
+             depDist="3.0689655172413794">
       <word id="1"
             form="εἶτʼ"
             lemma="εἶτα"
@@ -23582,7 +23582,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.6"
              subdoc=""
              span="Plutarch Alcibiades: s-132"
-             depDist="5.484848484848484">
+             depDist="3.90625">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -23821,7 +23821,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.6"
              subdoc=""
              span="Plutarch Alcibiades: s-133"
-             depDist="5.08">
+             depDist="2.7916666666666665">
       <word id="1"
             form="ἀποδεξαμένης"
             lemma="ἀποδέχομαι"
@@ -24002,7 +24002,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.7"
              subdoc=""
              span="Plutarch Alcibiades: s-134"
-             depDist="3.2">
+             depDist="1.75">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -24043,7 +24043,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.7"
              subdoc=""
              span="Plutarch Alcibiades: s-135"
-             depDist="2.5">
+             depDist="0.8">
       <word id="1"
             form="τί"
             lemma="τις"
@@ -24091,7 +24091,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.7"
              subdoc=""
              span="Plutarch Alcibiades: s-136"
-             depDist="4.4">
+             depDist="2.7916666666666665">
       <word id="1"
             form="πῶς"
             lemma="πως"
@@ -24272,7 +24272,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.7"
              subdoc=""
              span="Plutarch Alcibiades: s-137"
-             depDist="4.333333333333333">
+             depDist="2">
       <word id="1"
             form="κ-"
             lemma="καί"
@@ -24362,7 +24362,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.7"
              subdoc=""
              span="Plutarch Alcibiades: s-138"
-             depDist="5.586206896551724">
+             depDist="2.9285714285714284">
       <word id="1"
             form="φέρε"
             lemma="φέρω"
@@ -24571,7 +24571,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.7"
              subdoc=""
              span="Plutarch Alcibiades: s-139"
-             depDist="2.5">
+             depDist="1.6">
       <word id="1"
             form="συμπράξομεν"
             lemma="συμπράσσω"
@@ -24619,7 +24619,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.8"
              subdoc=""
              span="Plutarch Alcibiades: s-140"
-             depDist="4.466666666666667">
+             depDist="2.1379310344827585">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -24835,7 +24835,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.8"
              subdoc=""
              span="Plutarch Alcibiades: s-141"
-             depDist="5.230769230769231">
+             depDist="3.0833333333333335">
       <word id="1"
             form="τῇ"
             lemma="ὁ"
@@ -24932,7 +24932,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.8"
              subdoc=""
              span="Plutarch Alcibiades: s-142"
-             depDist="5.823529411764706">
+             depDist="3.5">
       <word id="1"
             form="ἐρωτώμενοι"
             lemma="ἐρωτάω"
@@ -25057,7 +25057,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:14.9"
              subdoc=""
              span="Plutarch Alcibiades: s-143"
-             depDist="10.065573770491802">
+             depDist="5.15">
       <word id="1"
             form="εὐθὺς"
             lemma="εὐθύς2"
@@ -25492,7 +25492,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.1"
              subdoc=""
              span="Plutarch Alcibiades: s-144"
-             depDist="5.809523809523809">
+             depDist="3.85">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -25645,7 +25645,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.1"
              subdoc=""
              span="Plutarch Alcibiades: s-145"
-             depDist="7.7727272727272725">
+             depDist="3.1384615384615384">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -26113,7 +26113,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.2"
              subdoc=""
              span="Plutarch Alcibiades: s-146"
-             depDist="4.052631578947368">
+             depDist="2.888888888888889">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -26252,7 +26252,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.2"
              subdoc=""
              span="Plutarch Alcibiades: s-147"
-             depDist="2.857142857142857">
+             depDist="1.5">
       <word id="1"
             form="Λακεδαιμόνιοι"
             lemma="Λακεδαιμόνιος"
@@ -26307,7 +26307,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.2"
              subdoc=""
              span="Plutarch Alcibiades: s-148"
-             depDist="5.552631578947368">
+             depDist="3.2972972972972974">
       <word id="1"
             form="αὖθις"
             lemma="αὖθις"
@@ -26579,7 +26579,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.3"
              subdoc=""
              span="Plutarch Alcibiades: s-149"
-             depDist="4.32">
+             depDist="2.5833333333333335">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -26762,7 +26762,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.3"
              subdoc=""
              span="Plutarch Alcibiades: s-150"
-             depDist="3.076923076923077">
+             depDist="2.1666666666666665">
       <word id="1"
             form="ἔπεισε"
             lemma="πείθω"
@@ -26859,7 +26859,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.3"
              subdoc=""
              span="Plutarch Alcibiades: s-151"
-             depDist="7.121212121212121">
+             depDist="4.0625">
       <word id="1"
             form="εἰπόντος"
             lemma="εἶπον"
@@ -27100,7 +27100,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.4"
              subdoc=""
              span="Plutarch Alcibiades: s-152"
-             depDist="4.217391304347826">
+             depDist="2.5454545454545454">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -27267,7 +27267,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:15.4"
              subdoc=""
              span="Plutarch Alcibiades: s-153"
-             depDist="4.863636363636363">
+             depDist="2.4761904761904763">
       <word id="1"
             form="ὀμνύουσι"
             lemma="ὄμνυμι"
@@ -27427,7 +27427,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.1"
              subdoc=""
              span="Plutarch Alcibiades: s-154"
-             depDist="15.9009009009009">
+             depDist="8.045454545454545">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -28214,7 +28214,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.2"
              subdoc=""
              span="Plutarch Alcibiades: s-155"
-             depDist="5.473684210526316">
+             depDist="3.111111111111111">
       <word id="1"
             form="ποθεῖ"
             lemma="ποθέω"
@@ -28357,7 +28357,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.2"
              subdoc=""
              span="Plutarch Alcibiades: s-156"
-             depDist="4.444444444444445">
+             depDist="2.875">
       <word id="1"
             form="μάλιστα"
             lemma="μάλιστα"
@@ -28428,7 +28428,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.2"
              subdoc=""
              span="Plutarch Alcibiades: s-157"
-             depDist="4.4">
+             depDist="2.2222222222222223">
       <word id="1"
             form="ἢν"
             lemma="ἐάν"
@@ -28506,7 +28506,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.3"
              subdoc=""
              span="Plutarch Alcibiades: s-158"
-             depDist="7.018867924528302">
+             depDist="4.711538461538462">
       <word id="1"
             form="ἐπιδόσεις"
             lemma="ἐπίδοσις"
@@ -28883,7 +28883,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.4"
              subdoc=""
              span="Plutarch Alcibiades: s-159"
-             depDist="3.8125">
+             depDist="2.2666666666666666">
       <word id="1"
             form="οἷον"
             lemma="οἷος"
@@ -29001,7 +29001,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.4"
              subdoc=""
              span="Plutarch Alcibiades: s-160"
-             depDist="3.6">
+             depDist="1.8888888888888888">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -29079,7 +29079,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.4"
              subdoc=""
              span="Plutarch Alcibiades: s-161"
-             depDist="4.705882352941177">
+             depDist="3.0625">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -29208,7 +29208,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.5"
              subdoc=""
              span="Plutarch Alcibiades: s-162"
-             depDist="4.142857142857143">
+             depDist="1.9">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -29361,7 +29361,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.5"
              subdoc=""
              span="Plutarch Alcibiades: s-163"
-             depDist="5.352941176470588">
+             depDist="3">
       <word id="1"
             form="Ἀριστοφῶντος"
             lemma="Ἀριστοφῶν"
@@ -29486,7 +29486,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.5"
              subdoc=""
              span="Plutarch Alcibiades: s-164"
-             depDist="3.75">
+             depDist="2.5454545454545454">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -29578,7 +29578,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.5"
              subdoc=""
              span="Plutarch Alcibiades: s-165"
-             depDist="3">
+             depDist="2.0625">
       <word id="1"
             form="ἐδόκει"
             lemma="δοκέω"
@@ -29703,7 +29703,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.6"
              subdoc=""
              span="Plutarch Alcibiades: s-166"
-             depDist="11.073170731707316">
+             depDist="5.35">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -29998,7 +29998,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.6"
              subdoc=""
              span="Plutarch Alcibiades: s-167"
-             depDist="2.7142857142857144">
+             depDist="1.5">
       <word id="1"
             form="μέγα"
             lemma="μέγας"
@@ -30053,7 +30053,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.6"
              subdoc=""
              span="Plutarch Alcibiades: s-168"
-             depDist="5.125">
+             depDist="2.933333333333333">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -30171,7 +30171,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:16.6"
              subdoc=""
              span="Plutarch Alcibiades: s-169"
-             depDist="2.923076923076923">
+             depDist="1.8333333333333333">
       <word id="1"
             form="οὕτως"
             lemma="οὕτως"
@@ -30268,7 +30268,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:17.1"
              subdoc=""
              span="Plutarch Alcibiades: s-170"
-             depDist="5.419354838709677">
+             depDist="3.3666666666666667">
       <word id="1"
             form="Σικελίας"
             lemma="Σικελία"
@@ -30491,7 +30491,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:17.2"
              subdoc=""
              span="Plutarch Alcibiades: s-171"
-             depDist="8.13953488372093">
+             depDist="3.642857142857143">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -30798,7 +30798,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:17.2"
              subdoc=""
              span="Plutarch Alcibiades: s-172"
-             depDist="6.956521739130435">
+             depDist="3.8181818181818183">
       <word id="1"
             form="ἀρχὴν"
             lemma="ἀρχή"
@@ -30969,7 +30969,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:17.3"
              subdoc=""
              span="Plutarch Alcibiades: s-173"
-             depDist="7.3076923076923075">
+             depDist="4.315789473684211">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -31248,7 +31248,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:17.3"
              subdoc=""
              span="Plutarch Alcibiades: s-174"
-             depDist="5.27906976744186">
+             depDist="3.2857142857142856">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -31555,7 +31555,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:17.4"
              subdoc=""
              span="Plutarch Alcibiades: s-175"
-             depDist="9.923076923076923">
+             depDist="6.78125">
       <word id="1"
             form="Σωκράτη"
             lemma="Σωκράτης"
@@ -32022,7 +32022,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:17.5"
              subdoc=""
              span="Plutarch Alcibiades: s-176"
-             depDist="4.636363636363637">
+             depDist="2.78125">
       <word id="1"
             form="ἔνιοι"
             lemma="ἔνιοι"
@@ -32259,7 +32259,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:17.5"
              subdoc=""
              span="Plutarch Alcibiades: s-177"
-             depDist="3.4545454545454546">
+             depDist="1.6">
       <word id="1"
             form="ἐκεῖνος"
             lemma="ἐκεῖνος"
@@ -32342,7 +32342,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.1"
              subdoc=""
              span="Plutarch Alcibiades: s-178"
-             depDist="4.333333333333333">
+             depDist="2.7058823529411766">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -32474,7 +32474,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.1"
              subdoc=""
              span="Plutarch Alcibiades: s-179"
-             depDist="4.12">
+             depDist="2.5833333333333335">
       <word id="1"
             form="ἐφαίνετο"
             lemma="φαίνω"
@@ -32655,7 +32655,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.1"
              subdoc=""
              span="Plutarch Alcibiades: s-180"
-             depDist="3.727272727272727">
+             depDist="2.380952380952381">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -32815,7 +32815,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.2"
              subdoc=""
              span="Plutarch Alcibiades: s-181"
-             depDist="3.5294117647058822">
+             depDist="2.1875">
       <word id="1"
             form="βουλευομένων"
             lemma="βουλεύω"
@@ -32940,7 +32940,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.2"
              subdoc=""
              span="Plutarch Alcibiades: s-182"
-             depDist="3.7777777777777777">
+             depDist="2.1538461538461537">
       <word id="1"
             form="ἀντειπόντος"
             lemma="ἀντεῖπον"
@@ -33135,7 +33135,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.2"
              subdoc=""
              span="Plutarch Alcibiades: s-183"
-             depDist="4.761904761904762">
+             depDist="2.6">
       <word id="1"
             form="ἐπιψηφισαμένου"
             lemma="ἐπιψηφίζω"
@@ -33288,7 +33288,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.3"
              subdoc=""
              span="Plutarch Alcibiades: s-184"
-             depDist="7">
+             depDist="3.7916666666666665">
       <word id="1"
             form="Ἀδωνίων"
             lemma="Ἀδώνια"
@@ -33469,7 +33469,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.3"
              subdoc=""
              span="Plutarch Alcibiades: s-185"
-             depDist="6.2727272727272725">
+             depDist="3.5714285714285716">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -33629,7 +33629,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.3"
              subdoc=""
              span="Plutarch Alcibiades: s-186"
-             depDist="6.44">
+             depDist="4.25">
       <word id="1"
             form="ἐλέχθη"
             lemma="λέγω3"
@@ -33810,7 +33810,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.4"
              subdoc=""
              span="Plutarch Alcibiades: s-187"
-             depDist="3.9375">
+             depDist="2.3225806451612905">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -34040,7 +34040,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:18.4"
              subdoc=""
              span="Plutarch Alcibiades: s-188"
-             depDist="5.382352941176471">
+             depDist="3.484848484848485">
       <word id="1"
             form="ὀργῇ"
             lemma="ὀργή"
@@ -34284,7 +34284,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:19.1"
              subdoc=""
              span="Plutarch Alcibiades: s-189"
-             depDist="4.2592592592592595">
+             depDist="3.076923076923077">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -34479,7 +34479,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:19.1"
              subdoc=""
              span="Plutarch Alcibiades: s-190"
-             depDist="8.485714285714286">
+             depDist="6.294117647058823">
       <word id="1"
             form="ἔλεγον"
             lemma="λέγω3"
@@ -34734,7 +34734,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:19.2"
              subdoc=""
              span="Plutarch Alcibiades: s-191"
-             depDist="3.375">
+             depDist="2.1333333333333333">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -34852,7 +34852,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:19.2"
              subdoc=""
              span="Plutarch Alcibiades: s-192"
-             depDist="7.285714285714286">
+             depDist="4.088235294117647">
       <word id="1"
             form="τραχυνομένου"
             lemma="τραχύνω"
@@ -35103,7 +35103,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:19.3"
              subdoc=""
              span="Plutarch Alcibiades: s-193"
-             depDist="8.35064935064935">
+             depDist="3.8289473684210527">
       <word id="1"
             form="αἰσθόμενοι"
             lemma="αἰσθάνομαι"
@@ -35648,7 +35648,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:19.4"
              subdoc=""
              span="Plutarch Alcibiades: s-194"
-             depDist="6.627450980392157">
+             depDist="3.46">
       <word id="1"
             form="πρὸς"
             lemma="πρός"
@@ -36011,7 +36011,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:19.4"
              subdoc=""
              span="Plutarch Alcibiades: s-195"
-             depDist="4.611111111111111">
+             depDist="2.8823529411764706">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -36143,7 +36143,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:19.5"
              subdoc=""
              span="Plutarch Alcibiades: s-196"
-             depDist="4.586206896551724">
+             depDist="2.892857142857143">
       <word id="1"
             form="οὐκ"
             lemma="οὐ"
@@ -36352,7 +36352,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:19.5"
              subdoc=""
              span="Plutarch Alcibiades: s-197"
-             depDist="5.875">
+             depDist="3.782608695652174">
       <word id="1"
             form="ἀποθανεῖν"
             lemma="ἀποθνήσκω"
@@ -36530,7 +36530,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.1"
              subdoc=""
              span="Plutarch Alcibiades: s-198"
-             depDist="7.083333333333333">
+             depDist="3.574468085106383">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -36872,7 +36872,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.2"
              subdoc=""
              span="Plutarch Alcibiades: s-199"
-             depDist="3.9285714285714284">
+             depDist="2">
       <word id="1"
             form="προσβαλὼν"
             lemma="προσβάλλω"
@@ -36976,7 +36976,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.2"
              subdoc=""
              span="Plutarch Alcibiades: s-200"
-             depDist="5.551724137931035">
+             depDist="3.0714285714285716">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -37185,7 +37185,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.3"
              subdoc=""
              span="Plutarch Alcibiades: s-201"
-             depDist="5.9523809523809526">
+             depDist="3.85">
       <word id="1"
             form="πρῶτον"
             lemma="πρῶτος"
@@ -37338,7 +37338,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.3"
              subdoc=""
              span="Plutarch Alcibiades: s-202"
-             depDist="6.735849056603773">
+             depDist="3.3461538461538463">
       <word id="1"
             form="ἔπειτα"
             lemma="ἔπειτα"
@@ -37715,7 +37715,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.4"
              subdoc=""
              span="Plutarch Alcibiades: s-203"
-             depDist="4.9375">
+             depDist="3.2">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -37833,7 +37833,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.4"
              subdoc=""
              span="Plutarch Alcibiades: s-204"
-             depDist="4.84">
+             depDist="2.5">
       <word id="1"
             form="τοὺς"
             lemma="ὁ"
@@ -38014,7 +38014,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.4"
              subdoc=""
              span="Plutarch Alcibiades: s-205"
-             depDist="3.1904761904761907">
+             depDist="1.45">
       <word id="1"
             form="ὦ"
             lemma="ὦ"
@@ -38167,7 +38167,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.4"
              subdoc=""
              span="Plutarch Alcibiades: s-206"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="καί"
             lemma="καί"
@@ -38187,7 +38187,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.4"
              subdoc=""
              span="Plutarch Alcibiades: s-207"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="φυλάξομαι"
             lemma="φυλάσσω"
@@ -38207,7 +38207,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.4"
              subdoc=""
              span="Plutarch Alcibiades: s-208"
-             depDist="4.090909090909091">
+             depDist="2.3">
       <word id="1"
             form="Τεύκρῳ"
             lemma="Τεῦκρος"
@@ -38290,7 +38290,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.5"
              subdoc=""
              span="Plutarch Alcibiades: s-209"
-             depDist="3.888888888888889">
+             depDist="2.25">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι"
@@ -38359,7 +38359,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.5"
              subdoc=""
              span="Plutarch Alcibiades: s-210"
-             depDist="7.129032258064516">
+             depDist="4.033333333333333">
       <word id="1"
             form="εἷς"
             lemma="εἷς"
@@ -38584,7 +38584,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:20.5"
              subdoc=""
              span="Plutarch Alcibiades: s-211"
-             depDist="5.473684210526316">
+             depDist="2.5675675675675675">
       <word id="1"
             form="ὃ"
             lemma="ὅς"
@@ -38856,7 +38856,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.1"
              subdoc=""
              span="Plutarch Alcibiades: s-212"
-             depDist="5.083333333333333">
+             depDist="3.1739130434782608">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -39030,7 +39030,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.1"
              subdoc=""
              span="Plutarch Alcibiades: s-213"
-             depDist="7.090909090909091">
+             depDist="5.09375">
       <word id="1"
             form="ἐδόκει"
             lemma="δοκέω"
@@ -39269,7 +39269,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.2"
              subdoc=""
              span="Plutarch Alcibiades: s-214"
-             depDist="4.2727272727272725">
+             depDist="2.6">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -39352,7 +39352,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.2"
              subdoc=""
              span="Plutarch Alcibiades: s-215"
-             depDist="3.857142857142857">
+             depDist="2.076923076923077">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -39456,7 +39456,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.2"
              subdoc=""
              span="Plutarch Alcibiades: s-216"
-             depDist="6.375">
+             depDist="3.838709677419355">
       <word id="1"
             form="συνέβη"
             lemma="συμβαίνω"
@@ -39686,7 +39686,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.3"
              subdoc=""
              span="Plutarch Alcibiades: s-217"
-             depDist="3.1538461538461537">
+             depDist="2.1666666666666665">
       <word id="1"
             form="οὗτος"
             lemma="οὗτος"
@@ -39783,7 +39783,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.3"
              subdoc=""
              span="Plutarch Alcibiades: s-218"
-             depDist="6.75">
+             depDist="4.086956521739131">
       <word id="1"
             form="ὁμολογήσαντι"
             lemma="ὁμολογέω"
@@ -39963,7 +39963,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.3"
              subdoc=""
              span="Plutarch Alcibiades: s-219"
-             depDist="9.323529411764707">
+             depDist="6.03030303030303">
       <word id="1"
             form="βέλτιον"
             lemma="βελτίων"
@@ -40213,7 +40213,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.4"
              subdoc=""
              span="Plutarch Alcibiades: s-220"
-             depDist="4.269230769230769">
+             depDist="2.56">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -40401,7 +40401,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.4"
              subdoc=""
              span="Plutarch Alcibiades: s-221"
-             depDist="3.7777777777777777">
+             depDist="2.125">
       <word id="1"
             form="οὓς"
             lemma="ὅς"
@@ -40470,7 +40470,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.4"
              subdoc=""
              span="Plutarch Alcibiades: s-222"
-             depDist="2.9">
+             depDist="1.6666666666666667">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -40546,7 +40546,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.5"
              subdoc=""
              span="Plutarch Alcibiades: s-223"
-             depDist="5.903225806451613">
+             depDist="2.8360655737704916">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -40986,7 +40986,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.6"
              subdoc=""
              span="Plutarch Alcibiades: s-224"
-             depDist="3.8421052631578947">
+             depDist="2.3333333333333335">
       <word id="1"
             form="ἐφοβοῦντο"
             lemma="φοβέω"
@@ -41125,7 +41125,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.6"
              subdoc=""
              span="Plutarch Alcibiades: s-225"
-             depDist="4.6923076923076925">
+             depDist="2.52">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -41313,7 +41313,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.6"
              subdoc=""
              span="Plutarch Alcibiades: s-226"
-             depDist="4.578947368421052">
+             depDist="2.6666666666666665">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -41452,7 +41452,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.1"
              subdoc=""
              span="Plutarch Alcibiades: s-227"
-             depDist="3.7">
+             depDist="2.2222222222222223">
       <word id="1"
             form="εὐθὺς"
             lemma="εὐθύς2"
@@ -41528,7 +41528,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.1"
              subdoc=""
              span="Plutarch Alcibiades: s-228"
-             depDist="3.8095238095238093">
+             depDist="2.5">
       <word id="1"
             form="ἦσαν"
             lemma="εἰμί"
@@ -41681,7 +41681,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.1"
              subdoc=""
              span="Plutarch Alcibiades: s-229"
-             depDist="3.8666666666666667">
+             depDist="2.2857142857142856">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -41792,7 +41792,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.2"
              subdoc=""
              span="Plutarch Alcibiades: s-230"
-             depDist="8.416666666666666">
+             depDist="3.347826086956522">
       <word id="1"
             form="ἐπιγνόντος"
             lemma="ἐπιγιγνώσκω"
@@ -41968,7 +41968,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.2"
              subdoc=""
              span="Plutarch Alcibiades: s-231"
-             depDist="7.2727272727272725">
+             depDist="5.0476190476190474">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -42130,7 +42130,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.2"
              subdoc=""
              span="Plutarch Alcibiades: s-232"
-             depDist="6.1">
+             depDist="2.6315789473684212">
       <word id="1"
             form="ὕστερον"
             lemma="ὕστερος"
@@ -42276,7 +42276,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.3"
              subdoc=""
              span="Plutarch Alcibiades: s-233"
-             depDist="4.125">
+             depDist="2.5714285714285716">
       <word id="1"
             form="τὴν"
             lemma="ὁ"
@@ -42338,7 +42338,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.3"
              subdoc=""
              span="Plutarch Alcibiades: s-234"
-             depDist="9.588235294117647">
+             depDist="5.666666666666667">
       <word id="1"
             form="Θεσσαλὸς"
             lemma="Θεσσαλός"
@@ -42943,7 +42943,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:22.4"
              subdoc=""
              span="Plutarch Alcibiades: s-235"
-             depDist="4.777777777777778">
+             depDist="2.3142857142857145">
       <word id="1"
             form="ἐρήμην"
             lemma="ἐρῆμος"
@@ -43201,7 +43201,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.1"
              subdoc=""
              span="Plutarch Alcibiades: s-236"
-             depDist="6.150943396226415">
+             depDist="3.25">
       <word id="1"
             form="τοσούτων"
             lemma="τοσοῦτος"
@@ -43578,7 +43578,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.2"
              subdoc=""
              span="Plutarch Alcibiades: s-237"
-             depDist="4.515151515151516">
+             depDist="2.5625">
       <word id="1"
             form="δόντων"
             lemma="δίδωμι"
@@ -43815,7 +43815,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.2"
              subdoc=""
              span="Plutarch Alcibiades: s-238"
-             depDist="5.666666666666667">
+             depDist="3.8181818181818183">
       <word id="1"
             form="ἕτερον"
             lemma="ἕτερος"
@@ -43907,7 +43907,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.2"
              subdoc=""
              span="Plutarch Alcibiades: s-239"
-             depDist="6.157894736842105">
+             depDist="3.611111111111111">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -44048,7 +44048,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.3"
              subdoc=""
              span="Plutarch Alcibiades: s-240"
-             depDist="5.547169811320755">
+             depDist="3.4038461538461537">
       <word id="1"
             form="εὐδοκιμῶν"
             lemma="εὐδοκιμέω"
@@ -44425,7 +44425,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.4"
              subdoc=""
              span="Plutarch Alcibiades: s-241"
-             depDist="5.242424242424242">
+             depDist="3.21875">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -44662,7 +44662,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.4"
              subdoc=""
              span="Plutarch Alcibiades: s-242"
-             depDist="5.882352941176471">
+             depDist="3.9375">
       <word id="1"
             form="πλὴν"
             lemma="πλὴν"
@@ -44789,7 +44789,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.4"
              subdoc=""
              span="Plutarch Alcibiades: s-243"
-             depDist="18.122448979591837">
+             depDist="12.494845360824742">
       <word id="1"
             form="Ἀλκιβιάδῃ"
             lemma="Ἀλκιβιάδης"
@@ -45489,7 +45489,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.6"
              subdoc=""
              span="Plutarch Alcibiades: s-244"
-             depDist="4.3">
+             depDist="2.7777777777777777">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -45565,7 +45565,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.6"
              subdoc=""
              span="Plutarch Alcibiades: s-245"
-             depDist="4.142857142857143">
+             depDist="1.7692307692307692">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -45669,7 +45669,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.6"
              subdoc=""
              span="Plutarch Alcibiades: s-246"
-             depDist="3.272727272727273">
+             depDist="1.9">
       <word id="1"
             form="τοῖς"
             lemma="ὁ"
@@ -45752,7 +45752,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.6"
              subdoc=""
              span="Plutarch Alcibiades: s-247"
-             depDist="2.4">
+             depDist="1.5">
       <word id="1"
             form="ἔστιν"
             lemma="εἰμί"
@@ -45793,7 +45793,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.7"
              subdoc=""
              span="Plutarch Alcibiades: s-248"
-             depDist="5.708333333333333">
+             depDist="3.4680851063829787">
       <word id="1"
             form="Τιμαίαν"
             lemma="Τιμαία"
@@ -46135,7 +46135,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.7"
              subdoc=""
              span="Plutarch Alcibiades: s-249"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="τοσοῦτος"
             lemma="τοσοῦτος"
@@ -46183,7 +46183,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.7"
              subdoc=""
              span="Plutarch Alcibiades: s-250"
-             depDist="3.8260869565217392">
+             depDist="2.1363636363636362">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -46350,7 +46350,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.8"
              subdoc=""
              span="Plutarch Alcibiades: s-251"
-             depDist="2.888888888888889">
+             depDist="1.5">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -46419,7 +46419,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.8"
              subdoc=""
              span="Plutarch Alcibiades: s-252"
-             depDist="4.8">
+             depDist="2.5">
       <word id="1"
             form="ἐπίστευσε"
             lemma="πιστεύω"
@@ -46670,7 +46670,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:23.8"
              subdoc=""
              span="Plutarch Alcibiades: s-253"
-             depDist="3.3">
+             depDist="1.8888888888888888">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -46746,7 +46746,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.1"
              subdoc=""
              span="Plutarch Alcibiades: s-254"
-             depDist="4.6">
+             depDist="3.3157894736842106">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -46892,7 +46892,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.1"
              subdoc=""
              span="Plutarch Alcibiades: s-255"
-             depDist="6.578947368421052">
+             depDist="4.333333333333333">
       <word id="1"
             form="πραττόντων"
             lemma="πράσσω"
@@ -47033,7 +47033,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.1"
              subdoc=""
              span="Plutarch Alcibiades: s-256"
-             depDist="5.142857142857143">
+             depDist="3.3">
       <word id="1"
             form="ἐκπλεύσας"
             lemma="ἐκπλέω"
@@ -47186,7 +47186,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.2"
              subdoc=""
              span="Plutarch Alcibiades: s-257"
-             depDist="6.315789473684211">
+             depDist="4.055555555555555">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -47325,7 +47325,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.2"
              subdoc=""
              span="Plutarch Alcibiades: s-258"
-             depDist="4">
+             depDist="2.3">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -47408,7 +47408,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.2"
              subdoc=""
              span="Plutarch Alcibiades: s-259"
-             depDist="3.8666666666666667">
+             depDist="2.2142857142857144">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -47519,7 +47519,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.2"
              subdoc=""
              span="Plutarch Alcibiades: s-260"
-             depDist="2.5714285714285716">
+             depDist="1.4615384615384615">
       <word id="1"
             form="ἴσχυσαν"
             lemma="ἰσχύω"
@@ -47623,7 +47623,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.3"
              subdoc=""
              span="Plutarch Alcibiades: s-261"
-             depDist="7.926829268292683">
+             depDist="4.25">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -47916,7 +47916,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.4"
              subdoc=""
              span="Plutarch Alcibiades: s-262"
-             depDist="7">
+             depDist="3.9047619047619047">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -48076,7 +48076,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.4"
              subdoc=""
              span="Plutarch Alcibiades: s-263"
-             depDist="7.054054054054054">
+             depDist="5.166666666666667">
       <word id="1"
             form="ταῖς"
             lemma="ὁ"
@@ -48343,7 +48343,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.5"
              subdoc=""
              span="Plutarch Alcibiades: s-264"
-             depDist="4.782608695652174">
+             depDist="2.772727272727273">
       <word id="1"
             form="τἆλλʼ"
             lemma="ἄλλος"
@@ -48510,7 +48510,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.5"
              subdoc=""
              span="Plutarch Alcibiades: s-265"
-             depDist="6.423076923076923">
+             depDist="3.24">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -48698,7 +48698,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:24.5"
              subdoc=""
              span="Plutarch Alcibiades: s-266"
-             depDist="4.25">
+             depDist="2.7142857142857144">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -48760,7 +48760,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.1"
              subdoc=""
              span="Plutarch Alcibiades: s-267"
-             depDist="7.96078431372549">
+             depDist="5.18">
       <word id="1"
             form="ἀπογνοὺς"
             lemma="ἀπογιγνώσκω"
@@ -49125,7 +49125,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.2"
              subdoc=""
              span="Plutarch Alcibiades: s-268"
-             depDist="5.4375">
+             depDist="3.106382978723404">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -49467,7 +49467,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.3"
              subdoc=""
              span="Plutarch Alcibiades: s-269"
-             depDist="5.538461538461538">
+             depDist="3.9166666666666665">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -49564,7 +49564,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.3"
              subdoc=""
              span="Plutarch Alcibiades: s-270"
-             depDist="5.96078431372549">
+             depDist="3.18">
       <word id="1"
             form="κ-"
             lemma="καί"
@@ -49927,7 +49927,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.4"
              subdoc=""
              span="Plutarch Alcibiades: s-271"
-             depDist="6.327272727272727">
+             depDist="3.5185185185185186">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -50320,7 +50320,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.5"
              subdoc=""
              span="Plutarch Alcibiades: s-272"
-             depDist="3.4444444444444446">
+             depDist="2">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -50389,7 +50389,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.5"
              subdoc=""
              span="Plutarch Alcibiades: s-273"
-             depDist="10.232558139534884">
+             depDist="5.880952380952381">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -50700,7 +50700,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.5"
              subdoc=""
              span="Plutarch Alcibiades: s-274"
-             depDist="5.1">
+             depDist="2.6551724137931036">
       <word id="1"
             form="κρατούμενος"
             lemma="κρατέω"
@@ -50916,7 +50916,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.6"
              subdoc=""
              span="Plutarch Alcibiades: s-275"
-             depDist="2.857142857142857">
+             depDist="2">
       <word id="1"
             form="ἐλελήθει"
             lemma="λανθάνω"
@@ -50971,7 +50971,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.6"
              subdoc=""
              span="Plutarch Alcibiades: s-276"
-             depDist="5.739130434782608">
+             depDist="3.1363636363636362">
       <word id="1"
             form="τὸν"
             lemma="ὁ"
@@ -51138,7 +51138,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.6"
              subdoc=""
              span="Plutarch Alcibiades: s-277"
-             depDist="3.75">
+             depDist="2.3636363636363638">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -51228,7 +51228,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.6"
              subdoc=""
              span="Plutarch Alcibiades: s-278"
-             depDist="4.739130434782608">
+             depDist="2.727272727272727">
       <word id="1"
             form="ἀγανακτούντων"
             lemma="ἀγανακτέω"
@@ -51395,7 +51395,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.7"
              subdoc=""
              span="Plutarch Alcibiades: s-279"
-             depDist="4.538461538461538">
+             depDist="2.76">
       <word id="1"
             form="αὖθις"
             lemma="αὖθις"
@@ -51583,7 +51583,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.7"
              subdoc=""
              span="Plutarch Alcibiades: s-280"
-             depDist="3.466666666666667">
+             depDist="2.4285714285714284">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -51694,7 +51694,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.7"
              subdoc=""
              span="Plutarch Alcibiades: s-281"
-             depDist="2.8333333333333335">
+             depDist="1.6363636363636365">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -51784,7 +51784,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.8"
              subdoc=""
              span="Plutarch Alcibiades: s-282"
-             depDist="6.088235294117647">
+             depDist="3.4545454545454546">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -52028,7 +52028,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.9"
              subdoc=""
              span="Plutarch Alcibiades: s-283"
-             depDist="5.844444444444444">
+             depDist="3.5454545454545454">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -52349,7 +52349,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:25.10"
              subdoc=""
              span="Plutarch Alcibiades: s-284"
-             depDist="6.944444444444445">
+             depDist="4.142857142857143">
       <word id="1"
             form="ὕστερον"
             lemma="ὕστερος"
@@ -52607,7 +52607,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.1"
              subdoc=""
              span="Plutarch Alcibiades: s-285"
-             depDist="5.175">
+             depDist="3.3076923076923075">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -52893,7 +52893,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.1"
              subdoc=""
              span="Plutarch Alcibiades: s-286"
-             depDist="4">
+             depDist="2.9166666666666665">
       <word id="1"
             form="αὕτη"
             lemma="οὗτος"
@@ -52992,7 +52992,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.2"
              subdoc=""
              span="Plutarch Alcibiades: s-287"
-             depDist="6.52">
+             depDist="3.3877551020408165">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -53348,7 +53348,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.3"
              subdoc=""
              span="Plutarch Alcibiades: s-288"
-             depDist="5.153846153846154">
+             depDist="3.5">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -53445,7 +53445,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.3"
              subdoc=""
              span="Plutarch Alcibiades: s-289"
-             depDist="2.5454545454545454">
+             depDist="1.4">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -53528,7 +53528,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.3"
              subdoc=""
              span="Plutarch Alcibiades: s-290"
-             depDist="4.482758620689655">
+             depDist="2.5">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -53737,7 +53737,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.4"
              subdoc=""
              span="Plutarch Alcibiades: s-291"
-             depDist="10.121212121212121">
+             depDist="5.661538461538462">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -54205,7 +54205,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.5"
              subdoc=""
              span="Plutarch Alcibiades: s-292"
-             depDist="9.256410256410257">
+             depDist="6.157894736842105">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -54490,7 +54490,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.5"
              subdoc=""
              span="Plutarch Alcibiades: s-293"
-             depDist="5.620689655172414">
+             depDist="2.75">
       <word id="1"
             form="ὃν"
             lemma="ὅς"
@@ -54699,7 +54699,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.6"
              subdoc=""
              span="Plutarch Alcibiades: s-294"
-             depDist="3.0833333333333335">
+             depDist="2.1818181818181817">
       <word id="1"
             form="συνέπραττε"
             lemma="συμπράσσω"
@@ -54789,7 +54789,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.6"
              subdoc=""
              span="Plutarch Alcibiades: s-295"
-             depDist="3.4444444444444446">
+             depDist="1.5">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -54858,7 +54858,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.6"
              subdoc=""
              span="Plutarch Alcibiades: s-296"
-             depDist="9.837837837837839">
+             depDist="6.194444444444445">
       <word id="1"
             form="ἐκεῖνό"
             lemma="ἐκεῖνος"
@@ -55125,7 +55125,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.7"
              subdoc=""
              span="Plutarch Alcibiades: s-297"
-             depDist="7.1875">
+             depDist="3.978723404255319">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -55469,7 +55469,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:26.7"
              subdoc=""
              span="Plutarch Alcibiades: s-298"
-             depDist="3.1052631578947367">
+             depDist="2.0555555555555554">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -55608,7 +55608,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.1"
              subdoc=""
              span="Plutarch Alcibiades: s-299"
-             depDist="3.5294117647058822">
+             depDist="2.0625">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -55733,7 +55733,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.1"
              subdoc=""
              span="Plutarch Alcibiades: s-300"
-             depDist="5.689655172413793">
+             depDist="2.857142857142857">
       <word id="1"
             form="βουλομένων"
             lemma="βούλομαι"
@@ -55942,7 +55942,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.1"
              subdoc=""
              span="Plutarch Alcibiades: s-301"
-             depDist="4.285714285714286">
+             depDist="2.923076923076923">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -56046,7 +56046,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.2"
              subdoc=""
              span="Plutarch Alcibiades: s-302"
-             depDist="5.818181818181818">
+             depDist="3.380952380952381">
       <word id="1"
             form="ἐκεῖ"
             lemma="ἐκεῖ"
@@ -56206,7 +56206,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.2"
              subdoc=""
              span="Plutarch Alcibiades: s-303"
-             depDist="6.225">
+             depDist="4.102564102564102">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -56492,7 +56492,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.3"
              subdoc=""
              span="Plutarch Alcibiades: s-304"
-             depDist="4.842105263157895">
+             depDist="2.7222222222222223">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -56631,7 +56631,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.3"
              subdoc=""
              span="Plutarch Alcibiades: s-305"
-             depDist="3.611111111111111">
+             depDist="2.235294117647059">
       <word id="1"
             form="ταχὺ"
             lemma="ταχύς"
@@ -56763,7 +56763,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.3"
              subdoc=""
              span="Plutarch Alcibiades: s-306"
-             depDist="4.2727272727272725">
+             depDist="2.34375">
       <word id="1"
             form="τρεψάμενος"
             lemma="τρέπω"
@@ -57000,7 +57000,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.3"
              subdoc=""
              span="Plutarch Alcibiades: s-307"
-             depDist="6.375">
+             depDist="3.3333333333333335">
       <word id="1"
             form="τέλος"
             lemma="τέλος"
@@ -57118,7 +57118,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.4"
              subdoc=""
              span="Plutarch Alcibiades: s-308"
-             depDist="5.4">
+             depDist="2.875">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -57299,7 +57299,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:27.5"
              subdoc=""
              span="Plutarch Alcibiades: s-309"
-             depDist="6.043478260869565">
+             depDist="3.3333333333333335">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -57627,7 +57627,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.1"
              subdoc=""
              span="Plutarch Alcibiades: s-310"
-             depDist="5.294117647058823">
+             depDist="3.5625">
       <word id="1"
             form="τριάκοντα"
             lemma="τριάκοντα"
@@ -57752,7 +57752,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.1"
              subdoc=""
              span="Plutarch Alcibiades: s-311"
-             depDist="6.72">
+             depDist="4.163265306122449">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -58110,7 +58110,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.2"
              subdoc=""
              span="Plutarch Alcibiades: s-312"
-             depDist="3.7777777777777777">
+             depDist="2.125">
       <word id="1"
             form="χρήματα"
             lemma="χρῆμα"
@@ -58181,7 +58181,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.2"
              subdoc=""
              span="Plutarch Alcibiades: s-313"
-             depDist="4.37037037037037">
+             depDist="2.5">
       <word id="1"
             form="πληρώσας"
             lemma="πληρόω"
@@ -58376,7 +58376,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.3"
              subdoc=""
              span="Plutarch Alcibiades: s-314"
-             depDist="3.235294117647059">
+             depDist="2.3125">
       <word id="1"
             form="ἔτυχε"
             lemma="τυγχάνω"
@@ -58501,7 +58501,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.3"
              subdoc=""
              span="Plutarch Alcibiades: s-315"
-             depDist="4.176470588235294">
+             depDist="2.4375">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -58626,7 +58626,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.3"
              subdoc=""
              span="Plutarch Alcibiades: s-316"
-             depDist="3.5">
+             depDist="2.210526315789474">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -58772,7 +58772,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.4"
              subdoc=""
              span="Plutarch Alcibiades: s-317"
-             depDist="7.147058823529412">
+             depDist="4.424242424242424">
       <word id="1"
             form="δείσας"
             lemma="δείδω"
@@ -59016,7 +59016,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.4"
              subdoc=""
              span="Plutarch Alcibiades: s-318"
-             depDist="6.3076923076923075">
+             depDist="3.68">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -59204,7 +59204,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.5"
              subdoc=""
              span="Plutarch Alcibiades: s-319"
-             depDist="6.041666666666667">
+             depDist="3.739130434782609">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -59378,7 +59378,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.5"
              subdoc=""
              span="Plutarch Alcibiades: s-320"
-             depDist="5.631578947368421">
+             depDist="2.8333333333333335">
       <word id="1"
             form="Μινδάρου"
             lemma="Μίνδαρος"
@@ -59517,7 +59517,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.6"
              subdoc=""
              span="Plutarch Alcibiades: s-321"
-             depDist="6.5227272727272725">
+             depDist="3.2093023255813953">
       <word id="1"
             form="πολλῶν"
             lemma="πολύς"
@@ -59831,7 +59831,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.6"
              subdoc=""
              span="Plutarch Alcibiades: s-322"
-             depDist="2.75">
+             depDist="1.8181818181818181">
       <word id="1"
             form="ἑάλω"
             lemma="ἁλίσκομαι"
@@ -59921,7 +59921,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.6"
              subdoc=""
              span="Plutarch Alcibiades: s-323"
-             depDist="2">
+             depDist="1">
       <word id="1"
             form="ἔρρει"
             lemma="ἔρρω"
@@ -59955,7 +59955,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.6"
              subdoc=""
              span="Plutarch Alcibiades: s-324"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="Μίνδαρος"
             lemma="Μίνδαρος"
@@ -59982,7 +59982,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.6"
              subdoc=""
              span="Plutarch Alcibiades: s-325"
-             depDist="2">
+             depDist="1">
       <word id="1"
             form="πεινῶντι"
             lemma="πεινάω"
@@ -60016,7 +60016,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:28.6"
              subdoc=""
              span="Plutarch Alcibiades: s-326"
-             depDist="2.2">
+             depDist="1.25">
       <word id="1"
             form="ἀπορίομες"
             lemma="ἀπορέω"
@@ -60057,7 +60057,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:29.1"
              subdoc=""
              span="Plutarch Alcibiades: s-327"
-             depDist="4">
+             depDist="2.739130434782609">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -60231,7 +60231,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:29.1"
              subdoc=""
              span="Plutarch Alcibiades: s-328"
-             depDist="3.608695652173913">
+             depDist="2.4545454545454546">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -60398,7 +60398,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:29.2"
              subdoc=""
              span="Plutarch Alcibiades: s-329"
-             depDist="4.806451612903226">
+             depDist="2.8333333333333335">
       <word id="1"
             form="ταῦτʼ"
             lemma="οὗτος"
@@ -60621,7 +60621,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:29.2"
              subdoc=""
              span="Plutarch Alcibiades: s-330"
-             depDist="6.488372093023256">
+             depDist="3.738095238095238">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -60928,7 +60928,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:29.3"
              subdoc=""
              span="Plutarch Alcibiades: s-331"
-             depDist="3.3846153846153846">
+             depDist="2.0833333333333335">
       <word id="1"
             form="τῇ"
             lemma="ὁ"
@@ -61025,7 +61025,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:29.3"
              subdoc=""
              span="Plutarch Alcibiades: s-332"
-             depDist="3.8333333333333335">
+             depDist="1.7272727272727273">
       <word id="1"
             form="ἱερεῖς"
             lemma="ἱερεύς"
@@ -61115,7 +61115,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:29.3"
              subdoc=""
              span="Plutarch Alcibiades: s-333"
-             depDist="7.069767441860465">
+             depDist="3.5238095238095237">
       <word id="1"
             form="Χαλκηδονίοις"
             lemma="Χαλκηδόνιος"
@@ -61422,7 +61422,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:29.3"
              subdoc=""
              span="Plutarch Alcibiades: s-334"
-             depDist="4.583333333333333">
+             depDist="3.090909090909091">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -61512,7 +61512,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.1"
              subdoc=""
              span="Plutarch Alcibiades: s-335"
-             depDist="5.757575757575758">
+             depDist="3.53125">
       <word id="1"
             form="ἀποτειχιζομένης"
             lemma="ἀποτειχίζω"
@@ -61749,7 +61749,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.1"
              subdoc=""
              span="Plutarch Alcibiades: s-336"
-             depDist="5.785714285714286">
+             depDist="3.259259259259259">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -61951,7 +61951,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.2"
              subdoc=""
              span="Plutarch Alcibiades: s-337"
-             depDist="4.611111111111111">
+             depDist="2.588235294117647">
       <word id="1"
             form="εἶτʼ"
             lemma="εἶτα"
@@ -62083,7 +62083,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.2"
              subdoc=""
              span="Plutarch Alcibiades: s-338"
-             depDist="5.714285714285714">
+             depDist="3.074074074074074">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -62285,7 +62285,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.2"
              subdoc=""
              span="Plutarch Alcibiades: s-339"
-             depDist="5.75">
+             depDist="3.185185185185185">
       <word id="1"
             form="ἀρθέντος"
             lemma="ἀραρίσκω"
@@ -62487,7 +62487,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.3"
              subdoc=""
              span="Plutarch Alcibiades: s-340"
-             depDist="4.695652173913044">
+             depDist="3.227272727272727">
       <word id="1"
             form="ἀνοιχθείσης"
             lemma="ἀνοίγνυμι"
@@ -62654,7 +62654,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.3"
              subdoc=""
              span="Plutarch Alcibiades: s-341"
-             depDist="7.571428571428571">
+             depDist="4.2682926829268295">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -62954,7 +62954,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.4"
              subdoc=""
              span="Plutarch Alcibiades: s-342"
-             depDist="5.714285714285714">
+             depDist="3.074074074074074">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος"
@@ -63156,7 +63156,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.4"
              subdoc=""
              span="Plutarch Alcibiades: s-343"
-             depDist="5.9393939393939394">
+             depDist="2.625">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -63393,7 +63393,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.5"
              subdoc=""
              span="Plutarch Alcibiades: s-344"
-             depDist="3.3076923076923075">
+             depDist="2.0833333333333335">
       <word id="1"
             form="ἦσαν"
             lemma="εἰμί"
@@ -63490,7 +63490,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:30.5"
              subdoc=""
              span="Plutarch Alcibiades: s-345"
-             depDist="5.478260869565218">
+             depDist="2.909090909090909">
       <word id="1"
             form="ἀπέπεμψεν"
             lemma="ἀποπέμπω"
@@ -63657,7 +63657,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.1"
              subdoc=""
              span="Plutarch Alcibiades: s-346"
-             depDist="6.205128205128205">
+             depDist="3.8421052631578947">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -63936,7 +63936,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.2"
              subdoc=""
              span="Plutarch Alcibiades: s-347"
-             depDist="6.041666666666667">
+             depDist="3.9130434782608696">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -64112,7 +64112,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.2"
              subdoc=""
              span="Plutarch Alcibiades: s-348"
-             depDist="3.923076923076923">
+             depDist="2.4166666666666665">
       <word id="1"
             form="γενομένων"
             lemma="γίγνομαι"
@@ -64209,7 +64209,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.2"
              subdoc=""
              span="Plutarch Alcibiades: s-349"
-             depDist="8.01086956521739">
+             depDist="3.6923076923076925">
       <word id="1"
             form="Ἀναξιλάου"
             lemma="Ἀναξίλαος"
@@ -64859,7 +64859,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.4"
              subdoc=""
              span="Plutarch Alcibiades: s-350"
-             depDist="3">
+             depDist="1.5">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -64900,7 +64900,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.4"
              subdoc=""
              span="Plutarch Alcibiades: s-351"
-             depDist="5.972222222222222">
+             depDist="3.6857142857142855">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -65158,7 +65158,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.4"
              subdoc=""
              span="Plutarch Alcibiades: s-352"
-             depDist="6.607142857142857">
+             depDist="4.2592592592592595">
       <word id="1"
             form="καρτερᾶς"
             lemma="καρτερός"
@@ -65364,7 +65364,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.5"
              subdoc=""
              span="Plutarch Alcibiades: s-353"
-             depDist="4.1">
+             depDist="2.5555555555555554">
       <word id="1"
             form="Βυζαντίων"
             lemma="Βυζάντιος"
@@ -65440,7 +65440,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.5"
              subdoc=""
              span="Plutarch Alcibiades: s-354"
-             depDist="4.705882352941177">
+             depDist="2.625">
       <word id="1"
             form="ἐπὶ"
             lemma="ἐπί"
@@ -65565,7 +65565,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.5"
              subdoc=""
              span="Plutarch Alcibiades: s-355"
-             depDist="4.117647058823529">
+             depDist="2.6875">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -65690,7 +65690,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.5"
              subdoc=""
              span="Plutarch Alcibiades: s-356"
-             depDist="10.037974683544304">
+             depDist="4.3076923076923075">
       <word id="1"
             form="ἔφη"
             lemma="φημί"
@@ -66249,7 +66249,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:31.6"
              subdoc=""
              span="Plutarch Alcibiades: s-357"
-             depDist="3.8333333333333335">
+             depDist="2.3636363636363638">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -66339,7 +66339,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:32.1"
              subdoc=""
              span="Plutarch Alcibiades: s-358"
-             depDist="7.365384615384615">
+             depDist="3.4705882352941178">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -66709,7 +66709,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:32.1"
              subdoc=""
              span="Plutarch Alcibiades: s-359"
-             depDist="2.7142857142857144">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ἦσαν"
             lemma="εἰμί"
@@ -66764,7 +66764,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:32.2"
              subdoc=""
              span="Plutarch Alcibiades: s-360"
-             depDist="10.842105263157896">
+             depDist="4.743362831858407">
       <word id="1"
             form="ἃ"
             lemma="ὅς"
@@ -67568,7 +67568,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:32.4"
              subdoc=""
              span="Plutarch Alcibiades: s-361"
-             depDist="9.30232558139535">
+             depDist="4.595238095238095">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -67875,7 +67875,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:32.4"
              subdoc=""
              span="Plutarch Alcibiades: s-362"
-             depDist="8.21505376344086">
+             depDist="3.4456521739130435">
       <word id="1"
             form="πολὺ"
             lemma="πολύς"
@@ -68532,7 +68532,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:33.1"
              subdoc=""
              span="Plutarch Alcibiades: s-363"
-             depDist="5.241379310344827">
+             depDist="2.5357142857142856">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -68741,7 +68741,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:33.1"
              subdoc=""
              span="Plutarch Alcibiades: s-364"
-             depDist="4.947368421052632">
+             depDist="2.4444444444444446">
       <word id="1"
             form="γνώμη"
             lemma="γνώμη"
@@ -68880,7 +68880,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:33.1"
              subdoc=""
              span="Plutarch Alcibiades: s-365"
-             depDist="4.125">
+             depDist="2.5714285714285716">
       <word id="1"
             form="σφραγὶς"
             lemma="σφραγίς"
@@ -68942,7 +68942,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:33.2"
              subdoc=""
              span="Plutarch Alcibiades: s-366"
-             depDist="11.083333333333334">
+             depDist="6.28169014084507">
       <word id="1"
             form="τότε"
             lemma="τότε"
@@ -69452,7 +69452,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:33.3"
              subdoc=""
              span="Plutarch Alcibiades: s-367"
-             depDist="3.8636363636363638">
+             depDist="1.8571428571428572">
       <word id="1"
             form="ἐψηφίσαντο"
             lemma="ψηφίζω"
@@ -69612,7 +69612,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:33.3"
              subdoc=""
              span="Plutarch Alcibiades: s-368"
-             depDist="6">
+             depDist="2.7083333333333335">
       <word id="1"
             form="ἀφοσιουμένων"
             lemma="ἀφοσιόω"
@@ -69793,7 +69793,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.1"
              subdoc=""
              span="Plutarch Alcibiades: s-369"
-             depDist="3.642857142857143">
+             depDist="2.3076923076923075">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -69897,7 +69897,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.1"
              subdoc=""
              span="Plutarch Alcibiades: s-370"
-             depDist="3.5454545454545454">
+             depDist="1.7">
       <word id="1"
             form="ᾗ"
             lemma="ὅς"
@@ -69980,7 +69980,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.1"
              subdoc=""
              span="Plutarch Alcibiades: s-371"
-             depDist="4.157894736842105">
+             depDist="2.7222222222222223">
       <word id="1"
             form="δρῶσι"
             lemma="δράω"
@@ -70119,7 +70119,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.1"
              subdoc=""
              span="Plutarch Alcibiades: s-372"
-             depDist="5.076923076923077">
+             depDist="3.4166666666666665">
       <word id="1"
             form="ὅθεν"
             lemma="ὅθεν"
@@ -70216,7 +70216,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.2"
              subdoc=""
              span="Plutarch Alcibiades: s-373"
-             depDist="3.25">
+             depDist="2">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -70334,7 +70334,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.2"
              subdoc=""
              span="Plutarch Alcibiades: s-374"
-             depDist="5.586206896551724">
+             depDist="2.8214285714285716">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -70543,7 +70543,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.3"
              subdoc=""
              span="Plutarch Alcibiades: s-375"
-             depDist="7.391304347826087">
+             depDist="3.3555555555555556">
       <word id="1"
             form="ἀφʼ"
             lemma="ἀπό"
@@ -70871,7 +70871,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.4"
              subdoc=""
              span="Plutarch Alcibiades: s-376"
-             depDist="4.333333333333333">
+             depDist="2.6551724137931036">
       <word id="1"
             form="καλὸν"
             lemma="καλός"
@@ -71087,7 +71087,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.4"
              subdoc=""
              span="Plutarch Alcibiades: s-377"
-             depDist="6.694444444444445">
+             depDist="3.8285714285714287">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -71347,7 +71347,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.5"
              subdoc=""
              span="Plutarch Alcibiades: s-378"
-             depDist="6.745762711864407">
+             depDist="3.2758620689655173">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -71766,7 +71766,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:34.6"
              subdoc=""
              span="Plutarch Alcibiades: s-379"
-             depDist="7.2025316455696204">
+             depDist="3.871794871794872">
       <word id="1"
             form="μηδενὸς"
             lemma="μηδείς"
@@ -72327,7 +72327,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.1"
              subdoc=""
              span="Plutarch Alcibiades: s-380"
-             depDist="4.846153846153846">
+             depDist="3.1666666666666665">
       <word id="1"
             form="αὐτὸς"
             lemma="αὐτός"
@@ -72424,7 +72424,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.1"
              subdoc=""
              span="Plutarch Alcibiades: s-381"
-             depDist="3.909090909090909">
+             depDist="2.142857142857143">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -72584,7 +72584,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.1"
              subdoc=""
              span="Plutarch Alcibiades: s-382"
-             depDist="6.083333333333333">
+             depDist="3.057142857142857">
       <word id="1"
             form="ἐκπλεύσας"
             lemma="ἐκπλέω"
@@ -72842,7 +72842,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.1"
              subdoc=""
              span="Plutarch Alcibiades: s-383"
-             depDist="5.125">
+             depDist="3.7333333333333334">
       <word id="1"
             form="ἔοικε"
             lemma="ἔοικα"
@@ -72962,7 +72962,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.2"
              subdoc=""
              span="Plutarch Alcibiades: s-384"
-             depDist="7.888888888888889">
+             depDist="4.230769230769231">
       <word id="1"
             form="μεγάλη"
             lemma="μέγας"
@@ -73157,7 +73157,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.2"
              subdoc=""
              span="Plutarch Alcibiades: s-385"
-             depDist="3.5714285714285716">
+             depDist="2">
       <word id="1"
             form="σπουδάσαντα"
             lemma="σπουδάζω"
@@ -73214,7 +73214,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.2"
              subdoc=""
              span="Plutarch Alcibiades: s-386"
-             depDist="3.090909090909091">
+             depDist="2.2">
       <word id="1"
             form="ἤλπιζον"
             lemma="ἐλπίζω"
@@ -73297,7 +73297,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.3"
              subdoc=""
              span="Plutarch Alcibiades: s-387"
-             depDist="5.25">
+             depDist="2.9743589743589745">
       <word id="1"
             form="ὅθεν"
             lemma="ὅθεν"
@@ -73583,7 +73583,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.3"
              subdoc=""
              span="Plutarch Alcibiades: s-388"
-             depDist="4.363636363636363">
+             depDist="2.9">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -73666,7 +73666,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.4"
              subdoc=""
              span="Plutarch Alcibiades: s-389"
-             depDist="6.485714285714286">
+             depDist="3.7941176470588234">
       <word id="1"
             form="Λυσάνδρου"
             lemma="Λύσανδρος"
@@ -73917,7 +73917,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.4"
              subdoc=""
              span="Plutarch Alcibiades: s-390"
-             depDist="4.95">
+             depDist="2.8947368421052633">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -74063,7 +74063,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.5"
              subdoc=""
              span="Plutarch Alcibiades: s-391"
-             depDist="7.340425531914893">
+             depDist="5.869565217391305">
       <word id="1"
             form="ἔχων"
             lemma="ἔχω"
@@ -74400,7 +74400,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.6"
              subdoc=""
              span="Plutarch Alcibiades: s-392"
-             depDist="5.323529411764706">
+             depDist="3.727272727272727">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -74644,7 +74644,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.6"
              subdoc=""
              span="Plutarch Alcibiades: s-393"
-             depDist="5.105263157894737">
+             depDist="2.9444444444444446">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -74783,7 +74783,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:35.6"
              subdoc=""
              span="Plutarch Alcibiades: s-394"
-             depDist="3.25">
+             depDist="1.8571428571428572">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -74845,7 +74845,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:36.1"
              subdoc=""
              span="Plutarch Alcibiades: s-395"
-             depDist="4.444444444444445">
+             depDist="2.823529411764706">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -74977,7 +74977,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:36.1"
              subdoc=""
              span="Plutarch Alcibiades: s-396"
-             depDist="5.224137931034483">
+             depDist="2.3508771929824563">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -75389,7 +75389,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:36.2"
              subdoc=""
              span="Plutarch Alcibiades: s-397"
-             depDist="3.892857142857143">
+             depDist="2.6296296296296298">
       <word id="1"
             form="ἐνεκάλουν"
             lemma="ἐγκαλέω"
@@ -75591,7 +75591,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:36.3"
              subdoc=""
              span="Plutarch Alcibiades: s-398"
-             depDist="3.75">
+             depDist="2">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -75709,7 +75709,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:36.3"
              subdoc=""
              span="Plutarch Alcibiades: s-399"
-             depDist="8.428571428571429">
+             depDist="5.2682926829268295">
       <word id="1"
             form="ἃ"
             lemma="ὅς"
@@ -76009,7 +76009,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:36.4"
              subdoc=""
              span="Plutarch Alcibiades: s-400"
-             depDist="11.324324324324325">
+             depDist="4.254545454545455">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -76792,7 +76792,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.1"
              subdoc=""
              span="Plutarch Alcibiades: s-401"
-             depDist="5.315789473684211">
+             depDist="2.5555555555555554">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -76931,7 +76931,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.1"
              subdoc=""
              span="Plutarch Alcibiades: s-402"
-             depDist="4.9411764705882355">
+             depDist="2.625">
       <word id="1"
             form="Τυδεὺς"
             lemma="Τυδεύς"
@@ -77058,7 +77058,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.1"
              subdoc=""
              span="Plutarch Alcibiades: s-403"
-             depDist="4.475">
+             depDist="2.9743589743589745">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -77344,7 +77344,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.2"
              subdoc=""
              span="Plutarch Alcibiades: s-404"
-             depDist="6.25">
+             depDist="4.555555555555555">
       <word id="1"
             form="ἐδόκει"
             lemma="δοκέω"
@@ -77548,7 +77548,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.2"
              subdoc=""
              span="Plutarch Alcibiades: s-405"
-             depDist="5.714285714285714">
+             depDist="3.3846153846153846">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι2"
@@ -77652,7 +77652,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.2"
              subdoc=""
              span="Plutarch Alcibiades: s-406"
-             depDist="5.6">
+             depDist="3">
       <word id="1"
             form="ἄφνω"
             lemma="ἄφνω"
@@ -77833,7 +77833,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.3"
              subdoc=""
              span="Plutarch Alcibiades: s-407"
-             depDist="3.3">
+             depDist="1.7777777777777777">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -77909,7 +77909,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.3"
              subdoc=""
              span="Plutarch Alcibiades: s-408"
-             depDist="4.647058823529412">
+             depDist="3.125">
       <word id="1"
             form="ἔλαβε"
             lemma="λαμβάνω"
@@ -78034,7 +78034,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.3"
              subdoc=""
              span="Plutarch Alcibiades: s-409"
-             depDist="7.027777777777778">
+             depDist="3.7714285714285714">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -78292,7 +78292,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.4"
              subdoc=""
              span="Plutarch Alcibiades: s-410"
-             depDist="6.184210526315789">
+             depDist="3">
       <word id="1"
             form="ἐν"
             lemma="ἐν"
@@ -78566,7 +78566,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.4"
              subdoc=""
              span="Plutarch Alcibiades: s-411"
-             depDist="8.576923076923077">
+             depDist="6.36">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -78760,7 +78760,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:37.4"
              subdoc=""
              span="Plutarch Alcibiades: s-412"
-             depDist="5.583333333333333">
+             depDist="2.782608695652174">
       <word id="1"
             form="εὐπορίαν"
             lemma="εὐπορία"
@@ -78934,7 +78934,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:38.1"
              subdoc=""
              span="Plutarch Alcibiades: s-413"
-             depDist="3.4">
+             depDist="2.111111111111111">
       <word id="1"
             form="Ἀθηναῖοι"
             lemma="Ἀθηναῖος"
@@ -79010,7 +79010,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:38.1"
              subdoc=""
              span="Plutarch Alcibiades: s-414"
-             depDist="7.872340425531915">
+             depDist="3.5652173913043477">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -79345,7 +79345,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:38.2"
              subdoc=""
              span="Plutarch Alcibiades: s-415"
-             depDist="5.28">
+             depDist="3.3333333333333335">
       <word id="1"
             form="ἀπερρίφη"
             lemma="ἀπορρίπτω"
@@ -79526,7 +79526,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:38.2"
              subdoc=""
              span="Plutarch Alcibiades: s-416"
-             depDist="3.857142857142857">
+             depDist="2.6">
       <word id="1"
             form="ἔτι"
             lemma="ἔτι"
@@ -79679,7 +79679,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:38.2"
              subdoc=""
              span="Plutarch Alcibiades: s-417"
-             depDist="6.483870967741935">
+             depDist="3.5">
       <word id="1"
             form="οὔ"
             lemma="οὐ"
@@ -79902,7 +79902,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:38.3"
              subdoc=""
              span="Plutarch Alcibiades: s-418"
-             depDist="3.7142857142857144">
+             depDist="2.2962962962962963">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -80104,7 +80104,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:38.3"
              subdoc=""
              span="Plutarch Alcibiades: s-419"
-             depDist="2.9375">
+             depDist="1.8">
       <word id="1"
             form="τέλος"
             lemma="τέλος"
@@ -80222,7 +80222,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:38.3"
              subdoc=""
              span="Plutarch Alcibiades: s-420"
-             depDist="5.909090909090909">
+             depDist="3.6666666666666665">
       <word id="1"
             form="Ἀθηναίους"
             lemma="Ἀθήναιος"
@@ -80382,7 +80382,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:38.4"
              subdoc=""
              span="Plutarch Alcibiades: s-421"
-             depDist="5.2631578947368425">
+             depDist="2.810810810810811">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -80654,7 +80654,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.1"
              subdoc=""
              span="Plutarch Alcibiades: s-422"
-             depDist="9.641509433962264">
+             depDist="5.576923076923077">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -81031,7 +81031,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.2"
              subdoc=""
              span="Plutarch Alcibiades: s-423"
-             depDist="4.392857142857143">
+             depDist="3.185185185185185">
       <word id="1"
             form="ἐδόκει"
             lemma="δοκέω"
@@ -81235,7 +81235,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.2"
              subdoc=""
              span="Plutarch Alcibiades: s-424"
-             depDist="3.75">
+             depDist="2.736842105263158">
       <word id="1"
             form="ἕτεροι"
             lemma="ἕτερος"
@@ -81381,7 +81381,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.2"
              subdoc=""
              span="Plutarch Alcibiades: s-425"
-             depDist="3.75">
+             depDist="2.272727272727273">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -81471,7 +81471,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.2"
              subdoc=""
              span="Plutarch Alcibiades: s-426"
-             depDist="4.375">
+             depDist="2.3333333333333335">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -81589,7 +81589,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.3"
              subdoc=""
              span="Plutarch Alcibiades: s-427"
-             depDist="6.625">
+             depDist="3.5319148936170213">
       <word id="1"
             form="αἰσθόμενος"
             lemma="αἰσθάνομαι"
@@ -81931,7 +81931,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.3"
              subdoc=""
              span="Plutarch Alcibiades: s-428"
-             depDist="4.25">
+             depDist="2.2">
       <word id="1"
             form="οὐδεὶς"
             lemma="οὐδείς"
@@ -82049,7 +82049,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.4"
              subdoc=""
              span="Plutarch Alcibiades: s-429"
-             depDist="5.741935483870968">
+             depDist="2.8">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -82272,7 +82272,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.4"
              subdoc=""
              span="Plutarch Alcibiades: s-430"
-             depDist="4.8">
+             depDist="2.473684210526316">
       <word id="1"
             form="ταύτης"
             lemma="οὗτος"
@@ -82418,7 +82418,7 @@
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:39.5"
              subdoc=""
              span="Plutarch Alcibiades: s-431"
-             depDist="9.555555555555555">
+             depDist="4">
       <word id="1"
             form="ἔνιοι"
             lemma="ἔνιοι"

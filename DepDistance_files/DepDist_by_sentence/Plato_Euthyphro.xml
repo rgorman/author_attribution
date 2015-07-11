@@ -16,7 +16,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-1"
-             depDist="3.75">
+             depDist="2.5652173913043477">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -190,7 +190,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-2"
-             depDist="4.411764705882353">
+             depDist="3.0625">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -317,7 +317,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-3"
-             depDist="4.642857142857143">
+             depDist="3.076923076923077">
       <word id="1"
             form="οὔτοι"
             lemma="οὔτοι1"
@@ -421,7 +421,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-4"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -448,7 +448,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-5"
-             depDist="4.666666666666667">
+             depDist="3.125">
       <word id="1"
             form="γραφὴν"
             lemma="γραφή1"
@@ -517,7 +517,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-6"
-             depDist="3.5454545454545454">
+             depDist="2.4">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -602,7 +602,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-7"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -645,7 +645,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-8"
-             depDist="3">
+             depDist="1.25">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -688,7 +688,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-9"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -724,7 +724,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-10"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="τίς"
             lemma="τίς1"
@@ -760,7 +760,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-11"
-             depDist="3.95">
+             depDist="2.473684210526316">
       <word id="1"
             form="οὐδ᾽"
             lemma="οὐ1"
@@ -906,7 +906,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-12"
-             depDist="3.111111111111111">
+             depDist="2.25">
       <word id="1"
             form="ὀνομάζουσι"
             lemma="ὀνομάζω1"
@@ -975,7 +975,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-13"
-             depDist="3.409090909090909">
+             depDist="2.4761904761904763">
       <word id="1"
             form="ἔστι"
             lemma="εἰμί1"
@@ -1135,7 +1135,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-14"
-             depDist="2.5">
+             depDist="1.4">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -1183,7 +1183,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-15"
-             depDist="3.142857142857143">
+             depDist="1.3333333333333333">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -1238,7 +1238,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-16"
-             depDist="2.25">
+             depDist="1">
       <word id="1"
             form="ἥντινα"
             lemma="ὅστις1"
@@ -1276,7 +1276,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-17"
-             depDist="3.625">
+             depDist="1.4285714285714286">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -1342,7 +1342,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-18"
-             depDist="4.181818181818182">
+             depDist="2.5">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -1425,7 +1425,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-19"
-             depDist="3.789473684210526">
+             depDist="2.611111111111111">
       <word id="1"
             form="ἐκεῖνος"
             lemma="ἐκεῖνος1"
@@ -1566,7 +1566,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-20"
-             depDist="3.857142857142857">
+             depDist="2.962962962962963">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -1770,7 +1770,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-21"
-             depDist="2.3333333333333335">
+             depDist="1.125">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -1839,7 +1839,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-22"
-             depDist="4.612903225806452">
+             depDist="3.7">
       <word id="1"
             form="ὀρθῶς"
             lemma="ὀρθός1"
@@ -2066,7 +2066,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-23"
-             depDist="4.157894736842105">
+             depDist="2.7777777777777777">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -2205,7 +2205,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-24"
-             depDist="7.586206896551724">
+             depDist="5.892857142857143">
       <word id="1"
             form="ἔπειτα"
             lemma="ἔπειτα1"
@@ -2418,7 +2418,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-25"
-             depDist="3.0833333333333335">
+             depDist="1.6363636363636365">
       <word id="1"
             form="βουλοίμην"
             lemma="βούλομαι1"
@@ -2508,7 +2508,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-26"
-             depDist="3.066666666666667">
+             depDist="1.9285714285714286">
       <word id="1"
             form="ἀτεχνῶς"
             lemma="ἄτεχνος1"
@@ -2619,7 +2619,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-27"
-             depDist="3.1538461538461537">
+             depDist="2">
       <word id="1"
             form="καί"
             lemma="καί1"
@@ -2716,7 +2716,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-28"
-             depDist="4.818181818181818">
+             depDist="3.2">
       <word id="1"
             form="ἄτοπα"
             lemma="ἄτοπος1"
@@ -2801,7 +2801,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-29"
-             depDist="4.12">
+             depDist="2.9166666666666665">
       <word id="1"
             form="φησὶ"
             lemma="φημί1"
@@ -2982,7 +2982,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-30"
-             depDist="2.4">
+             depDist="1.5">
       <word id="1"
             form="μανθάνω"
             lemma="μανθάνω1"
@@ -3023,7 +3023,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-31"
-             depDist="5.363636363636363">
+             depDist="3.8">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι1"
@@ -3108,7 +3108,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-32"
-             depDist="4.032258064516129">
+             depDist="2.7333333333333334">
       <word id="1"
             form="ὡς"
             lemma="ὡς1"
@@ -3333,7 +3333,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-33"
-             depDist="7.083333333333333">
+             depDist="5.391304347826087">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -3507,7 +3507,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-34"
-             depDist="6.611111111111111">
+             depDist="5.411764705882353">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι1"
@@ -3641,7 +3641,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-35"
-             depDist="2.9">
+             depDist="1.5555555555555556">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -3717,7 +3717,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-36"
-             depDist="4.3076923076923075">
+             depDist="2.1666666666666665">
       <word id="1"
             form="ὦ"
             lemma="ὦ1"
@@ -3816,7 +3816,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-37"
-             depDist="4.166666666666667">
+             depDist="2.8260869565217392">
       <word id="1"
             form="Ἀθηναίοις"
             lemma="Ἀθηναῖος1"
@@ -3990,7 +3990,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-38"
-             depDist="4.826086956521739">
+             depDist="3.5454545454545454">
       <word id="1"
             form="ὃν"
             lemma="ὅς1"
@@ -4157,7 +4157,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-39"
-             depDist="4.5">
+             depDist="2.8461538461538463">
       <word id="1"
             form="τούτου"
             lemma="οὗτος1"
@@ -4261,7 +4261,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-40"
-             depDist="3.3125">
+             depDist="2.1333333333333333">
       <word id="1"
             form="ἴσως"
             lemma="ἴσως1"
@@ -4379,7 +4379,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-41"
-             depDist="3.193548387096774">
+             depDist="2.1666666666666665">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -4602,7 +4602,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-42"
-             depDist="7">
+             depDist="5.571428571428571">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -4813,7 +4813,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-43"
-             depDist="6.4">
+             depDist="4.785714285714286">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -4926,7 +4926,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-44"
-             depDist="4.592592592592593">
+             depDist="3.730769230769231">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -5123,7 +5123,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-45"
-             depDist="3.5">
+             depDist="2.6363636363636362">
       <word id="1"
             form="ἔστιν"
             lemma="εἰμί1"
@@ -5213,7 +5213,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-46"
-             depDist="2.4">
+             depDist="1">
       <word id="1"
             form="φεύγεις"
             lemma="φεύγω1"
@@ -5254,7 +5254,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-47"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="διώκω"
             lemma="διώκω1"
@@ -5274,7 +5274,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-48"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="τίνα"
             lemma="τίς"
@@ -5303,7 +5303,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-49"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="ὃν"
             lemma="ὅς1"
@@ -5351,7 +5351,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-50"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -5387,7 +5387,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-51"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="πετόμενόν"
             lemma="πέτομαι1"
@@ -5421,7 +5421,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-52"
-             depDist="2.8461538461538463">
+             depDist="1.75">
       <word id="1"
             form="πολλοῦ"
             lemma="πολύς1"
@@ -5518,7 +5518,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-53"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="τίς"
             lemma="τίς1"
@@ -5554,7 +5554,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-54"
-             depDist="2.8">
+             depDist="1.25">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -5597,7 +5597,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-55"
-             depDist="3.4285714285714284">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -5654,7 +5654,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-56"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -5697,7 +5697,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-57"
-             depDist="3.6363636363636362">
+             depDist="2.8">
       <word id="1"
             form="ἔστιν"
             lemma="εἰμί1"
@@ -5782,7 +5782,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-58"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="φόνου"
             lemma="φόνος1"
@@ -5832,7 +5832,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-59"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="Ἡράκλεις"
             lemma="Ἡρακλέης1"
@@ -5852,7 +5852,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-60"
-             depDist="3.7333333333333334">
+             depDist="2.4285714285714284">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -5963,7 +5963,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-61"
-             depDist="5.176470588235294">
+             depDist="4.3125">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -6090,7 +6090,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-62"
-             depDist="4.8">
+             depDist="3.3333333333333335">
       <word id="1"
             form="πόρρω"
             lemma="πρόσω1"
@@ -6170,7 +6170,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-63"
-             depDist="3">
+             depDist="2.0833333333333335">
       <word id="1"
             form="ἔστιν"
             lemma="εἰμί1"
@@ -6267,7 +6267,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-64"
-             depDist="3">
+             depDist="1.25">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -6310,7 +6310,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-65"
-             depDist="4.818181818181818">
+             depDist="3.4">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -6393,7 +6393,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-66"
-             depDist="12.442622950819672">
+             depDist="10.95">
       <word id="1"
             form="γελοῖον"
             lemma="γέλοιος1"
@@ -6838,7 +6838,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-67"
-             depDist="3.3333333333333335">
+             depDist="2.2">
       <word id="1"
             form="ἴσον"
             lemma="ἴσος1"
@@ -6991,7 +6991,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-68"
-             depDist="3.5238095238095237">
+             depDist="2.6">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -7144,7 +7144,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-69"
-             depDist="4.166666666666667">
+             depDist="2.5454545454545454">
       <word id="1"
             form="παροινήσας"
             lemma="παροινέω1"
@@ -7234,7 +7234,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-70"
-             depDist="4.653846153846154">
+             depDist="3.12">
       <word id="1"
             form="ὁ"
             lemma="ὁ1"
@@ -7422,7 +7422,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-71"
-             depDist="3.5">
+             depDist="2.52">
       <word id="1"
             form="ἐν"
             lemma="ἐν1"
@@ -7610,7 +7610,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-72"
-             depDist="4.294117647058823">
+             depDist="2.9375">
       <word id="1"
             form="ὑπὸ"
             lemma="ὑπό1"
@@ -7735,7 +7735,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-73"
-             depDist="7.103896103896104">
+             depDist="6.144736842105263">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος1"
@@ -8284,7 +8284,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-74"
-             depDist="4.4375">
+             depDist="3.25531914893617">
       <word id="1"
             form="σὺ"
             lemma="σύ1"
@@ -8626,7 +8626,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-75"
-             depDist="4">
+             depDist="2.6923076923076925">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς1"
@@ -8821,7 +8821,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-76"
-             depDist="6.632183908045977">
+             depDist="5.5813953488372094">
       <word id="1"
             form="ἆρ᾽"
             lemma="ἆρα1"
@@ -9436,7 +9436,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-77"
-             depDist="8.238095238095237">
+             depDist="7.274193548387097">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -9889,7 +9889,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-78"
-             depDist="5.825">
+             depDist="4.358974358974359">
       <word id="1"
             form="ναὶ"
             lemma="ναί1"
@@ -10177,7 +10177,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-79"
-             depDist="4.511627906976744">
+             depDist="3.2857142857142856">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -10484,7 +10484,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-80"
-             depDist="3.3793103448275863">
+             depDist="2.2857142857142856">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -10693,7 +10693,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-81"
-             depDist="6.8604651162790695">
+             depDist="6.023809523809524">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -11004,7 +11004,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-82"
-             depDist="4.142857142857143">
+             depDist="2.6666666666666665">
       <word id="1"
             form="πάντως"
             lemma="πάντως1"
@@ -11061,7 +11061,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-83"
-             depDist="3.2142857142857144">
+             depDist="2.3846153846153846">
       <word id="1"
             form="λέγε"
             lemma="λέγω3"
@@ -11167,7 +11167,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-84"
-             depDist="6.521739130434782">
+             depDist="5.644444444444445">
       <word id="1"
             form="λέγω"
             lemma="λέγω3"
@@ -11497,7 +11497,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-85"
-             depDist="4.2439024390243905">
+             depDist="3.175">
       <word id="1"
             form="ἐπεί"
             lemma="ἐπεί1"
@@ -11790,7 +11790,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-86"
-             depDist="4.125">
+             depDist="2.8205128205128207">
       <word id="1"
             form="αὐτοὶ"
             lemma="αὐτός1"
@@ -12076,7 +12076,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-87"
-             depDist="3.75">
+             depDist="2.782608695652174">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ1"
@@ -12250,7 +12250,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-88"
-             depDist="4.607142857142857">
+             depDist="3.4444444444444446">
       <word id="1"
             form="ἆρά"
             lemma="ἆρα1"
@@ -12452,7 +12452,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-89"
-             depDist="3.727272727272727">
+             depDist="2.3">
       <word id="1"
             form="διὸ"
             lemma="διό1"
@@ -12535,7 +12535,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-90"
-             depDist="5.291666666666667">
+             depDist="3.8260869565217392">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -12709,7 +12709,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-91"
-             depDist="3.6">
+             depDist="2.5">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -12820,7 +12820,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-92"
-             depDist="2.9285714285714284">
+             depDist="2">
       <word id="1"
             form="ἀλλά"
             lemma="ἀλλά1"
@@ -12924,7 +12924,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-93"
-             depDist="4.875">
+             depDist="3.066666666666667">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -13044,7 +13044,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-94"
-             depDist="4.868852459016393">
+             depDist="3.85">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -13477,7 +13477,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-95"
-             depDist="3">
+             depDist="1.8571428571428572">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος1"
@@ -13539,7 +13539,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-96"
-             depDist="6.314285714285714">
+             depDist="5.264705882352941">
       <word id="1"
             form="μὴ"
             lemma="μή1"
@@ -13792,7 +13792,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-97"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -13826,7 +13826,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-98"
-             depDist="4.6">
+             depDist="2.888888888888889">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -13902,7 +13902,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-99"
-             depDist="4">
+             depDist="2.5555555555555554">
       <word id="1"
             form="νυνὶ"
             lemma="νυνί1"
@@ -13978,7 +13978,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-100"
-             depDist="4.277777777777778">
+             depDist="2.8285714285714287">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -14236,7 +14236,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-101"
-             depDist="2.75">
+             depDist="1.2857142857142858">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -14298,7 +14298,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-102"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἴσως"
             lemma="ἴσος1"
@@ -14327,7 +14327,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-103"
-             depDist="3.6923076923076925">
+             depDist="2">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -14424,7 +14424,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-104"
-             depDist="2.25">
+             depDist="0.3333333333333333">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -14458,7 +14458,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-105"
-             depDist="3.7333333333333334">
+             depDist="2.793103448275862">
       <word id="1"
             form="μέμνησαι"
             lemma="μιμνήσκω1"
@@ -14674,7 +14674,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-106"
-             depDist="3.5625">
+             depDist="2.7333333333333334">
       <word id="1"
             form="ἔφησθα"
             lemma="φημί1"
@@ -14794,7 +14794,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-107"
-             depDist="2.25">
+             depDist="0.3333333333333333">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -14828,7 +14828,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-108"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔγωγε"
             lemma="ἐγώ1"
@@ -14857,7 +14857,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-109"
-             depDist="5.479166666666667">
+             depDist="4.51063829787234">
       <word id="1"
             form="ταύτην"
             lemma="οὗτος1"
@@ -15203,7 +15203,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-110"
-             depDist="4">
+             depDist="2.1666666666666665">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -15300,7 +15300,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-111"
-             depDist="2.2">
+             depDist="0.5">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -15341,7 +15341,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-112"
-             depDist="5.4375">
+             depDist="4.066666666666666">
       <word id="1"
             form="ἔστι"
             lemma="εἰμί1"
@@ -15461,7 +15461,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-113"
-             depDist="5.294117647058823">
+             depDist="3.5">
       <word id="1"
             form="παγκάλως"
             lemma="πάγκαλος1"
@@ -15588,7 +15588,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-114"
-             depDist="4.95">
+             depDist="3.736842105263158">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -15736,7 +15736,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-115"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -15779,7 +15779,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-116"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="φέρε"
             lemma="φέρω1"
@@ -15834,7 +15834,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-117"
-             depDist="5.2631578947368425">
+             depDist="4">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -15977,7 +15977,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-118"
-             depDist="3.5">
+             depDist="2.3846153846153846">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -16081,7 +16081,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-119"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="οὐχ"
             lemma="οὐ1"
@@ -16117,7 +16117,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-120"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως1"
@@ -16160,7 +16160,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-121"
-             depDist="2.6666666666666665">
+             depDist="1">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -16208,7 +16208,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-122"
-             depDist="2.4">
+             depDist="1.5">
       <word id="1"
             form="δοκῶ"
             lemma="δοκέω1"
@@ -16249,7 +16249,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-123"
-             depDist="1.6666666666666667">
+             depDist="0.5">
       <word id="1"
             form="εἴρηται"
             lemma="εἴρω2"
@@ -16276,7 +16276,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-124"
-             depDist="6.6923076923076925">
+             depDist="4.88">
       <word id="1"
             form="γ"
             lemma="γε1"
@@ -16464,7 +16464,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-125"
-             depDist="1.6666666666666667">
+             depDist="0.5">
       <word id="1"
             form="εἴρηται"
             lemma="ἐρῶ1"
@@ -16491,7 +16491,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-126"
-             depDist="4.857142857142857">
+             depDist="3.1538461538461537">
       <word id="1"
             form="ἔχθραν"
             lemma="ἔχθρα1"
@@ -16595,7 +16595,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-127"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="ὧδε"
             lemma="ὧδε1"
@@ -16629,7 +16629,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-128"
-             depDist="8.263157894736842">
+             depDist="6.783783783783784">
       <word id="1"
             form="ἆρ᾽"
             lemma="ἆρα1"
@@ -16903,7 +16903,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-129"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -16939,7 +16939,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-130"
-             depDist="4.65">
+             depDist="3">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν1"
@@ -17085,7 +17085,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-131"
-             depDist="1.6666666666666667">
+             depDist="0.5">
       <word id="1"
             form="ἔστι"
             lemma="εἰμί1"
@@ -17112,7 +17112,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-132"
-             depDist="4.684210526315789">
+             depDist="2.888888888888889">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -17251,7 +17251,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-133"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="πῶς"
             lemma="πῶς1"
@@ -17294,7 +17294,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-134"
-             depDist="4.85">
+             depDist="3.8947368421052633">
       <word id="1"
             form="περὶ"
             lemma="περί1"
@@ -17440,7 +17440,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-135"
-             depDist="3.642857142857143">
+             depDist="2.4814814814814814">
       <word id="1"
             form="ἴσως"
             lemma="ἴσος1"
@@ -17642,7 +17642,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-136"
-             depDist="3.90625">
+             depDist="2.870967741935484">
       <word id="1"
             form="ἆρα"
             lemma="ἆρα1"
@@ -17872,7 +17872,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-137"
-             depDist="4">
+             depDist="3.230769230769231">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -17978,7 +17978,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-138"
-             depDist="2.75">
+             depDist="1.7142857142857142">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -18040,7 +18040,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-139"
-             depDist="4.090909090909091">
+             depDist="2.5">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -18123,7 +18123,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-140"
-             depDist="2.5">
+             depDist="1">
       <word id="1"
             form="πολλὴ"
             lemma="πολύς1"
@@ -18159,7 +18159,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-141"
-             depDist="4.444444444444445">
+             depDist="3.0384615384615383">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -18354,7 +18354,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-142"
-             depDist="3.3333333333333335">
+             depDist="2.090909090909091">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -18444,7 +18444,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-143"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -18480,7 +18480,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-144"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="ὀρθῶς"
             lemma="ὀρθός1"
@@ -18507,7 +18507,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-145"
-             depDist="4.8">
+             depDist="3.1578947368421053">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν1"
@@ -18653,7 +18653,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-146"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -18689,7 +18689,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-147"
-             depDist="6">
+             depDist="5.148148148148148">
       <word id="1"
             form="ταὐτὰ"
             lemma="ταὐτός1"
@@ -18893,7 +18893,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-148"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="ἆρα"
             lemma="ἆρα1"
@@ -18936,7 +18936,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-149"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως1"
@@ -18965,7 +18965,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-150"
-             depDist="5">
+             depDist="3.5">
       <word id="1"
             form="ταὔτ᾽"
             lemma="ταὐτός1"
@@ -19132,7 +19132,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-151"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="ἔοικεν"
             lemma="ἔοικα1"
@@ -19152,7 +19152,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-152"
-             depDist="3.764705882352941">
+             depDist="2.375">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -19277,7 +19277,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-153"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="κινδυνεύει"
             lemma="κινδυνεύω1"
@@ -19297,7 +19297,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-154"
-             depDist="3.2222222222222223">
+             depDist="1.875">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -19366,7 +19366,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-155"
-             depDist="3.2">
+             depDist="2">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -19477,7 +19477,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-156"
-             depDist="3.5">
+             depDist="2">
       <word id="1"
             form="ὃ"
             lemma="ὅς1"
@@ -19567,7 +19567,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-157"
-             depDist="7.317460317460317">
+             depDist="6.435483870967742">
       <word id="1"
             form="ὥστε"
             lemma="ὥστε1"
@@ -20018,7 +20018,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-158"
-             depDist="3.5714285714285716">
+             depDist="2.5555555555555554">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -20220,7 +20220,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-159"
-             depDist="2.5">
+             depDist="1.6666666666666667">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -20256,7 +20256,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-160"
-             depDist="3.739130434782609">
+             depDist="2.5">
       <word id="1"
             form="ἀνθρώπων"
             lemma="ἄνθρωπος1"
@@ -20423,7 +20423,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-161"
-             depDist="2.923076923076923">
+             depDist="1.75">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς1"
@@ -20520,7 +20520,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-162"
-             depDist="3.6666666666666665">
+             depDist="2.272727272727273">
       <word id="1"
             form="ἀδικοῦντες"
             lemma="ἀδικέω1"
@@ -20610,7 +20610,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-163"
-             depDist="4.526315789473684">
+             depDist="3.1666666666666665">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -20749,7 +20749,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-164"
-             depDist="3.4">
+             depDist="2">
       <word id="1"
             form="οὐδαμῶς"
             lemma="οὐδαμῶς1"
@@ -20792,7 +20792,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-165"
-             depDist="3.625">
+             depDist="2.142857142857143">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -20854,7 +20854,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-166"
-             depDist="5.043478260869565">
+             depDist="3.409090909090909">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος1"
@@ -21021,7 +21021,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-167"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -21057,7 +21057,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-168"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="ἀληθῆ"
             lemma="ἀληθής1"
@@ -21084,7 +21084,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-169"
-             depDist="4.033333333333333">
+             depDist="2.6206896551724137">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -21300,7 +21300,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-170"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="ἀληθῆ"
             lemma="ἀληθής1"
@@ -21327,7 +21327,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-171"
-             depDist="4.484848484848484">
+             depDist="2.875">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν1"
@@ -21564,7 +21564,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-172"
-             depDist="4.833333333333333">
+             depDist="3.9565217391304346">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -21738,7 +21738,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-173"
-             depDist="4.733333333333333">
+             depDist="3.9285714285714284">
       <word id="1"
             form="ναί"
             lemma="ναί1"
@@ -21851,7 +21851,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-174"
-             depDist="4.043478260869565">
+             depDist="2.6363636363636362">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -22018,7 +22018,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-175"
-             depDist="4.411764705882353">
+             depDist="2.9375">
       <word id="1"
             form="πράξεώς"
             lemma="πρᾶξις1"
@@ -22147,7 +22147,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-176"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="ἆρ᾽"
             lemma="ἆρα1"
@@ -22190,7 +22190,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-177"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -22226,7 +22226,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-178"
-             depDist="5.418918918918919">
+             depDist="4.36986301369863">
       <word id="1"
             form="ἴθι"
             lemma="εἶμι1"
@@ -22750,7 +22750,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-179"
-             depDist="3.2857142857142856">
+             depDist="2.15">
       <word id="1"
             form="ἴθι"
             lemma="εἶμι1"
@@ -22903,7 +22903,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-180"
-             depDist="4.416666666666667">
+             depDist="2.727272727272727">
       <word id="1"
             form="κἄν"
             lemma="κἀν1"
@@ -22993,7 +22993,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-181"
-             depDist="3.1052631578947367">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -23132,7 +23132,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-182"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="μανθάνω"
             lemma="μανθάνω1"
@@ -23152,7 +23152,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-183"
-             depDist="4.814814814814815">
+             depDist="2.9615384615384617">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι1"
@@ -23349,7 +23349,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-184"
-             depDist="4.571428571428571">
+             depDist="2.8461538461538463">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -23455,7 +23455,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-185"
-             depDist="2">
+             depDist="0">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -23482,7 +23482,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-186"
-             depDist="2.2">
+             depDist="1.25">
       <word id="1"
             form="ἐάνπερ"
             lemma="ἐάν1"
@@ -23523,7 +23523,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-187"
-             depDist="3.272727272727273">
+             depDist="2.3">
       <word id="1"
             form="τόδε"
             lemma="ὅδε1"
@@ -23606,7 +23606,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-188"
-             depDist="4.636363636363637">
+             depDist="3.09375">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -23843,7 +23843,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-189"
-             depDist="5.153846153846154">
+             depDist="3.5833333333333335">
       <word id="1"
             form="θεομισὲς"
             lemma="θεομισής1"
@@ -23940,7 +23940,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-190"
-             depDist="3">
+             depDist="1.6363636363636365">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -24030,7 +24030,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-191"
-             depDist="3.625">
+             depDist="2">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -24092,7 +24092,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-192"
-             depDist="3">
+             depDist="1.75">
       <word id="1"
             form="ὥστε"
             lemma="ὥστε1"
@@ -24161,7 +24161,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-193"
-             depDist="4">
+             depDist="2.5833333333333335">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -24260,7 +24260,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-194"
-             depDist="7.1">
+             depDist="6.344827586206897">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -24480,7 +24480,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-195"
-             depDist="6.285714285714286">
+             depDist="4.481481481481482">
       <word id="1"
             form="ὃ"
             lemma="ὅς1"
@@ -24684,7 +24684,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-196"
-             depDist="2.7142857142857144">
+             depDist="1.5">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -24739,7 +24739,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-197"
-             depDist="5.56">
+             depDist="4.458333333333333">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς1"
@@ -24922,7 +24922,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-198"
-             depDist="4.607142857142857">
+             depDist="3.6296296296296298">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -25126,7 +25126,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-199"
-             depDist="4.117647058823529">
+             depDist="2.8181818181818183">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν1"
@@ -25370,7 +25370,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-200"
-             depDist="2.2857142857142856">
+             depDist="1">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -25425,7 +25425,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-201"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="σκεπτέον"
             lemma="σκεπτέος1"
@@ -25445,7 +25445,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-202"
-             depDist="3">
+             depDist="2.142857142857143">
       <word id="1"
             form="οἶμαι"
             lemma="οἴομαι1"
@@ -25507,7 +25507,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-203"
-             depDist="3.4285714285714284">
+             depDist="1.8333333333333333">
       <word id="1"
             form="τάχ᾽"
             lemma="τάχα1"
@@ -25562,7 +25562,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-204"
-             depDist="2.2">
+             depDist="1.25">
       <word id="1"
             form="ἐννόησον"
             lemma="ἐννοέω1"
@@ -25603,7 +25603,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-205"
-             depDist="4.411764705882353">
+             depDist="2.875">
       <word id="1"
             form="ἆρα"
             lemma="ἆρα1"
@@ -25728,7 +25728,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-206"
-             depDist="2.75">
+             depDist="1.7142857142857142">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -25790,7 +25790,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-207"
-             depDist="2.3333333333333335">
+             depDist="0.8">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -25838,7 +25838,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-208"
-             depDist="6.285714285714286">
+             depDist="5.037037037037037">
       <word id="1"
             form="λέγομέν"
             lemma="λέγω3"
@@ -26044,7 +26044,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-209"
-             depDist="2.4">
+             depDist="1">
       <word id="1"
             form="ἔγωγέ"
             lemma="ἐγώ1"
@@ -26085,7 +26085,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-210"
-             depDist="3.5833333333333335">
+             depDist="2.3636363636363638">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν1"
@@ -26177,7 +26177,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-211"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -26220,7 +26220,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-212"
-             depDist="3">
+             depDist="2.0625">
       <word id="1"
             form="λέγε"
             lemma="λέγω3"
@@ -26345,7 +26345,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-213"
-             depDist="3.75">
+             depDist="3">
       <word id="1"
             form="οὔκ"
             lemma="οὐ1"
@@ -26411,7 +26411,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-214"
-             depDist="4.8">
+             depDist="4.142857142857143">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -26526,7 +26526,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-215"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -26562,7 +26562,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-216"
-             depDist="4.545454545454546">
+             depDist="3.1904761904761907">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -26724,7 +26724,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-217"
-             depDist="3.5294117647058822">
+             depDist="2.0625">
       <word id="1"
             form="οὐδὲ"
             lemma="οὐδέ1"
@@ -26849,7 +26849,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-218"
-             depDist="4.5">
+             depDist="3.4545454545454546">
       <word id="1"
             form="οὐδὲ"
             lemma="οὐδέ1"
@@ -26943,7 +26943,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-219"
-             depDist="5.181818181818182">
+             depDist="3.6">
       <word id="1"
             form="ἆρα"
             lemma="ἆρα1"
@@ -27028,7 +27028,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-220"
-             depDist="3.6666666666666665">
+             depDist="2.6956521739130435">
       <word id="1"
             form="βούλομαι"
             lemma="βούλομαι1"
@@ -27202,7 +27202,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-221"
-             depDist="3.1666666666666665">
+             depDist="1.7272727272727273">
       <word id="1"
             form="οὐδ᾽"
             lemma="οὐδέ1"
@@ -27292,7 +27292,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-222"
-             depDist="2.2">
+             depDist="0.5">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -27333,7 +27333,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-223"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔγωγε"
             lemma="ἐγώ1"
@@ -27362,7 +27362,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-224"
-             depDist="3.5714285714285716">
+             depDist="2.1538461538461537">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν1"
@@ -27466,7 +27466,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-225"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -27502,7 +27502,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-226"
-             depDist="3.4">
+             depDist="2.111111111111111">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -27580,7 +27580,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-227"
-             depDist="3.6666666666666665">
+             depDist="2.2142857142857144">
       <word id="1"
             form="οὐχ"
             lemma="οὐ1"
@@ -27693,7 +27693,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-228"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἀνάγκη"
             lemma="ἀνάγκη1"
@@ -27722,7 +27722,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-229"
-             depDist="3.090909090909091">
+             depDist="1.9">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -27805,7 +27805,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-230"
-             depDist="2.769230769230769">
+             depDist="1.75">
       <word id="1"
             form="ἄλλο"
             lemma="ἄλλος1"
@@ -27904,7 +27904,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-231"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ναί"
             lemma="ναί1"
@@ -27933,7 +27933,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-232"
-             depDist="5.142857142857143">
+             depDist="3.4615384615384617">
       <word id="1"
             form="ἆρα"
             lemma="ἆρα1"
@@ -28039,7 +28039,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-233"
-             depDist="3.75">
+             depDist="3">
       <word id="1"
             form="οὔκ"
             lemma="οὐ1"
@@ -28105,7 +28105,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-234"
-             depDist="4.3125">
+             depDist="2.3333333333333335">
       <word id="1"
             form="διότι"
             lemma="διότι1"
@@ -28223,7 +28223,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-235"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="ἔοικεν"
             lemma="ἔοικα1"
@@ -28243,7 +28243,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-236"
-             depDist="4.153846153846154">
+             depDist="2.5">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -28340,7 +28340,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-237"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="πῶς"
             lemma="πῶς1"
@@ -28383,7 +28383,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-238"
-             depDist="6.346153846153846">
+             depDist="4.84">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -28575,7 +28575,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-239"
-             depDist="4.142857142857143">
+             depDist="2.6666666666666665">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -28632,7 +28632,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-240"
-             depDist="5.857142857142857">
+             depDist="4.1">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι1"
@@ -28787,7 +28787,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-241"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -28823,7 +28823,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-242"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ναί"
             lemma="ναί1"
@@ -28852,7 +28852,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-243"
-             depDist="4.8076923076923075">
+             depDist="3.92">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -29042,7 +29042,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-244"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="ἀληθῆ"
             lemma="ἀληθής1"
@@ -29069,7 +29069,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-245"
-             depDist="6.068965517241379">
+             depDist="5.140350877192983">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -29481,7 +29481,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-246"
-             depDist="3.230769230769231">
+             depDist="2.1666666666666665">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -29578,7 +29578,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-247"
-             depDist="4.181818181818182">
+             depDist="2.7">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -29661,7 +29661,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-248"
-             depDist="5.181818181818182">
+             depDist="2.9">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -29744,7 +29744,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-249"
-             depDist="4.225">
+             depDist="3.230769230769231">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -30030,7 +30030,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-250"
-             depDist="3.4285714285714284">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ὅτι"
             lemma="ὅστις1"
@@ -30085,7 +30085,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-251"
-             depDist="8.88888888888889">
+             depDist="7.340909090909091">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -30408,7 +30408,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-252"
-             depDist="2.9285714285714284">
+             depDist="1.4615384615384615">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -30512,7 +30512,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-253"
-             depDist="3.4705882352941178">
+             depDist="2.0625">
       <word id="1"
             form="περιέρχεται"
             lemma="περιέρχομαι1"
@@ -30637,7 +30637,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-254"
-             depDist="3.533333333333333">
+             depDist="2.142857142857143">
       <word id="1"
             form="τοῦ"
             lemma="ὁ1"
@@ -30748,7 +30748,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-255"
-             depDist="5.162162162162162">
+             depDist="3.888888888888889">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -31013,7 +31013,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-256"
-             depDist="4.375">
+             depDist="2.857142857142857">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -31075,7 +31075,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-257"
-             depDist="3.1666666666666665">
+             depDist="1.8">
       <word id="1"
             form="ἄλλου"
             lemma="ἄλλος1"
@@ -31123,7 +31123,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-258"
-             depDist="2.8333333333333335">
+             depDist="1.7272727272727273">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -31213,7 +31213,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-259"
-             depDist="4.25">
+             depDist="3.2666666666666666">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ1"
@@ -31331,7 +31331,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-260"
-             depDist="4.303030303030303">
+             depDist="2.84375">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -31568,7 +31568,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-261"
-             depDist="4.871794871794871">
+             depDist="3.973684210526316">
       <word id="1"
             form="κινδυνεύω"
             lemma="κινδυνεύω1"
@@ -31849,7 +31849,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-262"
-             depDist="3.5714285714285716">
+             depDist="2.1538461538461537">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -31953,7 +31953,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-263"
-             depDist="4.380952380952381">
+             depDist="3.5">
       <word id="1"
             form="ἐβουλόμην"
             lemma="βούλομαι1"
@@ -32106,7 +32106,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-264"
-             depDist="3.5">
+             depDist="1.8">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -32156,7 +32156,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-265"
-             depDist="3.9473684210526314">
+             depDist="2.5555555555555554">
       <word id="1"
             form="ἐπειδὴ"
             lemma="ἐπεί1"
@@ -32295,7 +32295,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-266"
-             depDist="2.25">
+             depDist="0.3333333333333333">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -32329,7 +32329,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-267"
-             depDist="3.7857142857142856">
+             depDist="3">
       <word id="1"
             form="ἰδὲ"
             lemma="ὁράω"
@@ -32435,7 +32435,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-268"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔμοιγε"
             lemma="ἐγώ1"
@@ -32464,7 +32464,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-269"
-             depDist="4.777777777777778">
+             depDist="3.25">
       <word id="1"
             form="ἆρ᾽"
             lemma="ἆρα1"
@@ -32535,7 +32535,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-270"
-             depDist="8.233333333333333">
+             depDist="7.586206896551724">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -32759,7 +32759,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-271"
-             depDist="2.888888888888889">
+             depDist="1.875">
       <word id="1"
             form="οὐχ"
             lemma="οὐ1"
@@ -32828,7 +32828,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-272"
-             depDist="3.230769230769231">
+             depDist="1.9166666666666667">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -32927,7 +32927,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-273"
-             depDist="2.6363636363636362">
+             depDist="1.1">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -33010,7 +33010,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-274"
-             depDist="2.75">
+             depDist="1">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -33072,7 +33072,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-275"
-             depDist="4.222222222222222">
+             depDist="2.5">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -33143,7 +33143,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-276"
-             depDist="3.6153846153846154">
+             depDist="2.68">
       <word id="1"
             form="λέγω"
             lemma="λέγω3"
@@ -33331,7 +33331,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-277"
-             depDist="9.5">
+             depDist="4.769230769230769">
       <word id="1"
             form="ἵνα"
             lemma="ἵνα1"
@@ -33439,7 +33439,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-278"
-             depDist="3.142857142857143">
+             depDist="1.8333333333333333">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ1"
@@ -33494,7 +33494,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-279"
-             depDist="2.4">
+             depDist="1.75">
       <word id="1"
             form="εἴπω"
             lemma="εἶπον1"
@@ -33537,7 +33537,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-280"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -33573,7 +33573,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-281"
-             depDist="2.7">
+             depDist="2.7777777777777777">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -33651,7 +33651,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-282"
-             depDist="4.086956521739131">
+             depDist="3.0454545454545454">
       <word id="1"
             form="πολλοὶ"
             lemma="πολύς1"
@@ -33818,7 +33818,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-283"
-             depDist="2.8">
+             depDist="1.25">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -33859,7 +33859,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-284"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -33895,7 +33895,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-285"
-             depDist="3.7">
+             depDist="3">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -33973,7 +33973,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-286"
-             depDist="3.7058823529411766">
+             depDist="2.8125">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί1"
@@ -34098,7 +34098,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-287"
-             depDist="2">
+             depDist="1">
       <word id="1"
             form="δέδοικε"
             lemma="δείδω1"
@@ -34132,7 +34132,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-288"
-             depDist="3">
+             depDist="1.6">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -34180,7 +34180,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-289"
-             depDist="11.379310344827585">
+             depDist="10.678571428571429">
       <word id="1"
             form="ἵνα"
             lemma="ἵνα1"
@@ -34401,7 +34401,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-290"
-             depDist="3.75">
+             depDist="2.7142857142857144">
       <word id="1"
             form="ἐπὶ"
             lemma="ἐπί1"
@@ -34465,7 +34465,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-291"
-             depDist="12.366666666666667">
+             depDist="11.172413793103448">
       <word id="1"
             form="μόριον"
             lemma="μόριον1"
@@ -34695,7 +34695,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-292"
-             depDist="2.3333333333333335">
+             depDist="1.4">
       <word id="1"
             form="ἕπῃ"
             lemma="ἕπομαι1"
@@ -34743,7 +34743,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-293"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -34779,7 +34779,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-294"
-             depDist="3.375">
+             depDist="1.7142857142857142">
       <word id="1"
             form="τὸ"
             lemma="ὁ1"
@@ -34841,7 +34841,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-295"
-             depDist="5.222222222222222">
+             depDist="4">
       <word id="1"
             form="ἆρα"
             lemma="ἆρα1"
@@ -34914,7 +34914,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-296"
-             depDist="7.631578947368421">
+             depDist="7.166666666666667">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -35061,7 +35061,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-297"
-             depDist="4.375">
+             depDist="2.857142857142857">
       <word id="1"
             form="μόριον"
             lemma="μόριον1"
@@ -35125,7 +35125,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-298"
-             depDist="2.5714285714285716">
+             depDist="1.3333333333333333">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως1"
@@ -35180,7 +35180,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-299"
-             depDist="3.4285714285714284">
+             depDist="2.6666666666666665">
       <word id="1"
             form="οὔκ"
             lemma="οὐ1"
@@ -35239,7 +35239,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-300"
-             depDist="2.5">
+             depDist="1.6">
       <word id="1"
             form="φαίνῃ"
             lemma="φαίνω1"
@@ -35287,7 +35287,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-301"
-             depDist="2">
+             depDist="1">
       <word id="1"
             form="ὅρα"
             lemma=""
@@ -35335,7 +35335,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-302"
-             depDist="6.555555555555555">
+             depDist="5.461538461538462">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -35532,7 +35532,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-303"
-             depDist="6.1891891891891895">
+             depDist="4.638888888888889">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -35799,7 +35799,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-304"
-             depDist="2.2">
+             depDist="0.5">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -35840,7 +35840,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-305"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔμοιγε"
             lemma="ἐγώ1"
@@ -35869,7 +35869,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-306"
-             depDist="3.7560975609756095">
+             depDist="2.8">
       <word id="1"
             form="πειρῶ"
             lemma="πειράω1"
@@ -36162,7 +36162,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-307"
-             depDist="7.128205128205129">
+             depDist="5.605263157894737">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος1"
@@ -36443,7 +36443,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-308"
-             depDist="3.888888888888889">
+             depDist="3">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -36575,7 +36575,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-309"
-             depDist="3">
+             depDist="1.5714285714285714">
       <word id="1"
             form="τὴν"
             lemma="ὁ1"
@@ -36637,7 +36637,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-310"
-             depDist="6.72972972972973">
+             depDist="5.388888888888889">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -36906,7 +36906,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-311"
-             depDist="3">
+             depDist="1.6666666666666667">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -36942,7 +36942,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-312"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -36978,7 +36978,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-313"
-             depDist="4.5">
+             depDist="3">
       <word id="1"
             form="ἡ"
             lemma="ὁ1"
@@ -37042,7 +37042,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-314"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ναί"
             lemma="ναί1"
@@ -37071,7 +37071,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-315"
-             depDist="3.3">
+             depDist="2">
       <word id="1"
             form="οὐδέ"
             lemma="οὐδέ1"
@@ -37147,7 +37147,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-316"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως1"
@@ -37176,7 +37176,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-317"
-             depDist="4.5">
+             depDist="3">
       <word id="1"
             form="ἡ"
             lemma="ὁ1"
@@ -37240,7 +37240,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-318"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ναί"
             lemma="ναί1"
@@ -37269,7 +37269,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-319"
-             depDist="3.625">
+             depDist="2.2857142857142856">
       <word id="1"
             form="ἡ"
             lemma="ὁ1"
@@ -37335,7 +37335,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-320"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -37371,7 +37371,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-321"
-             depDist="5.285714285714286">
+             depDist="3.769230769230769">
       <word id="1"
             form="ἡ"
             lemma="ὁ1"
@@ -37479,7 +37479,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-322"
-             depDist="2">
+             depDist="0.5">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως1"
@@ -37506,7 +37506,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-323"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔγωγε"
             lemma="ἐγώ1"
@@ -37535,7 +37535,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-324"
-             depDist="3.7142857142857144">
+             depDist="2.1666666666666665">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν1"
@@ -37590,7 +37590,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-325"
-             depDist="2.8">
+             depDist="1.5">
       <word id="1"
             form="οἷον"
             lemma="οἷος1"
@@ -37635,7 +37635,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-326"
-             depDist="3.4583333333333335">
+             depDist="2.391304347826087">
       <word id="1"
             form="ἐπ᾽"
             lemma="ἐπί1"
@@ -37809,7 +37809,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-327"
-             depDist="2.2">
+             depDist="0.5">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -37850,7 +37850,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-328"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔμοιγε"
             lemma="ἐγώ1"
@@ -37879,7 +37879,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-329"
-             depDist="7.166666666666667">
+             depDist="6.521739130434782">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -38059,7 +38059,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-330"
-             depDist="3.4">
+             depDist="2.111111111111111">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -38135,7 +38135,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-331"
-             depDist="3.1666666666666665">
+             depDist="1.6">
       <word id="1"
             form="μὰ"
             lemma="μά1"
@@ -38185,7 +38185,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-332"
-             depDist="2.8">
+             depDist="1">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -38228,7 +38228,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-333"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="πῶς"
             lemma="πῶς1"
@@ -38271,7 +38271,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-334"
-             depDist="5.166666666666667">
+             depDist="3.6470588235294117">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -38403,7 +38403,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-335"
-             depDist="3.888888888888889">
+             depDist="2.764705882352941">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -38535,7 +38535,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-336"
-             depDist="3.1666666666666665">
+             depDist="1.6">
       <word id="1"
             form="μὰ"
             lemma="μά1"
@@ -38585,7 +38585,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-337"
-             depDist="5.5675675675675675">
+             depDist="4.694444444444445">
       <word id="1"
             form="οὐδὲ"
             lemma="οὐδέ1"
@@ -38852,7 +38852,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-338"
-             depDist="3.5">
+             depDist="1.7142857142857142">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -38916,7 +38916,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-339"
-             depDist="3">
+             depDist="1.5">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -38957,7 +38957,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-340"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="εἶεν"
             lemma="εἶεν1"
@@ -38977,7 +38977,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-341"
-             depDist="3">
+             depDist="1.4444444444444444">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -39053,7 +39053,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-342"
-             depDist="4.333333333333333">
+             depDist="2.6363636363636362">
       <word id="1"
             form="ἥνπερ"
             lemma="ὅς1"
@@ -39145,7 +39145,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-343"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="μανθάνω"
             lemma="μανθάνω1"
@@ -39165,7 +39165,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-344"
-             depDist="4.6">
+             depDist="3.111111111111111">
       <word id="1"
             form="ὑπηρετική"
             lemma="ὑπηρετικός1"
@@ -39241,7 +39241,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-345"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -39284,7 +39284,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-346"
-             depDist="3.4">
+             depDist="2.5">
       <word id="1"
             form="ἔχοις"
             lemma="ἔχω1"
@@ -39395,7 +39395,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-347"
-             depDist="3.875">
+             depDist="3.142857142857143">
       <word id="1"
             form="οὐκ"
             lemma="οὐ1"
@@ -39463,7 +39463,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-348"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔγωγε"
             lemma="ἐγώ1"
@@ -39492,7 +39492,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-349"
-             depDist="4.111111111111111">
+             depDist="2.75">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -39567,7 +39567,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-350"
-             depDist="3.2857142857142856">
+             depDist="1.6666666666666667">
       <word id="1"
             form="εἰς"
             lemma="εἰς1"
@@ -39622,7 +39622,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-351"
-             depDist="5.461538461538462">
+             depDist="4.333333333333333">
       <word id="1"
             form="δῆλον"
             lemma="δῆλος1"
@@ -39727,7 +39727,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-352"
-             depDist="4">
+             depDist="2.6">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -39816,7 +39816,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-353"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ναί"
             lemma="ναί1"
@@ -39845,7 +39845,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-354"
-             depDist="2.5">
+             depDist="1.6">
       <word id="1"
             form="εἰπὲ"
             lemma="εἶπον1"
@@ -39893,7 +39893,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-355"
-             depDist="4.583333333333333">
+             depDist="2.909090909090909">
       <word id="1"
             form="ἡ"
             lemma="ὁ1"
@@ -39983,7 +39983,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-356"
-             depDist="6.4375">
+             depDist="4.8">
       <word id="1"
             form="δῆλον"
             lemma="δῆλος1"
@@ -40103,7 +40103,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-357"
-             depDist="2.75">
+             depDist="1.2857142857142858">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -40165,7 +40165,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-358"
-             depDist="3.0526315789473686">
+             depDist="2.111111111111111">
       <word id="1"
             form="εἰπὲ"
             lemma="εἶπον1"
@@ -40304,7 +40304,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-359"
-             depDist="3.5">
+             depDist="1.8571428571428572">
       <word id="1"
             form="πολλὰ"
             lemma="πολύς1"
@@ -40368,7 +40368,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-360"
-             depDist="4">
+             depDist="2.25">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -40439,7 +40439,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-361"
-             depDist="3.875">
+             depDist="2.466666666666667">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -40557,7 +40557,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-362"
-             depDist="2.5">
+             depDist="0.6666666666666666">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -40593,7 +40593,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-363"
-             depDist="3.6">
+             depDist="2.25">
       <word id="1"
             form="πῶς"
             lemma="πῶς1"
@@ -40636,7 +40636,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-364"
-             depDist="5">
+             depDist="3.3333333333333335">
       <word id="1"
             form="πολλὰ"
             lemma="πολύς1"
@@ -40735,7 +40735,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-365"
-             depDist="3.9285714285714284">
+             depDist="2.6153846153846154">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -40839,7 +40839,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-366"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -40875,7 +40875,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-367"
-             depDist="5.785714285714286">
+             depDist="4.3076923076923075">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -40983,7 +40983,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-368"
-             depDist="2.857142857142857">
+             depDist="1.5">
       <word id="1"
             form="τί"
             lemma="τίς1"
@@ -41038,7 +41038,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-369"
-             depDist="3.3">
+             depDist="2.1052631578947367">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -41184,7 +41184,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-370"
-             depDist="4.904761904761905">
+             depDist="3.8780487804878048">
       <word id="1"
             form="τόδε"
             lemma="ὅδε1"
@@ -41484,7 +41484,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-371"
-             depDist="6.375">
+             depDist="4.733333333333333">
       <word id="1"
             form="τὰ"
             lemma="ὁ1"
@@ -41604,7 +41604,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-372"
-             depDist="4.7368421052631575">
+             depDist="3.2222222222222223">
       <word id="1"
             form="ἦ"
             lemma="ἦ1"
@@ -41743,7 +41743,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-373"
-             depDist="3.5454545454545454">
+             depDist="2.1">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -41826,7 +41826,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-374"
-             depDist="5.409090909090909">
+             depDist="4.190476190476191">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -41986,7 +41986,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-375"
-             depDist="7.423076923076923">
+             depDist="6">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -42176,7 +42176,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-376"
-             depDist="4.9">
+             depDist="3.3333333333333335">
       <word id="1"
             form="οὐχὶ"
             lemma="οὐ1"
@@ -42254,7 +42254,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-377"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔγωγε"
             lemma="ἐγώ1"
@@ -42283,7 +42283,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-378"
-             depDist="4.3125">
+             depDist="2.933333333333333">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν1"
@@ -42403,7 +42403,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-379"
-             depDist="3.4285714285714284">
+             depDist="1.6666666666666667">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -42460,7 +42460,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-380"
-             depDist="3.9285714285714284">
+             depDist="2.4615384615384617">
       <word id="1"
             form="ἐπιστήμη"
             lemma="ἐπιστήμη1"
@@ -42564,7 +42564,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-381"
-             depDist="3.2">
+             depDist="1.6666666666666667">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -42640,7 +42640,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-382"
-             depDist="4.166666666666667">
+             depDist="2.8260869565217392">
       <word id="1"
             form="ἐπιθυμητὴς"
             lemma="ἐπιθυμητής1"
@@ -42814,7 +42814,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-383"
-             depDist="2.909090909090909">
+             depDist="2">
       <word id="1"
             form="ἀλλά"
             lemma="ἀλλά1"
@@ -42897,7 +42897,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-384"
-             depDist="3.125">
+             depDist="2">
       <word id="1"
             form="αἰτεῖν"
             lemma="αἰτέω1"
@@ -42959,7 +42959,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-385"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔγωγε"
             lemma="ἐγώ1"
@@ -42988,7 +42988,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-386"
-             depDist="4.333333333333333">
+             depDist="3">
       <word id="1"
             form="ἆρ᾽"
             lemma="ἆρα1"
@@ -43120,7 +43120,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-387"
-             depDist="2.25">
+             depDist="1.6666666666666667">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -43156,7 +43156,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-388"
-             depDist="5.2105263157894735">
+             depDist="3.388888888888889">
       <word id="1"
             form="καὶ"
             lemma="καί1"
@@ -43297,7 +43297,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-389"
-             depDist="3.6666666666666665">
+             depDist="2.357142857142857">
       <word id="1"
             form="οὐ"
             lemma="οὐ1"
@@ -43408,7 +43408,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-390"
-             depDist="2.5">
+             depDist="1.4">
       <word id="1"
             form="ἀληθῆ"
             lemma="ἀληθής1"
@@ -43456,7 +43456,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-391"
-             depDist="5">
+             depDist="3.9411764705882355">
       <word id="1"
             form="ἐμπορικὴ"
             lemma="ἐμπορικός1"
@@ -43588,7 +43588,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-392"
-             depDist="5.5">
+             depDist="4">
       <word id="1"
             form="ἐμπορική"
             lemma="ἐμπορικός1"
@@ -43668,7 +43668,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-393"
-             depDist="4.583333333333333">
+             depDist="2.8181818181818183">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -43760,7 +43760,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-394"
-             depDist="3.263157894736842">
+             depDist="2.3333333333333335">
       <word id="1"
             form="φράσον"
             lemma="φράζω1"
@@ -43899,7 +43899,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-395"
-             depDist="4.5">
+             depDist="3">
       <word id="1"
             form="ἃ"
             lemma="ὅς1"
@@ -43963,7 +43963,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-396"
-             depDist="4">
+             depDist="2.9">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς1"
@@ -44046,7 +44046,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-397"
-             depDist="4.444444444444445">
+             depDist="2.125">
       <word id="1"
             form="ἃ"
             lemma="ὅς1"
@@ -44115,7 +44115,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-398"
-             depDist="3.5217391304347827">
+             depDist="2.4545454545454546">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -44284,7 +44284,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-399"
-             depDist="2.9375">
+             depDist="1.8666666666666667">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά1"
@@ -44402,7 +44402,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-400"
-             depDist="3.8823529411764706">
+             depDist="2.6875">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -44527,7 +44527,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-401"
-             depDist="3.4444444444444446">
+             depDist="2.411764705882353">
       <word id="1"
             form="τί"
             lemma="τις1"
@@ -44659,7 +44659,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-402"
-             depDist="3.611111111111111">
+             depDist="2.588235294117647">
       <word id="1"
             form="κεχαρισμένον"
             lemma="χαρίζομαι1"
@@ -44791,7 +44791,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-403"
-             depDist="3">
+             depDist="2.2857142857142856">
       <word id="1"
             form="οἶμαι"
             lemma="οἴομαι1"
@@ -44855,7 +44855,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-404"
-             depDist="3.8125">
+             depDist="2.8">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος1"
@@ -44973,7 +44973,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-405"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="μάλιστά"
             lemma="μάλιστα1"
@@ -45009,7 +45009,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-406"
-             depDist="4.571428571428571">
+             depDist="3.235294117647059">
       <word id="1"
             form="θαυμάσῃ"
             lemma="θαυμάζω1"
@@ -45260,7 +45260,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-407"
-             depDist="3.769230769230769">
+             depDist="2.6666666666666665">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -45357,7 +45357,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-408"
-             depDist="3.7142857142857144">
+             depDist="2.8">
       <word id="1"
             form="μέμνησαι"
             lemma="μιμνήσκω1"
@@ -45510,7 +45510,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-409"
-             depDist="2.25">
+             depDist="0.3333333333333333">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -45544,7 +45544,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-410"
-             depDist="2.3333333333333335">
+             depDist="1">
       <word id="1"
             form="ἔγωγε"
             lemma="ἐγώ1"
@@ -45573,7 +45573,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-411"
-             depDist="3.076923076923077">
+             depDist="1.9166666666666667">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -45670,7 +45670,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-412"
-             depDist="4.25">
+             depDist="2.7142857142857144">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος1"
@@ -45732,7 +45732,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-413"
-             depDist="2.5">
+             depDist="0.6666666666666666">
       <word id="1"
             form="ἢ"
             lemma="ἤ1"
@@ -45768,7 +45768,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-414"
-             depDist="2.75">
+             depDist="1.3333333333333333">
       <word id="1"
             form="πάνυ"
             lemma="πάνυ1"
@@ -45804,7 +45804,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-415"
-             depDist="5.277777777777778">
+             depDist="4.117647058823529">
       <word id="1"
             form="οὐκοῦν"
             lemma="οὐκοῦν1"
@@ -45938,7 +45938,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-416"
-             depDist="1.5">
+             depDist="0">
       <word id="1"
             form="ἔοικεν"
             lemma="ἔοικα1"
@@ -45958,7 +45958,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-417"
-             depDist="3.8095238095238093">
+             depDist="2.65">
       <word id="1"
             form="ἐξ"
             lemma="ἐκ1"
@@ -46111,7 +46111,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-418"
-             depDist="3.235294117647059">
+             depDist="2.3125">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά1"
@@ -46236,7 +46236,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-419"
-             depDist="5.15">
+             depDist="4.052631578947368">
       <word id="1"
             form="οἶσθα"
             lemma="οἶδα1"
@@ -46386,7 +46386,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-420"
-             depDist="5.066666666666666">
+             depDist="3.840909090909091">
       <word id="1"
             form="εἰ"
             lemma="εἰ1"
@@ -46707,7 +46707,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-421"
-             depDist="3">
+             depDist="1.9285714285714286">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -46820,7 +46820,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-422"
-             depDist="3.7857142857142856">
+             depDist="2.3846153846153846">
       <word id="1"
             form="εἰπὲ"
             lemma="εἶπον1"
@@ -46924,7 +46924,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-423"
-             depDist="3">
+             depDist="0.6666666666666666">
       <word id="1"
             form="εἰς"
             lemma="εἰς1"
@@ -46979,7 +46979,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-424"
-             depDist="4">
+             depDist="2.8">
       <word id="1"
             form="νῦν"
             lemma="νῦν1"
@@ -47064,7 +47064,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-425"
-             depDist="2.5">
+             depDist="1.4">
       <word id="1"
             form="οἷα"
             lemma="οἷος1"
@@ -47112,7 +47112,7 @@
              document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
              subdoc="urn:cts:greekLit:tlg0059.tlg001:1"
              span="Plato Euthyphro: s-426"
-             depDist="6.649122807017544">
+             depDist="5.660714285714286">
       <word id="1"
             form="ἀπ᾽"
             lemma="ἀπό1"
