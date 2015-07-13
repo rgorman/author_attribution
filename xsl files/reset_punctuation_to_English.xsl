@@ -17,8 +17,9 @@
                 <xsl:copy-of select="."/>
             </xsl:for-each>
             <xsl:for-each select="sentence">
-                <sentence id="{./@id}" document_id="{./@document_id}" subdoc="{./@subdoc}" 
-                    span="{./@span}">
+                
+                <sentence>
+                    <xsl:copy-of select="@*"/>
                     <xsl:for-each select="word">
                         <xsl:choose>
                             <xsl:when test="./@lemma = 'ξομμα1'">

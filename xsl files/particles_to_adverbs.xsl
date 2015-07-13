@@ -7,46 +7,49 @@
     <xsl:output method="xml" indent="yes"/>
     
     <xsl:template match="treebank">
-        <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
-        <xsl:for-each select="comment">
-            <xsl:copy-of select="."/>
-        </xsl:for-each>
-        <xsl:for-each select="annotator">
-            <xsl:copy-of select="."/>
-        </xsl:for-each>
-        <xsl:for-each select="sentence">
-            <sentence id="{./@id}" document_id="{./@document_id}" subdoc="{./@subdoc}" 
-                span="{./@span}">
-                <xsl:for-each select="word">
-                    <xsl:choose>
-                        <xsl:when test="./@postag = 'g--------'">
-                            <xsl:choose>
-                                <xsl:when test="./@insertion_id">
-                                    <word id="{./@id}" insertion_id="{./@insertion_id}"  
-                                        atificial="{./@artificial}"  form="{./@form}" lemma="{./@lemma}"
-                                        postag="d--------" relation="{./@relation}"
-                                        head="{./@head}" cite="{./@cite}"/>
-                                    
-                                    
-                                </xsl:when>
-                                <xsl:otherwise>
-                                    <word id="{./@id}" form="{./@form}" lemma="{./@lemma}"
-                                        postag="d--------" relation="{./@relation}"
-                                        head="{./@head}" cite="{./@cite}"/>
-                                </xsl:otherwise>
-                            </xsl:choose>
-                            
-                        </xsl:when>
-                       
-                        <xsl:otherwise>
-                            <xsl:copy-of select="."/>
-                        </xsl:otherwise>
-                    </xsl:choose>
+        
+            <treebank>
+                <xsl:copy-of select="@*"/>
+                <xsl:for-each select="comment">
+                    <xsl:copy-of select="."/>
                 </xsl:for-each>
-                
-            </sentence>
-        </xsl:for-each>
-        </treebank>
+                <xsl:for-each select="annotator">
+                    <xsl:copy-of select="."/>
+                </xsl:for-each>
+                <xsl:for-each select="sentence">
+                    <sentence>
+                        <xsl:copy-of select="@*"/>
+                            <xsl:for-each select="word">
+                                <xsl:choose>
+                                    <xsl:when test="./@postag = 'g--------'">
+                                        <xsl:choose>
+                                            <xsl:when test="./@insertion_id">
+                                                <word id="{./@id}" insertion_id="{./@insertion_id}"  
+                                                    atificial="{./@artificial}"  form="{./@form}" lemma="{./@lemma}"
+                                                    postag="d--------" relation="{./@relation}"
+                                                    head="{./@head}" cite="{./@cite}"/>
+                                                
+                                                
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <word id="{./@id}" form="{./@form}" lemma="{./@lemma}"
+                                                    postag="d--------" relation="{./@relation}"
+                                                    head="{./@head}" cite="{./@cite}"/>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                        
+                                    </xsl:when>
+                                    
+                                    <xsl:otherwise>
+                                        <xsl:copy-of select="."/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </xsl:for-each>
+                            
+                    </sentence>
+                </xsl:for-each>
+            </treebank>
+        
     </xsl:template>
     
 </xsl:stylesheet>
