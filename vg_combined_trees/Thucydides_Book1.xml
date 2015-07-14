@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <treebank xml:lang="grc" format="aldt" version="1.5">
-    <comment>Thuc. Book 1</comment>
+      <comment>Thuc. Book 1</comment>
       <date>Tue Jan 06 19:18:57 +0000 2015</date>
       <annotator>
             <short/>
@@ -4654,7 +4654,7 @@
             <word id="17" insertion_id="0016e" artificial="elliptic" relation="PRED_CO" lemma="εἰμί"
                   postag="v3spia---" form="ἐστιν" head="10"/>
       </sentence>
-    <sentence id="1"
+      <sentence id="1"
             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1"
             subdoc="1.21.1" span="">
             <word id="1" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="10"/>
@@ -9843,7 +9843,7 @@
             <word id="32" insertion_id="0031e" artificial="elliptic" relation="ADV" lemma="τίθημι"
                   postag="v2pfia---" form="θήσετε" head="27"/>
       </sentence>
-     <sentence id="1"
+      <sentence id="1"
             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1"
             subdoc="1.41.1" span="">
             <word id="1" form="δικαιώματα" lemma="δικαίωμα" postag="n-p---na-" relation="OBJ"
@@ -13679,7 +13679,7 @@
             <word id="10" form="ἀπέστη" lemma="ἀπίστημι" postag="v3saim---" relation="ADV" head="8"/>
             <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-     <sentence id="1"
+      <sentence id="1"
             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0003.tlg001.perseus-grc1"
             subdoc="1.61.1" span="">
             <word id="1" form="ἦλθε" lemma="ἔρχομαι" postag="v3saia---" relation="PRED_CO" head="14"/>
@@ -18915,7 +18915,7 @@
                   head="14"/>
             <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-    <sentence id="1" document_id="urn:cts:greekLit:tlg0003.tlg001.perseus-grc1" subdoc="1.81.1"
+      <sentence id="1" document_id="urn:cts:greekLit:tlg0003.tlg001.perseus-grc1" subdoc="1.81.1"
             span="">
             <word id="1" form="τάχ᾽" lemma="τάχα" postag="d--------" relation="ADV" head="4"/>
             <word id="2" form="ἄν" lemma="ἄν1" postag="d--------" relation="AuxY" head="4"/>
@@ -23157,7 +23157,7 @@
             <word id="82" insertion_id="0081e" artificial="elliptic" relation="ATR_CO" lemma="καλέω"
                   postag="v-pppefa-" form="καλουμένας" head="40"/>
       </sentence>
-    <sentence id="1" document_id="urn:cts:greekLit:tlg0003.tlg001.perseus-grc1" subdoc="1.101.1"
+      <sentence id="1" document_id="urn:cts:greekLit:tlg0003.tlg001.perseus-grc1" subdoc="1.101.1"
             span="">
             <word id="1" form="Θάσιοι" lemma="Θάσιος" postag="n-p---mn-" relation="SBJ" head="9"/>
             <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="9"/>
@@ -25291,7 +25291,7 @@
       <sentence id="64" document_id="urn:cts:greekLit:tlg0003.tlg001.perseus-grc1" subdoc="1.111.1"
             span="">
             <word id="1" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="11"/>
-            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head=""/>
+            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head="12"/>
             <word id="3" form="Θεσσαλίας" lemma="Θεσσαλία" postag="n-s---fg-" relation="ADV"
                   head="1"/>
             <word id="4" form="Ὀρέστης" lemma="Ὀρέστης" postag="n-s---mn-" relation="SBJ" head="12"/>
@@ -27402,7 +27402,7 @@
                   head="19"/>
             <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-    <sentence id="1" document_id="urn:cts:greekLit:tlg0003.tlg001.perseus-grc1" subdoc="1.121.1"
+      <sentence id="1" document_id="urn:cts:greekLit:tlg0003.tlg001.perseus-grc1" subdoc="1.121.1"
             span="">
             <word id="1" form="ἡμεῖς" lemma="ἐγώ" postag="p1p---mn-" relation="SBJ" head="14"/>
             <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="14"/>

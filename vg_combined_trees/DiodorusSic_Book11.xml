@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <treebank xml:lang="grc" version="1.5" direction="ltr" format="aldt">
-    <comment>Diod. Sic. Book 11</comment>
+      <comment>Diod. Sic. Book 11</comment>
       <date>Mon May 18 12:40:46 +0000 2015</date>
       <annotator>
             <short/>
@@ -6097,7 +6097,7 @@
                   head="0"/>
             <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1"/>
             <word id="3" form="Πέρσαις" lemma="Πέρσης" postag="n-p---md-" relation="OBJ" head="1"/>
-            <word id="4" form="·" lemma="punc1" postag="u--------" relation="AuxK" head=""/>
+            <word id="4" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
       <sentence id="173"
             document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0060.tlg001.perseus-grc3"
@@ -8777,7 +8777,7 @@
                   head="26"/>
             <word id="29" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-     <sentence id="1" document_id="urn:cts:greekLit:tlg0060.tlg001.perseus-grc3" subdoc="11.21.1"
+      <sentence id="1" document_id="urn:cts:greekLit:tlg0060.tlg001.perseus-grc3" subdoc="11.21.1"
             span="">
             <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"/>
             <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="12"/>
@@ -16657,7 +16657,7 @@
                   head="35"/>
             <word id="41" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-     <sentence id="1" document_id="urn:cts:greekLit:tlg0060.tlg001.perseus-grc3" subdoc="11.41.1"
+      <sentence id="1" document_id="urn:cts:greekLit:tlg0060.tlg001.perseus-grc3" subdoc="11.41.1"
             span="">
             <word id="1" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="3"/>
             <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="14"/>
@@ -23710,7 +23710,7 @@
                   head="29"/>
             <word id="31" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-     <sentence id="1" document_id="urn:cts:greekLit:tlg0060.tlg001.perseus-grc3" subdoc="11.61.1"
+      <sentence id="1" document_id="urn:cts:greekLit:tlg0060.tlg001.perseus-grc3" subdoc="11.61.1"
             span="">
             <word id="1" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="15"/>
             <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="15"/>
@@ -31270,7 +31270,7 @@
                   head="15"/>
             <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-     <sentence id="1" document_id="urn:cts:greekLit:tlg0060.tlg001.perseus-grc3" subdoc="11.81.1"
+      <sentence id="1" document_id="urn:cts:greekLit:tlg0060.tlg001.perseus-grc3" subdoc="11.81.1"
             span="">
             <word id="1" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="4"/>
             <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" head="13"/>
@@ -32968,7 +32968,7 @@
       <sentence id="51" document_id="urn:cts:greekLit:tlg0060.tlg001.perseus-grc3" subdoc="11.86.2"
             span="">
             <word id="1" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="8"/>
-            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head=""/>
+            <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head="8"/>
             <word id="3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="4"/>
             <word id="4" form="Σικελίαν" lemma="Σικελία" postag="n-s---fa-" relation="ADV" head="1"/>
             <word id="5" form="Ἐγεσταίοις" lemma="Σεγεσταῖος" postag="n-p---md-" relation="PNOM_CO"
@@ -35419,5 +35419,5 @@
             <word id="25" form="βίβλον" lemma="βίβλος" postag="n-s---fa-" relation="OBJ" head="22"/>
             <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-    
+
 </treebank>
