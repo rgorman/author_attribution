@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+<DepDist_document>
    <comment>Aeschylus Seven</comment>
    <annotator>
         <short>FrancescoM</short>
@@ -53867,4 +53867,4 @@
             cite=" Aeschylus Seven: s-515 w-22"
             DepDist=""/>
    </sentence>
-</treebank>
+</DepDist_document>

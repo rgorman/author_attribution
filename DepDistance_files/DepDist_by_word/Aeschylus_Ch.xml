@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+<DepDist_document>
    <comment xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Aeschylus Ch</comment>
    <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
@@ -49600,4 +49600,4 @@
             cite=" Aeschylus Ch: s-504 w-16"
             DepDist=""/>
    </sentence>
-</treebank>
+</DepDist_document>

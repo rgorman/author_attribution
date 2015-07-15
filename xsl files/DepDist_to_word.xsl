@@ -6,17 +6,16 @@
     <xsl:output method="xml" indent="yes"/>
     
     <xsl:template match="treebank">
-        <treebank>
-        <xsl:copy-of select="@*"/>
-            <xsl:for-each select="comment">
+        
+        <DepDist_document>
+                        <xsl:for-each select="comment">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
             <xsl:for-each select="annotator">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
             <xsl:for-each select="sentence">
-                <sentence id="{./@id}" document_id="{./@document_id}" subdoc="{./@subdoc}"
-                    span="{./@span}">
+                <sentence><xsl:copy-of select="@*"/>
                     
                     <xsl:for-each select="word">
                         <word><xsl:copy-of select="@*"/><xsl:attribute name="DepDist">
@@ -31,6 +30,7 @@
                     
                 </sentence>
             </xsl:for-each>
-        </treebank>   
+        </DepDist_document>
+           
     </xsl:template>
 </xsl:stylesheet>

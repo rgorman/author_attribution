@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+<DepDist_document>
    <comment>Lysias Orat. 23</comment>
    <annotator>
             <short/>
@@ -1108,9 +1108,9 @@
             cite=" Lysias Orat. 23: s-5 w-42"
             DepDist=""/>
       <word id="43"
+            form="[0]"
             insertion_id="0042e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="OBJ"
@@ -2691,9 +2691,9 @@
             cite=" Lysias Orat. 23: s-14 w-12"
             DepDist=""/>
       <word id="13"
+            form="[0]"
             insertion_id="0012e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="PRED"
@@ -3468,9 +3468,9 @@
             cite=" Lysias Orat. 23: s-17 w-32"
             DepDist=""/>
       <word id="33"
+            form="[0]"
             insertion_id="0032e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="OBJ_AP_CO"
@@ -5407,9 +5407,9 @@
             cite=" Lysias Orat. 23: s-30 w-18"
             DepDist=""/>
       <word id="19"
+            form="ἐστιν"
             insertion_id="0018e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -5782,9 +5782,9 @@
             cite=" Lysias Orat. 23: s-31 w-45"
             DepDist=""/>
       <word id="46"
+            form="ἐστιν"
             insertion_id="0045e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -7002,9 +7002,9 @@
             cite=" Lysias Orat. 23: s-41 w-18"
             DepDist=""/>
       <word id="19"
+            form="[0]"
             insertion_id="0018e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="ADV"
@@ -7400,7 +7400,7 @@
             form="ἐγὼ"
             lemma="ἐγώ"
             postag="p1s---mn-"
-            relation=""
+            relation="SBJ"
             head="19"
             cite=" Lysias Orat. 23: s-46 w-17"
             DepDist="2"/>
@@ -7429,4 +7429,4 @@
             cite=" Lysias Orat. 23: s-46 w-20"
             DepDist=""/>
    </sentence>
-</treebank>
+</DepDist_document>
