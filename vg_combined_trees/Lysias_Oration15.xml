@@ -253,7 +253,7 @@
             <word id="26" form="αὐτοὺς" lemma="αὐτός" postag="p-p---ma-" relation="ATR" head="24"/>
             <word id="27" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="28"/>
             <word id="28" form="ψῆφον" lemma="ψῆφος" postag="n-s---fa-" relation="OBJ" head="29"/>
-            <word id="29" form="διδόντας" lemma="δίδωμι" postag="v-pppama-" relation="" head="25"/>
+            <word id="29" form="διδόντας" lemma="δίδωμι" postag="v-pppama-" relation="OBJ" head="25"/>
             <word id="30" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
       <sentence id="4"

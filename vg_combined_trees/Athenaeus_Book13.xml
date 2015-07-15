@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
-      <comment>Athenaeus Book 13</comment>
+    <comment>Athenaeus Book 13</comment>
       <date>Tue Oct 21 12:39:48 +0000 2014</date>
       <annotator>
             <short/>
@@ -1369,8 +1369,7 @@
             <word id="16" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="27"/>
             <word id="17" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="ATR_CO" head="27"/>
             <word id="18" form="Φεραία" lemma="Φεραῖος" postag="a-s---fn-" relation="ATR" head="19"/>
-            <word id="19" form="Νικησίπολις" lemma="Νικησίπολις" postag="n-s--fn-" relation="PNOM"
-                  head="17"/>
+            <word id="19" form="Νικησίπολις" lemma="Νικησίπολις" postag="n-s--fn-" relation="PNOM" head="17"/>
             <word id="20" form="," lemma="punc1" postag="u--------" relation="AuxX" head="23"/>
             <word id="21" form="ἥτις" lemma="ὅστις" postag="p-s---fn-" relation="SBJ" head="23"/>
             <word id="22" form="αὐτῷ" lemma="αὐτός" postag="p-s---nd-" relation="OBJ" head="23"/>
@@ -3069,7 +3068,7 @@
             <word id="21" insertion_id="0020e" artificial="elliptic" relation="ADV" form="[0]"
                   head="1"/>
       </sentence>
-      <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.10"
+     <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.10"
             span="οὐδένα0:.0">
             <word id="1" form="οὐδένα" lemma="οὐδείς" postag="p-s---ma-" relation="SBJ" head="4"/>
             <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="5"/>
@@ -6393,7 +6392,7 @@
                   head="35"/>
             <word id="38" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-      <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.20"
+     <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.20"
             span="ἐπαινῶ0::0">
             <word id="1" form="ἐπαινῶ" lemma="ἐπαινέω" postag="v1spia---" relation="PRED" head="0"/>
             <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="1"/>
@@ -10139,7 +10138,7 @@
             <word id="9" insertion_id="0008e" artificial="elliptic" relation="PRED" form="[0]"
                   head="0"/>
       </sentence>
-      <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.30"
+     <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.30"
             span="Ὁ0:Ὁ0">
             <word id="1" form="Ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4"/>
             <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="14"/>
@@ -13548,7 +13547,7 @@
                   head="9"/>
             <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       </sentence>
-      <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.40"
+     <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.40"
             span="Πτολεμαῖος0::0">
             <word id="1" form="Πτολεμαῖος" lemma="Πτολεμαῖος" postag="n-s---mn-" relation="SBJ"
                   head="15"/>
@@ -16865,7 +16864,7 @@
                   head="20"/>
             <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
             <word id="20" insertion_id="0019f" artificial="elliptic" relation="ADV" lemma="διδάσκω"
-                  postag="v-pppann-" form="διδάσκοντα" head="11"/>
+                  postag="v-pppann-" form="διδάσκοντα" head=""/>
       </sentence>
       <sentence id="133" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.46"
             span="σέ0::1">
@@ -17791,7 +17790,7 @@
                   head="6"/>
             <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
             <word id="6" insertion_id="0005f" artificial="elliptic" relation="OBJ" form="[1]"
-                  head="0"/>
+                  head=""/>
       </sentence>
       <sentence id="176" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.49"
             span="Μενάνδρῳ0::0">
@@ -18143,9 +18142,9 @@
             <word id="6" form="Φειδίου" lemma="Φειδίας" postag="n-s---mg-" relation="ATR" head="5"/>
             <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
             <word id="8" insertion_id="0007f" artificial="elliptic" relation="OBJ" form="[1]"
-                  head="0"/>
+                  head=""/>
       </sentence>
-      <sentence id="1" document_id="Perseus:text:2008.01.0405" subdoc="book=13:chapter=50"
+    <sentence id="1" document_id="Perseus:text:2008.01.0405" subdoc="book=13:chapter=50"
             span="ἐπεὶ0:.0">
             <word id="1" cid="44742653" form="ἐπεὶ" relation="AuxC" lemma="ἐπεί" postag="c--------"
                   head="15"/>
@@ -21682,7 +21681,7 @@
             <word id="36" insertion_id="0035e" artificial="elliptic" relation="APOS" form="[0]"
                   head="19"/>
       </sentence>
-      <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.60"
+    <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.60"
             span="Ἀπολλόδωρος0:.0">
             <word id="1" form="Ἀπολλόδωρος" lemma="Ἀπολλόδωρος" postag="n-s---mn-" relation="SBJ"
                   head="8"/>
@@ -25128,7 +25127,7 @@
             <word id="16" cid="44747478" form="." lemma="punc1" postag="u--------" relation="AuxK"
                   head="0"/>
       </sentence>
-      <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.70"
+    <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.70"
             span="καὶ0:.0">
             <word id="1" cid="44747479" form="καὶ" relation="AuxZ" lemma="καί" postag="d-------_"
                   head="4"/>
@@ -30754,7 +30753,7 @@
             <word id="11" cid="44750028" form="." lemma="punc1" postag="u--------" relation="AuxK"
                   head="0"/>
       </sentence>
-      <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.80"
+     <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.80"
             span="φιλόπαις0:.0">
             <word id="1" cid="44750029" form="φιλόπαις" relation="PNOM" lemma="φιλόπαις"
                   postag="n-s---mn-" head="3"/>
@@ -31691,8 +31690,7 @@
                   head="2"/>
             <word id="4" cid="44750452" form="ἠμείφθη" relation="PRED" lemma="ἀμείβω"
                   postag="v3saip---" head="0"/>
-            <word id="5" cid="44750453" form="ὁ" relation="ATR" lemma="ὁ" postag="l-s---mn-"
-                  head="6"/>
+            <word id="5" cid="44750453" form="ὁ" relation="ATR" lemma="ὁ" postag="l-s---mn-" head="6"/>
             <word id="6" cid="44750454" form="Ἐρετριεὺς" relation="SBJ_CO" lemma="Ἐρετριεύς"
                   postag="n-s---mn-" head="7"/>
             <word id="7" cid="44750455" form="ἢ" relation="COORD" lemma="ἤ1" postag="c--------"
@@ -36395,8 +36393,8 @@
                   head="8"/>
             <word id="5" cid="44752593" form="ἀγάλματος" relation="SBJ" lemma="ἄγαλμα"
                   postag="n-s---ng-" head="8"/>
-            <word id="6" cid="44752594" form="αὐτοῖσι" relation="ATR" lemma="αὐτός"
-                  postag="a-p---md_" head="7"/>
+            <word id="6" cid="44752594" form="αὐτοῖσι" relation="ATR" lemma="αὐτός" postag="a-p---md_"
+                  head="7"/>
             <word id="7" cid="44752595" form="βοστρύχοισιν" relation="ADV" lemma="βόστρυχος"
                   postag="n-p---md-" head="8"/>
             <word id="8" cid="44752596" form="ἐκπεπλασμένου" relation="ADV" lemma="ἐκ-πλάσσω"
@@ -37453,7 +37451,7 @@
             <word id="21" cid="44753067" form="." lemma="punc1" postag="u--------" relation="AuxK"
                   head="0"/>
       </sentence>
-      <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.90"
+     <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1" subdoc="13.90"
             span="οἶδα0::0">
             <word id="1" cid="44753068" form="οἶδα" relation="PRED" lemma="οἶδα" postag="v1sria---"
                   head="0"/>
