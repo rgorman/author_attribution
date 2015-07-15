@@ -17,15 +17,24 @@
                 <xsl:for-each select="word">
                     <xsl:choose>
                         <xsl:when test="./@insertion_id ">
-                            <word id="{./@id}" form="{./@form}" 
+                            <word id="{./@id}" 
+                                form="{./@form}" 
                                 insertion_id="{./@insertion_id}"
                                 artificial="{./@artificial}"
-                                lemma="{./@lemma}" postag="{./@postag}" relation="{./@relation}" 
-                                head="{./@head}" cite="{./@cite}{parent::sentence/@span} w-{./@id}"/>        
+                                lemma="{./@lemma}" 
+                                postag="{./@postag}" 
+                                relation="{./@relation}" 
+                                head="{./@head}" 
+                                cite="{./@cite}{parent::sentence/@span} w-{./@id}"/>        
                         </xsl:when>
                         <xsl:otherwise>
-                            <word id="{./@id}" form="{./@form}" lemma="{./@lemma}" postag="{./@postag}" relation="{./@relation}" 
-                                head="{./@head}" cite="{./@cite} {parent::sentence/@span} w-{./@id}"/>
+                            <word id="{./@id}" 
+                                form="{./@form}" 
+                                lemma="{./@lemma}" 
+                                postag="{./@postag}" 
+                                relation="{./@relation}" 
+                                head="{./@head}" 
+                                cite="{./@cite} {parent::sentence/@span} w-{./@id}"/>
                         </xsl:otherwise>
                     </xsl:choose>           
                                     

@@ -20,12 +20,12 @@ return
                             let $wh := data($w/@head)
                             
                             
-                           where $wh > 0 
+                            where $wh > 0
                             
                             return
                                 
                                 abs($wh - $wi)
-                            )) div (count($w) -1)
+                            )) div (count($w) - 1)
                         }"
                 >
                     
