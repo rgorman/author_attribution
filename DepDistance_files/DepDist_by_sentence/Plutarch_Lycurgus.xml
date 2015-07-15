@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DepDist_document>
-   <treebank xml:lang="grc" format="aldt" version="1.5">
+   <treebank xml:lang="grc" version="1.5" direction="ltr" format="aldt">
       <comment>Plutarch Lycurgus</comment>
       <annotator>
             <short/>

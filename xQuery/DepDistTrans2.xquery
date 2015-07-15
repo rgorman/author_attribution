@@ -6,7 +6,7 @@ let $a := $t/annotator
 
 return
     <DepDist_document>
-    <treebank xml:lang="{$t/@*}">
+    <treebank>{$t/@*}
         {$c} 
         {$a}
         {for $s in $t/sentence
