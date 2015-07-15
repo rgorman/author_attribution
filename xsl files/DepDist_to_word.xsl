@@ -8,28 +8,31 @@
     <xsl:template match="treebank">
         
         <DepDist_document>
-                        <xsl:for-each select="comment">
-                <xsl:copy-of select="."/>
-            </xsl:for-each>
-            <xsl:for-each select="annotator">
-                <xsl:copy-of select="."/>
-            </xsl:for-each>
-            <xsl:for-each select="sentence">
-                <sentence><xsl:copy-of select="@*"/>
-                    
-                    <xsl:for-each select="word">
-                        <word><xsl:copy-of select="@*"/><xsl:attribute name="DepDist">
-                            <xsl:choose>
-                                <xsl:when test="./@head != '0'">
-                                    <xsl:value-of select="abs(./@head - ./@id)"/>
-                                </xsl:when>
-                            </xsl:choose>
-                            
-                        </xsl:attribute></word>
-                    </xsl:for-each>
-                    
-                </sentence>
-            </xsl:for-each>
+            <treebank><xsl:copy-of select="@*"/>
+                <xsl:for-each select="comment">
+                    <xsl:copy-of select="."/>
+                </xsl:for-each>
+                <xsl:for-each select="annotator">
+                    <xsl:copy-of select="."/>
+                </xsl:for-each>
+                <xsl:for-each select="sentence">
+                    <sentence><xsl:copy-of select="@*"/>
+                        
+                        <xsl:for-each select="word">
+                            <word><xsl:copy-of select="@*"/><xsl:attribute name="DepDist">
+                                <xsl:choose>
+                                    <xsl:when test="./@head != '0'">
+                                        <xsl:value-of select="abs(./@head - ./@id)"/>
+                                    </xsl:when>
+                                </xsl:choose>
+                                
+                            </xsl:attribute></word>
+                        </xsl:for-each>
+                        
+                    </sentence>
+                </xsl:for-each>
+            </treebank>
+               
         </DepDist_document>
            
     </xsl:template>
