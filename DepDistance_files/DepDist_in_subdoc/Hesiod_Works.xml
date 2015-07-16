@@ -1,54 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
    <comment>
-      <comment>
-         <comment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                  xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">Hesiod Works</comment>
-      </comment>
+      <comment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">Hesiod Works</comment>
    </comment>
    <annotator>
-      <annotator>
-         <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
-		          <short>alexlessie</short>
-		          <name>Alex Lessie</name>
-		          <address>University of Pennsylvania, Philadelphia, PA, USA</address>
-	        </annotator>
-         <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
-		          <short>jfg</short>
-		          <name>J. F. Gentile</name>
-		          <address>University of Pennsylvania, Philadelphia, PA, USA</address>
-	        </annotator>
-         <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
-		          <short>megluthin</short>
-		          <name>Meg Luthin</name>
-		          <address>Tufts University, Medford, MA, USA</address>
-	        </annotator>
-         <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
-		          <short>millermo</short>
-		          <name>Molly Miller</name>
-		          <address>Tufts University, Medford, MA, USA</address>
-	        </annotator>
-         <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
-		          <short>samzukoff</short>
-		          <name>Sam Zukoff</name>
-		          <address>University of Georgia, Athens, GA, USA</address>
-	        </annotator>
-         <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
-		          <short>tovahk</short>
-		          <name>Tovah Keynton</name>
-		          <address>University of California, Berkeley, USA</address>
-	        </annotator>
+      <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
+            <short>alexlessie</short>
+            <name>Alex Lessie</name>
+            <address>University of Pennsylvania, Philadelphia, PA, USA</address>
+      </annotator>
+      <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
+            <short>jfg</short>
+            <name>J. F. Gentile</name>
+            <address>University of Pennsylvania, Philadelphia, PA, USA</address>
+      </annotator>
+      <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
+            <short>megluthin</short>
+            <name>Meg Luthin</name>
+            <address>Tufts University, Medford, MA, USA</address>
+      </annotator>
+      <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
+            <short>millermo</short>
+            <name>Molly Miller</name>
+            <address>Tufts University, Medford, MA, USA</address>
+      </annotator>
+      <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
+            <short>samzukoff</short>
+            <name>Sam Zukoff</name>
+            <address>University of Georgia, Athens, GA, USA</address>
+      </annotator>
+      <annotator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5">
+            <short>tovahk</short>
+            <name>Tovah Keynton</name>
+            <address>University of California, Berkeley, USA</address>
       </annotator>
    </annotator>
    <sentence id="1715891"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="1 DepDist 4.143"
+             subdoc="1 DepDist 3"
              span="Hesiod Works: s-1">
       <word id="1"
             form="μοῦσαι"
@@ -153,7 +149,7 @@
    </sentence>
    <sentence id="1715892"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="1 DepDist 5.632"
+             subdoc="1 DepDist 3.889"
              span="Hesiod Works: s-2">
       <word id="1"
             form="ὅντε"
@@ -293,7 +289,7 @@
    </sentence>
    <sentence id="1715893"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="1 DepDist 6.647"
+             subdoc="1 DepDist 5.212"
              span="Hesiod Works: s-3">
       <word id="1"
             form="ῥέα"
@@ -536,7 +532,7 @@
    </sentence>
    <sentence id="1715894"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="1 DepDist 3.545"
+             subdoc="1 DepDist 2.1"
              span="Hesiod Works: s-4">
       <word id="1"
             form="κλῦθι"
@@ -618,7 +614,7 @@
    </sentence>
    <sentence id="1715895"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="1 DepDist 4.556"
+             subdoc="1 DepDist 3"
              span="Hesiod Works: s-5">
       <word id="1"
             form="ἐγὼ"
@@ -686,7 +682,7 @@
    </sentence>
    <sentence id="1715896"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 3.429"
+             subdoc="11 DepDist 2.077"
              span="Hesiod Works: s-6">
       <word id="1"
             form="οὐκ"
@@ -791,7 +787,7 @@
    </sentence>
    <sentence id="1715897"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 3.3"
+             subdoc="11 DepDist 2.111"
              span="Hesiod Works: s-7">
       <word id="1"
             form="τὴν"
@@ -866,7 +862,7 @@
    </sentence>
    <sentence id="1715898"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 3.167"
+             subdoc="11 DepDist 1.6"
              span="Hesiod Works: s-8">
       <word id="1"
             form="διὰ"
@@ -913,7 +909,7 @@
    </sentence>
    <sentence id="1715899"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 5.25"
+             subdoc="11 DepDist 3.818"
              span="Hesiod Works: s-9">
       <word id="1"
             form="ἣ"
@@ -1002,7 +998,7 @@
    </sentence>
    <sentence id="1715900"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 3.467"
+             subdoc="11 DepDist 2.143"
              span="Hesiod Works: s-10">
       <word id="1"
             form="οὔτις"
@@ -1112,7 +1108,7 @@
    </sentence>
    <sentence id="1715901"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 4.429"
+             subdoc="11 DepDist 3.519"
              span="Hesiod Works: s-11">
       <word id="1"
             form="τὴν"
@@ -1315,7 +1311,7 @@
    </sentence>
    <sentence id="1715902"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 4.111"
+             subdoc="11 DepDist 2.5"
              span="Hesiod Works: s-12">
       <word id="1"
             form="ἥτε"
@@ -1383,7 +1379,7 @@
    </sentence>
    <sentence id="1715903"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 4.571"
+             subdoc="11 DepDist 3.35"
              span="Hesiod Works: s-13">
       <word id="1"
             form="εἰς"
@@ -1535,7 +1531,7 @@
    </sentence>
    <sentence id="1715904"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 3.333"
+             subdoc="11 DepDist 2.5"
              span="Hesiod Works: s-14">
       <word id="1"
             form="ζηλοῖ"
@@ -1603,7 +1599,7 @@
    </sentence>
    <sentence id="1715905"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 4.429"
+             subdoc="11 DepDist 3"
              span="Hesiod Works: s-15">
       <word id="1"
             form="ἀγαθὴ"
@@ -1659,7 +1655,7 @@
    </sentence>
    <sentence id="1715906"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 5.278"
+             subdoc="11 DepDist 4.118"
              span="Hesiod Works: s-16">
       <word id="1"
             form="καὶ"
@@ -1794,7 +1790,7 @@
    </sentence>
    <sentence id="1715907"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 4.24"
+             subdoc="11 DepDist 3.167"
              span="Hesiod Works: s-17">
       <word id="1"
             form="ὦ"
@@ -1974,7 +1970,7 @@
    </sentence>
    <sentence id="1715908"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 4.4"
+             subdoc="11 DepDist 3.333"
              span="Hesiod Works: s-18">
       <word id="1"
             form="ὤρη"
@@ -2154,7 +2150,7 @@
    </sentence>
    <sentence id="1715909"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 3.455"
+             subdoc="11 DepDist 2"
              span="Hesiod Works: s-19">
       <word id="1"
             form="τοῦ"
@@ -2236,7 +2232,7 @@
    </sentence>
    <sentence id="1715910"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 3.25"
+             subdoc="11 DepDist 1.857"
              span="Hesiod Works: s-20">
       <word id="1"
             form="σοὶ"
@@ -2297,7 +2293,7 @@
    </sentence>
    <sentence id="1715911"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 3.357"
+             subdoc="11 DepDist 2.308"
              span="Hesiod Works: s-21">
       <word id="1"
             form="ἀλλ᾽"
@@ -2400,7 +2396,7 @@
    </sentence>
    <sentence id="1715912"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 3.318"
+             subdoc="11 DepDist 2.095"
              span="Hesiod Works: s-22">
       <word id="1"
             form="ἤδη"
@@ -2559,7 +2555,7 @@
    </sentence>
    <sentence id="1715913"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="11 DepDist 7.5"
+             subdoc="11 DepDist 6.667"
              span="Hesiod Works: s-23">
       <word id="1"
             form="νήπιοι"
@@ -2722,7 +2718,7 @@
    </sentence>
    <sentence id="1715914"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 2.714"
+             subdoc="42 DepDist 1.5"
              span="Hesiod Works: s-24">
       <word id="1"
             form="κρύψαντες"
@@ -2776,7 +2772,7 @@
    </sentence>
    <sentence id="1715915"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 3.647"
+             subdoc="42 DepDist 2.375"
              span="Hesiod Works: s-25">
       <word id="1"
             form="ῥηιδίως"
@@ -2900,7 +2896,7 @@
    </sentence>
    <sentence id="1715916"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 4.5"
+             subdoc="42 DepDist 3"
              span="Hesiod Works: s-26">
       <word id="1"
             form="αἶψά"
@@ -3017,7 +3013,7 @@
    </sentence>
    <sentence id="1715917"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 2.538"
+             subdoc="42 DepDist 1.417"
              span="Hesiod Works: s-27">
       <word id="1"
             form="ἀλλὰ"
@@ -3113,7 +3109,7 @@
    </sentence>
    <sentence id="1715918"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 2.714"
+             subdoc="42 DepDist 1.333"
              span="Hesiod Works: s-28">
       <word id="1"
             form="τοὔνεκ᾽"
@@ -3167,7 +3163,7 @@
    </sentence>
    <sentence id="1715919"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 2"
+             subdoc="42 DepDist 1"
              span="Hesiod Works: s-29">
       <word id="1"
             form="κρύψε"
@@ -3200,7 +3196,7 @@
    </sentence>
    <sentence id="1715920"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 3.833"
+             subdoc="42 DepDist 2.588"
              span="Hesiod Works: s-30">
       <word id="1"
             form="τὸ"
@@ -3331,7 +3327,7 @@
    </sentence>
    <sentence id="1715921"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 2.857"
+             subdoc="42 DepDist 1.5"
              span="Hesiod Works: s-31">
       <word id="1"
             form="τὸν"
@@ -3385,7 +3381,7 @@
    </sentence>
    <sentence id="1715922"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 4"
+             subdoc="42 DepDist 2.783"
              span="Hesiod Works: s-32">
       <word id="1"
             form="Ἰαπετιονίδη"
@@ -3558,7 +3554,7 @@
    </sentence>
    <sentence id="1715923"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="42 DepDist 3.556"
+             subdoc="42 DepDist 2.353"
              span="Hesiod Works: s-33">
       <word id="1"
             form="τοῖς"
@@ -3689,7 +3685,7 @@
    </sentence>
    <sentence id="1715924"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 2"
+             subdoc="59 DepDist 0.5"
              span="Hesiod Works: s-34">
       <word id="1"
             form="ὣς"
@@ -3715,7 +3711,7 @@
    </sentence>
    <sentence id="1715925"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 2.889"
+             subdoc="59 DepDist 1.75"
              span="Hesiod Works: s-35">
       <word id="1"
             form="ἐκ"
@@ -3783,7 +3779,7 @@
    </sentence>
    <sentence id="1715926"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 4.966"
+             subdoc="59 DepDist 4"
              span="Hesiod Works: s-36">
       <word id="1"
             form="Ἥφαιστον"
@@ -3991,7 +3987,7 @@
    </sentence>
    <sentence id="1715927"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 3.6"
+             subdoc="59 DepDist 1.778"
              span="Hesiod Works: s-37">
       <word id="1"
             form="αὐτὰρ"
@@ -4068,7 +4064,7 @@
    </sentence>
    <sentence id="1715928"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 4.857"
+             subdoc="59 DepDist 3.077"
              span="Hesiod Works: s-38">
       <word id="1"
             form="καὶ"
@@ -4173,7 +4169,7 @@
    </sentence>
    <sentence id="1715929"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 4.2"
+             subdoc="59 DepDist 2.643"
              span="Hesiod Works: s-39">
       <word id="1"
             form="ἐν"
@@ -4283,7 +4279,7 @@
    </sentence>
    <sentence id="1715930"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 2"
+             subdoc="59 DepDist 0.5"
              span="Hesiod Works: s-40">
       <word id="1"
             form="ὣς"
@@ -4309,7 +4305,7 @@
    </sentence>
    <sentence id="1715931"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 2.429"
+             subdoc="59 DepDist 1.167"
              span="Hesiod Works: s-41">
       <word id="1"
             form="οἳ"
@@ -4363,7 +4359,7 @@
    </sentence>
    <sentence id="1715932"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 3.571"
+             subdoc="59 DepDist 2.385"
              span="Hesiod Works: s-42">
       <word id="1"
             form="αὐτίκα"
@@ -4466,7 +4462,7 @@
    </sentence>
    <sentence id="1715933"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 2.625"
+             subdoc="59 DepDist 1.571"
              span="Hesiod Works: s-43">
       <word id="1"
             form="ζῶσε"
@@ -4527,7 +4523,7 @@
    </sentence>
    <sentence id="1715934"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 5.467"
+             subdoc="59 DepDist 4"
              span="Hesiod Works: s-44">
       <word id="1"
             form="ἀμφὶ"
@@ -4639,7 +4635,7 @@
    </sentence>
    <sentence id="1715935"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 3.8"
+             subdoc="59 DepDist 2.333"
              span="Hesiod Works: s-45">
       <word id="1"
             form="ἀμφὶ"
@@ -4714,7 +4710,7 @@
    </sentence>
    <sentence id="1715936"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 3.556"
+             subdoc="59 DepDist 2.125"
              span="Hesiod Works: s-46">
       <word id="1"
             form="[πάντα"
@@ -4782,7 +4778,7 @@
    </sentence>
    <sentence id="1715937"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 6.619"
+             subdoc="59 DepDist 5"
              span="Hesiod Works: s-47">
       <word id="1"
             form="]"
@@ -4934,7 +4930,7 @@
    </sentence>
    <sentence id="1715938"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="59 DepDist 4.385"
+             subdoc="59 DepDist 3.12"
              span="Hesiod Works: s-48">
       <word id="1"
             form="ἐν"
@@ -5121,7 +5117,7 @@
    </sentence>
    <sentence id="1715939"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 4.4"
+             subdoc="83 DepDist 3.053"
              span="Hesiod Works: s-49">
       <word id="1"
             form="αὐτὰρ"
@@ -5266,7 +5262,7 @@
    </sentence>
    <sentence id="1715940"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 3.25"
+             subdoc="83 DepDist 2.185"
              span="Hesiod Works: s-50">
       <word id="1"
             form="οὐ"
@@ -5467,7 +5463,7 @@
    </sentence>
    <sentence id="1715941"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 5.273"
+             subdoc="83 DepDist 3.7"
              span="Hesiod Works: s-51">
       <word id="1"
             form="αὐτὰρ"
@@ -5549,7 +5545,7 @@
    </sentence>
    <sentence id="1715942"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 3.577"
+             subdoc="83 DepDist 2.52"
              span="Hesiod Works: s-52">
       <word id="1"
             form="Πρὶν"
@@ -5736,7 +5732,7 @@
    </sentence>
    <sentence id="1715943"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 3.857"
+             subdoc="83 DepDist 2.333"
              span="Hesiod Works: s-53">
       <word id="1"
             form="[αἶψα"
@@ -5790,7 +5786,7 @@
    </sentence>
    <sentence id="1715944"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 4.2"
+             subdoc="83 DepDist 2.444"
              span="Hesiod Works: s-54">
       <word id="1"
             form="]"
@@ -5865,7 +5861,7 @@
    </sentence>
    <sentence id="1715945"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 2.333"
+             subdoc="83 DepDist 1"
              span="Hesiod Works: s-55">
       <word id="1"
             form="ἀνθρώποισι"
@@ -5912,7 +5908,7 @@
    </sentence>
    <sentence id="1715946"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 4.444"
+             subdoc="83 DepDist 3.529"
              span="Hesiod Works: s-56">
       <word id="1"
             form="μούνη"
@@ -6043,7 +6039,7 @@
    </sentence>
    <sentence id="1715947"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 2.6"
+             subdoc="83 DepDist 1.444"
              span="Hesiod Works: s-57">
       <word id="1"
             form="πρόσθεν"
@@ -6118,7 +6114,7 @@
    </sentence>
    <sentence id="1715948"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 3.667"
+             subdoc="83 DepDist 1.875"
              span="Hesiod Works: s-58">
       <word id="1"
             form="]"
@@ -6186,7 +6182,7 @@
    </sentence>
    <sentence id="1715949"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 5.583"
+             subdoc="83 DepDist 4.455"
              span="Hesiod Works: s-59">
       <word id="1"
             form="πλείη"
@@ -6279,7 +6275,7 @@
    </sentence>
    <sentence id="1715950"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 6.167"
+             subdoc="83 DepDist 5.348"
              span="Hesiod Works: s-60">
       <word id="1"
             form="νοῦσοι"
@@ -6454,7 +6450,7 @@
    </sentence>
    <sentence id="1715951"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 2.875"
+             subdoc="83 DepDist 1.571"
              span="Hesiod Works: s-61">
       <word id="1"
             form="οὕτως"
@@ -6515,7 +6511,7 @@
    </sentence>
    <sentence id="1715952"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 4.231"
+             subdoc="83 DepDist 2.75"
              span="Hesiod Works: s-62">
       <word id="1"
             form="εἰ"
@@ -6611,7 +6607,7 @@
    </sentence>
    <sentence id="1715953"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 3.429"
+             subdoc="83 DepDist 2"
              span="Hesiod Works: s-63">
       <word id="1"
             form="σὺ"
@@ -6665,7 +6661,7 @@
    </sentence>
    <sentence id="1715954"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="83 DepDist 3.778"
+             subdoc="83 DepDist 2.125"
              span="Hesiod Works: s-64">
       <word id="1"
             form="ὡς"
@@ -6735,7 +6731,7 @@
    </sentence>
    <sentence id="1715955"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 4"
+             subdoc="109 DepDist 2.545"
              span="Hesiod Works: s-65">
       <word id="1"
             form="χρύσεον"
@@ -6824,7 +6820,7 @@
    </sentence>
    <sentence id="1715956"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 3.5"
+             subdoc="109 DepDist 2.222"
              span="Hesiod Works: s-66">
       <word id="1"
             form="οἳ"
@@ -6899,7 +6895,7 @@
    </sentence>
    <sentence id="1715957"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 5.2"
+             subdoc="109 DepDist 4.286"
              span="Hesiod Works: s-67">
       <word id="1"
             form="ὥστε"
@@ -7011,7 +7007,7 @@
    </sentence>
    <sentence id="1715958"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 3.45"
+             subdoc="109 DepDist 2.474"
              span="Hesiod Works: s-68">
       <word id="1"
             form="οὐ"
@@ -7156,7 +7152,7 @@
    </sentence>
    <sentence id="1715959"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 2.5"
+             subdoc="109 DepDist 1.6"
              span="Hesiod Works: s-69">
       <word id="1"
             form="θνῇσκον"
@@ -7203,7 +7199,7 @@
    </sentence>
    <sentence id="1715960"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 3.5"
+             subdoc="109 DepDist 2"
              span="Hesiod Works: s-70">
       <word id="1"
             form="ἐσθλὰ"
@@ -7250,7 +7246,7 @@
    </sentence>
    <sentence id="1715961"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 3"
+             subdoc="109 DepDist 1.9"
              span="Hesiod Works: s-71">
       <word id="1"
             form="καρπὸν"
@@ -7332,7 +7328,7 @@
    </sentence>
    <sentence id="1715962"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 3.4"
+             subdoc="109 DepDist 2"
              span="Hesiod Works: s-72">
       <word id="1"
             form="οἳ"
@@ -7407,7 +7403,7 @@
    </sentence>
    <sentence id="1715963"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 3.375"
+             subdoc="109 DepDist 1.714"
              span="Hesiod Works: s-73">
       <word id="1"
             form="ἀφνειοὶ"
@@ -7470,7 +7466,7 @@
    </sentence>
    <sentence id="1715964"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 9.953"
+             subdoc="109 DepDist 8.167"
              span="Hesiod Works: s-74">
       <word id="1"
             form="αὐτὰρ"
@@ -7778,7 +7774,7 @@
    </sentence>
    <sentence id="1715965"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 5.071"
+             subdoc="109 DepDist 3.667"
              span="Hesiod Works: s-75">
       <word id="1"
             form="καὶ"
@@ -7979,7 +7975,7 @@
    </sentence>
    <sentence id="1715966"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 4.5"
+             subdoc="109 DepDist 3.176"
              span="Hesiod Works: s-76">
       <word id="1"
             form="ἀλλ᾽"
@@ -8110,7 +8106,7 @@
    </sentence>
    <sentence id="1715967"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 4.263"
+             subdoc="109 DepDist 2.778"
              span="Hesiod Works: s-77">
       <word id="1"
             form="ἀλλ᾽"
@@ -8248,7 +8244,7 @@
    </sentence>
    <sentence id="1715968"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 4.536"
+             subdoc="109 DepDist 3.333"
              span="Hesiod Works: s-78">
       <word id="1"
             form="ὕβριν"
@@ -8451,7 +8447,7 @@
    </sentence>
    <sentence id="1715969"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="109 DepDist 3.368"
+             subdoc="109 DepDist 2.167"
              span="Hesiod Works: s-79">
       <word id="1"
             form="τοὺς"
@@ -8589,7 +8585,7 @@
    </sentence>
    <sentence id="1715970"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 7.137"
+             subdoc="140 DepDist 5.52"
              span="Hesiod Works: s-80">
       <word id="1"
             form="αὐτὰρ"
@@ -8951,7 +8947,7 @@
    </sentence>
    <sentence id="1715971"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 3"
+             subdoc="140 DepDist 1.714"
              span="Hesiod Works: s-81">
       <word id="1"
             form="οἷσιν"
@@ -9012,7 +9008,7 @@
    </sentence>
    <sentence id="1715972"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 3.143"
+             subdoc="140 DepDist 2.154"
              span="Hesiod Works: s-82">
       <word id="1"
             form="οὐ"
@@ -9115,7 +9111,7 @@
    </sentence>
    <sentence id="1715973"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 4.857"
+             subdoc="140 DepDist 4.077"
              span="Hesiod Works: s-83">
       <word id="1"
             form="μεγάλη"
@@ -9220,7 +9216,7 @@
    </sentence>
    <sentence id="1715974"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 5.625"
+             subdoc="140 DepDist 4.867"
              span="Hesiod Works: s-84">
       <word id="1"
             form="ὧν"
@@ -9339,7 +9335,7 @@
    </sentence>
    <sentence id="1715975"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 3"
+             subdoc="140 DepDist 1.6"
              span="Hesiod Works: s-85">
       <word id="1"
             form="μέλας"
@@ -9386,7 +9382,7 @@
    </sentence>
    <sentence id="1715976"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 4"
+             subdoc="140 DepDist 2.643"
              span="Hesiod Works: s-86">
       <word id="1"
             form="καὶ"
@@ -9496,7 +9492,7 @@
    </sentence>
    <sentence id="1715977"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 3.867"
+             subdoc="140 DepDist 2.929"
              span="Hesiod Works: s-87">
       <word id="1"
             form="θάνατος"
@@ -9606,7 +9602,7 @@
    </sentence>
    <sentence id="1715978"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 5.385"
+             subdoc="140 DepDist 4"
              span="Hesiod Works: s-88">
       <word id="1"
             form="αὐτὰρ"
@@ -9884,7 +9880,7 @@
    </sentence>
    <sentence id="1715979"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 7.302"
+             subdoc="140 DepDist 6.262"
              span="Hesiod Works: s-89">
       <word id="1"
             form="καὶ"
@@ -10194,7 +10190,7 @@
    </sentence>
    <sentence id="1715980"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 4.125"
+             subdoc="140 DepDist 2.826"
              span="Hesiod Works: s-90">
       <word id="1"
             form="ἔνθ᾽"
@@ -10367,7 +10363,7 @@
    </sentence>
    <sentence id="1715981"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 4.222"
+             subdoc="140 DepDist 3.192"
              span="Hesiod Works: s-91">
       <word id="1"
             form="καὶ"
@@ -10561,7 +10557,7 @@
    </sentence>
    <sentence id="1715982"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 3.4"
+             subdoc="140 DepDist 2"
              span="Hesiod Works: s-92">
       <word id="1"
             form="τηλοῦ"
@@ -10603,7 +10599,7 @@
    </sentence>
    <sentence id="1715983"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 2.5"
+             subdoc="140 DepDist 1"
              span="Hesiod Works: s-93">
       <word id="1"
             form="τοῖσιν"
@@ -10636,7 +10632,7 @@
    </sentence>
    <sentence id="1715984"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 3"
+             subdoc="140 DepDist 1.778"
              span="Hesiod Works: s-94">
       <word id="1"
             form="τοῦ"
@@ -10711,7 +10707,7 @@
    </sentence>
    <sentence id="1715985"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 4.667"
+             subdoc="140 DepDist 3.125"
              span="Hesiod Works: s-95">
       <word id="1"
             form="τοῖσι"
@@ -10779,7 +10775,7 @@
    </sentence>
    <sentence id="1715986"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 3.353"
+             subdoc="140 DepDist 2.062"
              span="Hesiod Works: s-96">
       <word id="1"
             form="Πέμπτον"
@@ -10901,21 +10897,9 @@
             head="0"
             cite=" Hesiod Works: s-96 w-17"/>
    </sentence>
-   <sentence id="1715987"
-             document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="140 DepDist 1"
-             span="Hesiod Works: s-97">
-      <word id="1"
-            form="]"
-            lemma="βραξκετ1"
-            postag="u--------"
-            relation="AuxG"
-            head="0"
-            cite=" Hesiod Works: s-97 w-1"/>
-   </sentence>
    <sentence id="1715988"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 3.188"
+             subdoc="174 DepDist 2.133"
              span="Hesiod Works: s-98">
       <word id="1"
             form="μηκέτ᾽"
@@ -11032,7 +11016,7 @@
    </sentence>
    <sentence id="1715989"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 3.429"
+             subdoc="174 DepDist 2"
              span="Hesiod Works: s-99">
       <word id="1"
             form="νῦν"
@@ -11086,7 +11070,7 @@
    </sentence>
    <sentence id="1715990"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 4.062"
+             subdoc="174 DepDist 3.2"
              span="Hesiod Works: s-100">
       <word id="1"
             form="οὐ"
@@ -11205,7 +11189,7 @@
    </sentence>
    <sentence id="1715991"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 3"
+             subdoc="174 DepDist 1.6"
              span="Hesiod Works: s-101">
       <word id="1"
             form="χαλεπὰς"
@@ -11252,7 +11236,7 @@
    </sentence>
    <sentence id="1715992"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 3.125"
+             subdoc="174 DepDist 1.714"
              span="Hesiod Works: s-102">
       <word id="1"
             form="ἀλλ᾽"
@@ -11313,7 +11297,7 @@
    </sentence>
    <sentence id="1715993"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 3.733"
+             subdoc="174 DepDist 2.714"
              span="Hesiod Works: s-103">
       <word id="1"
             form="Ζεὺς"
@@ -11423,7 +11407,7 @@
    </sentence>
    <sentence id="1715994"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 12.111"
+             subdoc="174 DepDist 11.571"
              span="Hesiod Works: s-104">
       <word id="1"
             form="οὐ"
@@ -11694,7 +11678,7 @@
    </sentence>
    <sentence id="1715995"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 2.667"
+             subdoc="174 DepDist 1.2"
              span="Hesiod Works: s-105">
       <word id="1"
             form="αἶψα"
@@ -11741,7 +11725,7 @@
    </sentence>
    <sentence id="1715996"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 3.786"
+             subdoc="174 DepDist 2.923"
              span="Hesiod Works: s-106">
       <word id="1"
             form="μέμψονται"
@@ -11844,7 +11828,7 @@
    </sentence>
    <sentence id="1715997"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 5.583"
+             subdoc="174 DepDist 4.091"
              span="Hesiod Works: s-107">
       <word id="1"
             form="οὐ"
@@ -11933,7 +11917,7 @@
    </sentence>
    <sentence id="1715998"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 3.333"
+             subdoc="174 DepDist 1.8"
              span="Hesiod Works: s-108">
       <word id="1"
             form="ἕτερος"
@@ -11980,7 +11964,7 @@
    </sentence>
    <sentence id="1715999"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 4.409"
+             subdoc="174 DepDist 3.476"
              span="Hesiod Works: s-109">
       <word id="1"
             form="οὐ"
@@ -12139,7 +12123,7 @@
    </sentence>
    <sentence id="1716000"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 4.273"
+             subdoc="174 DepDist 3.5"
              span="Hesiod Works: s-110">
       <word id="1"
             form="δίκη"
@@ -12223,7 +12207,7 @@
    </sentence>
    <sentence id="1716001"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 4.625"
+             subdoc="174 DepDist 3.733"
              span="Hesiod Works: s-111">
       <word id="1"
             form="βλάψει"
@@ -12340,7 +12324,7 @@
    </sentence>
    <sentence id="1716002"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 4.909"
+             subdoc="174 DepDist 3.5"
              span="Hesiod Works: s-112">
       <word id="1"
             form="ζῆλος"
@@ -12422,7 +12406,7 @@
    </sentence>
    <sentence id="1716003"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 5.87"
+             subdoc="174 DepDist 4.318"
              span="Hesiod Works: s-113">
       <word id="1"
             form="καὶ"
@@ -12588,7 +12572,7 @@
    </sentence>
    <sentence id="1716004"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 2.75"
+             subdoc="174 DepDist 1.571"
              span="Hesiod Works: s-114">
       <word id="1"
             form="τὰ"
@@ -12649,7 +12633,7 @@
    </sentence>
    <sentence id="1716005"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="174 DepDist 3"
+             subdoc="174 DepDist 1.6"
              span="Hesiod Works: s-115">
       <word id="1"
             form="κακοῦ"
@@ -12696,7 +12680,7 @@
    </sentence>
    <sentence id="1716006"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.444"
+             subdoc="202 DepDist 2.125"
              span="Hesiod Works: s-116">
       <word id="1"
             form="νῦν"
@@ -12764,7 +12748,7 @@
    </sentence>
    <sentence id="1716007"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.538"
+             subdoc="202 DepDist 2.5"
              span="Hesiod Works: s-117">
       <word id="1"
             form="ὧδ᾽"
@@ -12860,7 +12844,7 @@
    </sentence>
    <sentence id="1716008"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 5.455"
+             subdoc="202 DepDist 3.9"
              span="Hesiod Works: s-118">
       <word id="1"
             form="ἣ"
@@ -12942,7 +12926,7 @@
    </sentence>
    <sentence id="1716009"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 4"
+             subdoc="202 DepDist 2.5"
              span="Hesiod Works: s-119">
       <word id="1"
             form="τὴν"
@@ -12996,7 +12980,7 @@
    </sentence>
    <sentence id="1716010"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 2.8"
+             subdoc="202 DepDist 1.25"
              span="Hesiod Works: s-120">
       <word id="1"
             form="δαιμονίη"
@@ -13036,7 +13020,7 @@
    </sentence>
    <sentence id="1716011"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 2.5"
+             subdoc="202 DepDist 1.6"
              span="Hesiod Works: s-121">
       <word id="1"
             form="ἔχει"
@@ -13083,7 +13067,7 @@
    </sentence>
    <sentence id="1716012"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 4.214"
+             subdoc="202 DepDist 3.231"
              span="Hesiod Works: s-122">
       <word id="1"
             form="τῇ"
@@ -13186,7 +13170,7 @@
    </sentence>
    <sentence id="1716013"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.636"
+             subdoc="202 DepDist 2.7"
              span="Hesiod Works: s-123">
       <word id="1"
             form="δεῖπνον"
@@ -13268,7 +13252,7 @@
    </sentence>
    <sentence id="1716014"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 5.182"
+             subdoc="202 DepDist 3.6"
              span="Hesiod Works: s-124">
       <word id="1"
             form="ἄφρων"
@@ -13352,7 +13336,7 @@
    </sentence>
    <sentence id="1716015"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.444"
+             subdoc="202 DepDist 2.125"
              span="Hesiod Works: s-125">
       <word id="1"
             form="νίκης"
@@ -13420,7 +13404,7 @@
    </sentence>
    <sentence id="1716016"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 2.375"
+             subdoc="202 DepDist 1.286"
              span="Hesiod Works: s-126">
       <word id="1"
             form="ὣς"
@@ -13481,7 +13465,7 @@
    </sentence>
    <sentence id="1716017"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 4"
+             subdoc="202 DepDist 2.833"
              span="Hesiod Works: s-127">
       <word id="1"
             form="ὦ"
@@ -13577,7 +13561,7 @@
    </sentence>
    <sentence id="1716018"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 5"
+             subdoc="202 DepDist 3.571"
              span="Hesiod Works: s-128">
       <word id="1"
             form="ὕβρις"
@@ -13640,7 +13624,7 @@
    </sentence>
    <sentence id="1716019"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.875"
+             subdoc="202 DepDist 2.933"
              span="Hesiod Works: s-129">
       <word id="1"
             form="οὐ"
@@ -13757,7 +13741,7 @@
    </sentence>
    <sentence id="1716020"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 5.2"
+             subdoc="202 DepDist 3.667"
              span="Hesiod Works: s-130">
       <word id="1"
             form="ὁδὸς"
@@ -13834,7 +13818,7 @@
    </sentence>
    <sentence id="1716021"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.333"
+             subdoc="202 DepDist 2"
              span="Hesiod Works: s-131">
       <word id="1"
             form="Δίκη"
@@ -13902,7 +13886,7 @@
    </sentence>
    <sentence id="1716022"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.5"
+             subdoc="202 DepDist 2"
              span="Hesiod Works: s-132">
       <word id="1"
             form="παθὼν"
@@ -13949,7 +13933,7 @@
    </sentence>
    <sentence id="1716023"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 2.5"
+             subdoc="202 DepDist 1.286"
              span="Hesiod Works: s-133">
       <word id="1"
             form="αὐτίκα"
@@ -14010,7 +13994,7 @@
    </sentence>
    <sentence id="1716024"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 6.737"
+             subdoc="202 DepDist 5.056"
              span="Hesiod Works: s-134">
       <word id="1"
             form="τῆς"
@@ -14150,7 +14134,7 @@
    </sentence>
    <sentence id="1716025"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.76"
+             subdoc="202 DepDist 2.75"
              span="Hesiod Works: s-135">
       <word id="1"
             form="ἣ"
@@ -14330,7 +14314,7 @@
    </sentence>
    <sentence id="1716026"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 4.083"
+             subdoc="202 DepDist 3.13"
              span="Hesiod Works: s-136">
       <word id="1"
             form="Οἳ"
@@ -14503,7 +14487,7 @@
    </sentence>
    <sentence id="1716027"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 5.471"
+             subdoc="202 DepDist 4.688"
              span="Hesiod Works: s-137">
       <word id="1"
             form="εἰρήνη"
@@ -14629,7 +14613,7 @@
    </sentence>
    <sentence id="1716028"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 4.111"
+             subdoc="202 DepDist 3.176"
              span="Hesiod Works: s-138">
       <word id="1"
             form="οὐ"
@@ -14760,7 +14744,7 @@
    </sentence>
    <sentence id="1716029"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 4.905"
+             subdoc="202 DepDist 3.7"
              span="Hesiod Works: s-139">
       <word id="1"
             form="τοῖσι"
@@ -14914,7 +14898,7 @@
    </sentence>
    <sentence id="1716030"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.167"
+             subdoc="202 DepDist 1.6"
              span="Hesiod Works: s-140">
       <word id="1"
             form="εἰροπόκοι"
@@ -14961,7 +14945,7 @@
    </sentence>
    <sentence id="1716031"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 2.571"
+             subdoc="202 DepDist 1.667"
              span="Hesiod Works: s-141">
       <word id="1"
             form="τίκτουσιν"
@@ -15015,7 +14999,7 @@
    </sentence>
    <sentence id="1716032"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 2.4"
+             subdoc="202 DepDist 1.5"
              span="Hesiod Works: s-142">
       <word id="1"
             form="θάλλουσιν"
@@ -15055,7 +15039,7 @@
    </sentence>
    <sentence id="1716033"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="202 DepDist 3.167"
+             subdoc="202 DepDist 2.182"
              span="Hesiod Works: s-143">
       <word id="1"
             form="οὐ"
@@ -15144,7 +15128,7 @@
    </sentence>
    <sentence id="1716034"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 5.056"
+             subdoc="238 DepDist 3.412"
              span="Hesiod Works: s-144">
       <word id="1"
             form="οἷς"
@@ -15275,7 +15259,7 @@
    </sentence>
    <sentence id="1716035"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 3.667"
+             subdoc="238 DepDist 2.357"
              span="Hesiod Works: s-145">
       <word id="1"
             form="πολλάκι"
@@ -15385,7 +15369,7 @@
    </sentence>
    <sentence id="1716036"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 4"
+             subdoc="238 DepDist 2.917"
              span="Hesiod Works: s-146">
       <word id="1"
             form="τοῖσιν"
@@ -15483,7 +15467,7 @@
    </sentence>
    <sentence id="1716037"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 2"
+             subdoc="238 DepDist 1"
              span="Hesiod Works: s-147">
       <word id="1"
             form="ἀποφθινύθουσι"
@@ -15516,7 +15500,7 @@
    </sentence>
    <sentence id="1716038"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 3.083"
+             subdoc="238 DepDist 2.091"
              span="Hesiod Works: s-148">
       <word id="1"
             form="οὐ"
@@ -15605,7 +15589,7 @@
    </sentence>
    <sentence id="1716039"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 6.045"
+             subdoc="238 DepDist 5.238"
              span="Hesiod Works: s-149">
       <word id="1"
             form="ἄλλοτε"
@@ -15766,7 +15750,7 @@
    </sentence>
    <sentence id="1716040"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 3.273"
+             subdoc="238 DepDist 1.9"
              span="Hesiod Works: s-150">
       <word id="1"
             form="ὦ"
@@ -15848,7 +15832,7 @@
    </sentence>
    <sentence id="1716041"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 3.722"
+             subdoc="238 DepDist 2.471"
              span="Hesiod Works: s-151">
       <word id="1"
             form="ἐγγὺς"
@@ -15979,7 +15963,7 @@
    </sentence>
    <sentence id="1716042"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 3.308"
+             subdoc="238 DepDist 2.167"
              span="Hesiod Works: s-152">
       <word id="1"
             form="τρὶς"
@@ -16075,7 +16059,7 @@
    </sentence>
    <sentence id="1716043"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 3.375"
+             subdoc="238 DepDist 2.333"
              span="Hesiod Works: s-153">
       <word id="1"
             form="οἵ"
@@ -16192,7 +16176,7 @@
    </sentence>
    <sentence id="1716044"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 3.55"
+             subdoc="238 DepDist 2.421"
              span="Hesiod Works: s-154">
       <word id="1"
             form="ἡ"
@@ -16337,7 +16321,7 @@
    </sentence>
    <sentence id="1716045"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 3.944"
+             subdoc="238 DepDist 2.514"
              span="Hesiod Works: s-155">
       <word id="1"
             form="καί"
@@ -16594,7 +16578,7 @@
    </sentence>
    <sentence id="1716046"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 4.118"
+             subdoc="238 DepDist 2.125"
              span="Hesiod Works: s-156">
       <word id="1"
             form="ταῦτα"
@@ -16718,7 +16702,7 @@
    </sentence>
    <sentence id="1716047"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 4.053"
+             subdoc="238 DepDist 2.611"
              span="Hesiod Works: s-157">
       <word id="1"
             form="οἷ"
@@ -16858,7 +16842,7 @@
    </sentence>
    <sentence id="1716048"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 4.613"
+             subdoc="238 DepDist 3.1"
              span="Hesiod Works: s-158">
       <word id="1"
             form="πάντα"
@@ -17080,7 +17064,7 @@
    </sentence>
    <sentence id="1716049"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 4.692"
+             subdoc="238 DepDist 3.25"
              span="Hesiod Works: s-159">
       <word id="1"
             form="νῦν"
@@ -17176,7 +17160,7 @@
    </sentence>
    <sentence id="1716050"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 6.6"
+             subdoc="238 DepDist 5.143"
              span="Hesiod Works: s-160">
       <word id="1"
             form="ἐπεὶ"
@@ -17290,7 +17274,7 @@
    </sentence>
    <sentence id="1716051"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="238 DepDist 3.5"
+             subdoc="238 DepDist 2.111"
              span="Hesiod Works: s-161">
       <word id="1"
             form="ἀλλὰ"
@@ -17365,7 +17349,7 @@
    </sentence>
    <sentence id="1716052"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 5.381"
+             subdoc="274 DepDist 4.35"
              span="Hesiod Works: s-162">
       <word id="1"
             form="ὦ"
@@ -17517,7 +17501,7 @@
    </sentence>
    <sentence id="1716053"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 4.75"
+             subdoc="274 DepDist 3.739"
              span="Hesiod Works: s-163">
       <word id="1"
             form="τόνδε"
@@ -17692,7 +17676,7 @@
    </sentence>
    <sentence id="1716054"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 3.1"
+             subdoc="274 DepDist 2"
              span="Hesiod Works: s-164">
       <word id="1"
             form="ἀνθρώποισι"
@@ -17767,7 +17751,7 @@
    </sentence>
    <sentence id="1716055"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 5.444"
+             subdoc="274 DepDist 3.824"
              span="Hesiod Works: s-165">
       <word id="1"
             form="εἰ"
@@ -17898,7 +17882,7 @@
    </sentence>
    <sentence id="1716056"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 5.875"
+             subdoc="274 DepDist 4.087"
              span="Hesiod Works: s-166">
       <word id="1"
             form="ὃς"
@@ -18071,7 +18055,7 @@
    </sentence>
    <sentence id="1716057"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 4.375"
+             subdoc="274 DepDist 2.857"
              span="Hesiod Works: s-167">
       <word id="1"
             form="ἀνδρὸς"
@@ -18134,7 +18118,7 @@
    </sentence>
    <sentence id="1716058"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 3.727"
+             subdoc="274 DepDist 2.4"
              span="Hesiod Works: s-168">
       <word id="1"
             form="σοὶ"
@@ -18216,7 +18200,7 @@
    </sentence>
    <sentence id="1716059"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 3.4"
+             subdoc="274 DepDist 1.889"
              span="Hesiod Works: s-169">
       <word id="1"
             form="τὴν"
@@ -18291,7 +18275,7 @@
    </sentence>
    <sentence id="1716060"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 4.6"
+             subdoc="274 DepDist 3.444"
              span="Hesiod Works: s-170">
       <word id="1"
             form="λείη"
@@ -18368,7 +18352,7 @@
    </sentence>
    <sentence id="1716061"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 3.889"
+             subdoc="274 DepDist 2.375"
              span="Hesiod Works: s-171">
       <word id="1"
             form="τῆς"
@@ -18436,7 +18420,7 @@
    </sentence>
    <sentence id="1716062"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 5.462"
+             subdoc="274 DepDist 3.833"
              span="Hesiod Works: s-172">
       <word id="1"
             form="μακρὸς"
@@ -18534,7 +18518,7 @@
    </sentence>
    <sentence id="1716063"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 4.133"
+             subdoc="274 DepDist 2.643"
              span="Hesiod Works: s-173">
       <word id="1"
             form="ἐπὴν"
@@ -18644,7 +18628,7 @@
    </sentence>
    <sentence id="1716064"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 7.15"
+             subdoc="274 DepDist 5.474"
              span="Hesiod Works: s-174">
       <word id="1"
             form="οὗτος"
@@ -18791,7 +18775,7 @@
    </sentence>
    <sentence id="1716065"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 6.273"
+             subdoc="274 DepDist 4.8"
              span="Hesiod Works: s-175">
       <word id="1"
             form="ἐσθλὸς"
@@ -18875,7 +18859,7 @@
    </sentence>
    <sentence id="1716066"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 5.85"
+             subdoc="274 DepDist 4.105"
              span="Hesiod Works: s-176">
       <word id="1"
             form="ὃς"
@@ -19022,7 +19006,7 @@
    </sentence>
    <sentence id="1716067"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 3.969"
+             subdoc="274 DepDist 2.806"
              span="Hesiod Works: s-177">
       <word id="1"
             form="ἀλλὰ"
@@ -19251,7 +19235,7 @@
    </sentence>
    <sentence id="1716068"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 5.444"
+             subdoc="274 DepDist 4"
              span="Hesiod Works: s-178">
       <word id="1"
             form="λιμὸς"
@@ -19321,7 +19305,7 @@
    </sentence>
    <sentence id="1716069"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 4"
+             subdoc="274 DepDist 2.958"
              span="Hesiod Works: s-179">
       <word id="1"
             form="τῷ"
@@ -19501,7 +19485,7 @@
    </sentence>
    <sentence id="1716070"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 3.5"
+             subdoc="274 DepDist 2.333"
              span="Hesiod Works: s-180">
       <word id="1"
             form="σοὶ"
@@ -19618,7 +19602,7 @@
    </sentence>
    <sentence id="1716071"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 5"
+             subdoc="274 DepDist 3.444"
              span="Hesiod Works: s-181">
       <word id="1"
             form="ἐξ"
@@ -19695,7 +19679,7 @@
    </sentence>
    <sentence id="1716072"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 3.571"
+             subdoc="274 DepDist 1.833"
              span="Hesiod Works: s-182">
       <word id="1"
             form="καὶ"
@@ -19751,7 +19735,7 @@
    </sentence>
    <sentence id="1716073"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 4.917"
+             subdoc="274 DepDist 4.273"
              span="Hesiod Works: s-183">
       <word id="1"
             form="ἔργον"
@@ -19844,7 +19828,7 @@
    </sentence>
    <sentence id="1716074"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 4.273"
+             subdoc="274 DepDist 2.8"
              span="Hesiod Works: s-184">
       <word id="1"
             form="εἰ"
@@ -19926,7 +19910,7 @@
    </sentence>
    <sentence id="1716075"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 3.714"
+             subdoc="274 DepDist 2.167"
              span="Hesiod Works: s-185">
       <word id="1"
             form="πλούτῳ"
@@ -19980,7 +19964,7 @@
    </sentence>
    <sentence id="1716076"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 7.889"
+             subdoc="274 DepDist 6.154"
              span="Hesiod Works: s-186">
       <word id="1"
             form="δαίμονι"
@@ -20176,7 +20160,7 @@
    </sentence>
    <sentence id="1716077"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 4.111"
+             subdoc="274 DepDist 2.882"
              span="Hesiod Works: s-187">
       <word id="1"
             form="αἰδὼς"
@@ -20307,7 +20291,7 @@
    </sentence>
    <sentence id="1716078"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="274 DepDist 5.583"
+             subdoc="274 DepDist 4.545"
              span="Hesiod Works: s-188">
       <word id="1"
             form="αἰδώς"
@@ -20400,7 +20384,7 @@
    </sentence>
    <sentence id="1716079"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 5.091"
+             subdoc="320 DepDist 4.5"
              span="Hesiod Works: s-189">
       <word id="1"
             form="χρήματα"
@@ -20486,7 +20470,7 @@
    </sentence>
    <sentence id="1716080"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 7.351"
+             subdoc="320 DepDist 5.528"
              span="Hesiod Works: s-190">
       <word id="1"
             form="εἰ"
@@ -20752,7 +20736,7 @@
    </sentence>
    <sentence id="1716081"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 4.8"
+             subdoc="320 DepDist 3.895"
              span="Hesiod Works: s-191">
       <word id="1"
             form="ῥεῖα"
@@ -20897,7 +20881,7 @@
    </sentence>
    <sentence id="1716082"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 11.735"
+             subdoc="320 DepDist 10.042"
              span="Hesiod Works: s-192">
       <word id="1"
             form="ἶσον"
@@ -21251,7 +21235,7 @@
    </sentence>
    <sentence id="1716083"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 3.944"
+             subdoc="320 DepDist 3"
              span="Hesiod Works: s-193">
       <word id="1"
             form="τῷ"
@@ -21382,7 +21366,7 @@
    </sentence>
    <sentence id="1716084"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 3.667"
+             subdoc="320 DepDist 2.25"
              span="Hesiod Works: s-194">
       <word id="1"
             form="ἀλλὰ"
@@ -21450,7 +21434,7 @@
    </sentence>
    <sentence id="1716085"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 3.882"
+             subdoc="320 DepDist 2.875"
              span="Hesiod Works: s-195">
       <word id="1"
             form="κὰδ"
@@ -21574,7 +21558,7 @@
    </sentence>
    <sentence id="1716086"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 4.054"
+             subdoc="320 DepDist 3"
              span="Hesiod Works: s-196">
       <word id="1"
             form="ἄλλοτε"
@@ -21840,7 +21824,7 @@
    </sentence>
    <sentence id="1716087"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 3.273"
+             subdoc="320 DepDist 1.7"
              span="Hesiod Works: s-197">
       <word id="1"
             form="τὸν"
@@ -21922,7 +21906,7 @@
    </sentence>
    <sentence id="1716088"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 3.818"
+             subdoc="320 DepDist 2.7"
              span="Hesiod Works: s-198">
       <word id="1"
             form="τὸν"
@@ -22004,7 +21988,7 @@
    </sentence>
    <sentence id="1716089"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 5.353"
+             subdoc="320 DepDist 3.688"
              span="Hesiod Works: s-199">
       <word id="1"
             form="εἰ"
@@ -22128,7 +22112,7 @@
    </sentence>
    <sentence id="1716090"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 5.917"
+             subdoc="320 DepDist 4.545"
              span="Hesiod Works: s-200">
       <word id="1"
             form="πῆμα"
@@ -22221,7 +22205,7 @@
    </sentence>
    <sentence id="1716091"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 2.8"
+             subdoc="320 DepDist 1.889"
              span="Hesiod Works: s-201">
       <word id="1"
             form="ἔμμορέ"
@@ -22296,7 +22280,7 @@
    </sentence>
    <sentence id="1716092"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 3.333"
+             subdoc="320 DepDist 2.091"
              span="Hesiod Works: s-202">
       <word id="1"
             form="οὐ"
@@ -22385,7 +22369,7 @@
    </sentence>
    <sentence id="1716093"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 5.226"
+             subdoc="320 DepDist 4.133"
              span="Hesiod Works: s-203">
       <word id="1"
             form="εὖ"
@@ -22609,7 +22593,7 @@
    </sentence>
    <sentence id="1716094"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 2.5"
+             subdoc="320 DepDist 1"
              span="Hesiod Works: s-204">
       <word id="1"
             form="μὴ"
@@ -22642,7 +22626,7 @@
    </sentence>
    <sentence id="1716095"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 3.333"
+             subdoc="320 DepDist 1.8"
              span="Hesiod Works: s-205">
       <word id="1"
             form="κακὰ"
@@ -22691,7 +22675,7 @@
    </sentence>
    <sentence id="1716096"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 2.667"
+             subdoc="320 DepDist 1.25"
              span="Hesiod Works: s-206">
       <word id="1"
             form="τὸν"
@@ -22759,7 +22743,7 @@
    </sentence>
    <sentence id="1716097"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 4.125"
+             subdoc="320 DepDist 2.8"
              span="Hesiod Works: s-207">
       <word id="1"
             form="καὶ"
@@ -22876,7 +22860,7 @@
    </sentence>
    <sentence id="1716098"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 3.7"
+             subdoc="320 DepDist 2.222"
              span="Hesiod Works: s-208">
       <word id="1"
             form="δώτῃ"
@@ -22951,7 +22935,7 @@
    </sentence>
    <sentence id="1716099"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 5.5"
+             subdoc="320 DepDist 4.636"
              span="Hesiod Works: s-209">
       <word id="1"
             form="δὼς"
@@ -23044,7 +23028,7 @@
    </sentence>
    <sentence id="1716100"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 8.708"
+             subdoc="320 DepDist 7.304"
              span="Hesiod Works: s-210">
       <word id="1"
             form="ὃς"
@@ -23219,7 +23203,7 @@
    </sentence>
    <sentence id="1716101"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 4.947"
+             subdoc="320 DepDist 3.278"
              span="Hesiod Works: s-211">
       <word id="1"
             form="ὃς"
@@ -23357,7 +23341,7 @@
    </sentence>
    <sentence id="1716102"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 3.667"
+             subdoc="320 DepDist 2.091"
              span="Hesiod Works: s-212">
       <word id="1"
             form="ὃς"
@@ -23446,7 +23430,7 @@
    </sentence>
    <sentence id="1716103"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 6.4"
+             subdoc="320 DepDist 4.684"
              span="Hesiod Works: s-213">
       <word id="1"
             form="εἰ"
@@ -23591,7 +23575,7 @@
    </sentence>
    <sentence id="1716104"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 4.5"
+             subdoc="320 DepDist 2.889"
              span="Hesiod Works: s-214">
       <word id="1"
             form="οὐ"
@@ -23666,7 +23650,7 @@
    </sentence>
    <sentence id="1716105"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 5.182"
+             subdoc="320 DepDist 3.8"
              span="Hesiod Works: s-215">
       <word id="1"
             form="οἴκοι"
@@ -23752,7 +23736,7 @@
    </sentence>
    <sentence id="1716106"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 7.167"
+             subdoc="320 DepDist 6.235"
              span="Hesiod Works: s-216">
       <word id="1"
             form="ἐσθλὸν"
@@ -23887,7 +23871,7 @@
    </sentence>
    <sentence id="1716107"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 2.9"
+             subdoc="320 DepDist 1.889"
              span="Hesiod Works: s-217">
       <word id="1"
             form="ἀρχομένου"
@@ -23962,7 +23946,7 @@
    </sentence>
    <sentence id="1716108"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="320 DepDist 4.429"
+             subdoc="320 DepDist 3"
              span="Hesiod Works: s-218">
       <word id="1"
             form="δειλὴ"
@@ -24018,7 +24002,7 @@
    </sentence>
    <sentence id="1716109"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 4.25"
+             subdoc="370 DepDist 2.714"
              span="Hesiod Works: s-219">
       <word id="1"
             form="μισθὸς"
@@ -24079,7 +24063,7 @@
    </sentence>
    <sentence id="1716110"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 4"
+             subdoc="370 DepDist 2.429"
              span="Hesiod Works: s-220">
       <word id="1"
             form="καί"
@@ -24140,7 +24124,7 @@
    </sentence>
    <sentence id="1716111"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3.778"
+             subdoc="370 DepDist 2.25"
              span="Hesiod Works: s-221">
       <word id="1"
             form="πίστεις"
@@ -24208,7 +24192,7 @@
    </sentence>
    <sentence id="1716112"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3.857"
+             subdoc="370 DepDist 2.538"
              span="Hesiod Works: s-222">
       <word id="1"
             form="μὴ"
@@ -24311,7 +24295,7 @@
    </sentence>
    <sentence id="1716113"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3.3"
+             subdoc="370 DepDist 1.889"
              span="Hesiod Works: s-223">
       <word id="1"
             form="ὃς"
@@ -24386,7 +24370,7 @@
    </sentence>
    <sentence id="1716114"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3"
+             subdoc="370 DepDist 1.846"
              span="Hesiod Works: s-224">
       <word id="1"
             form="μουνογενὴς"
@@ -24489,7 +24473,7 @@
    </sentence>
    <sentence id="1716115"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 2.571"
+             subdoc="370 DepDist 1.333"
              span="Hesiod Works: s-225">
       <word id="1"
             form="γηραιὸς"
@@ -24543,7 +24527,7 @@
    </sentence>
    <sentence id="1716116"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3.222"
+             subdoc="370 DepDist 1.875"
              span="Hesiod Works: s-226">
       <word id="1"
             form="ῥεῖα"
@@ -24611,7 +24595,7 @@
    </sentence>
    <sentence id="1716117"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 5.182"
+             subdoc="370 DepDist 4.1"
              span="Hesiod Works: s-227">
       <word id="1"
             form="πλείων"
@@ -24697,7 +24681,7 @@
    </sentence>
    <sentence id="1716118"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 4.211"
+             subdoc="370 DepDist 3.278"
              span="Hesiod Works: s-228">
       <word id="1"
             form="σοὶ"
@@ -24835,7 +24819,7 @@
    </sentence>
    <sentence id="1716119"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3.455"
+             subdoc="370 DepDist 2"
              span="Hesiod Works: s-229">
       <word id="1"
             form="πληιάδων"
@@ -24919,7 +24903,7 @@
    </sentence>
    <sentence id="1716120"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 4.6"
+             subdoc="370 DepDist 3.158"
              span="Hesiod Works: s-230">
       <word id="1"
             form="αἳ"
@@ -25064,7 +25048,7 @@
    </sentence>
    <sentence id="1716121"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 5"
+             subdoc="370 DepDist 4"
              span="Hesiod Works: s-231">
       <word id="1"
             form="οὗτός"
@@ -25244,7 +25228,7 @@
    </sentence>
    <sentence id="1716122"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3.9"
+             subdoc="370 DepDist 2.579"
              span="Hesiod Works: s-232">
       <word id="1"
             form="γυμνὸν"
@@ -25389,7 +25373,7 @@
    </sentence>
    <sentence id="1716123"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3.5"
+             subdoc="370 DepDist 2.353"
              span="Hesiod Works: s-233">
       <word id="1"
             form="ὥς"
@@ -25520,7 +25504,7 @@
    </sentence>
    <sentence id="1716124"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3.571"
+             subdoc="370 DepDist 2"
              span="Hesiod Works: s-234">
       <word id="1"
             form="ὡς"
@@ -25574,7 +25558,7 @@
    </sentence>
    <sentence id="1716125"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3.333"
+             subdoc="370 DepDist 2.375"
              span="Hesiod Works: s-235">
       <word id="1"
             form="ἐγὼ"
@@ -25642,7 +25626,7 @@
    </sentence>
    <sentence id="1716126"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 4.3"
+             subdoc="370 DepDist 3.379"
              span="Hesiod Works: s-236">
       <word id="1"
             form="ἐργάζευ"
@@ -25857,7 +25841,7 @@
    </sentence>
    <sentence id="1716127"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 4"
+             subdoc="370 DepDist 2.429"
              span="Hesiod Works: s-237">
       <word id="1"
             form="δὶς"
@@ -25918,7 +25902,7 @@
    </sentence>
    <sentence id="1716128"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 4.188"
+             subdoc="370 DepDist 3.267"
              span="Hesiod Works: s-238">
       <word id="1"
             form="ἢν"
@@ -26035,7 +26019,7 @@
    </sentence>
    <sentence id="1716129"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 2.5"
+             subdoc="370 DepDist 1.2"
              span="Hesiod Works: s-239">
       <word id="1"
             form="ἀχρεῖος"
@@ -26082,7 +26066,7 @@
    </sentence>
    <sentence id="1716130"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="370 DepDist 3"
+             subdoc="370 DepDist 1.9"
              span="Hesiod Works: s-240">
       <word id="1"
             form="ἀλλά"
@@ -26164,7 +26148,7 @@
    </sentence>
    <sentence id="1716131"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 9.038"
+             subdoc="405 DepDist 7.804"
              span="Hesiod Works: s-241">
       <word id="1"
             form="οἶκον"
@@ -26535,7 +26519,7 @@
    </sentence>
    <sentence id="1716132"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 3.3"
+             subdoc="405 DepDist 2.222"
              span="Hesiod Works: s-242">
       <word id="1"
             form="μη"
@@ -26610,7 +26594,7 @@
    </sentence>
    <sentence id="1716133"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 3.909"
+             subdoc="405 DepDist 2.5"
              span="Hesiod Works: s-243">
       <word id="1"
             form="οὐ"
@@ -26694,7 +26678,7 @@
    </sentence>
    <sentence id="1716134"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 3.333"
+             subdoc="405 DepDist 1.8"
              span="Hesiod Works: s-244">
       <word id="1"
             form="μελέτη"
@@ -26741,7 +26725,7 @@
    </sentence>
    <sentence id="1716135"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 3.714"
+             subdoc="405 DepDist 2.167"
              span="Hesiod Works: s-245">
       <word id="1"
             form="αἰεὶ"
@@ -26795,7 +26779,7 @@
    </sentence>
    <sentence id="1716136"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 5.522"
+             subdoc="405 DepDist 3.727"
              span="Hesiod Works: s-246">
       <word id="1"
             form="ἦμος"
@@ -26963,7 +26947,7 @@
    </sentence>
    <sentence id="1716137"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 6.105"
+             subdoc="405 DepDist 4.556"
              span="Hesiod Works: s-247">
       <word id="1"
             form="δὴ"
@@ -27101,7 +27085,7 @@
    </sentence>
    <sentence id="1716138"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 5.312"
+             subdoc="405 DepDist 3.667"
              span="Hesiod Works: s-248">
       <word id="1"
             form="τῆμος"
@@ -27218,7 +27202,7 @@
    </sentence>
    <sentence id="1716139"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 2.429"
+             subdoc="405 DepDist 1.167"
              span="Hesiod Works: s-249">
       <word id="1"
             form="τῆμος"
@@ -27272,7 +27256,7 @@
    </sentence>
    <sentence id="1716140"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 4.615"
+             subdoc="405 DepDist 3.583"
              span="Hesiod Works: s-250">
       <word id="1"
             form="ὄλμον"
@@ -27368,7 +27352,7 @@
    </sentence>
    <sentence id="1716141"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 4.875"
+             subdoc="405 DepDist 3.429"
              span="Hesiod Works: s-251">
       <word id="1"
             form="μάλα"
@@ -27431,7 +27415,7 @@
    </sentence>
    <sentence id="1716142"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 6.5"
+             subdoc="405 DepDist 5.182"
              span="Hesiod Works: s-252">
       <word id="1"
             form="εἰ"
@@ -27522,7 +27506,7 @@
    </sentence>
    <sentence id="1716143"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 2.714"
+             subdoc="405 DepDist 1.333"
              span="Hesiod Works: s-253">
       <word id="1"
             form="τρισπίθαμον"
@@ -27576,7 +27560,7 @@
    </sentence>
    <sentence id="1716144"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 2.8"
+             subdoc="405 DepDist 1.25"
              span="Hesiod Works: s-254">
       <word id="1"
             form="πόλλ᾽"
@@ -27618,7 +27602,7 @@
    </sentence>
    <sentence id="1716145"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 4.45"
+             subdoc="405 DepDist 3.579"
              span="Hesiod Works: s-255">
       <word id="1"
             form="φέρειν"
@@ -27763,7 +27747,7 @@
    </sentence>
    <sentence id="1716146"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 4.842"
+             subdoc="405 DepDist 3.722"
              span="Hesiod Works: s-256">
       <word id="1"
             form="ὃς"
@@ -27901,7 +27885,7 @@
    </sentence>
    <sentence id="1716147"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 3.526"
+             subdoc="405 DepDist 2.556"
              span="Hesiod Works: s-257">
       <word id="1"
             form="δοιὰ"
@@ -28041,7 +28025,7 @@
    </sentence>
    <sentence id="1716148"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 4.545"
+             subdoc="405 DepDist 2.9"
              span="Hesiod Works: s-258">
       <word id="1"
             form="εἴ"
@@ -28123,7 +28107,7 @@
    </sentence>
    <sentence id="1716149"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 4.929"
+             subdoc="405 DepDist 3.231"
              span="Hesiod Works: s-259">
       <word id="1"
             form="δάφνης"
@@ -28228,7 +28212,7 @@
    </sentence>
    <sentence id="1716150"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 5.235"
+             subdoc="405 DepDist 4.25"
              span="Hesiod Works: s-260">
       <word id="1"
             form="βόε"
@@ -28354,7 +28338,7 @@
    </sentence>
    <sentence id="1716151"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 3.2"
+             subdoc="405 DepDist 1.75"
              span="Hesiod Works: s-261">
       <word id="1"
             form="τὼ"
@@ -28396,7 +28380,7 @@
    </sentence>
    <sentence id="1716152"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 5.421"
+             subdoc="405 DepDist 3.889"
              span="Hesiod Works: s-262">
       <word id="1"
             form="οὐκ"
@@ -28534,7 +28518,7 @@
    </sentence>
    <sentence id="1716153"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 4.065"
+             subdoc="405 DepDist 2.967"
              span="Hesiod Works: s-263">
       <word id="1"
             form="τοῖς"
@@ -28756,7 +28740,7 @@
    </sentence>
    <sentence id="1716154"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 5.846"
+             subdoc="405 DepDist 4.25"
              span="Hesiod Works: s-264">
       <word id="1"
             form="τοῦ"
@@ -28854,7 +28838,7 @@
    </sentence>
    <sentence id="1716155"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="405 DepDist 3.571"
+             subdoc="405 DepDist 2"
              span="Hesiod Works: s-265">
       <word id="1"
             form="κουρότερος"
@@ -28908,7 +28892,7 @@
    </sentence>
    <sentence id="1716156"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 3.786"
+             subdoc="448 DepDist 2.923"
              span="Hesiod Works: s-266">
       <word id="1"
             form="φράζεσθαι"
@@ -29011,7 +28995,7 @@
    </sentence>
    <sentence id="1716157"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 3.364"
+             subdoc="448 DepDist 2"
              span="Hesiod Works: s-267">
       <word id="1"
             form="ἥτ᾽"
@@ -29093,7 +29077,7 @@
    </sentence>
    <sentence id="1716158"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 2.667"
+             subdoc="448 DepDist 1.4"
              span="Hesiod Works: s-268">
       <word id="1"
             form="κραδίην"
@@ -29140,7 +29124,7 @@
    </sentence>
    <sentence id="1716159"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 2.5"
+             subdoc="448 DepDist 1.286"
              span="Hesiod Works: s-269">
       <word id="1"
             form="δὴ"
@@ -29201,7 +29185,7 @@
    </sentence>
    <sentence id="1716160"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 3.833"
+             subdoc="448 DepDist 2.4"
              span="Hesiod Works: s-270">
       <word id="1"
             form="ῥηίδιον"
@@ -29250,7 +29234,7 @@
    </sentence>
    <sentence id="1716161"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 2.2"
+             subdoc="448 DepDist 1"
              span="Hesiod Works: s-271">
       <word id="1"
             form="βόε"
@@ -29290,7 +29274,7 @@
    </sentence>
    <sentence id="1716162"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 3.6"
+             subdoc="448 DepDist 2.25"
              span="Hesiod Works: s-272">
       <word id="1"
             form="ῥηίδιον"
@@ -29332,7 +29316,7 @@
    </sentence>
    <sentence id="1716163"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 2"
+             subdoc="448 DepDist 1"
              span="Hesiod Works: s-273">
       <word id="1"
             form="πάρα"
@@ -29365,7 +29349,7 @@
    </sentence>
    <sentence id="1716164"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 5.4"
+             subdoc="448 DepDist 3.857"
              span="Hesiod Works: s-274">
       <word id="1"
             form="φησὶ"
@@ -29475,7 +29459,7 @@
    </sentence>
    <sentence id="1716165"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 6"
+             subdoc="448 DepDist 4.385"
              span="Hesiod Works: s-275">
       <word id="1"
             form="ἑκατὸν"
@@ -29580,7 +29564,7 @@
    </sentence>
    <sentence id="1716166"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 4.606"
+             subdoc="448 DepDist 3.375"
              span="Hesiod Works: s-276">
       <word id="1"
             form="εὖτ᾽"
@@ -29816,7 +29800,7 @@
    </sentence>
    <sentence id="1716167"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 2"
+             subdoc="448 DepDist 0.5"
              span="Hesiod Works: s-277">
       <word id="1"
             form="ἦρι"
@@ -29842,7 +29826,7 @@
    </sentence>
    <sentence id="1716168"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 4"
+             subdoc="448 DepDist 2.5"
              span="Hesiod Works: s-278">
       <word id="1"
             form="θέρεος"
@@ -29896,7 +29880,7 @@
    </sentence>
    <sentence id="1716169"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 3"
+             subdoc="448 DepDist 1.833"
              span="Hesiod Works: s-279">
       <word id="1"
             form="νειὸν"
@@ -29950,7 +29934,7 @@
    </sentence>
    <sentence id="1716170"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 3.714"
+             subdoc="448 DepDist 2.5"
              span="Hesiod Works: s-280">
       <word id="1"
             form="νειὸς"
@@ -30008,7 +29992,7 @@
    </sentence>
    <sentence id="1716171"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 5.088"
+             subdoc="448 DepDist 4.182"
              span="Hesiod Works: s-281">
       <word id="1"
             form="εὔχεσθαι"
@@ -30251,7 +30235,7 @@
    </sentence>
    <sentence id="1716172"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 4.538"
+             subdoc="448 DepDist 3"
              span="Hesiod Works: s-282">
       <word id="1"
             form="ὁ"
@@ -30347,7 +30331,7 @@
    </sentence>
    <sentence id="1716173"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 5.5"
+             subdoc="448 DepDist 4.364"
              span="Hesiod Works: s-283">
       <word id="1"
             form="ἐυθημοσύνη"
@@ -30440,7 +30424,7 @@
    </sentence>
    <sentence id="1716174"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 5.762"
+             subdoc="448 DepDist 4.15"
              span="Hesiod Works: s-284">
       <word id="1"
             form="ὧδέ"
@@ -30592,7 +30576,7 @@
    </sentence>
    <sentence id="1716175"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 2.667"
+             subdoc="448 DepDist 1.5"
              span="Hesiod Works: s-285">
       <word id="1"
             form="καί"
@@ -30660,7 +30644,7 @@
    </sentence>
    <sentence id="1716176"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 4"
+             subdoc="448 DepDist 2.545"
              span="Hesiod Works: s-286">
       <word id="1"
             form="εὐοχθέων"
@@ -30749,7 +30733,7 @@
    </sentence>
    <sentence id="1716177"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="448 DepDist 3.571"
+             subdoc="448 DepDist 2"
              span="Hesiod Works: s-287">
       <word id="1"
             form="σέο"
@@ -30803,7 +30787,7 @@
    </sentence>
    <sentence id="1716178"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 6.207"
+             subdoc="479 DepDist 4.464"
              span="Hesiod Works: s-288">
       <word id="1"
             form="εἰ"
@@ -31011,7 +30995,7 @@
    </sentence>
    <sentence id="1716179"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 3"
+             subdoc="479 DepDist 1.5"
              span="Hesiod Works: s-289">
       <word id="1"
             form="παῦροι"
@@ -31051,7 +31035,7 @@
    </sentence>
    <sentence id="1716180"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 6.267"
+             subdoc="479 DepDist 5.143"
              span="Hesiod Works: s-290">
       <word id="1"
             form="ἄλλοτε"
@@ -31165,7 +31149,7 @@
    </sentence>
    <sentence id="1716181"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 5.25"
+             subdoc="479 DepDist 3.636"
              span="Hesiod Works: s-291">
       <word id="1"
             form="εἰ"
@@ -31254,7 +31238,7 @@
    </sentence>
    <sentence id="1716182"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 4.939"
+             subdoc="479 DepDist 3.344"
              span="Hesiod Works: s-292">
       <word id="1"
             form="ἦμος"
@@ -31490,7 +31474,7 @@
    </sentence>
    <sentence id="1716183"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 3.5"
+             subdoc="479 DepDist 2"
              span="Hesiod Works: s-293">
       <word id="1"
             form="οὕτω"
@@ -31537,7 +31521,7 @@
    </sentence>
    <sentence id="1716184"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 3.571"
+             subdoc="479 DepDist 2"
              span="Hesiod Works: s-294">
       <word id="1"
             form="ἐν"
@@ -31591,7 +31575,7 @@
    </sentence>
    <sentence id="1716185"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 3.333"
+             subdoc="479 DepDist 2.182"
              span="Hesiod Works: s-295">
       <word id="1"
             form="μη"
@@ -31680,7 +31664,7 @@
    </sentence>
    <sentence id="1716186"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 4.537"
+             subdoc="479 DepDist 3.55"
              span="Hesiod Works: s-296">
       <word id="1"
             form="πὰρ"
@@ -31972,7 +31956,7 @@
    </sentence>
    <sentence id="1716187"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 5.471"
+             subdoc="479 DepDist 3.812"
              span="Hesiod Works: s-297">
       <word id="1"
             form="πολλὰ"
@@ -32096,7 +32080,7 @@
    </sentence>
    <sentence id="1716188"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 4.118"
+             subdoc="479 DepDist 2.875"
              span="Hesiod Works: s-298">
       <word id="1"
             form="ἐλπὶς"
@@ -32220,7 +32204,7 @@
    </sentence>
    <sentence id="1716189"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 3.125"
+             subdoc="479 DepDist 2.286"
              span="Hesiod Works: s-299">
       <word id="1"
             form="δείκνυε"
@@ -32281,7 +32265,7 @@
    </sentence>
    <sentence id="1716190"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="479 DepDist 2.75"
+             subdoc="479 DepDist 1.286"
              span="Hesiod Works: s-300">
       <word id="1"
             form="οὐκ"
@@ -32342,7 +32326,7 @@
    </sentence>
    <sentence id="1716191"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 4.939"
+             subdoc="504 DepDist 3.688"
              span="Hesiod Works: s-301">
       <word id="1"
             form="μῆνα"
@@ -32578,7 +32562,7 @@
    </sentence>
    <sentence id="1716192"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 2.167"
+             subdoc="504 DepDist 1.2"
              span="Hesiod Works: s-302">
       <word id="1"
             form="μέμυκε"
@@ -32625,7 +32609,7 @@
    </sentence>
    <sentence id="1716193"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 4.364"
+             subdoc="504 DepDist 2.762"
              span="Hesiod Works: s-303">
       <word id="1"
             form="πολλὰς"
@@ -32784,7 +32768,7 @@
    </sentence>
    <sentence id="1716194"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 4.706"
+             subdoc="504 DepDist 3.625"
              span="Hesiod Works: s-304">
       <word id="1"
             form="θῆρες"
@@ -32910,7 +32894,7 @@
    </sentence>
    <sentence id="1716195"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 4"
+             subdoc="504 DepDist 2.6"
              span="Hesiod Works: s-305">
       <word id="1"
             form="ἀλλά"
@@ -32992,7 +32976,7 @@
    </sentence>
    <sentence id="1716196"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 3.583"
+             subdoc="504 DepDist 2"
              span="Hesiod Works: s-306">
       <word id="1"
             form="καί"
@@ -33081,7 +33065,7 @@
    </sentence>
    <sentence id="1716197"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 3.143"
+             subdoc="504 DepDist 1.667"
              span="Hesiod Works: s-307">
       <word id="1"
             form="καί"
@@ -33135,7 +33119,7 @@
    </sentence>
    <sentence id="1716198"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 6.588"
+             subdoc="504 DepDist 5.25"
              span="Hesiod Works: s-308">
       <word id="1"
             form="πώεα"
@@ -33261,7 +33245,7 @@
    </sentence>
    <sentence id="1716199"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 3"
+             subdoc="504 DepDist 1.5"
              span="Hesiod Works: s-309">
       <word id="1"
             form="τροχαλὸν"
@@ -33301,7 +33285,7 @@
    </sentence>
    <sentence id="1716200"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 4.238"
+             subdoc="504 DepDist 3.05"
              span="Hesiod Works: s-310">
       <word id="1"
             form="καὶ"
@@ -33453,7 +33437,7 @@
    </sentence>
    <sentence id="1716201"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 3.655"
+             subdoc="504 DepDist 2.357"
              span="Hesiod Works: s-311">
       <word id="1"
             form="εὖ"
@@ -33661,7 +33645,7 @@
    </sentence>
    <sentence id="1716202"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 3.125"
+             subdoc="504 DepDist 1.714"
              span="Hesiod Works: s-312">
       <word id="1"
             form="οὐ"
@@ -33722,7 +33706,7 @@
    </sentence>
    <sentence id="1716203"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 4.867"
+             subdoc="504 DepDist 3.286"
              span="Hesiod Works: s-313">
       <word id="1"
             form="ἀλλ᾽"
@@ -33832,7 +33816,7 @@
    </sentence>
    <sentence id="1716204"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 5.714"
+             subdoc="504 DepDist 4.077"
              span="Hesiod Works: s-314">
       <word id="1"
             form="καὶ"
@@ -33935,7 +33919,7 @@
    </sentence>
    <sentence id="1716205"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 3"
+             subdoc="504 DepDist 1.688"
              span="Hesiod Works: s-315">
       <word id="1"
             form="καὶ"
@@ -34059,7 +34043,7 @@
    </sentence>
    <sentence id="1716206"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="504 DepDist 6.385"
+             subdoc="504 DepDist 4.76"
              span="Hesiod Works: s-316">
       <word id="1"
             form="τότε"
@@ -34246,7 +34230,7 @@
    </sentence>
    <sentence id="1716207"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 4"
+             subdoc="536 DepDist 3"
              span="Hesiod Works: s-317">
       <word id="1"
             form="καὶ"
@@ -34370,7 +34354,7 @@
    </sentence>
    <sentence id="1716208"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 3.875"
+             subdoc="536 DepDist 2.286"
              span="Hesiod Works: s-318">
       <word id="1"
             form="στήμονι"
@@ -34431,7 +34415,7 @@
    </sentence>
    <sentence id="1716209"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 2.812"
+             subdoc="536 DepDist 1.8"
              span="Hesiod Works: s-319">
       <word id="1"
             form="τὴν"
@@ -34548,7 +34532,7 @@
    </sentence>
    <sentence id="1716210"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 4.5"
+             subdoc="536 DepDist 3.077"
              span="Hesiod Works: s-320">
       <word id="1"
             form="ἀμφὶ"
@@ -34651,7 +34635,7 @@
    </sentence>
    <sentence id="1716211"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 4.182"
+             subdoc="536 DepDist 2.762"
              span="Hesiod Works: s-321">
       <word id="1"
             form="πρωτογόνων"
@@ -34810,7 +34794,7 @@
    </sentence>
    <sentence id="1716212"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 3.25"
+             subdoc="536 DepDist 2"
              span="Hesiod Works: s-322">
       <word id="1"
             form="κεφαλῆφι"
@@ -34899,7 +34883,7 @@
    </sentence>
    <sentence id="1716213"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 4.429"
+             subdoc="536 DepDist 3.15"
              span="Hesiod Works: s-323">
       <word id="1"
             form="ψυχρὴ"
@@ -35051,7 +35035,7 @@
    </sentence>
    <sentence id="1716214"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 5.185"
+             subdoc="536 DepDist 3.615"
              span="Hesiod Works: s-324">
       <word id="1"
             form="ὅστε"
@@ -35245,7 +35229,7 @@
    </sentence>
    <sentence id="1716215"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 4.333"
+             subdoc="536 DepDist 3.217"
              span="Hesiod Works: s-325">
       <word id="1"
             form="τὸν"
@@ -35418,7 +35402,7 @@
    </sentence>
    <sentence id="1716216"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 2"
+             subdoc="536 DepDist 0.5"
              span="Hesiod Works: s-326">
       <word id="1"
             form="ἀλλ᾽"
@@ -35444,7 +35428,7 @@
    </sentence>
    <sentence id="1716217"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 6.6"
+             subdoc="536 DepDist 5"
              span="Hesiod Works: s-327">
       <word id="1"
             form="μεὶς"
@@ -35556,7 +35540,7 @@
    </sentence>
    <sentence id="1716218"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 5.083"
+             subdoc="536 DepDist 3.909"
              span="Hesiod Works: s-328">
       <word id="1"
             form="τῆμος"
@@ -35647,7 +35631,7 @@
    </sentence>
    <sentence id="1716219"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 3.333"
+             subdoc="536 DepDist 1.8"
              span="Hesiod Works: s-329">
       <word id="1"
             form="μακραὶ"
@@ -35694,7 +35678,7 @@
    </sentence>
    <sentence id="1716220"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 4.4"
+             subdoc="536 DepDist 3.263"
              span="Hesiod Works: s-330">
       <word id="1"
             form="ταῦτα"
@@ -35839,7 +35823,7 @@
    </sentence>
    <sentence id="1716221"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 7"
+             subdoc="536 DepDist 5.28"
              span="Hesiod Works: s-331">
       <word id="1"
             form="εὖτ᾽"
@@ -36026,7 +36010,7 @@
    </sentence>
    <sentence id="1716222"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 3.667"
+             subdoc="536 DepDist 2.429"
              span="Hesiod Works: s-332">
       <word id="1"
             form="τὸν"
@@ -36136,7 +36120,7 @@
    </sentence>
    <sentence id="1716223"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 2.6"
+             subdoc="536 DepDist 1"
              span="Hesiod Works: s-333">
       <word id="1"
             form="τὴν"
@@ -36176,7 +36160,7 @@
    </sentence>
    <sentence id="1716224"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="536 DepDist 3.6"
+             subdoc="536 DepDist 2.25"
              span="Hesiod Works: s-334">
       <word id="1"
             form="ὣς"
@@ -36218,7 +36202,7 @@
    </sentence>
    <sentence id="1716225"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 6.158"
+             subdoc="571 DepDist 4.444"
              span="Hesiod Works: s-335">
       <word id="1"
             form="ἀλλ᾽"
@@ -36358,7 +36342,7 @@
    </sentence>
    <sentence id="1716226"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 3.125"
+             subdoc="571 DepDist 1.714"
              span="Hesiod Works: s-336">
       <word id="1"
             form="ἀλλ᾽"
@@ -36419,7 +36403,7 @@
    </sentence>
    <sentence id="1716227"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 4.167"
+             subdoc="571 DepDist 3.294"
              span="Hesiod Works: s-337">
       <word id="1"
             form="φεύγειν"
@@ -36550,7 +36534,7 @@
    </sentence>
    <sentence id="1716228"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 3.4"
+             subdoc="571 DepDist 2.357"
              span="Hesiod Works: s-338">
       <word id="1"
             form="τημοῦτος"
@@ -36660,7 +36644,7 @@
    </sentence>
    <sentence id="1716229"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 5.182"
+             subdoc="571 DepDist 3.844"
              span="Hesiod Works: s-339">
       <word id="1"
             form="ἠὼς"
@@ -36896,7 +36880,7 @@
    </sentence>
    <sentence id="1716230"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 9.895"
+             subdoc="571 DepDist 8.5"
              span="Hesiod Works: s-340">
       <word id="1"
             form="ἦμος"
@@ -37308,7 +37292,7 @@
    </sentence>
    <sentence id="1716231"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 5.8"
+             subdoc="571 DepDist 4.828"
              span="Hesiod Works: s-341">
       <word id="1"
             form="ἀλλὰ"
@@ -37523,7 +37507,7 @@
    </sentence>
    <sentence id="1716232"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 7.2"
+             subdoc="571 DepDist 5.487"
              span="Hesiod Works: s-342">
       <word id="1"
             form="ἐπὶ"
@@ -37810,7 +37794,7 @@
    </sentence>
    <sentence id="1716233"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 3.609"
+             subdoc="571 DepDist 2.591"
              span="Hesiod Works: s-343">
       <word id="1"
             form="δμωσὶ"
@@ -37976,7 +37960,7 @@
    </sentence>
    <sentence id="1716234"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 2.714"
+             subdoc="571 DepDist 1.333"
              span="Hesiod Works: s-344">
       <word id="1"
             form="μέτρῳ"
@@ -38030,7 +38014,7 @@
    </sentence>
    <sentence id="1716235"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 5.65"
+             subdoc="571 DepDist 3.895"
              span="Hesiod Works: s-345">
       <word id="1"
             form="αὐτὰρ"
@@ -38175,7 +38159,7 @@
    </sentence>
    <sentence id="1716236"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 3.833"
+             subdoc="571 DepDist 2.4"
              span="Hesiod Works: s-346">
       <word id="1"
             form="χαλεπὴ"
@@ -38224,7 +38208,7 @@
    </sentence>
    <sentence id="1716237"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 3.667"
+             subdoc="571 DepDist 2.529"
              span="Hesiod Works: s-347">
       <word id="1"
             form="καὶ"
@@ -38355,7 +38339,7 @@
    </sentence>
    <sentence id="1716238"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 2.786"
+             subdoc="571 DepDist 1.692"
              span="Hesiod Works: s-348">
       <word id="1"
             form="χόρτον"
@@ -38458,7 +38442,7 @@
    </sentence>
    <sentence id="1716239"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="571 DepDist 3.8"
+             subdoc="571 DepDist 2.333"
              span="Hesiod Works: s-349">
       <word id="1"
             form="αὐτὰρ"
@@ -38533,7 +38517,7 @@
    </sentence>
    <sentence id="1716240"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 5.577"
+             subdoc="609 DepDist 3.84"
              span="Hesiod Works: s-350">
       <word id="1"
             form="εὖτ᾽"
@@ -38720,7 +38704,7 @@
    </sentence>
    <sentence id="1716241"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 5.92"
+             subdoc="609 DepDist 4.542"
              span="Hesiod Works: s-351">
       <word id="1"
             form="δεῖξαι"
@@ -38904,7 +38888,7 @@
    </sentence>
    <sentence id="1716242"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 6.7"
+             subdoc="609 DepDist 5.053"
              span="Hesiod Works: s-352">
       <word id="1"
             form="αὐτὰρ"
@@ -39049,7 +39033,7 @@
    </sentence>
    <sentence id="1716243"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 3.857"
+             subdoc="609 DepDist 2.333"
              span="Hesiod Works: s-353">
       <word id="1"
             form="πλειὼν"
@@ -39103,7 +39087,7 @@
    </sentence>
    <sentence id="1716244"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 7"
+             subdoc="609 DepDist 5.269"
              span="Hesiod Works: s-354">
       <word id="1"
             form="εἰ"
@@ -39297,7 +39281,7 @@
    </sentence>
    <sentence id="1716245"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 3.471"
+             subdoc="609 DepDist 2.312"
              span="Hesiod Works: s-355">
       <word id="1"
             form="καὶ"
@@ -39421,7 +39405,7 @@
    </sentence>
    <sentence id="1716246"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 3.538"
+             subdoc="609 DepDist 2.36"
              span="Hesiod Works: s-356">
       <word id="1"
             form="νῆα"
@@ -39608,7 +39592,7 @@
    </sentence>
    <sentence id="1716247"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 3.462"
+             subdoc="609 DepDist 2.167"
              span="Hesiod Works: s-357">
       <word id="1"
             form="ὅπλα"
@@ -39704,7 +39688,7 @@
    </sentence>
    <sentence id="1716248"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 3.857"
+             subdoc="609 DepDist 2.333"
              span="Hesiod Works: s-358">
       <word id="1"
             form="πηδάλιον"
@@ -39758,7 +39742,7 @@
    </sentence>
    <sentence id="1716249"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 2.889"
+             subdoc="609 DepDist 1.625"
              span="Hesiod Works: s-359">
       <word id="1"
             form="αὐτὸς"
@@ -39826,7 +39810,7 @@
    </sentence>
    <sentence id="1716250"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 4.564"
+             subdoc="609 DepDist 3.421"
              span="Hesiod Works: s-360">
       <word id="1"
             form="καὶ"
@@ -40104,7 +40088,7 @@
    </sentence>
    <sentence id="1716251"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 4"
+             subdoc="609 DepDist 2.889"
              span="Hesiod Works: s-361">
       <word id="1"
             form="ὅς"
@@ -40242,7 +40226,7 @@
    </sentence>
    <sentence id="1716252"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 5.2"
+             subdoc="609 DepDist 3.421"
              span="Hesiod Works: s-362">
       <word id="1"
             form="οὐκ"
@@ -40389,7 +40373,7 @@
    </sentence>
    <sentence id="1716253"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="609 DepDist 3.667"
+             subdoc="609 DepDist 2.75"
              span="Hesiod Works: s-363">
       <word id="1"
             form="νάσσατο"
@@ -40541,7 +40525,7 @@
    </sentence>
    <sentence id="1716254"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 5.632"
+             subdoc="641 DepDist 4.167"
              span="Hesiod Works: s-364">
       <word id="1"
             form="τύνη"
@@ -40683,7 +40667,7 @@
    </sentence>
    <sentence id="1716255"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 3.636"
+             subdoc="641 DepDist 2.4"
              span="Hesiod Works: s-365">
       <word id="1"
             form="νῆ᾽"
@@ -40767,7 +40751,7 @@
    </sentence>
    <sentence id="1716256"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 5.7"
+             subdoc="641 DepDist 4.684"
              span="Hesiod Works: s-366">
       <word id="1"
             form="μείζων"
@@ -40914,7 +40898,7 @@
    </sentence>
    <sentence id="1716257"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 4.406"
+             subdoc="641 DepDist 3"
              span="Hesiod Works: s-367">
       <word id="1"
             form="εὖτ᾽"
@@ -41143,7 +41127,7 @@
    </sentence>
    <sentence id="1716258"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 6.441"
+             subdoc="641 DepDist 5.424"
              span="Hesiod Works: s-368">
       <word id="1"
             form="οὐ"
@@ -41388,7 +41372,7 @@
    </sentence>
    <sentence id="1716259"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 5.5"
+             subdoc="641 DepDist 3.909"
              span="Hesiod Works: s-369">
       <word id="1"
             form="ἔνθα"
@@ -41477,7 +41461,7 @@
    </sentence>
    <sentence id="1716260"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 3.222"
+             subdoc="641 DepDist 1.75"
              span="Hesiod Works: s-370">
       <word id="1"
             form="τὰ"
@@ -41545,7 +41529,7 @@
    </sentence>
    <sentence id="1716261"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 2.778"
+             subdoc="641 DepDist 1.625"
              span="Hesiod Works: s-371">
       <word id="1"
             form="ἔνθα"
@@ -41613,7 +41597,7 @@
    </sentence>
    <sentence id="1716262"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 4.267"
+             subdoc="641 DepDist 3.071"
              span="Hesiod Works: s-372">
       <word id="1"
             form="τὸν"
@@ -41723,7 +41707,7 @@
    </sentence>
    <sentence id="1716263"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 3.571"
+             subdoc="641 DepDist 2.167"
              span="Hesiod Works: s-373">
       <word id="1"
             form="τόσσον"
@@ -41777,7 +41761,7 @@
    </sentence>
    <sentence id="1716264"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 2.75"
+             subdoc="641 DepDist 1.429"
              span="Hesiod Works: s-374">
       <word id="1"
             form="ἀλλὰ"
@@ -41838,7 +41822,7 @@
    </sentence>
    <sentence id="1716265"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 2.875"
+             subdoc="641 DepDist 1.571"
              span="Hesiod Works: s-375">
       <word id="1"
             form="Μοῦσαι"
@@ -41899,7 +41883,7 @@
    </sentence>
    <sentence id="1716266"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 4.333"
+             subdoc="641 DepDist 2.647"
              span="Hesiod Works: s-376">
       <word id="1"
             form="ἤματα"
@@ -42030,7 +42014,7 @@
    </sentence>
    <sentence id="1716267"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 4.24"
+             subdoc="641 DepDist 3.083"
              span="Hesiod Works: s-377">
       <word id="1"
             form="οὔ"
@@ -42210,7 +42194,7 @@
    </sentence>
    <sentence id="1716268"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 3.364"
+             subdoc="641 DepDist 2.1"
              span="Hesiod Works: s-378">
       <word id="1"
             form="ἐν"
@@ -42292,7 +42276,7 @@
    </sentence>
    <sentence id="1716269"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 4.545"
+             subdoc="641 DepDist 3.9"
              span="Hesiod Works: s-379">
       <word id="1"
             form="τῆμος"
@@ -42378,7 +42362,7 @@
    </sentence>
    <sentence id="1716270"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 4.957"
+             subdoc="641 DepDist 3.364"
              span="Hesiod Works: s-380">
       <word id="1"
             form="εὔκηλος"
@@ -42544,7 +42528,7 @@
    </sentence>
    <sentence id="1716271"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="641 DepDist 5.125"
+             subdoc="641 DepDist 4.097"
              span="Hesiod Works: s-381">
       <word id="1"
             form="μη"
@@ -42773,7 +42757,7 @@
    </sentence>
    <sentence id="1716272"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 3"
+             subdoc="678 DepDist 1.667"
              span="Hesiod Works: s-382">
       <word id="1"
             form="ἄλλος"
@@ -42827,7 +42811,7 @@
    </sentence>
    <sentence id="1716273"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 5.385"
+             subdoc="678 DepDist 3.6"
              span="Hesiod Works: s-383">
       <word id="1"
             form="ἦμος"
@@ -43014,7 +42998,7 @@
    </sentence>
    <sentence id="1716274"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 3"
+             subdoc="678 DepDist 1.6"
              span="Hesiod Works: s-384">
       <word id="1"
             form="εἰαρινὸς"
@@ -43061,7 +43045,7 @@
    </sentence>
    <sentence id="1716275"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 3"
+             subdoc="678 DepDist 1.5"
              span="Hesiod Works: s-385">
       <word id="1"
             form="οὔ"
@@ -43101,7 +43085,7 @@
    </sentence>
    <sentence id="1716276"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 3.571"
+             subdoc="678 DepDist 2"
              span="Hesiod Works: s-386">
       <word id="1"
             form="οὐ"
@@ -43155,7 +43139,7 @@
    </sentence>
    <sentence id="1716277"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 2.333"
+             subdoc="678 DepDist 1"
              span="Hesiod Works: s-387">
       <word id="1"
             form="ἁρπακτός"
@@ -43183,7 +43167,7 @@
    </sentence>
    <sentence id="1716278"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 2.4"
+             subdoc="678 DepDist 1"
              span="Hesiod Works: s-388">
       <word id="1"
             form="χαλεπῶς"
@@ -43223,7 +43207,7 @@
    </sentence>
    <sentence id="1716279"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 3.333"
+             subdoc="678 DepDist 1.875"
              span="Hesiod Works: s-389">
       <word id="1"
             form="ἀλλά"
@@ -43291,7 +43275,7 @@
    </sentence>
    <sentence id="1716280"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 2.857"
+             subdoc="678 DepDist 1.5"
              span="Hesiod Works: s-390">
       <word id="1"
             form="χρήματα"
@@ -43345,7 +43329,7 @@
    </sentence>
    <sentence id="1716281"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 2.286"
+             subdoc="678 DepDist 1"
              span="Hesiod Works: s-391">
       <word id="1"
             form="δεινὸν"
@@ -43399,7 +43383,7 @@
    </sentence>
    <sentence id="1716282"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 3"
+             subdoc="678 DepDist 1.909"
              span="Hesiod Works: s-392">
       <word id="1"
             form="ἀλλά"
@@ -43488,7 +43472,7 @@
    </sentence>
    <sentence id="1716283"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 4.667"
+             subdoc="678 DepDist 3.125"
              span="Hesiod Works: s-393">
       <word id="1"
             form="μη"
@@ -43556,7 +43540,7 @@
    </sentence>
    <sentence id="1716284"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 3.444"
+             subdoc="678 DepDist 2"
              span="Hesiod Works: s-394">
       <word id="1"
             form="ἀλλὰ"
@@ -43624,7 +43608,7 @@
    </sentence>
    <sentence id="1716285"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 4.556"
+             subdoc="678 DepDist 3"
              span="Hesiod Works: s-395">
       <word id="1"
             form="δεινὸν"
@@ -43694,7 +43678,7 @@
    </sentence>
    <sentence id="1716286"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 6.5"
+             subdoc="678 DepDist 5.077"
              span="Hesiod Works: s-396">
       <word id="1"
             form="δεινὸν"
@@ -43801,7 +43785,7 @@
    </sentence>
    <sentence id="1716287"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 3.167"
+             subdoc="678 DepDist 1.6"
              span="Hesiod Works: s-397">
       <word id="1"
             form="καυάξαις"
@@ -43850,7 +43834,7 @@
    </sentence>
    <sentence id="1716288"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 2"
+             subdoc="678 DepDist 0.5"
              span="Hesiod Works: s-398">
       <word id="1"
             form="μέτρα"
@@ -43876,7 +43860,7 @@
    </sentence>
    <sentence id="1716289"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 4.429"
+             subdoc="678 DepDist 3"
              span="Hesiod Works: s-399">
       <word id="1"
             form="καιρὸς"
@@ -43932,7 +43916,7 @@
    </sentence>
    <sentence id="1716290"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 4.105"
+             subdoc="678 DepDist 2.889"
              span="Hesiod Works: s-400">
       <word id="1"
             form="ὡραῖος"
@@ -44070,7 +44054,7 @@
    </sentence>
    <sentence id="1716291"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 4.714"
+             subdoc="678 DepDist 3.333"
              span="Hesiod Works: s-401">
       <word id="1"
             form="γάμος"
@@ -44126,7 +44110,7 @@
    </sentence>
    <sentence id="1716292"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 4.583"
+             subdoc="678 DepDist 3.364"
              span="Hesiod Works: s-402">
       <word id="1"
             form="ἡ"
@@ -44219,7 +44203,7 @@
    </sentence>
    <sentence id="1716293"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 2.9"
+             subdoc="678 DepDist 1.778"
              span="Hesiod Works: s-403">
       <word id="1"
             form="παρθενικὴν"
@@ -44294,7 +44278,7 @@
    </sentence>
    <sentence id="1716294"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 3.75"
+             subdoc="678 DepDist 2.684"
              span="Hesiod Works: s-404">
       <word id="1"
             form="τὴν"
@@ -44439,7 +44423,7 @@
    </sentence>
    <sentence id="1716295"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 5.682"
+             subdoc="678 DepDist 4.333"
              span="Hesiod Works: s-405">
       <word id="1"
             form="οὐ"
@@ -44600,7 +44584,7 @@
    </sentence>
    <sentence id="1716296"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="678 DepDist 4.143"
+             subdoc="678 DepDist 2.615"
              span="Hesiod Works: s-406">
       <word id="1"
             form="ἥτ᾽"
@@ -44703,7 +44687,7 @@
    </sentence>
    <sentence id="1716297"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 4.125"
+             subdoc="706 DepDist 2.571"
              span="Hesiod Works: s-407">
       <word id="1"
             form="εὖ"
@@ -44764,7 +44748,7 @@
    </sentence>
    <sentence id="1716298"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 3.143"
+             subdoc="706 DepDist 1.667"
              span="Hesiod Works: s-408">
       <word id="1"
             form="μη"
@@ -44818,7 +44802,7 @@
    </sentence>
    <sentence id="1716299"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 5.091"
+             subdoc="706 DepDist 3.5"
              span="Hesiod Works: s-409">
       <word id="1"
             form="εἰ"
@@ -44900,7 +44884,7 @@
    </sentence>
    <sentence id="1716300"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 2.5"
+             subdoc="706 DepDist 1.2"
              span="Hesiod Works: s-410">
       <word id="1"
             form="μη"
@@ -44947,7 +44931,7 @@
    </sentence>
    <sentence id="1716301"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 6.105"
+             subdoc="706 DepDist 4.444"
              span="Hesiod Works: s-411">
       <word id="1"
             form="εἰ"
@@ -45085,7 +45069,7 @@
    </sentence>
    <sentence id="1716302"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 6.25"
+             subdoc="706 DepDist 4.6"
              span="Hesiod Works: s-412">
       <word id="1"
             form="εἰ"
@@ -45202,7 +45186,7 @@
    </sentence>
    <sentence id="1716303"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 4"
+             subdoc="706 DepDist 2.533"
              span="Hesiod Works: s-413">
       <word id="1"
             form="δειλός"
@@ -45319,7 +45303,7 @@
    </sentence>
    <sentence id="1716304"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 5.588"
+             subdoc="706 DepDist 4.438"
              span="Hesiod Works: s-414">
       <word id="1"
             form="μη"
@@ -45443,7 +45427,7 @@
    </sentence>
    <sentence id="1716305"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 3.933"
+             subdoc="706 DepDist 2.571"
              span="Hesiod Works: s-415">
       <word id="1"
             form="μη"
@@ -45553,7 +45537,7 @@
    </sentence>
    <sentence id="1716306"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 6.588"
+             subdoc="706 DepDist 5.438"
              span="Hesiod Works: s-416">
       <word id="1"
             form="γλώσσης"
@@ -45681,7 +45665,7 @@
    </sentence>
    <sentence id="1716307"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 5.091"
+             subdoc="706 DepDist 3.5"
              span="Hesiod Works: s-417">
       <word id="1"
             form="εἰ"
@@ -45763,7 +45747,7 @@
    </sentence>
    <sentence id="1716308"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 3.778"
+             subdoc="706 DepDist 2.375"
              span="Hesiod Works: s-418">
       <word id="1"
             form="μη"
@@ -45831,7 +45815,7 @@
    </sentence>
    <sentence id="1716309"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 4.9"
+             subdoc="706 DepDist 3.889"
              span="Hesiod Works: s-419">
       <word id="1"
             form="πλείστη"
@@ -45910,7 +45894,7 @@
    </sentence>
    <sentence id="1716310"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 4.562"
+             subdoc="706 DepDist 3.333"
              span="Hesiod Works: s-420">
       <word id="1"
             form="μη"
@@ -46027,7 +46011,7 @@
    </sentence>
    <sentence id="1716311"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 3.909"
+             subdoc="706 DepDist 2.4"
              span="Hesiod Works: s-421">
       <word id="1"
             form="οὐ"
@@ -46109,7 +46093,7 @@
    </sentence>
    <sentence id="1716312"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 4"
+             subdoc="706 DepDist 2.429"
              span="Hesiod Works: s-422">
       <word id="1"
             form="μη"
@@ -46170,7 +46154,7 @@
    </sentence>
    <sentence id="1716313"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 5.083"
+             subdoc="706 DepDist 3.455"
              span="Hesiod Works: s-423">
       <word id="1"
             form="αὐτὰρ"
@@ -46261,7 +46245,7 @@
    </sentence>
    <sentence id="1716314"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 3.385"
+             subdoc="706 DepDist 1.833"
              span="Hesiod Works: s-424">
       <word id="1"
             form="μήτ᾽"
@@ -46359,7 +46343,7 @@
    </sentence>
    <sentence id="1716315"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 3"
+             subdoc="706 DepDist 1.5"
              span="Hesiod Works: s-425">
       <word id="1"
             form="μακάρων"
@@ -46399,7 +46383,7 @@
    </sentence>
    <sentence id="1716316"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 5.952"
+             subdoc="706 DepDist 4.75"
              span="Hesiod Works: s-426">
       <word id="1"
             form="ἑζόμενος"
@@ -46555,7 +46539,7 @@
    </sentence>
    <sentence id="1716317"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 4.571"
+             subdoc="706 DepDist 2.923"
              span="Hesiod Works: s-427">
       <word id="1"
             form="μη"
@@ -46658,7 +46642,7 @@
    </sentence>
    <sentence id="1716318"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="706 DepDist 3.571"
+             subdoc="706 DepDist 2.231"
              span="Hesiod Works: s-428">
       <word id="1"
             form="μη"
@@ -46761,7 +46745,7 @@
    </sentence>
    <sentence id="1716319"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3.583"
+             subdoc="737 DepDist 2.304"
              span="Hesiod Works: s-429">
       <word id="1"
             form="μη"
@@ -46934,7 +46918,7 @@
    </sentence>
    <sentence id="1716320"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 4"
+             subdoc="737 DepDist 2.375"
              span="Hesiod Works: s-430">
       <word id="1"
             form="ὃς"
@@ -47058,7 +47042,7 @@
    </sentence>
    <sentence id="1716321"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 5.133"
+             subdoc="737 DepDist 3.571"
              span="Hesiod Works: s-431">
       <word id="1"
             form="μη"
@@ -47168,7 +47152,7 @@
    </sentence>
    <sentence id="1716322"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3.333"
+             subdoc="737 DepDist 2"
              span="Hesiod Works: s-432">
       <word id="1"
             form="μη"
@@ -47236,7 +47220,7 @@
    </sentence>
    <sentence id="1716323"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3.714"
+             subdoc="737 DepDist 2.167"
              span="Hesiod Works: s-433">
       <word id="1"
             form="ὀλοὴ"
@@ -47290,7 +47274,7 @@
    </sentence>
    <sentence id="1716324"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3.214"
+             subdoc="737 DepDist 1.923"
              span="Hesiod Works: s-434">
       <word id="1"
             form="μη"
@@ -47393,7 +47377,7 @@
    </sentence>
    <sentence id="1716325"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 4.455"
+             subdoc="737 DepDist 2.9"
              span="Hesiod Works: s-435">
       <word id="1"
             form="μη"
@@ -47475,7 +47459,7 @@
    </sentence>
    <sentence id="1716326"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 4.375"
+             subdoc="737 DepDist 3.143"
              span="Hesiod Works: s-436">
       <word id="1"
             form="ἐπεὶ"
@@ -47540,7 +47524,7 @@
    </sentence>
    <sentence id="1716327"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 7.125"
+             subdoc="737 DepDist 5.609"
              span="Hesiod Works: s-437">
       <word id="1"
             form="μη"
@@ -47717,7 +47701,7 @@
    </sentence>
    <sentence id="1716328"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 2.8"
+             subdoc="737 DepDist 1.25"
              span="Hesiod Works: s-438">
       <word id="1"
             form="ἴσον"
@@ -47757,7 +47741,7 @@
    </sentence>
    <sentence id="1716329"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3.5"
+             subdoc="737 DepDist 2"
              span="Hesiod Works: s-439">
       <word id="1"
             form="μη"
@@ -47818,7 +47802,7 @@
    </sentence>
    <sentence id="1716330"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3.7"
+             subdoc="737 DepDist 2.444"
              span="Hesiod Works: s-440">
       <word id="1"
             form="λευγαλέη"
@@ -47893,7 +47877,7 @@
    </sentence>
    <sentence id="1716331"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3.778"
+             subdoc="737 DepDist 2.25"
              span="Hesiod Works: s-441">
       <word id="1"
             form="μη"
@@ -47961,7 +47945,7 @@
    </sentence>
    <sentence id="1716332"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3.857"
+             subdoc="737 DepDist 2.333"
              span="Hesiod Works: s-442">
       <word id="1"
             form="θεός"
@@ -48015,7 +47999,7 @@
    </sentence>
    <sentence id="1716333"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 4.5"
+             subdoc="737 DepDist 2.765"
              span="Hesiod Works: s-443">
       <word id="1"
             form="μη"
@@ -48146,7 +48130,7 @@
    </sentence>
    <sentence id="1716334"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 2.5"
+             subdoc="737 DepDist 1"
              span="Hesiod Works: s-444">
       <word id="1"
             form="μη"
@@ -48179,7 +48163,7 @@
    </sentence>
    <sentence id="1716335"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 4"
+             subdoc="737 DepDist 2.5"
              span="Hesiod Works: s-445">
       <word id="1"
             form="τὸ"
@@ -48233,7 +48217,7 @@
    </sentence>
    <sentence id="1716336"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 2"
+             subdoc="737 DepDist 0.5"
              span="Hesiod Works: s-446">
       <word id="1"
             form="ὧδ᾽"
@@ -48259,7 +48243,7 @@
    </sentence>
    <sentence id="1716337"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3.167"
+             subdoc="737 DepDist 1.8"
              span="Hesiod Works: s-447">
       <word id="1"
             form="δεινὴν"
@@ -48306,7 +48290,7 @@
    </sentence>
    <sentence id="1716338"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 6"
+             subdoc="737 DepDist 5"
              span="Hesiod Works: s-448">
       <word id="1"
             form="φήμη"
@@ -48451,7 +48435,7 @@
    </sentence>
    <sentence id="1716339"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 4.083"
+             subdoc="737 DepDist 2.909"
              span="Hesiod Works: s-449">
       <word id="1"
             form="φήμη"
@@ -48540,7 +48524,7 @@
    </sentence>
    <sentence id="1716340"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="737 DepDist 3"
+             subdoc="737 DepDist 1.667"
              span="Hesiod Works: s-450">
       <word id="1"
             form="θεός"
@@ -48594,7 +48578,7 @@
    </sentence>
    <sentence id="1716341"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4.091"
+             subdoc="765 DepDist 2.5"
              span="Hesiod Works: s-451">
       <word id="1"
             form="Ἤματα"
@@ -48676,7 +48660,7 @@
    </sentence>
    <sentence id="1716342"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4.727"
+             subdoc="765 DepDist 3.1"
              span="Hesiod Works: s-452">
       <word id="1"
             form="τριηκάδα"
@@ -48760,7 +48744,7 @@
    </sentence>
    <sentence id="1716343"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4.133"
+             subdoc="765 DepDist 3.071"
              span="Hesiod Works: s-453">
       <word id="1"
             form="αἵδε"
@@ -48870,7 +48854,7 @@
    </sentence>
    <sentence id="1716344"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4.3"
+             subdoc="765 DepDist 2.667"
              span="Hesiod Works: s-454">
       <word id="1"
             form="Πρῶτον"
@@ -48947,7 +48931,7 @@
    </sentence>
    <sentence id="1716345"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 3.286"
+             subdoc="765 DepDist 1.833"
              span="Hesiod Works: s-455">
       <word id="1"
             form="τῇ"
@@ -49001,7 +48985,7 @@
    </sentence>
    <sentence id="1716346"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 5.588"
+             subdoc="765 DepDist 3.875"
              span="Hesiod Works: s-456">
       <word id="1"
             form="ὀγδοάτη"
@@ -49127,7 +49111,7 @@
    </sentence>
    <sentence id="1716347"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 6.158"
+             subdoc="765 DepDist 4.444"
              span="Hesiod Works: s-457">
       <word id="1"
             form="ἑνδεκάτη"
@@ -49267,7 +49251,7 @@
    </sentence>
    <sentence id="1716348"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4.222"
+             subdoc="765 DepDist 2.625"
              span="Hesiod Works: s-458">
       <word id="1"
             form="ἡ"
@@ -49337,7 +49321,7 @@
    </sentence>
    <sentence id="1716349"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 3.75"
+             subdoc="765 DepDist 2.667"
              span="Hesiod Works: s-459">
       <word id="1"
             form="τῇ"
@@ -49454,7 +49438,7 @@
    </sentence>
    <sentence id="1716350"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4"
+             subdoc="765 DepDist 2.5"
              span="Hesiod Works: s-460">
       <word id="1"
             form="τῇ"
@@ -49522,7 +49506,7 @@
    </sentence>
    <sentence id="1716351"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 3.125"
+             subdoc="765 DepDist 1.714"
              span="Hesiod Works: s-461">
       <word id="1"
             form="Μηνὸς"
@@ -49583,7 +49567,7 @@
    </sentence>
    <sentence id="1716352"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 3.667"
+             subdoc="765 DepDist 2.2"
              span="Hesiod Works: s-462">
       <word id="1"
             form="φυτὰ"
@@ -49632,7 +49616,7 @@
    </sentence>
    <sentence id="1716353"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4.643"
+             subdoc="765 DepDist 3.154"
              span="Hesiod Works: s-463">
       <word id="1"
             form="ἕκτη"
@@ -49737,7 +49721,7 @@
    </sentence>
    <sentence id="1716354"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4"
+             subdoc="765 DepDist 2.867"
              span="Hesiod Works: s-464">
       <word id="1"
             form="κούρῃ"
@@ -49854,7 +49838,7 @@
    </sentence>
    <sentence id="1716355"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 6.654"
+             subdoc="765 DepDist 5.48"
              span="Hesiod Works: s-465">
       <word id="1"
             form="οὐ"
@@ -50045,7 +50029,7 @@
    </sentence>
    <sentence id="1716356"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 3.6"
+             subdoc="765 DepDist 2.25"
              span="Hesiod Works: s-466">
       <word id="1"
             form="ἐσθλὴ"
@@ -50087,7 +50071,7 @@
    </sentence>
    <sentence id="1716357"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 3.667"
+             subdoc="765 DepDist 2.786"
              span="Hesiod Works: s-467">
       <word id="1"
             form="φιλέοι"
@@ -50197,7 +50181,7 @@
    </sentence>
    <sentence id="1716358"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4.467"
+             subdoc="765 DepDist 3"
              span="Hesiod Works: s-468">
       <word id="1"
             form="μηνὸς"
@@ -50309,7 +50293,7 @@
    </sentence>
    <sentence id="1716359"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4.75"
+             subdoc="765 DepDist 3.091"
              span="Hesiod Works: s-469">
       <word id="1"
             form="εἰκάδι"
@@ -50398,7 +50382,7 @@
    </sentence>
    <sentence id="1716360"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 3.429"
+             subdoc="765 DepDist 1.833"
              span="Hesiod Works: s-470">
       <word id="1"
             form="μάλα"
@@ -50452,7 +50436,7 @@
    </sentence>
    <sentence id="1716361"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 5.308"
+             subdoc="765 DepDist 4.25"
              span="Hesiod Works: s-471">
       <word id="1"
             form="ἐσθλὴ"
@@ -50552,7 +50536,7 @@
    </sentence>
    <sentence id="1716362"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 5.895"
+             subdoc="765 DepDist 4.333"
              span="Hesiod Works: s-472">
       <word id="1"
             form="τῇ"
@@ -50690,7 +50674,7 @@
    </sentence>
    <sentence id="1716363"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="765 DepDist 4.737"
+             subdoc="765 DepDist 4"
              span="Hesiod Works: s-473">
       <word id="1"
             form="πεφύλαξο"
@@ -50832,7 +50816,7 @@
    </sentence>
    <sentence id="1716364"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 4.118"
+             subdoc="800 DepDist 3.062"
              span="Hesiod Works: s-474">
       <word id="1"
             form="Ἐν"
@@ -50958,7 +50942,7 @@
    </sentence>
    <sentence id="1716365"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 2.909"
+             subdoc="800 DepDist 1.9"
              span="Hesiod Works: s-475">
       <word id="1"
             form="πέμπτας"
@@ -51042,7 +51026,7 @@
    </sentence>
    <sentence id="1716366"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 3.067"
+             subdoc="800 DepDist 1.929"
              span="Hesiod Works: s-476">
       <word id="1"
             form="ἐν"
@@ -51152,7 +51136,7 @@
    </sentence>
    <sentence id="1716367"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 4.5"
+             subdoc="800 DepDist 3.069"
              span="Hesiod Works: s-477">
       <word id="1"
             form="Μέσσῃ"
@@ -51367,7 +51351,7 @@
    </sentence>
    <sentence id="1716368"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 2.571"
+             subdoc="800 DepDist 1.333"
              span="Hesiod Works: s-478">
       <word id="1"
             form="τετράδι"
@@ -51421,7 +51405,7 @@
    </sentence>
    <sentence id="1716369"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 6"
+             subdoc="800 DepDist 4.75"
              span="Hesiod Works: s-479">
       <word id="1"
             form="εἰνὰς"
@@ -51549,7 +51533,7 @@
    </sentence>
    <sentence id="1716370"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 6.4"
+             subdoc="800 DepDist 4.786"
              span="Hesiod Works: s-480">
       <word id="1"
             form="ἐσθλὴ"
@@ -51661,7 +51645,7 @@
    </sentence>
    <sentence id="1716371"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 3.167"
+             subdoc="800 DepDist 1.4"
              span="Hesiod Works: s-481">
       <word id="1"
             form="καὶ"
@@ -51710,7 +51694,7 @@
    </sentence>
    <sentence id="1716372"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 6.903"
+             subdoc="800 DepDist 6"
              span="Hesiod Works: s-482">
       <word id="1"
             form="παῦροι"
@@ -51934,7 +51918,7 @@
    </sentence>
    <sentence id="1716373"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 3.5"
+             subdoc="800 DepDist 2"
              span="Hesiod Works: s-483">
       <word id="1"
             form="παῦροι"
@@ -51981,7 +51965,7 @@
    </sentence>
    <sentence id="1716374"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 2.4"
+             subdoc="800 DepDist 1"
              span="Hesiod Works: s-484">
       <word id="1"
             form="τετράδι"
@@ -52021,7 +52005,7 @@
    </sentence>
    <sentence id="1716375"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 3.714"
+             subdoc="800 DepDist 2.167"
              span="Hesiod Works: s-485">
       <word id="1"
             form="περὶ"
@@ -52077,7 +52061,7 @@
    </sentence>
    <sentence id="1716376"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 5.538"
+             subdoc="800 DepDist 4.25"
              span="Hesiod Works: s-486">
       <word id="1"
             form="παῦροι"
@@ -52179,7 +52163,7 @@
    </sentence>
    <sentence id="1716377"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 2.667"
+             subdoc="800 DepDist 1.2"
              span="Hesiod Works: s-487">
       <word id="1"
             form="ἐπὶ"
@@ -52226,7 +52210,7 @@
    </sentence>
    <sentence id="1716378"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 4.55"
+             subdoc="800 DepDist 3.263"
              span="Hesiod Works: s-488">
       <word id="1"
             form="αἵδε"
@@ -52373,7 +52357,7 @@
    </sentence>
    <sentence id="1716379"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 3.667"
+             subdoc="800 DepDist 2.125"
              span="Hesiod Works: s-489">
       <word id="1"
             form="ἄλλος"
@@ -52441,7 +52425,7 @@
    </sentence>
    <sentence id="1716380"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 3.111"
+             subdoc="800 DepDist 1.875"
              span="Hesiod Works: s-490">
       <word id="1"
             form="ἄλλοτε"
@@ -52511,7 +52495,7 @@
    </sentence>
    <sentence id="1716381"
              document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1"
-             subdoc="800 DepDist 5.143"
+             subdoc="800 DepDist 3.35"
              span="Hesiod Works: s-491">
       <word id="1"
             form="τάων"

@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+<treebank xml:lang="grc" format="aldt" version="1.5">
    <comment>
-      <comment>
-         <comment>Lysias Orat. 23</comment>
-      </comment>
+      <comment>Lysias Orat. 23</comment>
    </comment>
    <annotator>
       <annotator>
-         <annotator>
             <short/>
             <name/>
             <address/>
             <uri>http://services2.perseids.org/llt/segtok</uri>
-         </annotator>
-         <annotator>
+      </annotator>
+      <annotator>
             <short/>
             <name/>
             <address/>
             <uri>http://github.com/latin-language-toolkit/arethusa</uri>
-         </annotator>
-         <annotator>
+      </annotator>
+      <annotator>
             <short>Vanessa Gorman</short>
             <name>Vanessa Gorman</name>
             <address>vbgorman@gmail.com</address>
             <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
-         </annotator>
       </annotator>
    </annotator>
    <sentence id="1"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="1 DepDist 5.524"
+             subdoc="1 DepDist 3.3"
              span="Lysias Orat. 23: s-1">
       <word id="1"
             form="πολλὰ"
@@ -181,7 +177,7 @@
    </sentence>
    <sentence id="2"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="1 DepDist 4.765"
+             subdoc="1 DepDist 3.062"
              span="Lysias Orat. 23: s-2">
       <word id="1"
             form="ὡς"
@@ -305,7 +301,7 @@
    </sentence>
    <sentence id="3"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="2 DepDist 7.107"
+             subdoc="2 DepDist 3.222"
              span="Lysias Orat. 23: s-3">
       <word id="1"
             form="ὡς"
@@ -506,7 +502,7 @@
    </sentence>
    <sentence id="4"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="2 DepDist 4.88"
+             subdoc="2 DepDist 2.083"
              span="Lysias Orat. 23: s-4">
       <word id="1"
             form="εἰπόντος"
@@ -686,7 +682,7 @@
    </sentence>
    <sentence id="5"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="2 DepDist 9.744"
+             subdoc="2 DepDist 5.762"
              span="Lysias Orat. 23: s-5">
       <word id="1"
             form="ἐπειδὴ"
@@ -983,9 +979,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-5 w-42"/>
       <word id="43"
+            form="[0]"
             insertion_id="0042e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="OBJ"
@@ -994,7 +990,7 @@
    </sentence>
    <sentence id="6"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="3 DepDist 5.84"
+             subdoc="3 DepDist 3.833"
              span="Lysias Orat. 23: s-6">
       <word id="1"
             form="ἐπειδὴ"
@@ -1174,7 +1170,7 @@
    </sentence>
    <sentence id="7"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="4 DepDist 6.1"
+             subdoc="4 DepDist 3.724"
              span="Lysias Orat. 23: s-7">
       <word id="1"
             form="πρῶτον"
@@ -1389,7 +1385,7 @@
    </sentence>
    <sentence id="8"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="4 DepDist 2.5"
+             subdoc="4 DepDist 1.2"
              span="Lysias Orat. 23: s-8">
       <word id="1"
             form="καί"
@@ -1434,21 +1430,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-8 w-6"/>
    </sentence>
-   <sentence id="9"
-             document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="4 DepDist 1"
-             span="Lysias Orat. 23: s-9">
-      <word id="1"
-            form="Μάρτυρες"
-            lemma="μάρτυς"
-            postag="n-p---mn-"
-            relation="ExD"
-            head="0"
-            cite=" Lysias Orat. 23: s-9 w-1"/>
-   </sentence>
    <sentence id="10"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="5 DepDist 4.833"
+             subdoc="5 DepDist 3.182"
              span="Lysias Orat. 23: s-10">
       <word id="1"
             form="ἐκ"
@@ -1537,7 +1521,7 @@
    </sentence>
    <sentence id="11"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="5 DepDist 8.478"
+             subdoc="5 DepDist 4.667"
              span="Lysias Orat. 23: s-11">
       <word id="1"
             form="ἐπειδὴ"
@@ -1864,7 +1848,7 @@
    </sentence>
    <sentence id="12"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="6 DepDist 7.595"
+             subdoc="6 DepDist 4.806"
              span="Lysias Orat. 23: s-12">
       <word id="1"
             form="ἔπειτα"
@@ -2128,7 +2112,7 @@
    </sentence>
    <sentence id="13"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="6 DepDist 4.318"
+             subdoc="6 DepDist 2.667"
              span="Lysias Orat. 23: s-13">
       <word id="1"
             form="πάντες"
@@ -2287,7 +2271,7 @@
    </sentence>
    <sentence id="14"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="6 DepDist 4.077"
+             subdoc="6 DepDist 2.333"
              span="Lysias Orat. 23: s-14">
       <word id="1"
             form="ταύτῃ"
@@ -2374,9 +2358,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-14 w-12"/>
       <word id="13"
+            form="[0]"
             insertion_id="0012e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="PRED"
@@ -2385,7 +2369,7 @@
    </sentence>
    <sentence id="15"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="7 DepDist 4.389"
+             subdoc="7 DepDist 2.412"
              span="Lysias Orat. 23: s-15">
       <word id="1"
             form="ἐλθὼν"
@@ -2516,7 +2500,7 @@
    </sentence>
    <sentence id="16"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="7 DepDist 6.136"
+             subdoc="7 DepDist 3.581"
              span="Lysias Orat. 23: s-16">
       <word id="1"
             form="καὶ"
@@ -2829,7 +2813,7 @@
    </sentence>
    <sentence id="17"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="8 DepDist 8.606"
+             subdoc="8 DepDist 5.312"
              span="Lysias Orat. 23: s-17">
       <word id="1"
             form="ταῦτʼ"
@@ -3056,9 +3040,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-17 w-32"/>
       <word id="33"
+            form="[0]"
             insertion_id="0032e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="OBJ_AP_CO"
@@ -3067,7 +3051,7 @@
    </sentence>
    <sentence id="18"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="8 DepDist 2.5"
+             subdoc="8 DepDist 1.2"
              span="Lysias Orat. 23: s-18">
       <word id="1"
             form="καί"
@@ -3112,21 +3096,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-18 w-6"/>
    </sentence>
-   <sentence id="19"
-             document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="8 DepDist 1"
-             span="Lysias Orat. 23: s-19">
-      <word id="1"
-            form="Μάρτυρες"
-            lemma="μάρτυς"
-            postag="n-p---mn-"
-            relation="ExD"
-            head="0"
-            cite=" Lysias Orat. 23: s-19 w-1"/>
-   </sentence>
    <sentence id="20"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="9 DepDist 6.621"
+             subdoc="9 DepDist 3.857"
              span="Lysias Orat. 23: s-20">
       <word id="1"
             form="ἡμέραις"
@@ -3334,7 +3306,7 @@
    </sentence>
    <sentence id="21"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="9 DepDist 3.727"
+             subdoc="9 DepDist 2.143"
              span="Lysias Orat. 23: s-21">
       <word id="1"
             form="τότε"
@@ -3493,7 +3465,7 @@
    </sentence>
    <sentence id="22"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="10 DepDist 3"
+             subdoc="10 DepDist 1.375"
              span="Lysias Orat. 23: s-22">
       <word id="1"
             form="ἐπὶ"
@@ -3561,7 +3533,7 @@
    </sentence>
    <sentence id="23"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="10 DepDist 4.742"
+             subdoc="10 DepDist 2.8"
              span="Lysias Orat. 23: s-23">
       <word id="1"
             form="τῇ"
@@ -3783,7 +3755,7 @@
    </sentence>
    <sentence id="24"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="10 DepDist 8.147"
+             subdoc="10 DepDist 4.364"
              span="Lysias Orat. 23: s-24">
       <word id="1"
             form="ἐφʼ"
@@ -4026,7 +3998,7 @@
    </sentence>
    <sentence id="25"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="11 DepDist 4.462"
+             subdoc="11 DepDist 3"
              span="Lysias Orat. 23: s-25">
       <word id="1"
             form="ὅσα"
@@ -4122,7 +4094,7 @@
    </sentence>
    <sentence id="26"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="11 DepDist 6.227"
+             subdoc="11 DepDist 3.488"
              span="Lysias Orat. 23: s-26">
       <word id="1"
             form="εἰς"
@@ -4435,7 +4407,7 @@
    </sentence>
    <sentence id="27"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="11 DepDist 5.947"
+             subdoc="11 DepDist 3.444"
              span="Lysias Orat. 23: s-27">
       <word id="1"
             form="ὡς"
@@ -4573,7 +4545,7 @@
    </sentence>
    <sentence id="28"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="11 DepDist 2.5"
+             subdoc="11 DepDist 1.2"
              span="Lysias Orat. 23: s-28">
       <word id="1"
             form="καί"
@@ -4618,21 +4590,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-28 w-6"/>
    </sentence>
-   <sentence id="29"
-             document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="11 DepDist 1"
-             span="Lysias Orat. 23: s-29">
-      <word id="1"
-            form="Μάρτυρες"
-            lemma="μάρτυς"
-            postag="n-p---mn-"
-            relation="ExD"
-            head="0"
-            cite=" Lysias Orat. 23: s-29 w-1"/>
-   </sentence>
    <sentence id="30"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="12 DepDist 6.895"
+             subdoc="12 DepDist 4.444"
              span="Lysias Orat. 23: s-30">
       <word id="1"
             form="ῥᾴδιον"
@@ -4761,9 +4721,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-30 w-18"/>
       <word id="19"
+            form="ἐστιν"
             insertion_id="0018e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -4772,7 +4732,7 @@
    </sentence>
    <sentence id="31"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="12 DepDist 7"
+             subdoc="12 DepDist 4.511"
              span="Lysias Orat. 23: s-31">
       <word id="1"
             form="ὅστις"
@@ -5090,9 +5050,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-31 w-45"/>
       <word id="46"
+            form="ἐστιν"
             insertion_id="0045e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -5101,7 +5061,7 @@
    </sentence>
    <sentence id="32"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="13 DepDist 5.5"
+             subdoc="13 DepDist 3.667"
              span="Lysias Orat. 23: s-32">
       <word id="1"
             form="ὅτι"
@@ -5218,7 +5178,7 @@
    </sentence>
    <sentence id="33"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="13 DepDist 7.44"
+             subdoc="13 DepDist 4.167"
              span="Lysias Orat. 23: s-33">
       <word id="1"
             form="ὅτι"
@@ -5398,7 +5358,7 @@
    </sentence>
    <sentence id="34"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="13 DepDist 5.692"
+             subdoc="13 DepDist 3.52"
              span="Lysias Orat. 23: s-34">
       <word id="1"
             form="ἐν"
@@ -5585,7 +5545,7 @@
    </sentence>
    <sentence id="35"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="14 DepDist 3.857"
+             subdoc="14 DepDist 1.923"
              span="Lysias Orat. 23: s-35">
       <word id="1"
             form="ἐπισκηψάμενος"
@@ -5688,7 +5648,7 @@
    </sentence>
    <sentence id="36"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="14 DepDist 4.462"
+             subdoc="14 DepDist 2.083"
              span="Lysias Orat. 23: s-36">
       <word id="1"
             form="ἐπεὶ"
@@ -5784,7 +5744,7 @@
    </sentence>
    <sentence id="37"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="14 DepDist 4.667"
+             subdoc="14 DepDist 2.182"
              span="Lysias Orat. 23: s-37">
       <word id="1"
             form="καὶ"
@@ -5873,7 +5833,7 @@
    </sentence>
    <sentence id="38"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="14 DepDist 2.5"
+             subdoc="14 DepDist 1.2"
              span="Lysias Orat. 23: s-38">
       <word id="1"
             form="καί"
@@ -5918,21 +5878,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-38 w-6"/>
    </sentence>
-   <sentence id="39"
-             document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="14 DepDist 1"
-             span="Lysias Orat. 23: s-39">
-      <word id="1"
-            form="Μάρτυρες"
-            lemma="μάρτυς"
-            postag="n-p---mn-"
-            relation="ExD"
-            head="0"
-            cite=" Lysias Orat. 23: s-39 w-1"/>
-   </sentence>
    <sentence id="40"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="15 DepDist 5.357"
+             subdoc="15 DepDist 3.231"
              span="Lysias Orat. 23: s-40">
       <word id="1"
             form="πρὶν"
@@ -6035,7 +5983,7 @@
    </sentence>
    <sentence id="41"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="15 DepDist 4.263"
+             subdoc="15 DepDist 2.889"
              span="Lysias Orat. 23: s-41">
       <word id="1"
             form="καίτοι"
@@ -6164,9 +6112,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-41 w-18"/>
       <word id="19"
+            form="[0]"
             insertion_id="0018e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="ADV"
@@ -6175,7 +6123,7 @@
    </sentence>
    <sentence id="42"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="15 DepDist 4.833"
+             subdoc="15 DepDist 2.545"
              span="Lysias Orat. 23: s-42">
       <word id="1"
             form="ὡς"
@@ -6264,7 +6212,7 @@
    </sentence>
    <sentence id="43"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="15 DepDist 2.5"
+             subdoc="15 DepDist 1.2"
              span="Lysias Orat. 23: s-43">
       <word id="1"
             form="καί"
@@ -6309,21 +6257,9 @@
             head="0"
             cite=" Lysias Orat. 23: s-43 w-6"/>
    </sentence>
-   <sentence id="44"
-             document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="15 DepDist 1"
-             span="Lysias Orat. 23: s-44">
-      <word id="1"
-            form="Μάρτυρες"
-            lemma="μάρτυς"
-            postag="n-p---mn-"
-            relation="ExD"
-            head="0"
-            cite=" Lysias Orat. 23: s-44 w-1"/>
-   </sentence>
    <sentence id="45"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="16 DepDist 3.4"
+             subdoc="16 DepDist 1.667"
              span="Lysias Orat. 23: s-45">
       <word id="1"
             form="ἐξαρκεῖν"
@@ -6398,7 +6334,7 @@
    </sentence>
    <sentence id="46"
              document_id="urn:cts:greekLit:tlg0540.tlg023.perseus-grc1"
-             subdoc="16 DepDist 4.4"
+             subdoc="16 DepDist 2.368"
              span="Lysias Orat. 23: s-46">
       <word id="1"
             form="ἐὰν"
@@ -6516,7 +6452,7 @@
             form="ἐγὼ"
             lemma="ἐγώ"
             postag="p1s---mn-"
-            relation=""
+            relation="SBJ"
             head="19"
             cite=" Lysias Orat. 23: s-46 w-17"/>
       <word id="18"

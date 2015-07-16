@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+<treebank xml:lang="grc" format="aldt" version="1.5">
    <comment>
-      <comment>
-         <comment>Lysias Orat. 14</comment>
-      </comment>
+      <comment>Lysias Orat. 14</comment>
    </comment>
    <annotator>
       <annotator>
-         <annotator>
             <short/>
             <name/>
             <address/>
             <uri>http://services.perseids.org/llt/segtok</uri>
-         </annotator>
-         <annotator>
+      </annotator>
+      <annotator>
             <short/>
             <name/>
             <address/>
             <uri>http://github.com/latin-language-toolkit/arethusa</uri>
-         </annotator>
-         <annotator>
+      </annotator>
+      <annotator>
             <short>Vanessa Gorman</short>
             <name>Vanessa Gorman</name>
             <address>vbgorman@gmail.com</address>
             <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
-         </annotator>
       </annotator>
    </annotator>
    <sentence id="1"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.059"
+             subdoc="1-47 DepDist 1.824"
              span="Lysias Orat. 14: s-1">
       <word id="1"
             form="ἡγοῦμαι"
@@ -50,7 +46,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-1 w-3"/>
       <word id="4"
             form="ὦ"
@@ -78,7 +74,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-1 w-7"/>
       <word id="8"
             form="οὐδεμίαν"
@@ -160,7 +156,7 @@
    </sentence>
    <sentence id="2"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.586"
+             subdoc="1-47 DepDist 3.276"
              span="Lysias Orat. 14: s-2">
       <word id="1"
             form="τοιοῦτον"
@@ -216,7 +212,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 14: s-2 w-8"/>
       <word id="9"
             form="ὥστε"
@@ -293,7 +289,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 14: s-2 w-19"/>
       <word id="20"
             form="οὐδὲν"
@@ -375,7 +371,7 @@
    </sentence>
    <sentence id="3"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.846"
+             subdoc="1-47 DepDist 4.538"
              span="Lysias Orat. 14: s-3">
       <word id="1"
             form="οὐ"
@@ -445,7 +441,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-3 w-10"/>
       <word id="11"
             form="οὐδʼ"
@@ -508,7 +504,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 14: s-3 w-19"/>
       <word id="20"
             form="ἀλλʼ"
@@ -571,7 +567,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Lysias Orat. 14: s-3 w-28"/>
       <word id="29"
             form="ὥστʼ"
@@ -651,9 +647,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-3 w-39"/>
       <word id="40"
+            form="ἦν"
             insertion_id=""
             artificial="elliptic"
-            form="ἦν"
             lemma="εἰμί"
             postag="v3siia---"
             relation="PRED"
@@ -662,7 +658,7 @@
    </sentence>
    <sentence id="4"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 5.105"
+             subdoc="1-47 DepDist 4.789"
              span="Lysias Orat. 14: s-4">
       <word id="1"
             form="ἐγὼ"
@@ -683,7 +679,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-4 w-3"/>
       <word id="4"
             form="ὦ"
@@ -711,7 +707,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-4 w-7"/>
       <word id="8"
             form="καὶ"
@@ -774,7 +770,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-4 w-16"/>
       <word id="17"
             form="καὶ"
@@ -816,7 +812,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Lysias Orat. 14: s-4 w-22"/>
       <word id="23"
             form="καὶ"
@@ -865,7 +861,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Lysias Orat. 14: s-4 w-29"/>
       <word id="30"
             form="πειράσομαι"
@@ -1083,7 +1079,7 @@
    </sentence>
    <sentence id="7"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.8"
+             subdoc="1-47 DepDist 2.7"
              span="Lysias Orat. 14: s-7">
       <word id="1"
             form="ὅσα"
@@ -1118,7 +1114,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 14: s-7 w-5"/>
       <word id="6"
             form="ἐγὼ"
@@ -1212,7 +1208,7 @@
    </sentence>
    <sentence id="9"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.76"
+             subdoc="1-47 DepDist 3.48"
              span="Lysias Orat. 14: s-9">
       <word id="1"
             form="Νόμος"
@@ -1247,7 +1243,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-9 w-5"/>
       <word id="6"
             form="ὦ"
@@ -1275,7 +1271,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-9 w-9"/>
       <word id="10"
             form="ἐξ"
@@ -1415,7 +1411,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Lysias Orat. 14: s-9 w-29"/>
       <word id="30"
             form="εὖ"
@@ -1443,7 +1439,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-9 w-33"/>
       <word id="34"
             form="ὅπως"
@@ -1499,7 +1495,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-9 w-41"/>
       <word id="42"
             form="οὕτω"
@@ -1574,7 +1570,7 @@
    </sentence>
    <sentence id="10"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.28"
+             subdoc="1-47 DepDist 3"
              span="Lysias Orat. 14: s-10">
       <word id="1"
             form="δοκεῖ"
@@ -1686,7 +1682,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Lysias Orat. 14: s-10 w-16"/>
       <word id="17"
             form="ὅπῃ"
@@ -1857,7 +1853,7 @@
    </sentence>
    <sentence id="12"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 5.161"
+             subdoc="1-47 DepDist 4.742"
              span="Lysias Orat. 14: s-12">
       <word id="1"
             form="μάχην"
@@ -1892,7 +1888,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 14: s-12 w-5"/>
       <word id="6"
             form="τὸν"
@@ -1927,7 +1923,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 14: s-12 w-10"/>
       <word id="11"
             form="ἐάν"
@@ -2004,7 +2000,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 14: s-12 w-21"/>
       <word id="22"
             form="μαχομένων"
@@ -2032,7 +2028,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Lysias Orat. 14: s-12 w-25"/>
       <word id="26"
             form="περὶ"
@@ -2077,9 +2073,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-12 w-31"/>
       <word id="32"
+            form="[0]"
             insertion_id=""
             artificial="elliptic"
-            form="[0]"
             lemma="undefined"
             postag="undefined"
             relation="PRED"
@@ -2088,7 +2084,7 @@
    </sentence>
    <sentence id="13"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.632"
+             subdoc="1-47 DepDist 2.474"
              span="Lysias Orat. 14: s-13">
       <word id="1"
             form="ὁ"
@@ -2151,7 +2147,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-13 w-9"/>
       <word id="10"
             form="ἀλλὰ"
@@ -2292,7 +2288,7 @@
    </sentence>
    <sentence id="16"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.6"
+             subdoc="1-47 DepDist 3.3"
              span="Lysias Orat. 14: s-16">
       <word id="1"
             form="ἀκούετε"
@@ -2306,7 +2302,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 14: s-16 w-2"/>
       <word id="3"
             form="ὦ"
@@ -2334,7 +2330,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 14: s-16 w-6"/>
       <word id="7"
             form="ὅτι"
@@ -2369,7 +2365,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-16 w-11"/>
       <word id="12"
             form="καὶ"
@@ -2439,7 +2435,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Lysias Orat. 14: s-16 w-21"/>
       <word id="22"
             form="καὶ"
@@ -2690,7 +2686,7 @@
    </sentence>
    <sentence id="20"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.75"
+             subdoc="1-47 DepDist 2.5"
              span="Lysias Orat. 14: s-20">
       <word id="1"
             form="ἡγοῦμαι"
@@ -2711,7 +2707,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-20 w-3"/>
       <word id="4"
             form="ὦ"
@@ -2739,7 +2735,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-20 w-7"/>
       <word id="8"
             form="ὅλῳ"
@@ -2814,7 +2810,7 @@
    </sentence>
    <sentence id="21"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 7.362"
+             subdoc="1-47 DepDist 6.851"
              span="Lysias Orat. 14: s-21">
       <word id="1"
             form="ἀστρατείας"
@@ -2870,7 +2866,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 14: s-21 w-8"/>
       <word id="9"
             form="ὅτι"
@@ -2926,7 +2922,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 14: s-21 w-16"/>
       <word id="17"
             form="λιποταξίου"
@@ -2947,7 +2943,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Lysias Orat. 14: s-21 w-19"/>
       <word id="20"
             form="ὅτι"
@@ -3038,7 +3034,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Lysias Orat. 14: s-21 w-32"/>
       <word id="33"
             form="δειλίας"
@@ -3059,7 +3055,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Lysias Orat. 14: s-21 w-35"/>
       <word id="36"
             form="ὅτι"
@@ -3132,27 +3128,27 @@
             head="0"
             cite=" Lysias Orat. 14: s-21 w-45"/>
       <word id="46"
+            form="[0]"
             insertion_id=""
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="PRED"
             head="0"
             cite="Lysias Orat. 14: s-21 w-46"/>
       <word id="47"
+            form="ἁλῶναι"
             insertion_id="0045e"
             artificial="elliptic"
-            form="ἁλῶναι"
             lemma="ἁλίσκομαι"
             postag="v--ana---"
             relation="OBJ_CO"
             head="34"
             cite="Lysias Orat. 14: s-21 w-47"/>
       <word id="48"
+            form="ἁλῶναι"
             insertion_id="0045f"
             artificial="elliptic"
-            form="ἁλῶναι"
             lemma="ἁλίσκομαι"
             postag="v--ana---"
             relation="OBJ_CO"
@@ -3161,7 +3157,7 @@
    </sentence>
    <sentence id="22"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.062"
+             subdoc="1-47 DepDist 1.938"
              span="Lysias Orat. 14: s-22">
       <word id="1"
             form="καίτοι"
@@ -3245,7 +3241,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 14: s-22 w-12"/>
       <word id="13"
             form="οὐδὲν"
@@ -3285,7 +3281,7 @@
    </sentence>
    <sentence id="23"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3"
+             subdoc="1-47 DepDist 2.741"
              span="Lysias Orat. 14: s-23">
       <word id="1"
             form="ἐγὼ"
@@ -3362,7 +3358,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-23 w-11"/>
       <word id="12"
             form="ὅτι"
@@ -3397,7 +3393,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 14: s-23 w-16"/>
       <word id="17"
             form="ἐάν"
@@ -3432,7 +3428,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 14: s-23 w-21"/>
       <word id="22"
             form="ἄτιμον"
@@ -3453,7 +3449,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Lysias Orat. 14: s-23 w-24"/>
       <word id="25"
             form="ἐτόλμησεν"
@@ -3552,7 +3548,7 @@
    </sentence>
    <sentence id="26"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.424"
+             subdoc="1-47 DepDist 3.373"
              span="Lysias Orat. 14: s-26">
       <word id="1"
             form="οὗτος"
@@ -3601,7 +3597,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-26 w-7"/>
       <word id="8"
             form="καὶ"
@@ -3720,7 +3716,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Lysias Orat. 14: s-26 w-24"/>
       <word id="25"
             form="ὥστε"
@@ -3968,9 +3964,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-26 w-59"/>
       <word id="60"
+            form="[0]"
             insertion_id="0059e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="ADV"
@@ -3979,7 +3975,7 @@
    </sentence>
    <sentence id="27"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4"
+             subdoc="1-47 DepDist 3.6"
              span="Lysias Orat. 14: s-27">
       <word id="1"
             form="καὶ"
@@ -4021,7 +4017,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-27 w-6"/>
       <word id="7"
             form="ἱππεύοντες"
@@ -4105,7 +4101,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 14: s-27 w-18"/>
       <word id="19"
             form="οὐκ"
@@ -4154,7 +4150,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Lysias Orat. 14: s-27 w-25"/>
       <word id="26"
             form="δεδιότες"
@@ -4201,7 +4197,7 @@
    </sentence>
    <sentence id="28"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.476"
+             subdoc="1-47 DepDist 2"
              span="Lysias Orat. 14: s-28">
       <word id="1"
             form="οὕτω"
@@ -4236,7 +4232,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-28 w-5"/>
       <word id="6"
             form="οὐχ"
@@ -4278,7 +4274,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 14: s-28 w-11"/>
       <word id="12"
             form="ἀλλʼ"
@@ -4360,7 +4356,7 @@
    </sentence>
    <sentence id="29"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.135"
+             subdoc="1-47 DepDist 4.027"
              span="Lysias Orat. 14: s-29">
       <word id="1"
             form="Ἀλκιβιάδης"
@@ -4409,7 +4405,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-29 w-7"/>
       <word id="8"
             form="οὔ"
@@ -4549,7 +4545,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Lysias Orat. 14: s-29 w-27"/>
       <word id="28"
             form="ὡς"
@@ -4631,7 +4627,7 @@
    </sentence>
    <sentence id="30"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.04"
+             subdoc="1-47 DepDist 3.68"
              span="Lysias Orat. 14: s-30">
       <word id="1"
             form="ἐνθυμηθῆναι"
@@ -4666,7 +4662,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-30 w-5"/>
       <word id="6"
             form="εἰ"
@@ -4729,7 +4725,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-30 w-14"/>
       <word id="15"
             form="οὐδὲν"
@@ -4809,9 +4805,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-30 w-25"/>
       <word id="26"
+            form="[0]"
             insertion_id="0025e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="OBJ"
@@ -4820,7 +4816,7 @@
    </sentence>
    <sentence id="31"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 5.067"
+             subdoc="1-47 DepDist 4.4"
              span="Lysias Orat. 14: s-31">
       <word id="1"
             form="θαυμάζω"
@@ -4841,7 +4837,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-31 w-3"/>
       <word id="4"
             form="ὦ"
@@ -4869,7 +4865,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-31 w-7"/>
       <word id="8"
             form="εἴ"
@@ -4897,7 +4893,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-31 w-11"/>
       <word id="12"
             form="ἐὰν"
@@ -4995,7 +4991,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-31 w-25"/>
       <word id="26"
             form="τούτου"
@@ -5030,7 +5026,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Lysias Orat. 14: s-31 w-30"/>
       <word id="31"
             form="ἐὰν"
@@ -5114,7 +5110,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Lysias Orat. 14: s-31 w-42"/>
       <word id="43"
             form="τούτῳ"
@@ -5147,7 +5143,7 @@
    </sentence>
    <sentence id="32"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.577"
+             subdoc="1-47 DepDist 2.385"
              span="Lysias Orat. 14: s-32">
       <word id="1"
             form="καὶ"
@@ -5175,7 +5171,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-32 w-4"/>
       <word id="5"
             form="ὦ"
@@ -5203,7 +5199,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-32 w-8"/>
       <word id="9"
             form="ἡγοῦμαι"
@@ -5266,7 +5262,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 14: s-32 w-17"/>
       <word id="18"
             form="ἀλλʼ"
@@ -5341,7 +5337,7 @@
    </sentence>
    <sentence id="33"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.5"
+             subdoc="1-47 DepDist 3"
              span="Lysias Orat. 14: s-33">
       <word id="1"
             form="ἐὰν"
@@ -5390,7 +5386,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 14: s-33 w-7"/>
       <word id="8"
             form="οὐδεὶς"
@@ -5498,7 +5494,7 @@
    </sentence>
    <sentence id="35"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.842"
+             subdoc="1-47 DepDist 2.421"
              span="Lysias Orat. 14: s-35">
       <word id="1"
             form="ἐὰν"
@@ -5554,7 +5550,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 14: s-35 w-8"/>
       <word id="9"
             form="πάντες"
@@ -5575,7 +5571,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-35 w-11"/>
       <word id="12"
             form="ὥστε"
@@ -5643,7 +5639,7 @@
    </sentence>
    <sentence id="36"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.863"
+             subdoc="1-47 DepDist 2.667"
              span="Lysias Orat. 14: s-36">
       <word id="1"
             form="ἐὰν"
@@ -5678,7 +5674,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 14: s-36 w-5"/>
       <word id="6"
             form="οὐ"
@@ -5734,7 +5730,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-36 w-13"/>
       <word id="14"
             form="ἀλλὰ"
@@ -5804,7 +5800,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 14: s-36 w-23"/>
       <word id="24"
             form="καὶ"
@@ -5867,7 +5863,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Lysias Orat. 14: s-36 w-32"/>
       <word id="33"
             form="ἐὰν"
@@ -6012,7 +6008,7 @@
    </sentence>
    <sentence id="37"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 5.846"
+             subdoc="1-47 DepDist 5.673"
              span="Lysias Orat. 14: s-37">
       <word id="1"
             form="ἐνθυμεῖσθε"
@@ -6033,7 +6029,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-37 w-3"/>
       <word id="4"
             form="ὦ"
@@ -6061,7 +6057,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-37 w-7"/>
       <word id="8"
             form="ὅτι"
@@ -6117,7 +6113,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 14: s-37 w-15"/>
       <word id="16"
             form="οἱ"
@@ -6166,7 +6162,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Lysias Orat. 14: s-37 w-22"/>
       <word id="23"
             form="καὶ"
@@ -6236,7 +6232,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Lysias Orat. 14: s-37 w-32"/>
       <word id="33"
             form="οἱ"
@@ -6292,7 +6288,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Lysias Orat. 14: s-37 w-40"/>
       <word id="41"
             form="οἱ"
@@ -6327,7 +6323,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Lysias Orat. 14: s-37 w-45"/>
       <word id="46"
             form="οἱ"
@@ -6379,9 +6375,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-37 w-52"/>
       <word id="53"
+            form="ἐτύγχανον"
             insertion_id="0052e"
             artificial="elliptic"
-            form="ἐτύγχανον"
             lemma="τυγχάνω"
             postag="v3piia---"
             relation="OBJ_CO"
@@ -6596,9 +6592,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-38 w-29"/>
       <word id="30"
+            form="ἐφοβεῖσθε"
             insertion_id=""
             artificial="elliptic"
-            form="ἐφοβεῖσθε"
             lemma="φοβέω"
             postag="v2piie---"
             relation="ADV"
@@ -6607,7 +6603,7 @@
    </sentence>
    <sentence id="39"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.64"
+             subdoc="1-47 DepDist 2.6"
              span="Lysias Orat. 14: s-39">
       <word id="1"
             form="ὧν"
@@ -6670,7 +6666,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 14: s-39 w-9"/>
       <word id="10"
             form="καὶ"
@@ -6794,7 +6790,7 @@
    </sentence>
    <sentence id="40"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.857"
+             subdoc="1-47 DepDist 2.667"
              span="Lysias Orat. 14: s-40">
       <word id="1"
             form="ἡγοῦμαι"
@@ -6815,7 +6811,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-40 w-3"/>
       <word id="4"
             form="ὦ"
@@ -6843,7 +6839,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-40 w-7"/>
       <word id="8"
             form="περὶ"
@@ -6953,7 +6949,7 @@
    </sentence>
    <sentence id="41"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.5"
+             subdoc="1-47 DepDist 2.385"
              span="Lysias Orat. 14: s-41">
       <word id="1"
             form="ἀναβαίνοντες"
@@ -7002,7 +6998,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 14: s-41 w-7"/>
       <word id="8"
             form="οὐκ"
@@ -7065,7 +7061,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 14: s-41 w-16"/>
       <word id="17"
             form="ὡς"
@@ -7147,7 +7143,7 @@
    </sentence>
    <sentence id="42"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.95"
+             subdoc="1-47 DepDist 2.35"
              span="Lysias Orat. 14: s-42">
       <word id="1"
             form="ὃν"
@@ -7189,7 +7185,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-42 w-6"/>
       <word id="7"
             form="ὅτε"
@@ -7238,7 +7234,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Lysias Orat. 14: s-42 w-13"/>
       <word id="14"
             form="οὐκ"
@@ -7299,7 +7295,7 @@
    </sentence>
    <sentence id="43"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.205"
+             subdoc="1-47 DepDist 2.977"
              span="Lysias Orat. 14: s-43">
       <word id="1"
             form="δεινὸν"
@@ -7334,7 +7330,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-43 w-5"/>
       <word id="6"
             form="ὦ"
@@ -7362,7 +7358,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-43 w-9"/>
       <word id="10"
             form="εἶναι"
@@ -7376,7 +7372,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-43 w-11"/>
       <word id="12"
             form="εἰ"
@@ -7425,7 +7421,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 14: s-43 w-18"/>
       <word id="19"
             form="τοῦ"
@@ -7481,7 +7477,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Lysias Orat. 14: s-43 w-26"/>
       <word id="27"
             form="ὃς"
@@ -7544,7 +7540,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Lysias Orat. 14: s-43 w-35"/>
       <word id="36"
             form="ὁ"
@@ -7619,7 +7615,7 @@
    </sentence>
    <sentence id="44"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.238"
+             subdoc="1-47 DepDist 3.762"
              span="Lysias Orat. 14: s-44">
       <word id="1"
             form="καὶ"
@@ -7703,7 +7699,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Lysias Orat. 14: s-44 w-12"/>
       <word id="13"
             form="διὰ"
@@ -7778,7 +7774,7 @@
    </sentence>
    <sentence id="45"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.389"
+             subdoc="1-47 DepDist 3.778"
              span="Lysias Orat. 14: s-45">
       <word id="1"
             form="ἐπειδὴ"
@@ -7862,7 +7858,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 14: s-45 w-12"/>
       <word id="13"
             form="διὰ"
@@ -7916,7 +7912,7 @@
    </sentence>
    <sentence id="46"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 7.735"
+             subdoc="1-47 DepDist 7.204"
              span="Lysias Orat. 14: s-46">
       <word id="1"
             form="οὐκ"
@@ -7944,7 +7940,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-46 w-4"/>
       <word id="5"
             form="ὦ"
@@ -7972,7 +7968,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-46 w-8"/>
       <word id="9"
             form="τούτους"
@@ -8021,7 +8017,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 14: s-46 w-15"/>
       <word id="16"
             form="ἐπειδὰν"
@@ -8049,7 +8045,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 14: s-46 w-19"/>
       <word id="20"
             form="διὰ"
@@ -8091,7 +8087,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 14: s-46 w-25"/>
       <word id="26"
             form="ἡμᾶς"
@@ -8112,7 +8108,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Lysias Orat. 14: s-46 w-28"/>
       <word id="29"
             form="εἰ"
@@ -8161,7 +8157,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Lysias Orat. 14: s-46 w-35"/>
       <word id="36"
             form="μηδένα"
@@ -8262,9 +8258,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-46 w-49"/>
       <word id="50"
+            form="ἐστιν"
             insertion_id="0049e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -8273,7 +8269,7 @@
    </sentence>
    <sentence id="47"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.32"
+             subdoc="1-47 DepDist 3"
              span="Lysias Orat. 14: s-47">
       <word id="1"
             form="καίτοι"
@@ -8350,7 +8346,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-47 w-11"/>
       <word id="12"
             form="καὶ"
@@ -8427,7 +8423,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 14: s-47 w-22"/>
       <word id="23"
             form="ὦ"
@@ -8460,7 +8456,7 @@
    </sentence>
    <sentence id="48"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.429"
+             subdoc="1-47 DepDist 4"
              span="Lysias Orat. 14: s-48">
       <word id="1"
             form="εἰ"
@@ -8530,7 +8526,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 14: s-48 w-10"/>
       <word id="11"
             form="δῆλον"
@@ -8610,9 +8606,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-48 w-21"/>
       <word id="22"
+            form="ἐστιν"
             insertion_id="0021e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -8621,7 +8617,7 @@
    </sentence>
    <sentence id="49"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.979"
+             subdoc="1-47 DepDist 3.396"
              span="Lysias Orat. 14: s-49">
       <word id="1"
             form="ἀξιῶ"
@@ -8642,7 +8638,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-49 w-3"/>
       <word id="4"
             form="ὦ"
@@ -8670,7 +8666,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 14: s-49 w-7"/>
       <word id="8"
             form="ἐὰν"
@@ -8726,7 +8722,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 14: s-49 w-15"/>
       <word id="16"
             form="ὀργίζεσθαι"
@@ -8782,7 +8778,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Lysias Orat. 14: s-49 w-23"/>
       <word id="24"
             form="ἢ"
@@ -8824,7 +8820,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Lysias Orat. 14: s-49 w-29"/>
       <word id="30"
             form="ποιεῖν"
@@ -8873,7 +8869,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 14: s-49 w-36"/>
       <word id="37"
             form="ὑμᾶς"
@@ -8969,7 +8965,7 @@
    </sentence>
    <sentence id="50"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.514"
+             subdoc="1-47 DepDist 3.886"
              span="Lysias Orat. 14: s-50">
       <word id="1"
             form="ἐὰν"
@@ -9067,7 +9063,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 14: s-50 w-14"/>
       <word id="15"
             form="φιλοτιμούμενοι"
@@ -9137,7 +9133,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Lysias Orat. 14: s-50 w-24"/>
       <word id="25"
             form="ὑμᾶς"
@@ -9158,7 +9154,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Lysias Orat. 14: s-50 w-27"/>
       <word id="28"
             form="χρὴ"
@@ -9200,7 +9196,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-50 w-33"/>
       <word id="34"
             form="εἰ"
@@ -9242,7 +9238,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-50 w-39"/>
       <word id="40"
             form="οὐδὲν"
@@ -9284,7 +9280,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="50"
+            head="0"
             cite=" Lysias Orat. 14: s-50 w-45"/>
       <word id="46"
             form="οὐ"
@@ -9340,14 +9336,14 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="50"
+            head="0"
             cite=" Lysias Orat. 14: s-50 w-53"/>
       <word id="54"
             form=","
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Lysias Orat. 14: s-50 w-54"/>
       <word id="55"
             form="ἔπειθʼ"
@@ -9471,7 +9467,7 @@
    </sentence>
    <sentence id="51"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.524"
+             subdoc="1-47 DepDist 2.476"
              span="Lysias Orat. 14: s-51">
       <word id="1"
             form="τίς"
@@ -9569,7 +9565,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-51 w-14"/>
       <word id="15"
             form="ὅταν"
@@ -9630,7 +9626,7 @@
    </sentence>
    <sentence id="52"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.375"
+             subdoc="1-47 DepDist 2.583"
              span="Lysias Orat. 14: s-52">
       <word id="1"
             form="ἐγὼ"
@@ -9658,7 +9654,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-52 w-4"/>
       <word id="5"
             form="ἐὰν"
@@ -9791,7 +9787,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-52 w-23"/>
       <word id="24"
             form="ἀποψηφίσασθαι"
@@ -9810,7 +9806,7 @@
    </sentence>
    <sentence id="53"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.529"
+             subdoc="1-47 DepDist 3.029"
              span="Lysias Orat. 14: s-53">
       <word id="1"
             form="ἐὰν"
@@ -9873,7 +9869,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 14: s-53 w-9"/>
       <word id="10"
             form="μεμνῆσθαι"
@@ -9957,7 +9953,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-53 w-21"/>
       <word id="22"
             form="καὶ"
@@ -10060,7 +10056,7 @@
    </sentence>
    <sentence id="54"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.889"
+             subdoc="1-47 DepDist 2.556"
              span="Lysias Orat. 14: s-54">
       <word id="1"
             form="θαυμάζω"
@@ -10088,7 +10084,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-54 w-4"/>
       <word id="5"
             form="ὦ"
@@ -10116,7 +10112,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-54 w-8"/>
       <word id="9"
             form="εἴ"
@@ -10200,7 +10196,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-54 w-20"/>
       <word id="21"
             form="διὰ"
@@ -10261,7 +10257,7 @@
    </sentence>
    <sentence id="55"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 5.038"
+             subdoc="1-47 DepDist 4.808"
              span="Lysias Orat. 14: s-55">
       <word id="1"
             form="ἧς"
@@ -10296,7 +10292,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-55 w-5"/>
       <word id="6"
             form="ἵνʼ"
@@ -10359,7 +10355,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Lysias Orat. 14: s-55 w-14"/>
       <word id="15"
             form="ὡς"
@@ -10394,7 +10390,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Lysias Orat. 14: s-55 w-19"/>
       <word id="20"
             form="τὰ"
@@ -10446,9 +10442,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-55 w-26"/>
       <word id="27"
+            form="ἐστι"
             insertion_id="0026e"
             artificial="elliptic"
-            form="ἐστι"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -10607,7 +10603,7 @@
    </sentence>
    <sentence id="58"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 5.39"
+             subdoc="1-47 DepDist 4.976"
              span="Lysias Orat. 14: s-58">
       <word id="1"
             form="ἐπειδὴ"
@@ -10726,7 +10722,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 14: s-58 w-17"/>
       <word id="18"
             form="εἰκὸς"
@@ -10775,7 +10771,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Lysias Orat. 14: s-58 w-24"/>
       <word id="25"
             form="ἐὰν"
@@ -10897,9 +10893,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-58 w-41"/>
       <word id="42"
+            form="ἐστιν"
             insertion_id="0041e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -10908,7 +10904,7 @@
    </sentence>
    <sentence id="59"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.632"
+             subdoc="1-47 DepDist 4.246"
              span="Lysias Orat. 14: s-59">
       <word id="1"
             form="οὗτος"
@@ -10978,7 +10974,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 14: s-59 w-10"/>
       <word id="11"
             form="τῷ"
@@ -11027,7 +11023,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 14: s-59 w-17"/>
       <word id="18"
             form="πολλῶν"
@@ -11090,7 +11086,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Lysias Orat. 14: s-59 w-26"/>
       <word id="27"
             form="ἐκώμαζε"
@@ -11125,7 +11121,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-59 w-31"/>
       <word id="32"
             form="ἄνηβος"
@@ -11153,7 +11149,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-59 w-35"/>
       <word id="36"
             form="μιμούμενος"
@@ -11188,7 +11184,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Lysias Orat. 14: s-59 w-40"/>
       <word id="41"
             form="καὶ"
@@ -11258,7 +11254,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="51"
+            head="0"
             cite=" Lysias Orat. 14: s-59 w-50"/>
       <word id="51"
             form="εἰ"
@@ -11319,7 +11315,7 @@
    </sentence>
    <sentence id="60"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 1.625"
+             subdoc="1-47 DepDist 1.5"
              span="Lysias Orat. 14: s-60">
       <word id="1"
             form="μετεπέμφθη"
@@ -11354,7 +11350,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-60 w-5"/>
       <word id="6"
             form="ἐπειδὴ"
@@ -11387,7 +11383,7 @@
    </sentence>
    <sentence id="61"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.095"
+             subdoc="1-47 DepDist 2.81"
              span="Lysias Orat. 14: s-61">
       <word id="1"
             form="καίτοι"
@@ -11457,7 +11453,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 14: s-61 w-10"/>
       <word id="11"
             form="ὅστις"
@@ -11614,7 +11610,7 @@
    </sentence>
    <sentence id="63"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.824"
+             subdoc="1-47 DepDist 3.588"
              span="Lysias Orat. 14: s-63">
       <word id="1"
             form="ὁ"
@@ -11698,7 +11694,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 14: s-63 w-12"/>
       <word id="13"
             form="τελευτῶν"
@@ -11745,7 +11741,7 @@
    </sentence>
    <sentence id="64"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.375"
+             subdoc="1-47 DepDist 2.312"
              span="Lysias Orat. 14: s-64">
       <word id="1"
             form="ὁ"
@@ -11801,7 +11797,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 14: s-64 w-8"/>
       <word id="9"
             form="ὥστʼ"
@@ -11937,7 +11933,7 @@
    </sentence>
    <sentence id="66"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.812"
+             subdoc="1-47 DepDist 2.625"
              span="Lysias Orat. 14: s-66">
       <word id="1"
             form="οὐ"
@@ -12000,7 +11996,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-66 w-9"/>
       <word id="10"
             form="ἐκ"
@@ -12061,7 +12057,7 @@
    </sentence>
    <sentence id="67"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 6.161"
+             subdoc="1-47 DepDist 6"
              span="Lysias Orat. 14: s-67">
       <word id="1"
             form="ὅσα"
@@ -12089,7 +12085,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-67 w-4"/>
       <word id="5"
             form="ὦ"
@@ -12117,7 +12113,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-67 w-8"/>
       <word id="9"
             form="ἢ"
@@ -12250,7 +12246,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Lysias Orat. 14: s-67 w-27"/>
       <word id="28"
             form="μακρὸν"
@@ -12290,7 +12286,7 @@
    </sentence>
    <sentence id="68"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.88"
+             subdoc="1-47 DepDist 2.84"
              span="Lysias Orat. 14: s-68">
       <word id="1"
             form="Ἱππόνικος"
@@ -12353,7 +12349,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 14: s-68 w-9"/>
       <word id="10"
             form="φάσκων"
@@ -12477,7 +12473,7 @@
    </sentence>
    <sentence id="69"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 7.245"
+             subdoc="1-47 DepDist 6.774"
              span="Lysias Orat. 14: s-69">
       <word id="1"
             form="καὶ"
@@ -12638,7 +12634,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 14: s-69 w-23"/>
       <word id="24"
             form="ἀλλʼ"
@@ -12694,7 +12690,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Lysias Orat. 14: s-69 w-31"/>
       <word id="32"
             form="ἀπολογίαν"
@@ -12764,7 +12760,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Lysias Orat. 14: s-69 w-41"/>
       <word id="42"
             form="οὗτος"
@@ -12799,7 +12795,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Lysias Orat. 14: s-69 w-46"/>
       <word id="47"
             form="ὥσπερ"
@@ -12897,7 +12893,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="59"
+            head="0"
             cite=" Lysias Orat. 14: s-69 w-60"/>
       <word id="61"
             form="καὶ"
@@ -12939,7 +12935,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="90"
+            head="0"
             cite=" Lysias Orat. 14: s-69 w-66"/>
       <word id="67"
             form="ὃς"
@@ -12988,7 +12984,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="68"
+            head="0"
             cite=" Lysias Orat. 14: s-69 w-73"/>
       <word id="74"
             form="ἐπὶ"
@@ -13037,7 +13033,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="79"
+            head="0"
             cite=" Lysias Orat. 14: s-69 w-80"/>
       <word id="81"
             form="διδάσκαλος"
@@ -13093,7 +13089,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="87"
+            head="0"
             cite=" Lysias Orat. 14: s-69 w-88"/>
       <word id="89"
             form="πλεονάκις"
@@ -13208,27 +13204,27 @@
             head="0"
             cite=" Lysias Orat. 14: s-69 w-104"/>
       <word id="105"
+            form="[0]"
             insertion_id="0104e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="ADV"
             head="47"
             cite="Lysias Orat. 14: s-69 w-105"/>
       <word id="106"
+            form="[1]"
             insertion_id="0104f"
             artificial="elliptic"
-            form="[1]"
             lemma=""
             postag=""
             relation="OBJ_CO"
             head="61"
             cite="Lysias Orat. 14: s-69 w-106"/>
       <word id="107"
+            form="ἐστρατεύσατο"
             insertion_id="0104g"
             artificial="elliptic"
-            form="ἐστρατεύσατο"
             lemma="στρατεύω"
             postag="v3saim---"
             relation="ADV"
@@ -13340,7 +13336,7 @@
    </sentence>
    <sentence id="71"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.321"
+             subdoc="1-47 DepDist 3.286"
              span="Lysias Orat. 14: s-71">
       <word id="1"
             form="καίτοι"
@@ -13473,7 +13469,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Lysias Orat. 14: s-71 w-19"/>
       <word id="20"
             form="τοῦτον"
@@ -13548,7 +13544,7 @@
    </sentence>
    <sentence id="72"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.172"
+             subdoc="1-47 DepDist 2.966"
              span="Lysias Orat. 14: s-72">
       <word id="1"
             form="ἐμοὶ"
@@ -13590,7 +13586,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-72 w-6"/>
       <word id="7"
             form="εἰ"
@@ -13667,7 +13663,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-72 w-17"/>
       <word id="18"
             form="τούτου"
@@ -13763,7 +13759,7 @@
    </sentence>
    <sentence id="73"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 6.5"
+             subdoc="1-47 DepDist 6.25"
              span="Lysias Orat. 14: s-73">
       <word id="1"
             form="καὶ"
@@ -13791,7 +13787,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-73 w-4"/>
       <word id="5"
             form="ὦ"
@@ -13819,7 +13815,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-73 w-8"/>
       <word id="9"
             form="ἄλλων"
@@ -13875,7 +13871,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 14: s-73 w-16"/>
       <word id="17"
             form="καὶ"
@@ -13962,9 +13958,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-73 w-28"/>
       <word id="29"
+            form="ἐστίν"
             insertion_id="0028e"
             artificial="elliptic"
-            form="ἐστίν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -14069,7 +14065,7 @@
    </sentence>
    <sentence id="75"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 5.13"
+             subdoc="1-47 DepDist 4.852"
              span="Lysias Orat. 14: s-75">
       <word id="1"
             form="καὶ"
@@ -14174,7 +14170,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 14: s-75 w-15"/>
       <word id="16"
             form="καὶ"
@@ -14237,7 +14233,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 14: s-75 w-24"/>
       <word id="25"
             form="ἀλλὰ"
@@ -14286,7 +14282,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Lysias Orat. 14: s-75 w-31"/>
       <word id="32"
             form="ὡς"
@@ -14391,7 +14387,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Lysias Orat. 14: s-75 w-46"/>
       <word id="47"
             form="καὶ"
@@ -14450,9 +14446,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-75 w-54"/>
       <word id="55"
+            form="[0]"
             insertion_id="0054e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="PRED"
@@ -14461,7 +14457,7 @@
    </sentence>
    <sentence id="76"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.16"
+             subdoc="1-47 DepDist 2.76"
              span="Lysias Orat. 14: s-76">
       <word id="1"
             form="καὶ"
@@ -14608,7 +14604,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 14: s-76 w-21"/>
       <word id="22"
             form="αὐτοὶ"
@@ -14648,7 +14644,7 @@
    </sentence>
    <sentence id="77"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.222"
+             subdoc="1-47 DepDist 3.167"
              span="Lysias Orat. 14: s-77">
       <word id="1"
             form="τὸ"
@@ -14718,7 +14714,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 14: s-77 w-10"/>
       <word id="11"
             form="τῶν"
@@ -14868,7 +14864,7 @@
    </sentence>
    <sentence id="79"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.375"
+             subdoc="1-47 DepDist 3.188"
              span="Lysias Orat. 14: s-79">
       <word id="1"
             form="ἀλλʼ"
@@ -14980,7 +14976,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-79 w-16"/>
       <word id="17"
             form="καὶ"
@@ -15036,7 +15032,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 14: s-79 w-24"/>
       <word id="25"
             form="ὥστε"
@@ -15104,7 +15100,7 @@
    </sentence>
    <sentence id="80"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 10.373"
+             subdoc="1-47 DepDist 9.745"
              span="Lysias Orat. 14: s-80">
       <word id="1"
             form="καίτοι"
@@ -15160,7 +15156,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-80 w-8"/>
       <word id="9"
             form="ὃς"
@@ -15272,7 +15268,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-80 w-24"/>
       <word id="25"
             form="δηλώσειε"
@@ -15335,7 +15331,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Lysias Orat. 14: s-80 w-33"/>
       <word id="34"
             form="διδάξειε"
@@ -15398,7 +15394,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-80 w-42"/>
       <word id="43"
             form="μηνύσειε"
@@ -15464,9 +15460,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-80 w-51"/>
       <word id="52"
+            form="ἐστιν"
             insertion_id="0051e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -15475,7 +15471,7 @@
    </sentence>
    <sentence id="81"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.909"
+             subdoc="1-47 DepDist 4.618"
              span="Lysias Orat. 14: s-81">
       <word id="1"
             form="οὐ"
@@ -15503,7 +15499,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-81 w-4"/>
       <word id="5"
             form="ὅτε"
@@ -15531,7 +15527,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-81 w-8"/>
       <word id="9"
             form="διὰ"
@@ -15608,7 +15604,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Lysias Orat. 14: s-81 w-19"/>
       <word id="20"
             form="ἐπειδὴ"
@@ -15678,7 +15674,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Lysias Orat. 14: s-81 w-29"/>
       <word id="30"
             form="οὔ"
@@ -15748,7 +15744,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Lysias Orat. 14: s-81 w-39"/>
       <word id="40"
             form="οὔ"
@@ -15811,7 +15807,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Lysias Orat. 14: s-81 w-48"/>
       <word id="49"
             form="οὔ"
@@ -15872,7 +15868,7 @@
    </sentence>
    <sentence id="82"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 6.3"
+             subdoc="1-47 DepDist 6.25"
              span="Lysias Orat. 14: s-82">
       <word id="1"
             form="ὥστʼ"
@@ -15963,7 +15959,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 14: s-82 w-13"/>
       <word id="14"
             form="πονηρίᾳ"
@@ -16015,9 +16011,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-82 w-20"/>
       <word id="21"
+            form="ἐστιν"
             insertion_id="0020e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -16026,7 +16022,7 @@
    </sentence>
    <sentence id="83"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.308"
+             subdoc="1-47 DepDist 3.923"
              span="Lysias Orat. 14: s-83">
       <word id="1"
             form="ἃ"
@@ -16089,7 +16085,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 14: s-83 w-9"/>
       <word id="10"
             form="μηνυτὴς"
@@ -16129,7 +16125,7 @@
    </sentence>
    <sentence id="84"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.714"
+             subdoc="1-47 DepDist 3.286"
              span="Lysias Orat. 14: s-84">
       <word id="1"
             form="ἐπειδὴ"
@@ -16171,7 +16167,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 14: s-84 w-6"/>
       <word id="7"
             form="οὐδὲν"
@@ -16213,7 +16209,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 14: s-84 w-12"/>
       <word id="13"
             form="ἀλλʼ"
@@ -16269,7 +16265,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 14: s-84 w-20"/>
       <word id="21"
             form="πλεῖν"
@@ -16328,9 +16324,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-84 w-28"/>
       <word id="29"
+            form="[0]"
             insertion_id="0028e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="ADV"
@@ -16339,7 +16335,7 @@
    </sentence>
    <sentence id="85"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.81"
+             subdoc="1-47 DepDist 2.452"
              span="Lysias Orat. 14: s-85">
       <word id="1"
             form="καὶ"
@@ -16395,7 +16391,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 14: s-85 w-8"/>
       <word id="9"
             form="ὥστε"
@@ -16500,7 +16496,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 14: s-85 w-23"/>
       <word id="24"
             form="ἀλλὰ"
@@ -16645,7 +16641,7 @@
    </sentence>
    <sentence id="86"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.4"
+             subdoc="1-47 DepDist 3.2"
              span="Lysias Orat. 14: s-86">
       <word id="1"
             form="καὶ"
@@ -16673,7 +16669,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-86 w-4"/>
       <word id="5"
             form="ὦ"
@@ -16701,7 +16697,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-86 w-8"/>
       <word id="9"
             form="ὑπερβολὴν"
@@ -16797,7 +16793,7 @@
    </sentence>
    <sentence id="87"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.919"
+             subdoc="1-47 DepDist 4.838"
              span="Lysias Orat. 14: s-87">
       <word id="1"
             form="ὥστε"
@@ -16881,7 +16877,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 14: s-87 w-12"/>
       <word id="13"
             form="ἢ"
@@ -16937,7 +16933,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 14: s-87 w-20"/>
       <word id="21"
             form="ἢ"
@@ -16979,7 +16975,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Lysias Orat. 14: s-87 w-26"/>
       <word id="27"
             form="ἢ"
@@ -17007,7 +17003,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Lysias Orat. 14: s-87 w-30"/>
       <word id="31"
             form="ἢ"
@@ -17042,7 +17038,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-87 w-35"/>
       <word id="36"
             form="τούτων"
@@ -17105,7 +17101,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="43"
+            head="0"
             cite=" Lysias Orat. 14: s-87 w-44"/>
       <word id="45"
             form="καὶ"
@@ -17259,7 +17255,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="65"
+            head="0"
             cite=" Lysias Orat. 14: s-87 w-66"/>
       <word id="67"
             form="τοῦ"
@@ -17329,7 +17325,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="77"
+            head="0"
             cite=" Lysias Orat. 14: s-87 w-76"/>
       <word id="77"
             form="ὥστε"
@@ -17413,7 +17409,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="87"
+            head="0"
             cite=" Lysias Orat. 14: s-87 w-88"/>
       <word id="89"
             form="καὶ"
@@ -17586,7 +17582,7 @@
    </sentence>
    <sentence id="88"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.8"
+             subdoc="1-47 DepDist 2.533"
              span="Lysias Orat. 14: s-88">
       <word id="1"
             form="σκέψασθαι"
@@ -17614,7 +17610,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-88 w-4"/>
       <word id="5"
             form="ὦ"
@@ -17642,7 +17638,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-88 w-8"/>
       <word id="9"
             form="διὰ"
@@ -17703,7 +17699,7 @@
    </sentence>
    <sentence id="89"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.625"
+             subdoc="1-47 DepDist 3.562"
              span="Lysias Orat. 14: s-89">
       <word id="1"
             form="πότερον"
@@ -17759,7 +17755,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-89 w-8"/>
       <word id="9"
             form="ἄλλως"
@@ -17818,9 +17814,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-89 w-16"/>
       <word id="17"
+            form="[0]"
             insertion_id="0016e"
             artificial="elliptic"
-            form="[0]"
             lemma=""
             postag=""
             relation="PRED"
@@ -17829,7 +17825,7 @@
    </sentence>
    <sentence id="90"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.828"
+             subdoc="1-47 DepDist 4.547"
              span="Lysias Orat. 14: s-90">
       <word id="1"
             form="οὐχ"
@@ -17878,7 +17874,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-90 w-7"/>
       <word id="8"
             form="οἱ"
@@ -17913,7 +17909,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 14: s-90 w-12"/>
       <word id="13"
             form="τοῖς"
@@ -17962,7 +17958,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Lysias Orat. 14: s-90 w-19"/>
       <word id="20"
             form="οἱ"
@@ -18109,7 +18105,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Lysias Orat. 14: s-90 w-40"/>
       <word id="41"
             form="ἀδίκως"
@@ -18207,7 +18203,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Lysias Orat. 14: s-90 w-54"/>
       <word id="55"
             form="οὐδεμιᾶς"
@@ -18235,7 +18231,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="57"
+            head="0"
             cite=" Lysias Orat. 14: s-90 w-58"/>
       <word id="59"
             form="οὐ"
@@ -18343,7 +18339,7 @@
    </sentence>
    <sentence id="92"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 2.812"
+             subdoc="1-47 DepDist 2.688"
              span="Lysias Orat. 14: s-92">
       <word id="1"
             form="οὕτω"
@@ -18371,7 +18367,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 14: s-92 w-4"/>
       <word id="5"
             form="ὥστʼ"
@@ -18420,7 +18416,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 14: s-92 w-11"/>
       <word id="12"
             form="ἐπὶ"
@@ -18467,7 +18463,7 @@
    </sentence>
    <sentence id="93"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.304"
+             subdoc="1-47 DepDist 3.087"
              span="Lysias Orat. 14: s-93">
       <word id="1"
             form="καὶ"
@@ -18495,7 +18491,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-93 w-4"/>
       <word id="5"
             form="ὦ"
@@ -18523,7 +18519,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 14: s-93 w-8"/>
       <word id="9"
             form="ἤδη"
@@ -18572,7 +18568,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 14: s-93 w-15"/>
       <word id="16"
             form="οἰόμενοι"
@@ -18640,7 +18636,7 @@
    </sentence>
    <sentence id="94"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 7.171"
+             subdoc="1-47 DepDist 6.2"
              span="Lysias Orat. 14: s-94">
       <word id="1"
             form="τίς"
@@ -18717,7 +18713,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Lysias Orat. 14: s-94 w-11"/>
       <word id="12"
             form="ὃν"
@@ -18738,7 +18734,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-94 w-14"/>
       <word id="15"
             form="ὅτι"
@@ -18780,7 +18776,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-94 w-20"/>
       <word id="21"
             form="ἐπειδὰν"
@@ -18801,7 +18797,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Lysias Orat. 14: s-94 w-23"/>
       <word id="24"
             form="εἴσεσθε"
@@ -18815,7 +18811,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-94 w-25"/>
       <word id="26"
             form="ὅτι"
@@ -18888,9 +18884,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-94 w-35"/>
       <word id="36"
+            form="ἐστιν"
             insertion_id="0035e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -18899,7 +18895,7 @@
    </sentence>
    <sentence id="95"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 4.194"
+             subdoc="1-47 DepDist 4.129"
              span="Lysias Orat. 14: s-95">
       <word id="1"
             form="ἀλλὰ"
@@ -19004,7 +19000,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 14: s-95 w-15"/>
       <word id="16"
             form="δειλὸς"
@@ -19128,7 +19124,7 @@
    </sentence>
    <sentence id="96"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 7.191"
+             subdoc="1-47 DepDist 6.915"
              span="Lysias Orat. 14: s-96">
       <word id="1"
             form="ὥστʼ"
@@ -19191,7 +19187,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 14: s-96 w-9"/>
       <word id="10"
             form="ἀλλὰ"
@@ -19282,7 +19278,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Lysias Orat. 14: s-96 w-22"/>
       <word id="23"
             form="οἳ"
@@ -19338,7 +19334,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Lysias Orat. 14: s-96 w-30"/>
       <word id="31"
             form="τοιούτων"
@@ -19373,7 +19369,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-96 w-35"/>
       <word id="36"
             form="καὶ"
@@ -19460,9 +19456,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-96 w-47"/>
       <word id="48"
+            form="ἐστιν"
             insertion_id="0047e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="PRED"
@@ -19471,7 +19467,7 @@
    </sentence>
    <sentence id="97"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.651"
+             subdoc="1-47 DepDist 3.326"
              span="Lysias Orat. 14: s-97">
       <word id="1"
             form="ἐγὼ"
@@ -19527,7 +19523,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 14: s-97 w-8"/>
       <word id="9"
             form="ἐπίσταμαι"
@@ -19597,7 +19593,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 14: s-97 w-18"/>
       <word id="19"
             form="ὅπως"
@@ -19667,7 +19663,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 14: s-97 w-28"/>
       <word id="29"
             form="οὗτος"
@@ -19702,7 +19698,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 14: s-97 w-33"/>
       <word id="34"
             form="ὅτι"
@@ -19784,7 +19780,7 @@
    </sentence>
    <sentence id="98"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg014.perseus-grc1"
-             subdoc="1-47 DepDist 3.312"
+             subdoc="1-47 DepDist 3.188"
              span="Lysias Orat. 14: s-98">
       <word id="1"
             form="ὑμεῖς"
@@ -19882,7 +19878,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 14: s-98 w-14"/>
       <word id="15"
             form="ἐνθυμηθέντες"
@@ -19938,7 +19934,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 14: s-98 w-22"/>
       <word id="23"
             form="μεγάλη"
@@ -20011,9 +20007,9 @@
             head="0"
             cite=" Lysias Orat. 14: s-98 w-32"/>
       <word id="33"
+            form="ἐστιν"
             insertion_id="0032e"
             artificial="elliptic"
-            form="ἐστιν"
             lemma="εἰμί"
             postag="v3spia---"
             relation="OBJ_CO"

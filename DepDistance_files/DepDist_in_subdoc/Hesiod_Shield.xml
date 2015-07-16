@@ -1,37 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
    <comment>
-      <comment>
-         <comment xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
-                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Hesiod Shield</comment>
-      </comment>
+      <comment xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Hesiod Shield</comment>
    </comment>
    <annotator>
-      <annotator>
-         <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
-                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <short>alexlessie</short>
-            <name>Alex Lessie</name>
-            <address>University of Pennsylvania, Philadelphia, PA, USA</address>
-         </annotator>
-         <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
-                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <short>dlliba10</short>
-            <name>Daniel Lim Libatique</name>
-            <address>College of the Holy Cross, Worcester, MA, USA</address>
-         </annotator>
-         <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
-                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <short>jfg</short>
-            <name>J. F. Gentile</name>
-            <address>University of Pennsylvania, Philadelphia, PA, USA</address>
-         </annotator>
-         <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
-                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-            <short>samzukoff</short>
-            <name>Sam Zukoff</name>
-            <address>University of Georgia, Athens, GA, USA</address>
-         </annotator>
+      <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <short>alexlessie</short>
+        <name>Alex Lessie</name>
+        <address>University of Pennsylvania, Philadelphia, PA, USA</address>
+      </annotator>
+      <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <short>dlliba10</short>
+        <name>Daniel Lim Libatique</name>
+        <address>College of the Holy Cross, Worcester, MA, USA</address>
+      </annotator>
+      <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <short>jfg</short>
+        <name>J. F. Gentile</name>
+        <address>University of Pennsylvania, Philadelphia, PA, USA</address>
+      </annotator>
+      <annotator xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <short>samzukoff</short>
+        <name>Sam Zukoff</name>
+        <address>University of Georgia, Athens, GA, USA</address>
       </annotator>
    </annotator>
    <sentence id="2273413"

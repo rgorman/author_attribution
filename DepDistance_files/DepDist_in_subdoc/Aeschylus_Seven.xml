@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
    <comment>
-      <comment>
-         <comment>Aeschylus Seven</comment>
-      </comment>
+      <comment>Aeschylus Seven</comment>
    </comment>
    <annotator>
       <annotator>
-         <annotator>
-            <short>FrancescoM</short>
-            <name>Francesco Mambrini</name>
-            <address>Tufts University, Medford, MA, USA</address>
-         </annotator>
+        <short>FrancescoM</short>
+        <name>Francesco Mambrini</name>
+        <address>Tufts University, Medford, MA, USA</address>
       </annotator>
    </annotator>
    <sentence id="2896359"
