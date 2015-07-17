@@ -8,7 +8,7 @@
     <xsl:template match="treebank">
         <sWord_document>
             <xsl:copy-of select="@*"/>
-            <xsl:copy-of select="@*"/>
+            
             <xsl:for-each select="comment">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
