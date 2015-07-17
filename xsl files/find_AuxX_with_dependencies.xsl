@@ -39,7 +39,7 @@
                                                     relation="{./@relation}"
                                                     head="{./@head}"
                                                     cite="{./@cite}"
-                                                    bad_AuxX="had dependency"></word>
+                                                    bad_AuxX="has dependency"></word>
                                             </xsl:when>
                                             <xsl:otherwise>
                                                 <word id="{./@id}"
@@ -50,7 +50,7 @@
                                                     relation="{./@relation}"
                                                     head="{./@head}"
                                                     cite="{./@cite}"
-                                                    bad_AuxX="had dependency"></word>
+                                                    bad_AuxX="has dependency"></word>
                                             </xsl:otherwise>
                                         </xsl:choose>
                                         
