@@ -34,7 +34,7 @@
    <sentence id="1"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="1.1"
-             span="">
+             span="Plutarch Lycurgus: s-1">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -361,7 +361,7 @@
    <sentence id="2"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="1.1"
-             span="">
+             span="Plutarch Lycurgus: s-2">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -597,7 +597,7 @@
    <sentence id="3"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="1.2"
-             span="">
+             span="Plutarch Lycurgus: s-3">
       <word id="1"
             form="οἱ"
             lemma="ὀ"
@@ -793,7 +793,7 @@
    <sentence id="4"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="1.2"
-             span="">
+             span="Plutarch Lycurgus: s-4">
       <word id="1"
             form="Τίμαιος"
             lemma="Τίμαιος"
@@ -973,7 +973,7 @@
    <sentence id="5"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="1.2"
-             span="">
+             span="Plutarch Lycurgus: s-5">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -1129,7 +1129,7 @@
    <sentence id="6"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="1.3"
-             span="">
+             span="Plutarch Lycurgus: s-6">
       <word id="1"
             form="δίδωσι"
             lemma="δίδωμι"
@@ -1246,7 +1246,7 @@
    <sentence id="7"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="1.3"
-             span="">
+             span="Plutarch Lycurgus: s-7">
       <word id="1"
             form="γένει"
             lemma="γένος"
@@ -1440,7 +1440,7 @@
    <sentence id="8"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="1.3"
-             span="">
+             span="Plutarch Lycurgus: s-8">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -1634,7 +1634,7 @@
    <sentence id="9"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="1.4"
-             span="">
+             span="Plutarch Lycurgus: s-9">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -2250,7 +2250,7 @@
    <sentence id="10"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="2.1"
-             span="">
+             span="Plutarch Lycurgus: s-10">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -2430,7 +2430,7 @@
    <sentence id="11"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="2.1"
-             span="">
+             span="Plutarch Lycurgus: s-11">
       <word id="1"
             form="λέγεται"
             lemma="λέγω3"
@@ -2673,7 +2673,7 @@
    <sentence id="12"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="2.2"
-             span="">
+             span="Plutarch Lycurgus: s-12">
       <word id="1"
             form="γενομένων"
             lemma="γίγνομαι"
@@ -2792,7 +2792,7 @@
    <sentence id="13"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="2.2"
-             span="">
+             span="Plutarch Lycurgus: s-13">
       <word id="1"
             form="οὐδενὸς"
             lemma="οὐδείς"
@@ -3009,7 +3009,7 @@
    <sentence id="14"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="2.2"
-             span="">
+             span="Plutarch Lycurgus: s-14">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -3266,7 +3266,7 @@
    <sentence id="15"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="2.3"
-             span="">
+             span="Plutarch Lycurgus: s-15">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -3558,7 +3558,7 @@
    <sentence id="16"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="2.3"
-             span="">
+             span="Plutarch Lycurgus: s-16">
       <word id="1"
             form="ὑφ᾽"
             lemma="ὑπό"
@@ -3640,7 +3640,7 @@
    <sentence id="17"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="2.3"
-             span="">
+             span="Plutarch Lycurgus: s-17">
       <word id="1"
             form="διερύκων"
             lemma="διερύκω"
@@ -3771,7 +3771,7 @@
    <sentence id="18"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.1"
-             span="">
+             span="Plutarch Lycurgus: s-18">
       <word id="1"
             form="ἀποθανόντος"
             lemma="ἀποθνήσκω"
@@ -3895,7 +3895,7 @@
    <sentence id="19"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.1"
-             span="">
+             span="Plutarch Lycurgus: s-19">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -3984,7 +3984,7 @@
    <sentence id="20"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.1"
-             span="">
+             span="Plutarch Lycurgus: s-20">
       <word id="1"
             form="ἐπεὶ"
             lemma="ἐπεί"
@@ -4180,7 +4180,7 @@
    <sentence id="21"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.1"
-             span="">
+             span="Plutarch Lycurgus: s-21">
       <word id="1"
             form="τοὺς"
             lemma="ὁ"
@@ -4255,7 +4255,7 @@
    <sentence id="22"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.2"
-             span="">
+             span="Plutarch Lycurgus: s-22">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -4645,7 +4645,7 @@
    <sentence id="23"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.2"
-             span="">
+             span="Plutarch Lycurgus: s-23">
       <word id="1"
             form="αὐτῷ"
             lemma="αὐτός"
@@ -4729,7 +4729,7 @@
    <sentence id="24"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.3"
-             span="">
+             span="Plutarch Lycurgus: s-24">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -5072,7 +5072,7 @@
    <sentence id="25"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.3"
-             span="">
+             span="Plutarch Lycurgus: s-25">
       <word id="1"
             form="ἔτυχε"
             lemma="τυγχάνω"
@@ -5203,7 +5203,7 @@
    <sentence id="26"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.4"
-             span="">
+             span="Plutarch Lycurgus: s-26">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -5509,7 +5509,7 @@
    <sentence id="27"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.4"
-             span="">
+             span="Plutarch Lycurgus: s-27">
       <word id="1"
             form="ἐβασίλευσε"
             lemma="βασιλεύω"
@@ -5563,7 +5563,7 @@
    <sentence id="28"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.4"
-             span="">
+             span="Plutarch Lycurgus: s-28">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -5799,7 +5799,7 @@
    <sentence id="29"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.5"
-             span="">
+             span="Plutarch Lycurgus: s-29">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -6266,7 +6266,7 @@
    <sentence id="30"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.5"
-             span="">
+             span="Plutarch Lycurgus: s-30">
       <word id="1"
             form="τοιοῦτοι"
             lemma="τοιοῦτος"
@@ -6341,7 +6341,7 @@
    <sentence id="31"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="3.5"
-             span="">
+             span="Plutarch Lycurgus: s-31">
       <word id="1"
             form="ἐφ᾽"
             lemma="ἐπί"
@@ -6549,7 +6549,7 @@
    <sentence id="32"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.1"
-             span="">
+             span="Plutarch Lycurgus: s-32">
       <word id="1"
             form="οὕτως"
             lemma="οὕτως"
@@ -6610,7 +6610,7 @@
    <sentence id="33"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.1"
-             span="">
+             span="Plutarch Lycurgus: s-33">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -6839,7 +6839,7 @@
    <sentence id="34"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.1"
-             span="">
+             span="Plutarch Lycurgus: s-34">
       <word id="1"
             form="ἕνα"
             lemma="ἕνος"
@@ -7142,7 +7142,7 @@
    <sentence id="35"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.2"
-             span="">
+             span="Plutarch Lycurgus: s-35">
       <word id="1"
             form="λόγοι"
             lemma="λόγος"
@@ -7525,7 +7525,7 @@
    <sentence id="36"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.3"
-             span="">
+             span="Plutarch Lycurgus: s-36">
       <word id="1"
             form="ἀπὸ"
             lemma="ἀπό"
@@ -7875,7 +7875,7 @@
    <sentence id="37"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.4"
-             span="">
+             span="Plutarch Lycurgus: s-37">
       <word id="1"
             form="ἐκεῖ"
             lemma="ἐκεῖ"
@@ -8209,7 +8209,7 @@
    <sentence id="38"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.4"
-             span="">
+             span="Plutarch Lycurgus: s-38">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -8410,7 +8410,7 @@
    <sentence id="39"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.5"
-             span="">
+             span="Plutarch Lycurgus: s-39">
       <word id="1"
             form="γνωρίμην"
             lemma="γνώριμος"
@@ -8478,7 +8478,7 @@
    <sentence id="40"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.5"
-             span="">
+             span="Plutarch Lycurgus: s-40">
       <word id="1"
             form="Αἰγύπτιοι"
             lemma="Αἰγύπτιος"
@@ -8770,7 +8770,7 @@
    <sentence id="41"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.5"
-             span="">
+             span="Plutarch Lycurgus: s-41">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -8852,7 +8852,7 @@
    <sentence id="42"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="4.6"
-             span="">
+             span="Plutarch Lycurgus: s-42">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι2"
@@ -9046,7 +9046,7 @@
    <sentence id="43"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.1"
-             span="">
+             span="Plutarch Lycurgus: s-43">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -9317,7 +9317,7 @@
    <sentence id="44"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.1"
-             span="">
+             span="Plutarch Lycurgus: s-44">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -9476,7 +9476,7 @@
    <sentence id="45"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.2"
-             span="">
+             span="Plutarch Lycurgus: s-45">
       <word id="1"
             form="ἐπανελθὼν"
             lemma="ἐπανέρχομαι"
@@ -9840,7 +9840,7 @@
    <sentence id="46"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.3"
-             span="">
+             span="Plutarch Lycurgus: s-46">
       <word id="1"
             form="διανοηθεὶς"
             lemma="διανοέω"
@@ -9908,7 +9908,7 @@
    <sentence id="47"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.3"
-             span="">
+             span="Plutarch Lycurgus: s-47">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -10232,7 +10232,7 @@
    <sentence id="48"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.4"
-             span="">
+             span="Plutarch Lycurgus: s-48">
       <word id="1"
             form="ἐπαρθεὶς"
             lemma="ἐπαίρω"
@@ -10433,7 +10433,7 @@
    <sentence id="49"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.4"
-             span="">
+             span="Plutarch Lycurgus: s-49">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -10613,7 +10613,7 @@
    <sentence id="50"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.4"
-             span="">
+             span="Plutarch Lycurgus: s-50">
       <word id="1"
             form="ὧν"
             lemma="οὗν"
@@ -10667,7 +10667,7 @@
    <sentence id="51"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.4"
-             span="">
+             span="Plutarch Lycurgus: s-51">
       <word id="1"
             form="τὸν"
             lemma="ὁ"
@@ -10791,7 +10791,7 @@
    <sentence id="52"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.5"
-             span="">
+             span="Plutarch Lycurgus: s-52">
       <word id="1"
             form="ἀρχομένης"
             lemma="ἄρχω"
@@ -10943,7 +10943,7 @@
    <sentence id="53"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.5"
-             span="">
+             span="Plutarch Lycurgus: s-53">
       <word id="1"
             form="εἶτα"
             lemma="εἶτα"
@@ -11053,7 +11053,7 @@
    <sentence id="54"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.5"
-             span="">
+             span="Plutarch Lycurgus: s-54">
       <word id="1"
             form="ὥς"
             lemma="ὥς"
@@ -11163,7 +11163,7 @@
    <sentence id="55"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.5"
-             span="">
+             span="Plutarch Lycurgus: s-55">
       <word id="1"
             form="πῶς"
             lemma="πως"
@@ -11273,7 +11273,7 @@
    <sentence id="56"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.6"
-             span="">
+             span="Plutarch Lycurgus: s-56">
       <word id="1"
             form="πλειόνων"
             lemma="πλείων"
@@ -11537,7 +11537,7 @@
    <sentence id="57"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.6-5.7"
-             span="">
+             span="Plutarch Lycurgus: s-57">
       <word id="1"
             form="αἰωρουμένη"
             lemma="αἰωρέω"
@@ -12031,7 +12031,7 @@
    <sentence id="58"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.7"
-             span="">
+             span="Plutarch Lycurgus: s-58">
       <word id="1"
             form="τοσούτους"
             lemma="τοσοῦτος"
@@ -12183,7 +12183,7 @@
    <sentence id="59"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.8"
-             span="">
+             span="Plutarch Lycurgus: s-59">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -12279,7 +12279,7 @@
    <sentence id="60"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.8"
-             span="">
+             span="Plutarch Lycurgus: s-60">
       <word id="1"
             form="εἴη"
             lemma="ἐάω"
@@ -12473,7 +12473,7 @@
    <sentence id="61"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="5.8"
-             span="">
+             span="Plutarch Lycurgus: s-61">
       <word id="1"
             form="ἐμοὶ"
             lemma="ἐγώ"
@@ -12639,7 +12639,7 @@
    <sentence id="62"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.1"
-             span="">
+             span="Plutarch Lycurgus: s-62">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -12791,7 +12791,7 @@
    <sentence id="63"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.1"
-             span="">
+             span="Plutarch Lycurgus: s-63">
       <word id="1"
             form="ἔχει"
             lemma="ἔχω"
@@ -12824,7 +12824,7 @@
    <sentence id="64"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.1"
-             span="">
+             span="Plutarch Lycurgus: s-64">
       <word id="1"
             form="Διὸς"
             lemma="Ζεύς"
@@ -13090,7 +13090,7 @@
    <sentence id="65"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.1"
-             span="">
+             span="Plutarch Lycurgus: s-65">
       <word id="1"
             form="δάμῳ"
             lemma="δῆμος"
@@ -13151,7 +13151,7 @@
    <sentence id="66"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.2"
-             span="">
+             span="Plutarch Lycurgus: s-66">
       <word id="1"
             form="ἐν"
             lemma="εἰς"
@@ -13361,7 +13361,7 @@
    <sentence id="67"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.2"
-             span="">
+             span="Plutarch Lycurgus: s-67">
       <word id="1"
             form="ἀρχαγέται"
             lemma="ἀρχηγέτης"
@@ -13452,7 +13452,7 @@
    <sentence id="68"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.2"
-             span="">
+             span="Plutarch Lycurgus: s-68">
       <word id="1"
             form="ὅτι"
             lemma="ὅτι"
@@ -13548,7 +13548,7 @@
    <sentence id="69"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.2"
-             span="">
+             span="Plutarch Lycurgus: s-69">
       <word id="1"
             form="τὴν"
             lemma="ὁ"
@@ -13646,7 +13646,7 @@
    <sentence id="70"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.2"
-             span="">
+             span="Plutarch Lycurgus: s-70">
       <word id="1"
             form="Ἀριστοτέλης"
             lemma="Ἀριστοτέλης"
@@ -13762,7 +13762,7 @@
    <sentence id="71"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.3"
-             span="">
+             span="Plutarch Lycurgus: s-71">
       <word id="1"
             form="ἐν"
             lemma="εἰς"
@@ -13879,7 +13879,7 @@
    <sentence id="72"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.3"
-             span="">
+             span="Plutarch Lycurgus: s-72">
       <word id="1"
             form="οὐθὲν"
             lemma="οὐδείς"
@@ -14157,7 +14157,7 @@
    <sentence id="73"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.3"
-             span="">
+             span="Plutarch Lycurgus: s-73">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -14351,7 +14351,7 @@
    <sentence id="74"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.4"
-             span="">
+             span="Plutarch Lycurgus: s-74">
       <word id="1"
             form="ὕστερον"
             lemma="ὕστερος"
@@ -14517,7 +14517,7 @@
    <sentence id="75"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.4"
-             span="">
+             span="Plutarch Lycurgus: s-75">
       <word id="1"
             form="αἰ"
             lemma="εἰ"
@@ -14790,7 +14790,7 @@
    <sentence id="76"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.5"
-             span="">
+             span="Plutarch Lycurgus: s-76">
       <word id="1"
             form="ἔπεισαν"
             lemma="πείθω"
@@ -14928,7 +14928,7 @@
    <sentence id="77"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.6"
-             span="">
+             span="Plutarch Lycurgus: s-77">
       <word id="1"
             form="Φοίβου"
             lemma="Φοῖβος"
@@ -15017,7 +15017,7 @@
    <sentence id="78"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="6.6"
-             span="">
+             span="Plutarch Lycurgus: s-78">
       <word id="1"
             form="ἄρχειν"
             lemma="ἄρχω"
@@ -15206,7 +15206,7 @@
    <sentence id="79"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="7.1"
-             span="">
+             span="Plutarch Lycurgus: s-79">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -15589,7 +15589,7 @@
    <sentence id="80"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="7.2"
-             span="">
+             span="Plutarch Lycurgus: s-80">
       <word id="1"
             form="ὃν"
             lemma="ὅς"
@@ -15792,7 +15792,7 @@
    <sentence id="81"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="7.2"
-             span="">
+             span="Plutarch Lycurgus: s-81">
       <word id="1"
             form="τῷ"
             lemma="ὁ"
@@ -16056,7 +16056,7 @@
    <sentence id="82"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="7.2-3"
-             span="">
+             span="Plutarch Lycurgus: s-82">
       <word id="1"
             form="ὃ"
             lemma="ὅς"
@@ -16649,7 +16649,7 @@
    <sentence id="83"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="7.3"
-             span="">
+             span="Plutarch Lycurgus: s-83">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -16698,7 +16698,7 @@
    <sentence id="84"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="8.1"
-             span="">
+             span="Plutarch Lycurgus: s-84">
       <word id="1"
             form="δεύτερον"
             lemma="δεύτερος"
@@ -16794,7 +16794,7 @@
    <sentence id="85"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="8.1-2"
-             span="">
+             span="Plutarch Lycurgus: s-85">
       <word id="1"
             form="δεινῆς"
             lemma="δεινός"
@@ -17450,7 +17450,7 @@
    <sentence id="86"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="8.3"
-             span="">
+             span="Plutarch Lycurgus: s-86">
       <word id="1"
             form="ἐπάγων"
             lemma="ἐπάγω"
@@ -17646,7 +17646,7 @@
    <sentence id="87"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="8.3"
-             span="">
+             span="Plutarch Lycurgus: s-87">
       <word id="1"
             form="τοσοῦτοι"
             lemma="τοσοῦτος"
@@ -17693,7 +17693,7 @@
    <sentence id="88"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="8.3"
-             span="">
+             span="Plutarch Lycurgus: s-88">
       <word id="1"
             form="ἔνιοι"
             lemma="ἔνιοι"
@@ -17810,7 +17810,7 @@
    <sentence id="89"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="8.3"
-             span="">
+             span="Plutarch Lycurgus: s-89">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -17940,7 +17940,7 @@
    <sentence id="90"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="8.4"
-             span="">
+             span="Plutarch Lycurgus: s-90">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -18152,7 +18152,7 @@
    <sentence id="91"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="8.4"
-             span="">
+             span="Plutarch Lycurgus: s-91">
       <word id="1"
             form="ἀρκέσειν"
             lemma="ἀρκέω"
@@ -18290,7 +18290,7 @@
    <sentence id="92"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="8.4"
-             span="">
+             span="Plutarch Lycurgus: s-92">
       <word id="1"
             form="λέγεται"
             lemma="λέγω3"
@@ -18568,7 +18568,7 @@
    <sentence id="93"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.1"
-             span="">
+             span="Plutarch Lycurgus: s-93">
       <word id="1"
             form="ἐπιχειρήσας"
             lemma="ἐπιχειρέω"
@@ -18804,7 +18804,7 @@
    <sentence id="94"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.1"
-             span="">
+             span="Plutarch Lycurgus: s-94">
       <word id="1"
             form="πρῶτον"
             lemma="πρῶτος"
@@ -18914,7 +18914,7 @@
    <sentence id="95"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.1"
-             span="">
+             span="Plutarch Lycurgus: s-95">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -19101,7 +19101,7 @@
    <sentence id="96"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.2"
-             span="">
+             span="Plutarch Lycurgus: s-96">
       <word id="1"
             form="τούτου"
             lemma="οὗτος"
@@ -19176,7 +19176,7 @@
    <sentence id="97"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.2"
-             span="">
+             span="Plutarch Lycurgus: s-97">
       <word id="1"
             form="τίς"
             lemma="τις"
@@ -19356,7 +19356,7 @@
    <sentence id="98"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.2"
-             span="">
+             span="Plutarch Lycurgus: s-98">
       <word id="1"
             form="ὄξει"
             lemma="ὄξος"
@@ -19529,7 +19529,7 @@
    <sentence id="99"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.3"
-             span="">
+             span="Plutarch Lycurgus: s-99">
       <word id="1"
             form="μετὰ"
             lemma="μετά"
@@ -19611,7 +19611,7 @@
    <sentence id="100"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.3"
-             span="">
+             span="Plutarch Lycurgus: s-100">
       <word id="1"
             form="ἔμελλον"
             lemma="μέλλω"
@@ -19749,7 +19749,7 @@
    <sentence id="101"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.3"
-             span="">
+             span="Plutarch Lycurgus: s-101">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -20202,7 +20202,7 @@
    <sentence id="102"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.4"
-             span="">
+             span="Plutarch Lycurgus: s-102">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -20319,7 +20319,7 @@
    <sentence id="103"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.4"
-             span="">
+             span="Plutarch Lycurgus: s-103">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -20471,7 +20471,7 @@
    <sentence id="104"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.4"
-             span="">
+             span="Plutarch Lycurgus: s-104">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -20721,7 +20721,7 @@
    <sentence id="105"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.5"
-             span="">
+             span="Plutarch Lycurgus: s-105">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -20943,7 +20943,7 @@
    <sentence id="106"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.5"
-             span="">
+             span="Plutarch Lycurgus: s-106">
       <word id="1"
             form="αἴτιος"
             lemma="αἴτιος"
@@ -21006,7 +21006,7 @@
    <sentence id="107"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="9.5"
-             span="">
+             span="Plutarch Lycurgus: s-107">
       <word id="1"
             form="ἀπηλλαγμένοι"
             lemma="ἀπαλλαξείω"
@@ -21102,7 +21102,7 @@
    <sentence id="108"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="10.1-10.2"
-             span="">
+             span="Plutarch Lycurgus: s-108">
       <word id="1"
             form="ἔτι"
             lemma="ἔτι"
@@ -21772,7 +21772,7 @@
    <sentence id="109"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="10.2"
-             span="">
+             span="Plutarch Lycurgus: s-109">
       <word id="1"
             form="μέγα"
             lemma="μέγας"
@@ -22010,7 +22010,7 @@
    <sentence id="110"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="10.3"
-             span="">
+             span="Plutarch Lycurgus: s-110">
       <word id="1"
             form="χρῆσις"
             lemma="χρῆσις"
@@ -22190,7 +22190,7 @@
    <sentence id="111"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="10.3"
-             span="">
+             span="Plutarch Lycurgus: s-111">
       <word id="1"
             form="ὥστε"
             lemma="ὥστε"
@@ -22409,7 +22409,7 @@
    <sentence id="112"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="10.3"
-             span="">
+             span="Plutarch Lycurgus: s-112">
       <word id="1"
             form="οὐδὲ"
             lemma="οὐδέ"
@@ -22645,7 +22645,7 @@
    <sentence id="113"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.1"
-             span="">
+             span="Plutarch Lycurgus: s-113">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -22818,7 +22818,7 @@
    <sentence id="114"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.1"
-             span="">
+             span="Plutarch Lycurgus: s-114">
       <word id="1"
             form="τέλος"
             lemma="τέλος"
@@ -22893,7 +22893,7 @@
    <sentence id="115"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.1"
-             span="">
+             span="Plutarch Lycurgus: s-115">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -22961,7 +22961,7 @@
    <sentence id="116"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.1"
-             span="">
+             span="Plutarch Lycurgus: s-116">
       <word id="1"
             form="εἷς"
             lemma="εἷς"
@@ -23169,7 +23169,7 @@
    <sentence id="117"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.2"
-             span="">
+             span="Plutarch Lycurgus: s-117">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -23342,7 +23342,7 @@
    <sentence id="118"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.2"
-             span="">
+             span="Plutarch Lycurgus: s-118">
       <word id="1"
             form="αἰδὼς"
             lemma="αἰδώς"
@@ -23494,7 +23494,7 @@
    <sentence id="119"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.2"
-             span="">
+             span="Plutarch Lycurgus: s-119">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -23723,7 +23723,7 @@
    <sentence id="120"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.3"
-             span="">
+             span="Plutarch Lycurgus: s-120">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -24239,7 +24239,7 @@
    <sentence id="121"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.4"
-             span="">
+             span="Plutarch Lycurgus: s-121">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -24391,7 +24391,7 @@
    <sentence id="122"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.4"
-             span="">
+             span="Plutarch Lycurgus: s-122">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -24494,7 +24494,7 @@
    <sentence id="123"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.4"
-             span="">
+             span="Plutarch Lycurgus: s-123">
       <word id="1"
             form="τοὺς"
             lemma="ὁ"
@@ -24562,7 +24562,7 @@
    <sentence id="124"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.4"
-             span="">
+             span="Plutarch Lycurgus: s-124">
       <word id="1"
             form="ἔνιοι"
             lemma="ἔνιοι"
@@ -24819,7 +24819,7 @@
    <sentence id="125"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="11.4"
-             span="">
+             span="Plutarch Lycurgus: s-125">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -24915,7 +24915,7 @@
    <sentence id="126"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.1"
-             span="">
+             span="Plutarch Lycurgus: s-126">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -25167,7 +25167,7 @@
    <sentence id="127"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.1"
-             span="">
+             span="Plutarch Lycurgus: s-127">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς"
@@ -25333,7 +25333,7 @@
    <sentence id="128"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.2"
-             span="">
+             span="Plutarch Lycurgus: s-128">
       <word id="1"
             form="συνήρχοντο"
             lemma="συνέρχομαι"
@@ -25415,7 +25415,7 @@
    <sentence id="129"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.2"
-             span="">
+             span="Plutarch Lycurgus: s-129">
       <word id="1"
             form="ἔφερε"
             lemma="φέρω"
@@ -25644,7 +25644,7 @@
    <sentence id="130"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.2"
-             span="">
+             span="Plutarch Lycurgus: s-130">
       <word id="1"
             form="ἄλλως"
             lemma="ἄλλως"
@@ -25747,7 +25747,7 @@
    <sentence id="131"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.2"
-             span="">
+             span="Plutarch Lycurgus: s-131">
       <word id="1"
             form="ἐξῆν"
             lemma="ἔξεστι"
@@ -25871,7 +25871,7 @@
    <sentence id="132"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.3"
-             span="">
+             span="Plutarch Lycurgus: s-132">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -25939,7 +25939,7 @@
    <sentence id="133"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.3"
-             span="">
+             span="Plutarch Lycurgus: s-133">
       <word id="1"
             form="Ἄγιδος"
             lemma="Ἄγις"
@@ -26245,7 +26245,7 @@
    <sentence id="134"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.4"
-             span="">
+             span="Plutarch Lycurgus: s-134">
       <word id="1"
             form="εἰς"
             lemma="εἰς"
@@ -26502,7 +26502,7 @@
    <sentence id="135"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.4"
-             span="">
+             span="Plutarch Lycurgus: s-135">
       <word id="1"
             form="σφόδρα"
             lemma="σφόδρα"
@@ -26584,7 +26584,7 @@
    <sentence id="136"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.4"
-             span="">
+             span="Plutarch Lycurgus: s-136">
       <word id="1"
             form="μὴ"
             lemma="μή"
@@ -26666,7 +26666,7 @@
    <sentence id="137"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.5"
-             span="">
+             span="Plutarch Lycurgus: s-137">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -26811,7 +26811,7 @@
    <sentence id="138"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.5"
-             span="">
+             span="Plutarch Lycurgus: s-138">
       <word id="1"
             form="δοκιμάζεσθαι"
             lemma="δοκιμάζω"
@@ -26886,7 +26886,7 @@
    <sentence id="139"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.5"
-             span="">
+             span="Plutarch Lycurgus: s-139">
       <word id="1"
             form="λαβὼν"
             lemma="λαμβάνω"
@@ -27163,7 +27163,7 @@
    <sentence id="140"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.6"
-             span="">
+             span="Plutarch Lycurgus: s-140">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -27231,7 +27231,7 @@
    <sentence id="141"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.6"
-             span="">
+             span="Plutarch Lycurgus: s-141">
       <word id="1"
             form="κἂν"
             lemma="κἀν"
@@ -27348,7 +27348,7 @@
    <sentence id="142"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.6"
-             span="">
+             span="Plutarch Lycurgus: s-142">
       <word id="1"
             form="τὸν"
             lemma="ὁ"
@@ -27402,7 +27402,7 @@
    <sentence id="143"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.6"
-             span="">
+             span="Plutarch Lycurgus: s-143">
       <word id="1"
             form="κάδδιχος"
             lemma="κάδδιχος"
@@ -27484,7 +27484,7 @@
    <sentence id="144"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.6"
-             span="">
+             span="Plutarch Lycurgus: s-144">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -27699,7 +27699,7 @@
    <sentence id="145"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.7"
-             span="">
+             span="Plutarch Lycurgus: s-145">
       <word id="1"
             form="λέγεται"
             lemma="λέγω3"
@@ -27802,7 +27802,7 @@
    <sentence id="146"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.7"
-             span="">
+             span="Plutarch Lycurgus: s-146">
       <word id="1"
             form="εἶτα"
             lemma="εἶτα"
@@ -27844,7 +27844,7 @@
    <sentence id="147"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.7"
-             span="">
+             span="Plutarch Lycurgus: s-147">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -27893,7 +27893,7 @@
    <sentence id="148"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.7"
-             span="">
+             span="Plutarch Lycurgus: s-148">
       <word id="1"
             form="ὦ"
             lemma="ὦ"
@@ -27989,7 +27989,7 @@
    <sentence id="149"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.7"
-             span="">
+             span="Plutarch Lycurgus: s-149">
       <word id="1"
             form="πιόντες"
             lemma="πίνω"
@@ -28043,7 +28043,7 @@
    <sentence id="150"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.7"
-             span="">
+             span="Plutarch Lycurgus: s-150">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -28209,7 +28209,7 @@
    <sentence id="151"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="12.7"
-             span="">
+             span="Plutarch Lycurgus: s-151">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -28270,7 +28270,7 @@
    <sentence id="152"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.1"
-             span="">
+             span="Plutarch Lycurgus: s-152">
       <word id="1"
             form="νόμους"
             lemma="νόμος"
@@ -28387,7 +28387,7 @@
    <sentence id="153"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.1"
-             span="">
+             span="Plutarch Lycurgus: s-153">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -28742,7 +28742,7 @@
    <sentence id="154"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.2"
-             span="">
+             span="Plutarch Lycurgus: s-154">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -29027,7 +29027,7 @@
    <sentence id="155"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.2"
-             span="">
+             span="Plutarch Lycurgus: s-155">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -29123,7 +29123,7 @@
    <sentence id="156"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.3"
-             span="">
+             span="Plutarch Lycurgus: s-156">
       <word id="1"
             form="μία"
             lemma="εἷς"
@@ -29233,7 +29233,7 @@
    <sentence id="157"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.3"
-             span="">
+             span="Plutarch Lycurgus: s-157">
       <word id="1"
             form="ἑτέρα"
             lemma="ἕτερος"
@@ -29466,7 +29466,7 @@
    <sentence id="158"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.3-4"
-             span="">
+             span="Plutarch Lycurgus: s-158">
       <word id="1"
             form="ὅπερ"
             lemma="ὅσπερ"
@@ -30100,7 +30100,7 @@
    <sentence id="159"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.5"
-             span="">
+             span="Plutarch Lycurgus: s-159">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -30364,7 +30364,7 @@
    <sentence id="160"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.5"
-             span="">
+             span="Plutarch Lycurgus: s-160">
       <word id="1"
             form="τρίτην"
             lemma="τρίτος"
@@ -30537,7 +30537,7 @@
    <sentence id="161"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.6"
-             span="">
+             span="Plutarch Lycurgus: s-161">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -30738,7 +30738,7 @@
    <sentence id="162"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.6"
-             span="">
+             span="Plutarch Lycurgus: s-162">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -30918,7 +30918,7 @@
    <sentence id="163"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="13.6"
-             span="">
+             span="Plutarch Lycurgus: s-163">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -31042,7 +31042,7 @@
    <sentence id="164"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.1"
-             span="">
+             span="Plutarch Lycurgus: s-164">
       <word id="1"
             form="τῆς"
             lemma="ὁ"
@@ -31229,7 +31229,7 @@
    <sentence id="165"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.1"
-             span="">
+             span="Plutarch Lycurgus: s-165">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -31556,7 +31556,7 @@
    <sentence id="166"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.1"
-             span="">
+             span="Plutarch Lycurgus: s-166">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -31617,7 +31617,7 @@
    <sentence id="167"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.2"
-             span="">
+             span="Plutarch Lycurgus: s-167">
       <word id="1"
             form="τὰ"
             lemma="ὁ"
@@ -31951,7 +31951,7 @@
    <sentence id="168"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.2"
-             span="">
+             span="Plutarch Lycurgus: s-168">
       <word id="1"
             form="ἀφελὼν"
             lemma="ἀφαιρέω"
@@ -32173,7 +32173,7 @@
    <sentence id="169"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.3"
-             span="">
+             span="Plutarch Lycurgus: s-169">
       <word id="1"
             form="ἔστι"
             lemma="εἰμί"
@@ -32269,7 +32269,7 @@
    <sentence id="170"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.3"
-             span="">
+             span="Plutarch Lycurgus: s-170">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -32414,7 +32414,7 @@
    <sentence id="171"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.3"
-             span="">
+             span="Plutarch Lycurgus: s-171">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -32538,7 +32538,7 @@
    <sentence id="172"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.3"
-             span="">
+             span="Plutarch Lycurgus: s-172">
       <word id="1"
             form="αἱ"
             lemma="ὁ"
@@ -32767,7 +32767,7 @@
    <sentence id="173"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.4"
-             span="">
+             span="Plutarch Lycurgus: s-173">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -33080,7 +33080,7 @@
    <sentence id="174"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.4"
-             span="">
+             span="Plutarch Lycurgus: s-174">
       <word id="1"
             form="ὅθεν"
             lemma="ὅθεν"
@@ -33197,7 +33197,7 @@
    <sentence id="175"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="14.4"
-             span="">
+             span="Plutarch Lycurgus: s-175">
       <word id="1"
             form="εἰπούσης"
             lemma="εἶπον"
@@ -33391,7 +33391,7 @@
    <sentence id="176"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.1"
-             span="">
+             span="Plutarch Lycurgus: s-176">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -33459,7 +33459,7 @@
    <sentence id="177"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.1"
-             span="">
+             span="Plutarch Lycurgus: s-177">
       <word id="1"
             form="λέγω"
             lemma="λέγω3"
@@ -33681,7 +33681,7 @@
    <sentence id="178"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.1"
-             span="">
+             span="Plutarch Lycurgus: s-178">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -33756,7 +33756,7 @@
    <sentence id="179"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.1"
-             span="">
+             span="Plutarch Lycurgus: s-179">
       <word id="1"
             form="εἴργοντο"
             lemma="ἔργω1"
@@ -33817,7 +33817,7 @@
    <sentence id="180"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.1-2"
-             span="">
+             span="Plutarch Lycurgus: s-180">
       <word id="1"
             form="τοῦ"
             lemma="ὁ"
@@ -34060,7 +34060,7 @@
    <sentence id="181"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15"
-             span="">
+             span="Plutarch Lycurgus: s-181">
       <word id="1"
             form="τιμῆς"
             lemma="τιμή"
@@ -34142,7 +34142,7 @@
    <sentence id="182"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.2"
-             span="">
+             span="Plutarch Lycurgus: s-182">
       <word id="1"
             form="ὅθεν"
             lemma="ὅθεν"
@@ -34245,7 +34245,7 @@
    <sentence id="183"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.2"
-             span="">
+             span="Plutarch Lycurgus: s-183">
       <word id="1"
             form="ἐπιόντι"
             lemma="ἔπειμι1"
@@ -34390,7 +34390,7 @@
    <sentence id="184"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.3"
-             span="">
+             span="Plutarch Lycurgus: s-184">
       <word id="1"
             form="ἐγάμουν"
             lemma="γαμέω"
@@ -34521,7 +34521,7 @@
    <sentence id="185"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.3"
-             span="">
+             span="Plutarch Lycurgus: s-185">
       <word id="1"
             form="τὴν"
             lemma="ὁ"
@@ -34722,7 +34722,7 @@
    <sentence id="186"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.3"
-             span="">
+             span="Plutarch Lycurgus: s-186">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -34946,7 +34946,7 @@
    <sentence id="187"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.4"
-             span="">
+             span="Plutarch Lycurgus: s-187">
       <word id="1"
             form="συνδιατρίψας"
             lemma="συνδιατρίβω"
@@ -35077,7 +35077,7 @@
    <sentence id="188"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.4"
-             span="">
+             span="Plutarch Lycurgus: s-188">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -35411,7 +35411,7 @@
    <sentence id="189"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.5"
-             span="">
+             span="Plutarch Lycurgus: s-189">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -35563,7 +35563,7 @@
    <sentence id="190"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.5"
-             span="">
+             span="Plutarch Lycurgus: s-190">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -35920,7 +35920,7 @@
    <sentence id="191"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.6"
-             span="">
+             span="Plutarch Lycurgus: s-191">
       <word id="1"
             form="τοσαύτην"
             lemma="τοσοῦτος"
@@ -36282,7 +36282,7 @@
    <sentence id="192"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.7"
-             span="">
+             span="Plutarch Lycurgus: s-192">
       <word id="1"
             form="ἐξῆν"
             lemma="ἔξεστι"
@@ -36518,7 +36518,7 @@
    <sentence id="193"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.7"
-             span="">
+             span="Plutarch Lycurgus: s-193">
       <word id="1"
             form="ἐξῆν"
             lemma="ἔξεστι"
@@ -36789,7 +36789,7 @@
    <sentence id="194"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.8"
-             span="">
+             span="Plutarch Lycurgus: s-194">
       <word id="1"
             form="πρῶτον"
             lemma="πρότερος"
@@ -37032,7 +37032,7 @@
    <sentence id="195"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.8-9"
-             span="">
+             span="Plutarch Lycurgus: s-195">
       <word id="1"
             form="ἔπειτα"
             lemma="ἔπειτα"
@@ -37617,7 +37617,7 @@
    <sentence id="196"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.9"
-             span="">
+             span="Plutarch Lycurgus: s-196">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -37818,7 +37818,7 @@
    <sentence id="197"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.10"
-             span="">
+             span="Plutarch Lycurgus: s-197">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -37984,7 +37984,7 @@
    <sentence id="198"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.10"
-             span="">
+             span="Plutarch Lycurgus: s-198">
       <word id="1"
             form="ὦ"
             lemma="ὦ"
@@ -38052,7 +38052,7 @@
    <sentence id="199"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.10"
-             span="">
+             span="Plutarch Lycurgus: s-199">
       <word id="1"
             form="ἐκείνου"
             lemma="ἐκεῖνος"
@@ -38122,7 +38122,7 @@
    <sentence id="200"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.10"
-             span="">
+             span="Plutarch Lycurgus: s-200">
       <word id="1"
             form="ταῦρον"
             lemma="ταῦρος"
@@ -38253,7 +38253,7 @@
    <sentence id="201"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.10"
-             span="">
+             span="Plutarch Lycurgus: s-201">
       <word id="1"
             form="θαυμάσαντος"
             lemma="θαυμάζω"
@@ -38309,7 +38309,7 @@
    <sentence id="202"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.10"
-             span="">
+             span="Plutarch Lycurgus: s-202">
       <word id="1"
             form="πῶς"
             lemma="πῶς2"
@@ -38363,7 +38363,7 @@
    <sentence id="203"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.10"
-             span="">
+             span="Plutarch Lycurgus: s-203">
       <word id="1"
             form="γελάσας"
             lemma="γελάω"
@@ -38473,7 +38473,7 @@
    <sentence id="204"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="15.10"
-             span="">
+             span="Plutarch Lycurgus: s-204">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
@@ -38534,7 +38534,7 @@
    <sentence id="205"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.1"
-             span="">
+             span="Plutarch Lycurgus: s-205">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -38861,7 +38861,7 @@
    <sentence id="206"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.1-16.2"
-             span="">
+             span="Plutarch Lycurgus: s-206">
       <word id="1"
             form="εἰ"
             lemma="εἰ"
@@ -39150,7 +39150,7 @@
    <sentence id="207"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.2"
-             span="">
+             span="Plutarch Lycurgus: s-207">
       <word id="1"
             form="ὅθεν"
             lemma="ὅθεν"
@@ -39288,7 +39288,7 @@
    <sentence id="208"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.2"
-             span="">
+             span="Plutarch Lycurgus: s-208">
       <word id="1"
             form="λέγεται"
             lemma="λέγω3"
@@ -39447,7 +39447,7 @@
    <sentence id="209"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.3"
-             span="">
+             span="Plutarch Lycurgus: s-209">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -39767,7 +39767,7 @@
    <sentence id="210"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.3"
-             span="">
+             span="Plutarch Lycurgus: s-210">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -39849,7 +39849,7 @@
    <sentence id="211"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.3"
-             span="">
+             span="Plutarch Lycurgus: s-211">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -39938,7 +39938,7 @@
    <sentence id="212"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.4"
-             span="">
+             span="Plutarch Lycurgus: s-212">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -40076,7 +40076,7 @@
    <sentence id="213"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.4"
-             span="">
+             span="Plutarch Lycurgus: s-213">
       <word id="1"
             form="τοὺς"
             lemma="ὁ"
@@ -40417,7 +40417,7 @@
    <sentence id="214"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.5"
-             span="">
+             span="Plutarch Lycurgus: s-214">
       <word id="1"
             form="ἄρχοντα"
             lemma="ἄρχων"
@@ -40534,7 +40534,7 @@
    <sentence id="215"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.5"
-             span="">
+             span="Plutarch Lycurgus: s-215">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -40665,7 +40665,7 @@
    <sentence id="216"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.5"
-             span="">
+             span="Plutarch Lycurgus: s-216">
       <word id="1"
             form="ἐπεσκόπουν"
             lemma="ἐπισκοπέω"
@@ -40931,7 +40931,7 @@
    <sentence id="217"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.6"
-             span="">
+             span="Plutarch Lycurgus: s-217">
       <word id="1"
             form="γράμματα"
             lemma="γράμμα"
@@ -40992,7 +40992,7 @@
    <sentence id="218"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.6"
-             span="">
+             span="Plutarch Lycurgus: s-218">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -41116,7 +41116,7 @@
    <sentence id="219"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.6"
-             span="">
+             span="Plutarch Lycurgus: s-219">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -41305,7 +41305,7 @@
    <sentence id="220"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.6"
-             span="">
+             span="Plutarch Lycurgus: s-220">
       <word id="1"
             form="γενόμενοι"
             lemma="γίγνομαι"
@@ -41478,7 +41478,7 @@
    <sentence id="221"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.6"
-             span="">
+             span="Plutarch Lycurgus: s-221">
       <word id="1"
             form="πλὴν"
             lemma="πλήν"
@@ -41560,7 +41560,7 @@
    <sentence id="222"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.7"
-             span="">
+             span="Plutarch Lycurgus: s-222">
       <word id="1"
             form="ἐκάθευδον"
             lemma="κατά-καθεύδω"
@@ -41761,7 +41761,7 @@
    <sentence id="223"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="16.7"
-             span="">
+             span="Plutarch Lycurgus: s-223">
       <word id="1"
             form="ἐν"
             lemma="εἰς"
@@ -41906,7 +41906,7 @@
    <sentence id="224"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.1"
-             span="">
+             span="Plutarch Lycurgus: s-224">
       <word id="1"
             form="ἤδη"
             lemma="ἤδη"
@@ -41981,7 +41981,7 @@
    <sentence id="225"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.1"
-             span="">
+             span="Plutarch Lycurgus: s-225">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -42336,7 +42336,7 @@
    <sentence id="226"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.2"
-             span="">
+             span="Plutarch Lycurgus: s-226">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -42530,7 +42530,7 @@
    <sentence id="227"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.2"
-             span="">
+             span="Plutarch Lycurgus: s-227">
       <word id="1"
             form="εἴρενας"
             lemma="εἴρην"
@@ -42670,7 +42670,7 @@
    <sentence id="228"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.2"
-             span="">
+             span="Plutarch Lycurgus: s-228">
       <word id="1"
             form="οὗτος"
             lemma="οὗτος"
@@ -42857,7 +42857,7 @@
    <sentence id="229"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.3"
-             span="">
+             span="Plutarch Lycurgus: s-229">
       <word id="1"
             form="ἐπιτάσσει"
             lemma="ἐπιτάσσω"
@@ -42962,7 +42962,7 @@
    <sentence id="230"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.3"
-             span="">
+             span="Plutarch Lycurgus: s-230">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -43142,7 +43142,7 @@
    <sentence id="231"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.3"
-             span="">
+             span="Plutarch Lycurgus: s-231">
       <word id="1"
             form="ἂν"
             lemma="ἐάν"
@@ -43259,7 +43259,7 @@
    <sentence id="232"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.3"
-             span="">
+             span="Plutarch Lycurgus: s-232">
       <word id="1"
             form="κλέπτουσι"
             lemma="κλέπτω"
@@ -43397,7 +43397,7 @@
    <sentence id="233"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.4"
-             span="">
+             span="Plutarch Lycurgus: s-233">
       <word id="1"
             form="τῷ"
             lemma="ὁ"
@@ -43474,7 +43474,7 @@
    <sentence id="234"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.4"
-             span="">
+             span="Plutarch Lycurgus: s-234">
       <word id="1"
             form="γλίσχρον"
             lemma="γλίσχρος"
@@ -43598,7 +43598,7 @@
    <sentence id="235"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.4"
-             span="">
+             span="Plutarch Lycurgus: s-235">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -43661,7 +43661,7 @@
    <sentence id="236"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.4"
-             span="">
+             span="Plutarch Lycurgus: s-236">
       <word id="1"
             form="παρέργον"
             lemma="παρά-ἔργνυμι"
@@ -43731,7 +43731,7 @@
    <sentence id="237"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.4"
-             span="">
+             span="Plutarch Lycurgus: s-237">
       <word id="1"
             form="φέρεται"
             lemma="φέρω"
@@ -43995,7 +43995,7 @@
    <sentence id="238"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.5"
-             span="">
+             span="Plutarch Lycurgus: s-238">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -44063,7 +44063,7 @@
    <sentence id="239"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.5"
-             span="">
+             span="Plutarch Lycurgus: s-239">
       <word id="1"
             form="αἱ"
             lemma="ὁ"
@@ -44441,7 +44441,7 @@
    <sentence id="240"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="17.5"
-             span="">
+             span="Plutarch Lycurgus: s-240">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -44530,7 +44530,7 @@
    <sentence id="241"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.1"
-             span="">
+             span="Plutarch Lycurgus: s-241">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -44794,7 +44794,7 @@
    <sentence id="242"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.1"
-             span="">
+             span="Plutarch Lycurgus: s-242">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -44960,7 +44960,7 @@
    <sentence id="243"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.2"
-             span="">
+             span="Plutarch Lycurgus: s-243">
       <word id="1"
             form="δειπνήσας"
             lemma="δειπνέω"
@@ -45112,7 +45112,7 @@
    <sentence id="244"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.2"
-             span="">
+             span="Plutarch Lycurgus: s-244">
       <word id="1"
             form="οἷον"
             lemma="οἷος"
@@ -45249,7 +45249,7 @@
    <sentence id="245"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.2"
-             span="">
+             span="Plutarch Lycurgus: s-245">
       <word id="1"
             form="ἐκ"
             lemma="ἐκ"
@@ -45373,7 +45373,7 @@
    <sentence id="246"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.2"
-             span="">
+             span="Plutarch Lycurgus: s-246">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -45578,7 +45578,7 @@
    <sentence id="247"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.3"
-             span="">
+             span="Plutarch Lycurgus: s-247">
       <word id="1"
             form="ἔδει"
             lemma="δεῖ"
@@ -45709,7 +45709,7 @@
    <sentence id="248"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.3"
-             span="">
+             span="Plutarch Lycurgus: s-248">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -45812,7 +45812,7 @@
    <sentence id="249"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.3"
-             span="">
+             span="Plutarch Lycurgus: s-249">
       <word id="1"
             form="πολλάκις"
             lemma="πολλάκις"
@@ -45978,7 +45978,7 @@
    <sentence id="250"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.3"
-             span="">
+             span="Plutarch Lycurgus: s-250">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -46151,7 +46151,7 @@
    <sentence id="251"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.4"
-             span="">
+             span="Plutarch Lycurgus: s-251">
       <word id="1"
             form="ἐκοινώνουν"
             lemma="κοινωνέω"
@@ -46233,7 +46233,7 @@
    <sentence id="252"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.4"
-             span="">
+             span="Plutarch Lycurgus: s-252">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -46357,7 +46357,7 @@
    <sentence id="253"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="18.4"
-             span="">
+             span="Plutarch Lycurgus: s-253">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -46684,7 +46684,7 @@
    <sentence id="254"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.1"
-             span="">
+             span="Plutarch Lycurgus: s-254">
       <word id="1"
             form="ἐδίδασκον"
             lemma="διδάσκω"
@@ -46815,7 +46815,7 @@
    <sentence id="255"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.1"
-             span="">
+             span="Plutarch Lycurgus: s-255">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -47163,7 +47163,7 @@
    <sentence id="256"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.1"
-             span="">
+             span="Plutarch Lycurgus: s-256">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -47378,7 +47378,7 @@
    <sentence id="257"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.2"
-             span="">
+             span="Plutarch Lycurgus: s-257">
       <word id="1"
             form="Ἆγις"
             lemma="Ἄγις"
@@ -47670,7 +47670,7 @@
    <sentence id="258"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.2"
-             span="">
+             span="Plutarch Lycurgus: s-258">
       <word id="1"
             form="ἐγὼ"
             lemma="ἐγώ"
@@ -47857,7 +47857,7 @@
    <sentence id="259"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.3"
-             span="">
+             span="Plutarch Lycurgus: s-259">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -47988,7 +47988,7 @@
    <sentence id="260"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.3"
-             span="">
+             span="Plutarch Lycurgus: s-260">
       <word id="1"
             form="οἷόν"
             lemma="οἷος"
@@ -48098,7 +48098,7 @@
    <sentence id="261"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.3"
-             span="">
+             span="Plutarch Lycurgus: s-261">
       <word id="1"
             form="σὺ"
             lemma="σύ"
@@ -48194,7 +48194,7 @@
    <sentence id="262"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.4"
-             span="">
+             span="Plutarch Lycurgus: s-262">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -48381,7 +48381,7 @@
    <sentence id="263"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.4"
-             span="">
+             span="Plutarch Lycurgus: s-263">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -48521,7 +48521,7 @@
    <sentence id="264"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.4"
-             span="">
+             span="Plutarch Lycurgus: s-264">
       <word id="1"
             form="φέρονται"
             lemma="φέρω"
@@ -48610,7 +48610,7 @@
    <sentence id="265"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.4"
-             span="">
+             span="Plutarch Lycurgus: s-265">
       <word id="1"
             form="πῶς"
             lemma="πως"
@@ -48657,7 +48657,7 @@
    <sentence id="266"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.4"
-             span="">
+             span="Plutarch Lycurgus: s-266">
       <word id="1"
             form="ἂν"
             lemma="ἄν1"
@@ -48739,7 +48739,7 @@
    <sentence id="267"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.4"
-             span="">
+             span="Plutarch Lycurgus: s-267">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -48795,7 +48795,7 @@
    <sentence id="268"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.4"
-             span="">
+             span="Plutarch Lycurgus: s-268">
       <word id="1"
             form="οὐκ"
             lemma="οὐ"
@@ -48891,7 +48891,7 @@
    <sentence id="269"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="19.4"
-             span="">
+             span="Plutarch Lycurgus: s-269">
       <word id="1"
             form="περὶ"
             lemma="περί"
@@ -49003,7 +49003,7 @@
    <sentence id="270"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.1"
-             span="">
+             span="Plutarch Lycurgus: s-270">
       <word id="1"
             form="τῆς"
             lemma="ὁ"
@@ -49106,7 +49106,7 @@
    <sentence id="271"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.1"
-             span="">
+             span="Plutarch Lycurgus: s-271">
       <word id="1"
             form="Λεωνίδας"
             lemma="Λεωνίδας"
@@ -49272,7 +49272,7 @@
    <sentence id="272"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.1"
-             span="">
+             span="Plutarch Lycurgus: s-272">
       <word id="1"
             form="Χαρίλαος"
             lemma="Χαρίλαος"
@@ -49459,7 +49459,7 @@
    <sentence id="273"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.2"
-             span="">
+             span="Plutarch Lycurgus: s-273">
       <word id="1"
             form="Ἀρχιδαμίδας"
             lemma="Ἀρχιδαμίδας"
@@ -49639,7 +49639,7 @@
    <sentence id="274"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.2"
-             span="">
+             span="Plutarch Lycurgus: s-274">
       <word id="1"
             form="ἃ"
             lemma="ὁς"
@@ -49735,7 +49735,7 @@
    <sentence id="275"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.2"
-             span="">
+             span="Plutarch Lycurgus: s-275">
       <word id="1"
             form="Δημάρατος"
             lemma="Δημάρατος"
@@ -49882,7 +49882,7 @@
    <sentence id="276"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.2"
-             span="">
+             span="Plutarch Lycurgus: s-276">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -49924,7 +49924,7 @@
    <sentence id="277"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.3"
-             span="">
+             span="Plutarch Lycurgus: s-277">
       <word id="1"
             form="Ἆγις"
             lemma="Ἄγις"
@@ -50153,7 +50153,7 @@
    <sentence id="278"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.3"
-             span="">
+             span="Plutarch Lycurgus: s-278">
       <word id="1"
             form="Θεόπομπος"
             lemma="Θεόπομπος"
@@ -50361,7 +50361,7 @@
    <sentence id="279"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.4"
-             span="">
+             span="Plutarch Lycurgus: s-279">
       <word id="1"
             form="Πλειστῶναξ"
             lemma="Πλειστώναξ"
@@ -50492,7 +50492,7 @@
    <sentence id="280"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.4"
-             span="">
+             span="Plutarch Lycurgus: s-280">
       <word id="1"
             form="μόνοι"
             lemma="μόνος"
@@ -50567,7 +50567,7 @@
    <sentence id="281"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.4"
-             span="">
+             span="Plutarch Lycurgus: s-281">
       <word id="1"
             form="Ἀρχιδαμίδας"
             lemma="Ἀρχιδαμίδας"
@@ -50721,7 +50721,7 @@
    <sentence id="282"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.5"
-             span="">
+             span="Plutarch Lycurgus: s-282">
       <word id="1"
             form="ἔστι"
             lemma="εἰμί"
@@ -50817,7 +50817,7 @@
    <sentence id="283"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.5"
-             span="">
+             span="Plutarch Lycurgus: s-283">
       <word id="1"
             form="εἰθίζοντο"
             lemma="ἐθίζω"
@@ -50976,7 +50976,7 @@
    <sentence id="284"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.5"
-             span="">
+             span="Plutarch Lycurgus: s-284">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -51100,7 +51100,7 @@
    <sentence id="285"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.5"
-             span="">
+             span="Plutarch Lycurgus: s-285">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -51163,7 +51163,7 @@
    <sentence id="286"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.5"
-             span="">
+             span="Plutarch Lycurgus: s-286">
       <word id="1"
             form="σβεννύντας"
             lemma="σβέννυμι"
@@ -51224,7 +51224,7 @@
    <sentence id="287"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20"
-             span="">
+             span="Plutarch Lycurgus: s-287">
       <word id="1"
             form="Σελινοῦντος"
             lemma="Σελινοῦς"
@@ -51327,7 +51327,7 @@
    <sentence id="288"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.5"
-             span="">
+             span="Plutarch Lycurgus: s-288">
       <word id="1"
             form="ἔδει"
             lemma="δέω2"
@@ -51381,7 +51381,7 @@
    <sentence id="289"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.6"
-             span="">
+             span="Plutarch Lycurgus: s-289">
       <word id="1"
             form="νεανίσκος"
             lemma="νεανίσκος"
@@ -51600,7 +51600,7 @@
    <sentence id="290"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.6"
-             span="">
+             span="Plutarch Lycurgus: s-290">
       <word id="1"
             form="ἕτερος"
             lemma="ἕτερος"
@@ -51773,7 +51773,7 @@
    <sentence id="291"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="20.6"
-             span="">
+             span="Plutarch Lycurgus: s-291">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -51955,7 +51955,7 @@
    <sentence id="292"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.1"
-             span="">
+             span="Plutarch Lycurgus: s-292">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -52296,7 +52296,7 @@
    <sentence id="293"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.1"
-             span="">
+             span="Plutarch Lycurgus: s-293">
       <word id="1"
             form="ἔπαινοι"
             lemma="ἔπαινος"
@@ -52546,7 +52546,7 @@
    <sentence id="294"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.2"
-             span="">
+             span="Plutarch Lycurgus: s-294">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -52621,7 +52621,7 @@
    <sentence id="295"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.2"
-             span="">
+             span="Plutarch Lycurgus: s-295">
       <word id="1"
             form="τριῶν"
             lemma="τρεῖς"
@@ -52759,7 +52759,7 @@
    <sentence id="296"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.2"
-             span="">
+             span="Plutarch Lycurgus: s-296">
       <word id="1"
             form="ἄμμες"
             lemma="ἐγώ"
@@ -52806,7 +52806,7 @@
    <sentence id="297"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.2"
-             span="">
+             span="Plutarch Lycurgus: s-297">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -52860,7 +52860,7 @@
    <sentence id="298"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.2"
-             span="">
+             span="Plutarch Lycurgus: s-298">
       <word id="1"
             form="ἄμμες"
             lemma="ἐγώ"
@@ -52900,7 +52900,7 @@
    <sentence id="299"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.2"
-             span="">
+             span="Plutarch Lycurgus: s-299">
       <word id="1"
             form="αἰ"
             lemma="εἰ"
@@ -52947,7 +52947,7 @@
    <sentence id="300"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.2"
-             span="">
+             span="Plutarch Lycurgus: s-300">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -53010,7 +53010,7 @@
    <sentence id="301"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.2"
-             span="">
+             span="Plutarch Lycurgus: s-301">
       <word id="1"
             form="ἄμμες"
             lemma="ἐγώ"
@@ -53064,7 +53064,7 @@
    <sentence id="302"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.3"
-             span="">
+             span="Plutarch Lycurgus: s-302">
       <word id="1"
             form="ὅλως"
             lemma="ὅλος"
@@ -53391,7 +53391,7 @@
    <sentence id="303"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.3"
-             span="">
+             span="Plutarch Lycurgus: s-303">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -53459,7 +53459,7 @@
    <sentence id="304"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.3"
-             span="">
+             span="Plutarch Lycurgus: s-304">
       <word id="1"
             form="ἔνθ᾽"
             lemma="ἔνθα"
@@ -53548,7 +53548,7 @@
    <sentence id="305"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.4"
-             span="">
+             span="Plutarch Lycurgus: s-305">
       <word id="1"
             form="Πίνδαρος"
             lemma="Πίνδαρος"
@@ -53581,7 +53581,7 @@
    <sentence id="306"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.4"
-             span="">
+             span="Plutarch Lycurgus: s-306">
       <word id="1"
             form="ἔνθα"
             lemma="ἔνθα"
@@ -53691,7 +53691,7 @@
    <sentence id="307"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.4"
-             span="">
+             span="Plutarch Lycurgus: s-307">
       <word id="1"
             form="Μουσικωτάτους"
             lemma="μουσικός"
@@ -53752,7 +53752,7 @@
    <sentence id="308"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.4"
-             span="">
+             span="Plutarch Lycurgus: s-308">
       <word id="1"
             form="ῥέπει"
             lemma="ῥέπω"
@@ -53862,7 +53862,7 @@
    <sentence id="309"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="21.4"
-             span="">
+             span="Plutarch Lycurgus: s-309">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -54133,7 +54133,7 @@
    <sentence id="310"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.1"
-             span="">
+             span="Plutarch Lycurgus: s-310">
       <word id="1"
             form="τότε"
             lemma="τότε"
@@ -54385,7 +54385,7 @@
    <sentence id="311"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.1"
-             span="">
+             span="Plutarch Lycurgus: s-311">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -54700,7 +54700,7 @@
    <sentence id="312"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.2"
-             span="">
+             span="Plutarch Lycurgus: s-312">
       <word id="1"
             form="ἐχρῶντο"
             lemma="χράω2"
@@ -54957,7 +54957,7 @@
    <sentence id="313"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.2"
-             span="">
+             span="Plutarch Lycurgus: s-313">
       <word id="1"
             form="ἤδη"
             lemma="ἤδη"
@@ -55179,7 +55179,7 @@
    <sentence id="314"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.3"
-             span="">
+             span="Plutarch Lycurgus: s-314">
       <word id="1"
             form="ἅμα"
             lemma="ἅμα"
@@ -55499,7 +55499,7 @@
    <sentence id="315"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.3"
-             span="">
+             span="Plutarch Lycurgus: s-315">
       <word id="1"
             form="οὔτε"
             lemma="οὔτε"
@@ -55686,7 +55686,7 @@
    <sentence id="316"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.4"
-             span="">
+             span="Plutarch Lycurgus: s-316">
       <word id="1"
             form="ἐχώρει"
             lemma="χωρέω"
@@ -55789,7 +55789,7 @@
    <sentence id="317"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.4"
-             span="">
+             span="Plutarch Lycurgus: s-317">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -56130,7 +56130,7 @@
    <sentence id="318"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.5"
-             span="">
+             span="Plutarch Lycurgus: s-318">
       <word id="1"
             form="τρεψάμενοι"
             lemma="τρέπω"
@@ -56345,7 +56345,7 @@
    <sentence id="319"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.5"
-             span="">
+             span="Plutarch Lycurgus: s-319">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -56441,7 +56441,7 @@
    <sentence id="320"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="22.5"
-             span="">
+             span="Plutarch Lycurgus: s-320">
       <word id="1"
             form="εἰδότες"
             lemma="οἶδα"
@@ -56616,7 +56616,7 @@
    <sentence id="321"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="23.1"
-             span="">
+             span="Plutarch Lycurgus: s-321">
       <word id="1"
             form="αὐτὸν"
             lemma="αὐτός"
@@ -56817,7 +56817,7 @@
    <sentence id="322"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="23.1"
-             span="">
+             span="Plutarch Lycurgus: s-322">
       <word id="1"
             form="εἶναι"
             lemma="εἰμί"
@@ -56950,7 +56950,7 @@
    <sentence id="323"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="23.1"
-             span="">
+             span="Plutarch Lycurgus: s-323">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -57069,7 +57069,7 @@
    <sentence id="324"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="23.2"
-             span="">
+             span="Plutarch Lycurgus: s-324">
       <word id="1"
             form="ἔοικε"
             lemma="ἔοικα"
@@ -57193,7 +57193,7 @@
    <sentence id="325"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="23.2"
-             span="">
+             span="Plutarch Lycurgus: s-325">
       <word id="1"
             form="καίτοι"
             lemma="καίτοι"
@@ -57394,7 +57394,7 @@
    <sentence id="326"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="23.2"
-             span="">
+             span="Plutarch Lycurgus: s-326">
       <word id="1"
             form="ἀκοῦσαι"
             lemma="ἀκέω"
@@ -57548,7 +57548,7 @@
    <sentence id="327"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="23.2"
-             span="">
+             span="Plutarch Lycurgus: s-327">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -57753,7 +57753,7 @@
    <sentence id="328"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="24.1"
-             span="">
+             span="Plutarch Lycurgus: s-328">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -57814,7 +57814,7 @@
    <sentence id="329"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="24.1"
-             span="">
+             span="Plutarch Lycurgus: s-329">
       <word id="1"
             form="οὐδεὶς"
             lemma="οὐδείς"
@@ -58248,7 +58248,7 @@
    <sentence id="330"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="24.2"
-             span="">
+             span="Plutarch Lycurgus: s-330">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -58617,7 +58617,7 @@
    <sentence id="331"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="24.3"
-             span="">
+             span="Plutarch Lycurgus: s-331">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -58713,7 +58713,7 @@
    <sentence id="332"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="24.3"
-             span="">
+             span="Plutarch Lycurgus: s-332">
       <word id="1"
             form="ἐπιδημῶν"
             lemma="ἐπιδημέω"
@@ -58984,7 +58984,7 @@
    <sentence id="333"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="24.3"
-             span="">
+             span="Plutarch Lycurgus: s-333">
       <word id="1"
             form="οὕτω"
             lemma="οὕτως"
@@ -59082,7 +59082,7 @@
    <sentence id="334"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="24.4"
-             span="">
+             span="Plutarch Lycurgus: s-334">
       <word id="1"
             form="δίκαι"
             lemma="δίκη"
@@ -59292,7 +59292,7 @@
    <sentence id="335"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="24.4"
-             span="">
+             span="Plutarch Lycurgus: s-335">
       <word id="1"
             form="χοροὶ"
             lemma="χορός"
@@ -59481,7 +59481,7 @@
    <sentence id="336"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.1"
-             span="">
+             span="Plutarch Lycurgus: s-336">
       <word id="1"
             form="οἱ"
             lemma="ὀ"
@@ -59661,7 +59661,7 @@
    <sentence id="337"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.1"
-             span="">
+             span="Plutarch Lycurgus: s-337">
       <word id="1"
             form="τοῖς"
             lemma="ὁ"
@@ -59848,7 +59848,7 @@
    <sentence id="338"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.1"
-             span="">
+             span="Plutarch Lycurgus: s-338">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -59993,7 +59993,7 @@
    <sentence id="339"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.2"
-             span="">
+             span="Plutarch Lycurgus: s-339">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -60217,7 +60217,7 @@
    <sentence id="340"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.2"
-             span="">
+             span="Plutarch Lycurgus: s-340">
       <word id="1"
             form="οὐδὲ"
             lemma="οὐδέ"
@@ -60285,7 +60285,7 @@
    <sentence id="341"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.2"
-             span="">
+             span="Plutarch Lycurgus: s-341">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -60516,7 +60516,7 @@
    <sentence id="342"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.3"
-             span="">
+             span="Plutarch Lycurgus: s-342">
       <word id="1"
             form="τὸ"
             lemma="ὁ"
@@ -60836,7 +60836,7 @@
    <sentence id="343"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.3"
-             span="">
+             span="Plutarch Lycurgus: s-343">
       <word id="1"
             form="ὡς"
             lemma="ὡς"
@@ -60911,7 +60911,7 @@
    <sentence id="344"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.4"
-             span="">
+             span="Plutarch Lycurgus: s-344">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -61077,7 +61077,7 @@
    <sentence id="345"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.4"
-             span="">
+             span="Plutarch Lycurgus: s-345">
       <word id="1"
             form="Πολυκρατίδας"
             lemma="Πολυκρατίδας"
@@ -61324,7 +61324,7 @@
    <sentence id="346"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.5"
-             span="">
+             span="Plutarch Lycurgus: s-346">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -61532,7 +61532,7 @@
    <sentence id="347"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.5"
-             span="">
+             span="Plutarch Lycurgus: s-347">
       <word id="1"
             form="μεγαλυνόντων"
             lemma="μεγαλύνω"
@@ -61651,7 +61651,7 @@
    <sentence id="348"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.5"
-             span="">
+             span="Plutarch Lycurgus: s-348">
       <word id="1"
             form="μὴ"
             lemma="μή"
@@ -61712,7 +61712,7 @@
    <sentence id="349"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="25.5"
-             span="">
+             span="Plutarch Lycurgus: s-349">
       <word id="1"
             form="καλὸς"
             lemma="καλός"
@@ -61836,7 +61836,7 @@
    <sentence id="350"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.1"
-             span="">
+             span="Plutarch Lycurgus: s-350">
       <word id="1"
             form="τοὺς"
             lemma="ὁ"
@@ -61967,7 +61967,7 @@
    <sentence id="351"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.1"
-             span="">
+             span="Plutarch Lycurgus: s-351">
       <word id="1"
             form="ὕστερον"
             lemma="ὕστερον"
@@ -62091,7 +62091,7 @@
    <sentence id="352"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.1"
-             span="">
+             span="Plutarch Lycurgus: s-352">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -62180,7 +62180,7 @@
    <sentence id="353"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.1"
-             span="">
+             span="Plutarch Lycurgus: s-353">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -62521,7 +62521,7 @@
    <sentence id="354"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.2"
-             span="">
+             span="Plutarch Lycurgus: s-354">
       <word id="1"
             form="ἐγίνετο"
             lemma="γίγνομαι"
@@ -62582,7 +62582,7 @@
    <sentence id="355"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.2"
-             span="">
+             span="Plutarch Lycurgus: s-355">
       <word id="1"
             form="ἐκκλησίας"
             lemma="ἐκκλησία"
@@ -62755,7 +62755,7 @@
    <sentence id="356"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.2"
-             span="">
+             span="Plutarch Lycurgus: s-356">
       <word id="1"
             form="βοῇ"
             lemma="βοή"
@@ -62946,7 +62946,7 @@
    <sentence id="357"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.3"
-             span="">
+             span="Plutarch Lycurgus: s-357">
       <word id="1"
             form="ἔχοντες"
             lemma="ἔχω"
@@ -63175,7 +63175,7 @@
    <sentence id="358"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.3"
-             span="">
+             span="Plutarch Lycurgus: s-358">
       <word id="1"
             form="ὅτῳ"
             lemma="ὅστις"
@@ -63250,7 +63250,7 @@
    <sentence id="359"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.3"
-             span="">
+             span="Plutarch Lycurgus: s-359">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -63304,7 +63304,7 @@
    <sentence id="360"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.3"
-             span="">
+             span="Plutarch Lycurgus: s-360">
       <word id="1"
             form="εἵποντο"
             lemma="ἕπομαι"
@@ -63479,7 +63479,7 @@
    <sentence id="361"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.4"
-             span="">
+             span="Plutarch Lycurgus: s-361">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -63596,7 +63596,7 @@
    <sentence id="362"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.4"
-             span="">
+             span="Plutarch Lycurgus: s-362">
       <word id="1"
             form="περιελθὼν"
             lemma="περιέρχομαι"
@@ -63650,7 +63650,7 @@
    <sentence id="363"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.4"
-             span="">
+             span="Plutarch Lycurgus: s-363">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -63760,7 +63760,7 @@
    <sentence id="364"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="26.4"
-             span="">
+             span="Plutarch Lycurgus: s-364">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -64059,7 +64059,7 @@
    <sentence id="365"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.1"
-             span="">
+             span="Plutarch Lycurgus: s-365">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -64141,7 +64141,7 @@
    <sentence id="366"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.1"
-             span="">
+             span="Plutarch Lycurgus: s-366">
       <word id="1"
             form="πρῶτον"
             lemma="πρῶτος"
@@ -64503,7 +64503,7 @@
    <sentence id="367"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.1"
-             span="">
+             span="Plutarch Lycurgus: s-367">
       <word id="1"
             form="ἔπειτα"
             lemma="ἔπειτα"
@@ -64620,7 +64620,7 @@
    <sentence id="368"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.2"
-             span="">
+             span="Plutarch Lycurgus: s-368">
       <word id="1"
             form="ἐπιγράψαι"
             lemma="ἐπιγράφω"
@@ -64758,7 +64758,7 @@
    <sentence id="369"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.2"
-             span="">
+             span="Plutarch Lycurgus: s-369">
       <word id="1"
             form="χρόνον"
             lemma="χρόνος"
@@ -64826,7 +64826,7 @@
    <sentence id="370"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.2"
-             span="">
+             span="Plutarch Lycurgus: s-370">
       <word id="1"
             form="τῇ"
             lemma="ὁ"
@@ -64901,7 +64901,7 @@
    <sentence id="371"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.2"
-             span="">
+             span="Plutarch Lycurgus: s-371">
       <word id="1"
             form="οὐδὲν"
             lemma="οὐδείς"
@@ -65039,7 +65039,7 @@
    <sentence id="372"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.2"
-             span="">
+             span="Plutarch Lycurgus: s-372">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -65198,7 +65198,7 @@
    <sentence id="373"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.3"
-             span="">
+             span="Plutarch Lycurgus: s-373">
       <word id="1"
             form="ὅθεν"
             lemma="ὅθεν"
@@ -65343,7 +65343,7 @@
    <sentence id="374"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.3"
-             span="">
+             span="Plutarch Lycurgus: s-374">
       <word id="1"
             form="ἀλλὰ"
             lemma="ἀλλά"
@@ -65642,7 +65642,7 @@
    <sentence id="375"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.4"
-             span="">
+             span="Plutarch Lycurgus: s-375">
       <word id="1"
             form="ἅμα"
             lemma="ἅμα"
@@ -65719,7 +65719,7 @@
    <sentence id="376"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.4"
-             span="">
+             span="Plutarch Lycurgus: s-376">
       <word id="1"
             form="λόγοι"
             lemma="λόγος"
@@ -65773,7 +65773,7 @@
    <sentence id="377"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.4"
-             span="">
+             span="Plutarch Lycurgus: s-377">
       <word id="1"
             form="ἐξ"
             lemma="ἐκ"
@@ -65915,7 +65915,7 @@
    <sentence id="378"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="27.4"
-             span="">
+             span="Plutarch Lycurgus: s-378">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -66055,7 +66055,7 @@
    <sentence id="379"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.1"
-             span="">
+             span="Plutarch Lycurgus: s-379">
       <word id="1"
             form="ἐν"
             lemma="εἰς"
@@ -66272,7 +66272,7 @@
    <sentence id="380"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.1"
-             span="">
+             span="Plutarch Lycurgus: s-380">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -66529,7 +66529,7 @@
    <sentence id="381"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.2"
-             span="">
+             span="Plutarch Lycurgus: s-381">
       <word id="1"
             form="ἦν"
             lemma="εἰμί"
@@ -66562,7 +66562,7 @@
    <sentence id="382"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.2"
-             span="">
+             span="Plutarch Lycurgus: s-382">
       <word id="1"
             form="τῶν"
             lemma="ὁ"
@@ -66756,7 +66756,7 @@
    <sentence id="383"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.2"
-             span="">
+             span="Plutarch Lycurgus: s-383">
       <word id="1"
             form="οἱ"
             lemma="ὀ"
@@ -66950,7 +66950,7 @@
    <sentence id="384"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.3"
-             span="">
+             span="Plutarch Lycurgus: s-384">
       <word id="1"
             form="πολλάκις"
             lemma="πολλάκις"
@@ -67046,7 +67046,7 @@
    <sentence id="385"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.3"
-             span="">
+             span="Plutarch Lycurgus: s-385">
       <word id="1"
             form="ὥσπερ"
             lemma="ὥσπερ"
@@ -67410,7 +67410,7 @@
    <sentence id="386"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.4"
-             span="">
+             span="Plutarch Lycurgus: s-386">
       <word id="1"
             form="Ἀριστοτέλης"
             lemma="Ἀριστοτέλης"
@@ -67597,7 +67597,7 @@
    <sentence id="387"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.4"
-             span="">
+             span="Plutarch Lycurgus: s-387">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -67798,7 +67798,7 @@
    <sentence id="388"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.4"
-             span="">
+             span="Plutarch Lycurgus: s-388">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -67915,7 +67915,7 @@
    <sentence id="389"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.5"
-             span="">
+             span="Plutarch Lycurgus: s-389">
       <word id="1"
             form="διὸ"
             lemma="διό"
@@ -68144,7 +68144,7 @@
    <sentence id="390"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.5"
-             span="">
+             span="Plutarch Lycurgus: s-390">
       <word id="1"
             form="ὥστε"
             lemma="ὥστε"
@@ -68326,7 +68326,7 @@
    <sentence id="391"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.6"
-             span="">
+             span="Plutarch Lycurgus: s-391">
       <word id="1"
             form="τὰς"
             lemma="ὁ"
@@ -68597,7 +68597,7 @@
    <sentence id="392"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="28.6"
-             span="">
+             span="Plutarch Lycurgus: s-392">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -68798,7 +68798,7 @@
    <sentence id="393"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.1"
-             span="">
+             span="Plutarch Lycurgus: s-393">
       <word id="1"
             form="κατειλημμένων"
             lemma="καταλαμβάνω"
@@ -69337,7 +69337,7 @@
    <sentence id="394"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.2"
-             span="">
+             span="Plutarch Lycurgus: s-394">
       <word id="1"
             form="συναγαγὼν"
             lemma="συνάγω"
@@ -69608,7 +69608,7 @@
    <sentence id="395"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.2"
-             span="">
+             span="Plutarch Lycurgus: s-395">
       <word id="1"
             form="δεῖν"
             lemma="δεῖ"
@@ -69748,7 +69748,7 @@
    <sentence id="396"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.2"
-             span="">
+             span="Plutarch Lycurgus: s-396">
       <word id="1"
             form="ἐπανελθὼν"
             lemma="ἐπανέρχομαι"
@@ -69832,7 +69832,7 @@
    <sentence id="397"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.3"
-             span="">
+             span="Plutarch Lycurgus: s-397">
       <word id="1"
             form="ὁμολογούντων"
             lemma="ὁμολογέω"
@@ -70103,7 +70103,7 @@
    <sentence id="398"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.3"
-             span="">
+             span="Plutarch Lycurgus: s-398">
       <word id="1"
             form="παραγενόμενος"
             lemma="παραγίγνομαι"
@@ -70283,7 +70283,7 @@
    <sentence id="399"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.4"
-             span="">
+             span="Plutarch Lycurgus: s-399">
       <word id="1"
             form="ἀποκριναμένου"
             lemma="ἀποκρίνω"
@@ -70470,7 +70470,7 @@
    <sentence id="400"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.4"
-             span="">
+             span="Plutarch Lycurgus: s-400">
       <word id="1"
             form="αὐτὸς"
             lemma="αὐτός"
@@ -70839,7 +70839,7 @@
    <sentence id="401"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.5"
-             span="">
+             span="Plutarch Lycurgus: s-401">
       <word id="1"
             form="ἐτελεύτησεν"
             lemma="τελευτάω"
@@ -71056,7 +71056,7 @@
    <sentence id="402"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.5"
-             span="">
+             span="Plutarch Lycurgus: s-402">
       <word id="1"
             form="αὑτῷ"
             lemma="ἑαυτοῦ"
@@ -71359,7 +71359,7 @@
    <sentence id="403"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.6"
-             span="">
+             span="Plutarch Lycurgus: s-403">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -71406,7 +71406,7 @@
    <sentence id="404"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.6"
-             span="">
+             span="Plutarch Lycurgus: s-404">
       <word id="1"
             form="τοσοῦτον"
             lemma="τοσοῦτος"
@@ -71635,7 +71635,7 @@
    <sentence id="405"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="29.6"
-             span="">
+             span="Plutarch Lycurgus: s-405">
       <word id="1"
             form="ἡ"
             lemma="ὁ"
@@ -71815,7 +71815,7 @@
    <sentence id="406"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.1"
-             span="">
+             span="Plutarch Lycurgus: s-406">
       <word id="1"
             form="Ἄγιδος"
             lemma="Ἄγις"
@@ -72163,7 +72163,7 @@
    <sentence id="407"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.2"
-             span="">
+             span="Plutarch Lycurgus: s-407">
       <word id="1"
             form="ὧν"
             lemma="ὅς"
@@ -72884,7 +72884,7 @@
    <sentence id="408"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.2"
-             span="">
+             span="Plutarch Lycurgus: s-408">
       <word id="1"
             form="τοσοῦτον"
             lemma="τοσοῦτος"
@@ -72945,7 +72945,7 @@
    <sentence id="409"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.3"
-             span="">
+             span="Plutarch Lycurgus: s-409">
       <word id="1"
             form="ὅθεν"
             lemma="ὅθεν"
@@ -73288,7 +73288,7 @@
    <sentence id="410"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.4"
-             span="">
+             span="Plutarch Lycurgus: s-410">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -73419,7 +73419,7 @@
    <sentence id="411"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.4"
-             span="">
+             span="Plutarch Lycurgus: s-411">
       <word id="1"
             form="ἐμποιεῖ"
             lemma="ἐμποιέω"
@@ -73487,7 +73487,7 @@
    <sentence id="412"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.4"
-             span="">
+             span="Plutarch Lycurgus: s-412">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -73634,7 +73634,7 @@
    <sentence id="413"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.4"
-             span="">
+             span="Plutarch Lycurgus: s-413">
       <word id="1"
             form="Λακεδαιμόνιοι"
             lemma="Λακεδαιμόνιος"
@@ -73751,7 +73751,7 @@
    <sentence id="414"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.5"
-             span="">
+             span="Plutarch Lycurgus: s-414">
       <word id="1"
             form="ᾔτουν"
             lemma="αἰτέω"
@@ -73875,7 +73875,7 @@
    <sentence id="415"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.5"
-             span="">
+             span="Plutarch Lycurgus: s-415">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -74320,7 +74320,7 @@
    <sentence id="416"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.6"
-             span="">
+             span="Plutarch Lycurgus: s-416">
       <word id="1"
             form="εἰς"
             lemma="εἰς"
@@ -74577,7 +74577,7 @@
    <sentence id="417"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.6"
-             span="">
+             span="Plutarch Lycurgus: s-417">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -74638,7 +74638,7 @@
    <sentence id="418"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="30.6"
-             span="">
+             span="Plutarch Lycurgus: s-418">
       <word id="1"
             form="Ἀντισθένης"
             lemma="Ἀντισθένης"
@@ -74832,7 +74832,7 @@
    <sentence id="419"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.1"
-             span="">
+             span="Plutarch Lycurgus: s-419">
       <word id="1"
             form="οὐ"
             lemma="οὐ"
@@ -74949,7 +74949,7 @@
    <sentence id="420"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.1"
-             span="">
+             span="Plutarch Lycurgus: s-420">
       <word id="1"
             form="ἀλλ᾽"
             lemma="ἀλλά"
@@ -75222,7 +75222,7 @@
    <sentence id="421"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.2"
-             span="">
+             span="Plutarch Lycurgus: s-421">
       <word id="1"
             form="ταύτην"
             lemma="οὗτος"
@@ -75416,7 +75416,7 @@
    <sentence id="422"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.2"
-             span="">
+             span="Plutarch Lycurgus: s-422">
       <word id="1"
             form="ὁ"
             lemma="ὁ"
@@ -75722,7 +75722,7 @@
    <sentence id="423"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.3"
-             span="">
+             span="Plutarch Lycurgus: s-423">
       <word id="1"
             form="δι᾽"
             lemma="διά"
@@ -75874,7 +75874,7 @@
    <sentence id="424"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.3"
-             span="">
+             span="Plutarch Lycurgus: s-424">
       <word id="1"
             form="ἱερόν"
             lemma="ἱερόν"
@@ -75986,7 +75986,7 @@
    <sentence id="425"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.3"
-             span="">
+             span="Plutarch Lycurgus: s-425">
       <word id="1"
             form="λέγεται"
             lemma="λέγω3"
@@ -76089,7 +76089,7 @@
    <sentence id="426"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.3"
-             span="">
+             span="Plutarch Lycurgus: s-426">
       <word id="1"
             form="τοῦτο"
             lemma="οὗτος"
@@ -76250,7 +76250,7 @@
    <sentence id="427"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.3"
-             span="">
+             span="Plutarch Lycurgus: s-427">
       <word id="1"
             form="ὥστε"
             lemma="ὥστε"
@@ -76432,7 +76432,7 @@
    <sentence id="428"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.4"
-             span="">
+             span="Plutarch Lycurgus: s-428">
       <word id="1"
             form="τελευτῆσαι"
             lemma="τελευτάω"
@@ -76650,7 +76650,7 @@
    <sentence id="429"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.4"
-             span="">
+             span="Plutarch Lycurgus: s-429">
       <word id="1"
             form="καὶ"
             lemma="καί"
@@ -76760,7 +76760,7 @@
    <sentence id="430"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.4"
-             span="">
+             span="Plutarch Lycurgus: s-430">
       <word id="1"
             form="υἱὸν"
             lemma="υἱός"
@@ -76814,7 +76814,7 @@
    <sentence id="431"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.4"
-             span="">
+             span="Plutarch Lycurgus: s-431">
       <word id="1"
             form="οὗ"
             lemma="ὅς"
@@ -76868,7 +76868,7 @@
    <sentence id="432"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.5"
-             span="">
+             span="Plutarch Lycurgus: s-432">
       <word id="1"
             form="οἱ"
             lemma="ὁ"
@@ -77041,7 +77041,7 @@
    <sentence id="433"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31.5"
-             span="">
+             span="Plutarch Lycurgus: s-433">
       <word id="1"
             form="Ἀριστοκράτης"
             lemma="Ἀριστοκράτης"
@@ -77382,7 +77382,7 @@
    <sentence id="434"
              document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1"
              subdoc="31"
-             span="">
+             span="Plutarch Lycurgus: s-434">
       <word id="1"
             form="ταῦτα"
             lemma="οὗτος"
