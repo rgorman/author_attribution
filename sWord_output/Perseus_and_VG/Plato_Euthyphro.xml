@@ -31,7 +31,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-1 w-3"/>
       <word id="4"
             form="ὦ"
@@ -52,7 +52,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-1 w-6"/>
       <word id="7"
             form="γέγονεν"
@@ -66,7 +66,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-1 w-8"/>
       <word id="9"
             form="ὅτι"
@@ -344,7 +344,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-3 w-5"/>
       <word id="6"
             form="ὦ"
@@ -365,7 +365,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-3 w-8"/>
       <word id="9"
             form="δίκην"
@@ -466,7 +466,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-5 w-4"/>
       <word id="5"
             form="ὡς"
@@ -487,7 +487,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-5 w-7"/>
       <word id="8"
             form="γέγραπται"
@@ -548,7 +548,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-6 w-6"/>
       <word id="7"
             form="ὡς"
@@ -786,7 +786,7 @@
             lemma="γιγνώσκω1"
             postag="v1spia---"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-11 w-6"/>
       <word id="7"
             form="ὦ"
@@ -807,7 +807,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-11 w-9"/>
       <word id="10"
             form="τὸν"
@@ -917,7 +917,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-12 w-4"/>
       <word id="5"
             form="ὡς"
@@ -938,7 +938,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-12 w-7"/>
       <word id="8"
             form="Μέλητον"
@@ -999,7 +999,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-13 w-6"/>
       <word id="7"
             form="εἴ"
@@ -1090,7 +1090,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plato Euthyphro: s-13 w-19"/>
       <word id="20"
             form="ἐπίγρυπον"
@@ -1137,7 +1137,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-14 w-3"/>
       <word id="4"
             form="ὦ"
@@ -1275,7 +1275,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-17 w-3"/>
       <word id="4"
             form="ἔμοιγε"
@@ -1422,7 +1422,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-19 w-3"/>
       <word id="4"
             form="ὥς"
@@ -1443,7 +1443,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-19 w-6"/>
       <word id="7"
             form="οἶδε"
@@ -1583,7 +1583,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-20 w-6"/>
       <word id="7"
             form="καὶ"
@@ -1660,7 +1660,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plato Euthyphro: s-20 w-17"/>
       <word id="18"
             form="ἔρχεται"
@@ -1896,7 +1896,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plato Euthyphro: s-22 w-12"/>
       <word id="13"
             form="ὥσπερ"
@@ -2150,7 +2150,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-23 w-16"/>
       <word id="17"
             form="ὥς"
@@ -2409,7 +2409,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-25 w-3"/>
       <word id="4"
             form="ὦ"
@@ -2430,7 +2430,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-25 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -2554,7 +2554,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-26 w-11"/>
       <word id="12"
             form="ἐπιχειρῶν"
@@ -2615,7 +2615,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-27 w-4"/>
       <word id="5"
             form="τί"
@@ -2697,7 +2697,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-28 w-2"/>
       <word id="3"
             form="ὦ"
@@ -2718,7 +2718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-28 w-5"/>
       <word id="6"
             form="ὡς"
@@ -2816,7 +2816,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-29 w-7"/>
       <word id="8"
             form="καὶ"
@@ -2921,7 +2921,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plato Euthyphro: s-29 w-22"/>
       <word id="23"
             form="ὥς"
@@ -2961,7 +2961,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-30 w-2"/>
       <word id="3"
             form="ὦ"
@@ -3155,7 +3155,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plato Euthyphro: s-32 w-12"/>
       <word id="13"
             form="καὶ"
@@ -3218,7 +3218,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plato Euthyphro: s-32 w-21"/>
       <word id="22"
             form="εἰδὼς"
@@ -3330,7 +3330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-33 w-5"/>
       <word id="6"
             form="ὅταν"
@@ -3400,7 +3400,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plato Euthyphro: s-33 w-15"/>
       <word id="16"
             form="προλέγων"
@@ -3435,7 +3435,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plato Euthyphro: s-33 w-20"/>
       <word id="21"
             form="καταγελῶσιν"
@@ -3531,7 +3531,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-34 w-9"/>
       <word id="10"
             form="ἀλλ᾽"
@@ -3643,7 +3643,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-35 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -3704,7 +3704,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-36 w-4"/>
       <word id="5"
             form="ἀλλὰ"
@@ -3802,7 +3802,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-37 w-4"/>
       <word id="5"
             form="ὡς"
@@ -3830,7 +3830,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-37 w-8"/>
       <word id="9"
             form="οὐ"
@@ -3893,7 +3893,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-37 w-17"/>
       <word id="18"
             form="μὴ"
@@ -4010,7 +4010,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-38 w-9"/>
       <word id="10"
             form="θυμοῦνται"
@@ -4024,7 +4024,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-38 w-11"/>
       <word id="12"
             form="εἴτ᾽"
@@ -4073,7 +4073,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-38 w-18"/>
       <word id="19"
             form="εἴτε"
@@ -4176,7 +4176,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-39 w-9"/>
       <word id="10"
             form="οὐ"
@@ -4438,7 +4438,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plato Euthyphro: s-41 w-15"/>
       <word id="16"
             form="οὐ"
@@ -4473,7 +4473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plato Euthyphro: s-41 w-20"/>
       <word id="21"
             form="ἀλλὰ"
@@ -4583,7 +4583,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-42 w-4"/>
       <word id="5"
             form="ὃ"
@@ -4611,7 +4611,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-42 w-8"/>
       <word id="9"
             form="μέλλοιέν"
@@ -4667,7 +4667,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-42 w-16"/>
       <word id="17"
             form="οὐδὲν"
@@ -4793,7 +4793,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-43 w-4"/>
       <word id="5"
             form="τοῦτ᾽"
@@ -4912,7 +4912,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-44 w-5"/>
       <word id="6"
             form="ὦ"
@@ -4933,7 +4933,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-44 w-8"/>
       <word id="9"
             form="πρᾶγμα"
@@ -4947,7 +4947,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-44 w-10"/>
       <word id="11"
             form="ἀλλὰ"
@@ -5010,7 +5010,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plato Euthyphro: s-44 w-19"/>
       <word id="20"
             form="οἶμαι"
@@ -5108,7 +5108,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-45 w-5"/>
       <word id="6"
             form="ὦ"
@@ -5129,7 +5129,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-45 w-8"/>
       <word id="9"
             form="τίς"
@@ -5399,7 +5399,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-52 w-5"/>
       <word id="6"
             form="ὅς"
@@ -5558,7 +5558,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-55 w-3"/>
       <word id="4"
             form="ὦ"
@@ -5733,7 +5733,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-58 w-2"/>
       <word id="3"
             form="ὦ"
@@ -5808,7 +5808,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-60 w-3"/>
       <word id="4"
             form="ὦ"
@@ -5829,7 +5829,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-60 w-6"/>
       <word id="7"
             form="ἀγνοεῖται"
@@ -6058,7 +6058,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-62 w-5"/>
       <word id="6"
             form="ὦ"
@@ -6336,7 +6336,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-66 w-2"/>
       <word id="3"
             form="ὦ"
@@ -6357,7 +6357,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-66 w-5"/>
       <word id="6"
             form="ὅτι"
@@ -6434,7 +6434,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-66 w-16"/>
       <word id="17"
             form="ἀλλ᾽"
@@ -6483,7 +6483,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plato Euthyphro: s-66 w-23"/>
       <word id="24"
             form="εἴτε"
@@ -6546,7 +6546,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plato Euthyphro: s-66 w-32"/>
       <word id="33"
             form="καὶ"
@@ -6588,7 +6588,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Plato Euthyphro: s-66 w-38"/>
       <word id="39"
             form="ἐᾶν"
@@ -6602,7 +6602,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="42"
+            head="0"
             cite=" Plato Euthyphro: s-66 w-40"/>
       <word id="41"
             form="εἰ"
@@ -6630,7 +6630,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="41"
+            head="0"
             cite=" Plato Euthyphro: s-66 w-44"/>
       <word id="45"
             form="ἐπεξιέναι"
@@ -6981,7 +6981,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-68 w-9"/>
       <word id="10"
             form="καὶ"
@@ -7030,7 +7030,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-68 w-16"/>
       <word id="17"
             form="ἐθήτευεν"
@@ -7271,7 +7271,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-70 w-16"/>
       <word id="17"
             form="πέμπει"
@@ -7409,7 +7409,7 @@
             lemma="τε1"
             postag="d--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite="urn:cts:greekLit:tlg0059.tlg001:1 Plato Euthyphro: s-71 w-9"/>
       <word id="10"
             form="καὶ"
@@ -7493,7 +7493,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plato Euthyphro: s-71 w-21"/>
       <word id="22"
             form="ὅπερ"
@@ -7561,7 +7561,7 @@
             lemma="καί1"
             postag="c--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite="urn:cts:greekLit:tlg0059.tlg001:1 Plato Euthyphro: s-72 w-4"/>
       <word id="5"
             form="ῥίγους"
@@ -7706,7 +7706,7 @@
             lemma="τε1"
             postag="d--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite="urn:cts:greekLit:tlg0059.tlg001:1 Plato Euthyphro: s-73 w-7"/>
       <word id="8"
             form="πατὴρ"
@@ -7748,7 +7748,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plato Euthyphro: s-73 w-13"/>
       <word id="14"
             form="ὅτι"
@@ -7832,7 +7832,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plato Euthyphro: s-73 w-25"/>
       <word id="26"
             form="ὥς"
@@ -7860,7 +7860,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plato Euthyphro: s-73 w-29"/>
       <word id="30"
             form="οὔτ᾽"
@@ -7902,7 +7902,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Plato Euthyphro: s-73 w-35"/>
       <word id="36"
             form="ἀνδροφόνου"
@@ -7944,7 +7944,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Plato Euthyphro: s-73 w-41"/>
       <word id="42"
             form="οὐ"
@@ -8077,7 +8077,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="62"
+            head="0"
             cite=" Plato Euthyphro: s-73 w-60"/>
       <word id="61"
             form="ὦ"
@@ -8098,7 +8098,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="62"
+            head="0"
             cite=" Plato Euthyphro: s-73 w-63"/>
       <word id="64"
             form="τὸ"
@@ -8147,7 +8147,7 @@
             lemma="τε1"
             postag="d--------"
             relation="AuxX"
-            head="72"
+            head="0"
             cite="urn:cts:greekLit:tlg0059.tlg001:1 Plato Euthyphro: s-73 w-70"/>
       <word id="71"
             form="πέρι"
@@ -8247,7 +8247,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-74 w-6"/>
       <word id="7"
             form="ὦ"
@@ -8268,7 +8268,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-74 w-9"/>
       <word id="10"
             form="οὑτωσὶ"
@@ -8338,7 +8338,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-74 w-19"/>
       <word id="20"
             form="καὶ"
@@ -8387,7 +8387,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plato Euthyphro: s-74 w-26"/>
       <word id="27"
             form="ὥστε"
@@ -8443,7 +8443,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plato Euthyphro: s-74 w-34"/>
       <word id="35"
             form="οὐ"
@@ -8595,7 +8595,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-75 w-7"/>
       <word id="8"
             form="ὦ"
@@ -8616,7 +8616,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-75 w-10"/>
       <word id="11"
             form="οὐδέ"
@@ -8679,7 +8679,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plato Euthyphro: s-75 w-19"/>
       <word id="20"
             form="εἰ"
@@ -8768,7 +8768,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-4"/>
       <word id="5"
             form="ὦ"
@@ -8796,7 +8796,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-8"/>
       <word id="9"
             form="κράτιστόν"
@@ -8838,7 +8838,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-14"/>
       <word id="15"
             form="καὶ"
@@ -8922,7 +8922,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-26"/>
       <word id="27"
             form="λέγοντα"
@@ -9027,7 +9027,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="42"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-41"/>
       <word id="42"
             form="καὶ"
@@ -9125,7 +9125,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-55"/>
       <word id="56"
             form="μαθητὴς"
@@ -9188,7 +9188,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="66"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-64"/>
       <word id="65"
             form="ὦ"
@@ -9209,7 +9209,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="68"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-67"/>
       <word id="68"
             form="φαίην"
@@ -9230,7 +9230,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="68"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-70"/>
       <word id="71"
             form="Εὐθύφρονα"
@@ -9279,7 +9279,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="78"
+            head="0"
             cite=" Plato Euthyphro: s-76 w-77"/>
       <word id="78"
             form="καὶ"
@@ -9382,7 +9382,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-77 w-4"/>
       <word id="5"
             form="ἐκείνῳ"
@@ -9445,7 +9445,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-77 w-13"/>
       <word id="14"
             form="ὡς"
@@ -9487,7 +9487,7 @@
             lemma="τε1"
             postag="d--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite="urn:cts:greekLit:tlg0059.tlg001:1 Plato Euthyphro: s-77 w-19"/>
       <word id="20"
             form="καὶ"
@@ -9522,7 +9522,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plato Euthyphro: s-77 w-24"/>
       <word id="25"
             form="ἐμὲ"
@@ -9550,7 +9550,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plato Euthyphro: s-77 w-28"/>
       <word id="29"
             form="ἐκεῖνον"
@@ -9578,7 +9578,7 @@
             lemma="τε1"
             postag="d--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite="urn:cts:greekLit:tlg0059.tlg001:1 Plato Euthyphro: s-77 w-32"/>
       <word id="33"
             form="καὶ"
@@ -9704,7 +9704,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Plato Euthyphro: s-77 w-50"/>
       <word id="51"
             form="αὐτὰ"
@@ -9834,7 +9834,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-78 w-4"/>
       <word id="5"
             form="ὦ"
@@ -9855,7 +9855,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-78 w-7"/>
       <word id="8"
             form="εἰ"
@@ -9897,7 +9897,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-78 w-13"/>
       <word id="14"
             form="εὕροιμ᾽"
@@ -9918,7 +9918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-78 w-16"/>
       <word id="17"
             form="ὡς"
@@ -9939,7 +9939,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plato Euthyphro: s-78 w-19"/>
       <word id="20"
             form="ὅπῃ"
@@ -9967,7 +9967,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plato Euthyphro: s-78 w-23"/>
       <word id="24"
             form="καὶ"
@@ -10121,7 +10121,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-79 w-4"/>
       <word id="5"
             form="ὦ"
@@ -10149,7 +10149,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-79 w-8"/>
       <word id="9"
             form="ταῦτα"
@@ -10198,7 +10198,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-79 w-15"/>
       <word id="16"
             form="εἰδὼς"
@@ -10219,7 +10219,7 @@
             lemma="καί1"
             postag="c--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite="urn:cts:greekLit:tlg0059.tlg001:1 Plato Euthyphro: s-79 w-18"/>
       <word id="19"
             form="ἄλλος"
@@ -10761,7 +10761,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plato Euthyphro: s-81 w-22"/>
       <word id="23"
             form="αὐτὸ"
@@ -10938,7 +10938,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-82 w-3"/>
       <word id="4"
             form="ὦ"
@@ -10994,7 +10994,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-83 w-3"/>
       <word id="4"
             form="τί"
@@ -11281,7 +11281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plato Euthyphro: s-84 w-29"/>
       <word id="30"
             form="ἐάντε"
@@ -11351,7 +11351,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="41"
+            head="0"
             cite=" Plato Euthyphro: s-84 w-39"/>
       <word id="40"
             form="τὸ"
@@ -11421,7 +11421,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-85 w-2"/>
       <word id="3"
             form="ὦ"
@@ -11442,7 +11442,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-85 w-5"/>
       <word id="6"
             form="θέασαι"
@@ -11568,7 +11568,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plato Euthyphro: s-85 w-23"/>
       <word id="24"
             form="ὅτι"
@@ -11797,7 +11797,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-86 w-14"/>
       <word id="15"
             form="καὶ"
@@ -12047,7 +12047,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-87 w-9"/>
       <word id="10"
             form="καὶ"
@@ -12178,7 +12178,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-88 w-3"/>
       <word id="4"
             form="ὦ"
@@ -12199,7 +12199,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-88 w-6"/>
       <word id="7"
             form="τοῦτ᾽"
@@ -12255,7 +12255,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-88 w-14"/>
       <word id="15"
             form="ὅτι"
@@ -12325,7 +12325,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-88 w-24"/>
       <word id="25"
             form="δυσχερῶς"
@@ -12379,7 +12379,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-89 w-3"/>
       <word id="4"
             form="ὡς"
@@ -12400,7 +12400,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-89 w-6"/>
       <word id="7"
             form="φήσει"
@@ -12538,7 +12538,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-90 w-14"/>
       <word id="15"
             form="ἀνάγκη"
@@ -12559,7 +12559,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-90 w-17"/>
       <word id="18"
             form="ὡς"
@@ -12580,7 +12580,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-90 w-20"/>
       <word id="21"
             form="καὶ"
@@ -12648,7 +12648,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-91 w-5"/>
       <word id="6"
             form="οἵ"
@@ -12868,7 +12868,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-93 w-6"/>
       <word id="7"
             form="ὦ"
@@ -12889,7 +12889,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-93 w-9"/>
       <word id="10"
             form="ἃ"
@@ -13043,7 +13043,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plato Euthyphro: s-94 w-14"/>
       <word id="15"
             form="καὶ"
@@ -13120,7 +13120,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plato Euthyphro: s-94 w-25"/>
       <word id="26"
             form="οἷα"
@@ -13169,7 +13169,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Plato Euthyphro: s-94 w-32"/>
       <word id="33"
             form="καὶ"
@@ -13412,7 +13412,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-95 w-5"/>
       <word id="6"
             form="ὦ"
@@ -13466,7 +13466,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-96 w-4"/>
       <word id="5"
             form="ὦ"
@@ -13487,7 +13487,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-96 w-7"/>
       <word id="8"
             form="ἀλλ᾽"
@@ -13522,7 +13522,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-96 w-12"/>
       <word id="13"
             form="καὶ"
@@ -13564,7 +13564,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-96 w-18"/>
       <word id="19"
             form="ἐάνπερ"
@@ -13585,7 +13585,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-96 w-21"/>
       <word id="22"
             form="περὶ"
@@ -13620,7 +13620,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plato Euthyphro: s-96 w-26"/>
       <word id="27"
             form="ἃ"
@@ -13901,7 +13901,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-100 w-4"/>
       <word id="5"
             form="ὦ"
@@ -13922,7 +13922,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-100 w-7"/>
       <word id="8"
             form="τὸ"
@@ -13999,7 +13999,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-100 w-18"/>
       <word id="19"
             form="ἀλλά"
@@ -14090,7 +14090,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plato Euthyphro: s-100 w-31"/>
       <word id="32"
             form="φόνου"
@@ -14165,7 +14165,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-101 w-5"/>
       <word id="6"
             form="ὦ"
@@ -14240,7 +14240,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-103 w-3"/>
       <word id="4"
             form="ὦ"
@@ -14261,7 +14261,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-103 w-6"/>
       <word id="7"
             form="καὶ"
@@ -14404,7 +14404,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plato Euthyphro: s-105 w-8"/>
       <word id="9"
             form="ἕν"
@@ -14474,7 +14474,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-105 w-18"/>
       <word id="19"
             form="ἀλλ᾽"
@@ -14820,7 +14820,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-109 w-11"/>
       <word id="12"
             form="ἵνα"
@@ -14883,7 +14883,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plato Euthyphro: s-109 w-20"/>
       <word id="21"
             form="ὃ"
@@ -15002,7 +15002,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Plato Euthyphro: s-109 w-37"/>
       <word id="38"
             form="ὃ"
@@ -15044,7 +15044,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Plato Euthyphro: s-109 w-43"/>
       <word id="44"
             form="μὴ"
@@ -15123,7 +15123,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-110 w-5"/>
       <word id="6"
             form="ὦ"
@@ -15144,7 +15144,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-110 w-8"/>
       <word id="9"
             form="καὶ"
@@ -15287,7 +15287,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-112 w-9"/>
       <word id="10"
             form="τὸ"
@@ -15357,7 +15357,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-113 w-2"/>
       <word id="3"
             form="ὦ"
@@ -15378,7 +15378,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-113 w-5"/>
       <word id="6"
             form="καὶ"
@@ -15497,7 +15497,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-114 w-4"/>
       <word id="5"
             form="τοῦτο"
@@ -15525,7 +15525,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-114 w-8"/>
       <word id="9"
             form="ἀλλὰ"
@@ -15679,7 +15679,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-116 w-3"/>
       <word id="4"
             form="ἐπισκεψώμεθα"
@@ -15775,7 +15775,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-117 w-9"/>
       <word id="10"
             form="τὸ"
@@ -15889,7 +15889,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-118 w-5"/>
       <word id="6"
             form="ἀλλὰ"
@@ -15917,7 +15917,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-118 w-9"/>
       <word id="10"
             form="τὸ"
@@ -16095,7 +16095,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-122 w-2"/>
       <word id="3"
             form="ὦ"
@@ -16203,7 +16203,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-124 w-8"/>
       <word id="9"
             form="ὦ"
@@ -16224,7 +16224,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-124 w-11"/>
       <word id="12"
             form="καὶ"
@@ -16301,7 +16301,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-124 w-22"/>
       <word id="23"
             form="καὶ"
@@ -16395,7 +16395,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-126 w-5"/>
       <word id="6"
             form="ὦ"
@@ -16416,7 +16416,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-126 w-8"/>
       <word id="9"
             form="ἡ"
@@ -16587,7 +16587,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-128 w-13"/>
       <word id="14"
             form="ἡ"
@@ -16671,7 +16671,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plato Euthyphro: s-128 w-25"/>
       <word id="26"
             form="ἢ"
@@ -16874,7 +16874,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-130 w-10"/>
       <word id="11"
             form="ἐπὶ"
@@ -17024,7 +17024,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-132 w-7"/>
       <word id="8"
             form="ὡς"
@@ -17045,7 +17045,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-132 w-10"/>
       <word id="11"
             form="περὶ"
@@ -17342,7 +17342,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-135 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -17634,7 +17634,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plato Euthyphro: s-136 w-19"/>
       <word id="20"
             form="ὅταν"
@@ -17655,7 +17655,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plato Euthyphro: s-136 w-22"/>
       <word id="23"
             form="καὶ"
@@ -17772,7 +17772,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-137 w-6"/>
       <word id="7"
             form="ὦ"
@@ -17793,7 +17793,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-137 w-9"/>
       <word id="10"
             form="καὶ"
@@ -17870,7 +17870,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-138 w-5"/>
       <word id="6"
             form="ὦ"
@@ -17931,7 +17931,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Plato Euthyphro: s-139 w-5"/>
       <word id="6"
             form="δι᾽"
@@ -18048,7 +18048,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-141 w-5"/>
       <word id="6"
             form="ὦ"
@@ -18076,7 +18076,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-141 w-9"/>
       <word id="10"
             form="ἄλλοι"
@@ -18139,7 +18139,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plato Euthyphro: s-141 w-18"/>
       <word id="19"
             form="καὶ"
@@ -18427,7 +18427,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-145 w-10"/>
       <word id="11"
             form="ταῦτα"
@@ -18455,7 +18455,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plato Euthyphro: s-145 w-14"/>
       <word id="15"
             form="τὰ"
@@ -18565,7 +18565,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-147 w-4"/>
       <word id="5"
             form="ὡς"
@@ -18593,7 +18593,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-147 w-8"/>
       <word id="9"
             form="οἱ"
@@ -18628,7 +18628,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-147 w-13"/>
       <word id="14"
             form="οἱ"
@@ -18656,7 +18656,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plato Euthyphro: s-147 w-17"/>
       <word id="18"
             form="περὶ"
@@ -18831,7 +18831,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-150 w-3"/>
       <word id="4"
             form="ὡς"
@@ -18852,7 +18852,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-150 w-6"/>
       <word id="7"
             form="μισεῖταί"
@@ -18908,7 +18908,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-150 w-14"/>
       <word id="15"
             form="καὶ"
@@ -19065,7 +19065,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-152 w-10"/>
       <word id="11"
             form="ὦ"
@@ -19086,7 +19086,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-152 w-13"/>
       <word id="14"
             form="τούτῳ"
@@ -19180,7 +19180,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-154 w-6"/>
       <word id="7"
             form="ὦ"
@@ -19248,7 +19248,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-155 w-6"/>
       <word id="7"
             form="ὃ"
@@ -19379,7 +19379,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-156 w-9"/>
       <word id="10"
             form="ὡς"
@@ -19419,7 +19419,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-157 w-2"/>
       <word id="3"
             form="ὦ"
@@ -19440,7 +19440,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-157 w-5"/>
       <word id="6"
             form="ὃ"
@@ -19496,7 +19496,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-157 w-13"/>
       <word id="14"
             form="οὐδὲν"
@@ -19573,7 +19573,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plato Euthyphro: s-157 w-24"/>
       <word id="25"
             form="τῷ"
@@ -19629,7 +19629,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plato Euthyphro: s-157 w-32"/>
       <word id="33"
             form="καὶ"
@@ -19671,7 +19671,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Plato Euthyphro: s-157 w-38"/>
       <word id="39"
             form="τῇ"
@@ -19706,7 +19706,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Plato Euthyphro: s-157 w-43"/>
       <word id="44"
             form="καὶ"
@@ -19790,7 +19790,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Plato Euthyphro: s-157 w-55"/>
       <word id="56"
             form="καὶ"
@@ -19876,7 +19876,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-158 w-3"/>
       <word id="4"
             form="ὦ"
@@ -19897,7 +19897,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-158 w-6"/>
       <word id="7"
             form="περί"
@@ -19967,7 +19967,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-158 w-16"/>
       <word id="17"
             form="ὡς"
@@ -20105,7 +20105,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-160 w-2"/>
       <word id="3"
             form="ὦ"
@@ -20126,7 +20126,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-160 w-5"/>
       <word id="6"
             form="ἤδη"
@@ -20381,7 +20381,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-162 w-4"/>
       <word id="5"
             form="πάντα"
@@ -20470,7 +20470,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-163 w-4"/>
       <word id="5"
             form="ὦ"
@@ -20491,7 +20491,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-163 w-7"/>
       <word id="8"
             form="ἀδικεῖν"
@@ -20505,7 +20505,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-163 w-9"/>
       <word id="10"
             form="καὶ"
@@ -20746,7 +20746,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-166 w-9"/>
       <word id="10"
             form="ὡς"
@@ -20802,7 +20802,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-166 w-17"/>
       <word id="18"
             form="ἀλλ᾽"
@@ -20952,7 +20952,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-169 w-6"/>
       <word id="7"
             form="ὡς"
@@ -21008,7 +21008,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-169 w-14"/>
       <word id="15"
             form="ἀλλ᾽"
@@ -21043,7 +21043,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plato Euthyphro: s-169 w-19"/>
       <word id="20"
             form="τὸ"
@@ -21214,7 +21214,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-171 w-9"/>
       <word id="10"
             form="εἴπερ"
@@ -21298,7 +21298,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plato Euthyphro: s-171 w-21"/>
       <word id="22"
             form="καὶ"
@@ -21347,7 +21347,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plato Euthyphro: s-171 w-28"/>
       <word id="29"
             form="οἱ"
@@ -21422,7 +21422,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-172 w-5"/>
       <word id="6"
             form="ὦ"
@@ -21443,7 +21443,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-172 w-8"/>
       <word id="9"
             form="οὐδεὶς"
@@ -21499,7 +21499,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-172 w-16"/>
       <word id="17"
             form="ὡς"
@@ -21609,7 +21609,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-173 w-7"/>
       <word id="8"
             form="ὦ"
@@ -21630,7 +21630,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-173 w-10"/>
       <word id="11"
             form="τό"
@@ -21707,7 +21707,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-174 w-5"/>
       <word id="6"
             form="ὦ"
@@ -21728,7 +21728,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-174 w-8"/>
       <word id="9"
             form="τῶν"
@@ -21805,7 +21805,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plato Euthyphro: s-174 w-19"/>
       <word id="20"
             form="εἴπερ"
@@ -22064,7 +22064,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-178 w-3"/>
       <word id="4"
             form="ὦ"
@@ -22092,7 +22092,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-178 w-7"/>
       <word id="8"
             form="δίδαξον"
@@ -22120,7 +22120,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-178 w-11"/>
       <word id="12"
             form="ἵνα"
@@ -22148,7 +22148,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-178 w-15"/>
       <word id="16"
             form="τί"
@@ -22232,7 +22232,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="41"
+            head="0"
             cite=" Plato Euthyphro: s-178 w-27"/>
       <word id="28"
             form="ὃς"
@@ -22323,7 +22323,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plato Euthyphro: s-178 w-40"/>
       <word id="41"
             form="φθάσῃ"
@@ -22449,7 +22449,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="59"
+            head="0"
             cite=" Plato Euthyphro: s-178 w-58"/>
       <word id="59"
             form="καὶ"
@@ -22580,7 +22580,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-179 w-2"/>
       <word id="3"
             form="περὶ"
@@ -22753,7 +22753,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-180 w-5"/>
       <word id="6"
             form="ἐγκωμιάζων"
@@ -22856,7 +22856,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-181 w-7"/>
       <word id="8"
             form="ὦ"
@@ -22877,7 +22877,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-181 w-10"/>
       <word id="11"
             form="ἐπεὶ"
@@ -23020,7 +23020,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-183 w-8"/>
       <word id="9"
             form="ἐπεὶ"
@@ -23188,7 +23188,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-184 w-4"/>
       <word id="5"
             form="ὦ"
@@ -23209,7 +23209,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-184 w-7"/>
       <word id="8"
             form="ἐάνπερ"
@@ -23532,7 +23532,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-188 w-17"/>
       <word id="18"
             form="τί"
@@ -23698,7 +23698,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-189 w-7"/>
       <word id="8"
             form="ὡς"
@@ -23719,7 +23719,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-189 w-10"/>
       <word id="11"
             form="εἴη"
@@ -23937,7 +23937,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-192 w-6"/>
       <word id="7"
             form="ὦ"
@@ -23984,7 +23984,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-193 w-3"/>
       <word id="4"
             form="πάντες"
@@ -24208,7 +24208,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plato Euthyphro: s-194 w-21"/>
       <word id="22"
             form="ὃ"
@@ -24243,7 +24243,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plato Euthyphro: s-194 w-26"/>
       <word id="27"
             form="ὅσιον"
@@ -24350,7 +24350,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-195 w-10"/>
       <word id="11"
             form="οὐδέτερα"
@@ -24511,7 +24511,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-196 w-4"/>
       <word id="5"
             form="ὦ"
@@ -24565,7 +24565,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-197 w-4"/>
       <word id="5"
             form="ὦ"
@@ -24586,7 +24586,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-197 w-7"/>
       <word id="8"
             form="ἀλλὰ"
@@ -24635,7 +24635,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-197 w-14"/>
       <word id="15"
             form="εἰ"
@@ -24824,7 +24824,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plato Euthyphro: s-198 w-15"/>
       <word id="16"
             form="καὶ"
@@ -24852,7 +24852,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plato Euthyphro: s-198 w-19"/>
       <word id="20"
             form="ὃ"
@@ -24894,7 +24894,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plato Euthyphro: s-198 w-25"/>
       <word id="26"
             form="ἀνόσιον"
@@ -24957,7 +24957,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-199 w-5"/>
       <word id="6"
             form="ὦ"
@@ -24978,7 +24978,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-199 w-8"/>
       <word id="9"
             form="εἰ"
@@ -25006,7 +25006,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plato Euthyphro: s-199 w-12"/>
       <word id="13"
             form="ἢ"
@@ -25090,7 +25090,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plato Euthyphro: s-199 w-24"/>
       <word id="25"
             form="ἐὰν"
@@ -25313,7 +25313,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-203 w-2"/>
       <word id="3"
             form="ὠγαθέ"
@@ -25327,7 +25327,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-203 w-4"/>
       <word id="5"
             form="βέλτιον"
@@ -25470,7 +25470,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-205 w-11"/>
       <word id="12"
             form="ἢ"
@@ -25552,7 +25552,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-206 w-5"/>
       <word id="6"
             form="ὦ"
@@ -26031,7 +26031,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-212 w-4"/>
       <word id="5"
             form="πότερον"
@@ -26087,7 +26087,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plato Euthyphro: s-212 w-12"/>
       <word id="13"
             form="ἢ"
@@ -26141,7 +26141,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-213 w-2"/>
       <word id="3"
             form="ἀλλὰ"
@@ -26390,7 +26390,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-216 w-7"/>
       <word id="8"
             form="διὰ"
@@ -26418,7 +26418,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-216 w-11"/>
       <word id="12"
             form="ἀλλὰ"
@@ -26460,7 +26460,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-216 w-17"/>
       <word id="18"
             form="διὰ"
@@ -26537,7 +26537,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Plato Euthyphro: s-217 w-5"/>
       <word id="6"
             form="διὰ"
@@ -26565,7 +26565,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-217 w-9"/>
       <word id="10"
             form="ἀλλὰ"
@@ -26593,7 +26593,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-217 w-13"/>
       <word id="14"
             form="διὰ"
@@ -26661,7 +26661,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-218 w-5"/>
       <word id="6"
             form="ἀλλὰ"
@@ -26740,7 +26740,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-219 w-3"/>
       <word id="4"
             form="ὦ"
@@ -26761,7 +26761,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-219 w-6"/>
       <word id="7"
             form="ὃ"
@@ -26831,7 +26831,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-220 w-4"/>
       <word id="5"
             form="ὅτι"
@@ -26887,7 +26887,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plato Euthyphro: s-220 w-12"/>
       <word id="13"
             form="οὐχ"
@@ -26929,7 +26929,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-220 w-18"/>
       <word id="19"
             form="ἀλλ᾽"
@@ -27018,7 +27018,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-221 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -27411,7 +27411,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-227 w-9"/>
       <word id="10"
             form="ἀλλ᾽"
@@ -27544,7 +27544,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-229 w-8"/>
       <word id="9"
             form="ὦ"
@@ -27619,7 +27619,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-230 w-7"/>
       <word id="8"
             form="ὡς"
@@ -27724,7 +27724,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-232 w-4"/>
       <word id="5"
             form="ὅτι"
@@ -27752,7 +27752,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-232 w-8"/>
       <word id="9"
             form="ἢ"
@@ -27815,7 +27815,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-233 w-2"/>
       <word id="3"
             form="ἀλλὰ"
@@ -27908,7 +27908,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-234 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -28189,7 +28189,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-238 w-7"/>
       <word id="8"
             form="ὦ"
@@ -28210,7 +28210,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-238 w-10"/>
       <word id="11"
             form="οὐδὲ"
@@ -28245,7 +28245,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plato Euthyphro: s-238 w-15"/>
       <word id="16"
             form="ὡς"
@@ -28273,7 +28273,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plato Euthyphro: s-238 w-19"/>
       <word id="20"
             form="ἀλλ᾽"
@@ -28352,7 +28352,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-239 w-3"/>
       <word id="4"
             form="ὦ"
@@ -28450,7 +28450,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-240 w-9"/>
       <word id="10"
             form="ὅτι"
@@ -28478,7 +28478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plato Euthyphro: s-240 w-13"/>
       <word id="14"
             form="ἀλλ᾽"
@@ -28667,7 +28667,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-243 w-9"/>
       <word id="10"
             form="αὐτῷ"
@@ -28716,7 +28716,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-243 w-16"/>
       <word id="17"
             form="ἀλλ᾽"
@@ -28751,7 +28751,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-243 w-21"/>
       <word id="22"
             form="διὰ"
@@ -28861,7 +28861,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-245 w-6"/>
       <word id="7"
             form="ὦ"
@@ -28889,7 +28889,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-245 w-10"/>
       <word id="11"
             form="τὸ"
@@ -28931,7 +28931,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-245 w-16"/>
       <word id="17"
             form="εἰ"
@@ -29001,7 +29001,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-245 w-26"/>
       <word id="27"
             form="καὶ"
@@ -29071,7 +29071,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Plato Euthyphro: s-245 w-36"/>
       <word id="37"
             form="εἰ"
@@ -29155,7 +29155,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Plato Euthyphro: s-245 w-48"/>
       <word id="49"
             form="καὶ"
@@ -29279,7 +29279,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-246 w-7"/>
       <word id="8"
             form="ὡς"
@@ -29354,7 +29354,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-247 w-4"/>
       <word id="5"
             form="ὅτι"
@@ -29375,7 +29375,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-247 w-7"/>
       <word id="8"
             form="ἐστὶν"
@@ -29511,7 +29511,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-249 w-3"/>
       <word id="4"
             form="ὦ"
@@ -29532,7 +29532,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-249 w-6"/>
       <word id="7"
             form="ἐρωτώμενος"
@@ -29581,7 +29581,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-249 w-13"/>
       <word id="14"
             form="τὴν"
@@ -29644,7 +29644,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plato Euthyphro: s-249 w-22"/>
       <word id="23"
             form="πάθος"
@@ -29693,7 +29693,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plato Euthyphro: s-249 w-29"/>
       <word id="30"
             form="ὅτι"
@@ -29803,7 +29803,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-250 w-4"/>
       <word id="5"
             form="οὔπω"
@@ -29864,7 +29864,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-251 w-5"/>
       <word id="6"
             form="μή"
@@ -30165,7 +30165,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-252 w-2"/>
       <word id="3"
             form="ὦ"
@@ -30186,7 +30186,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-252 w-5"/>
       <word id="6"
             form="οὐκ"
@@ -30406,7 +30406,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-254 w-4"/>
       <word id="5"
             form="ὦ"
@@ -30427,7 +30427,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-254 w-7"/>
       <word id="8"
             form="ἔοικεν"
@@ -30551,7 +30551,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plato Euthyphro: s-255 w-9"/>
       <word id="10"
             form="ἴσως"
@@ -30902,7 +30902,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-258 w-6"/>
       <word id="7"
             form="ὡς"
@@ -31012,7 +31012,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-259 w-9"/>
       <word id="10"
             form="ὦ"
@@ -31033,7 +31033,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-259 w-12"/>
       <word id="13"
             form="δεῖσθαι"
@@ -31185,7 +31185,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-260 w-17"/>
       <word id="18"
             form="ἀλλὰ"
@@ -31234,7 +31234,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plato Euthyphro: s-260 w-24"/>
       <word id="25"
             form="ἐπεὶ"
@@ -31323,7 +31323,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-261 w-3"/>
       <word id="4"
             form="ὦ"
@@ -31344,7 +31344,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-261 w-6"/>
       <word id="7"
             form="ἐκείνου"
@@ -31407,7 +31407,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plato Euthyphro: s-261 w-15"/>
       <word id="16"
             form="ὅσῳ"
@@ -31477,7 +31477,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plato Euthyphro: s-261 w-25"/>
       <word id="26"
             form="ἐγὼ"
@@ -31519,7 +31519,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Plato Euthyphro: s-261 w-31"/>
       <word id="32"
             form="ὡς"
@@ -31540,7 +31540,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Plato Euthyphro: s-261 w-34"/>
       <word id="35"
             form="καὶ"
@@ -31645,7 +31645,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-262 w-9"/>
       <word id="10"
             form="ὅτι"
@@ -31935,7 +31935,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-265 w-7"/>
       <word id="8"
             form="αὐτός"
@@ -32309,7 +32309,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-270 w-7"/>
       <word id="8"
             form="τὸ"
@@ -32358,7 +32358,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-270 w-14"/>
       <word id="15"
             form="ἀλλὰ"
@@ -32400,7 +32400,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plato Euthyphro: s-270 w-20"/>
       <word id="21"
             form="τὸ"
@@ -32504,7 +32504,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-271 w-3"/>
       <word id="4"
             form="ὦ"
@@ -32525,7 +32525,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-271 w-6"/>
       <word id="7"
             form="τοῖς"
@@ -32663,7 +32663,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-273 w-2"/>
       <word id="3"
             form="ὃ"
@@ -32684,7 +32684,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-273 w-5"/>
       <word id="6"
             form="τρυφᾷς"
@@ -32745,7 +32745,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-274 w-2"/>
       <word id="3"
             form="ὦ"
@@ -32766,7 +32766,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-274 w-5"/>
       <word id="6"
             form="σύντεινε"
@@ -33476,7 +33476,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-282 w-16"/>
       <word id="17"
             form="αἰδεῖσθαι"
@@ -33935,7 +33935,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-289 w-7"/>
       <word id="8"
             form="ἀλλ᾽"
@@ -34225,7 +34225,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-291 w-8"/>
       <word id="9"
             form="ὥστε"
@@ -34281,7 +34281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-291 w-16"/>
       <word id="17"
             form="ἵνα"
@@ -34669,7 +34669,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-296 w-8"/>
       <word id="9"
             form="ἵνα"
@@ -34890,7 +34890,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plato Euthyphro: s-299 w-2"/>
       <word id="3"
             form="ἀλλ᾽"
@@ -35084,7 +35084,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-302 w-8"/>
       <word id="9"
             form="δεῖ"
@@ -35112,7 +35112,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plato Euthyphro: s-302 w-12"/>
       <word id="13"
             form="ὡς"
@@ -35133,7 +35133,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plato Euthyphro: s-302 w-15"/>
       <word id="16"
             form="ἐξευρεῖν"
@@ -35294,7 +35294,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-303 w-10"/>
       <word id="11"
             form="οἷον"
@@ -35399,7 +35399,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-303 w-25"/>
       <word id="26"
             form="εἶπον"
@@ -35663,7 +35663,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plato Euthyphro: s-306 w-15"/>
       <word id="16"
             form="ἵνα"
@@ -35740,7 +35740,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Plato Euthyphro: s-306 w-26"/>
       <word id="27"
             form="ὡς"
@@ -35885,7 +35885,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-307 w-5"/>
       <word id="6"
             form="ὦ"
@@ -35906,7 +35906,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-307 w-8"/>
       <word id="9"
             form="τὸ"
@@ -35976,7 +35976,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plato Euthyphro: s-307 w-18"/>
       <word id="19"
             form="τὸ"
@@ -36025,7 +36025,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plato Euthyphro: s-307 w-25"/>
       <word id="26"
             form="τὸ"
@@ -36165,7 +36165,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-308 w-5"/>
       <word id="6"
             form="ὦ"
@@ -36186,7 +36186,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-308 w-8"/>
       <word id="9"
             form="φαίνῃ"
@@ -36207,7 +36207,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-308 w-11"/>
       <word id="12"
             form="ἀλλὰ"
@@ -36364,7 +36364,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plato Euthyphro: s-310 w-6"/>
       <word id="7"
             form="οἷαίπερ"
@@ -36427,7 +36427,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plato Euthyphro: s-310 w-15"/>
       <word id="16"
             form="τοιαύτην"
@@ -37108,7 +37108,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-321 w-9"/>
       <word id="10"
             form="ὦ"
@@ -37367,7 +37367,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-326 w-9"/>
       <word id="10"
             form="ὥσπερ"
@@ -37608,7 +37608,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-329 w-9"/>
       <word id="10"
             form="καὶ"
@@ -37657,7 +37657,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-329 w-16"/>
       <word id="17"
             form="καὶ"
@@ -38105,7 +38105,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-335 w-6"/>
       <word id="7"
             form="ὡς"
@@ -38147,7 +38147,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-335 w-12"/>
       <word id="13"
             form="βελτίω"
@@ -38271,7 +38271,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-337 w-4"/>
       <word id="5"
             form="ὦ"
@@ -38292,7 +38292,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-337 w-7"/>
       <word id="8"
             form="οἶμαί"
@@ -38453,7 +38453,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Plato Euthyphro: s-337 w-30"/>
       <word id="31"
             form="οὐχ"
@@ -38537,7 +38537,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-338 w-4"/>
       <word id="5"
             form="ὦ"
@@ -38720,7 +38720,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-342 w-2"/>
       <word id="3"
             form="ὦ"
@@ -38741,7 +38741,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plato Euthyphro: s-342 w-5"/>
       <word id="6"
             form="οἱ"
@@ -38844,7 +38844,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-344 w-4"/>
       <word id="5"
             form="ὡς"
@@ -38865,7 +38865,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-344 w-7"/>
       <word id="8"
             form="εἴη"
@@ -39287,7 +39287,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-351 w-3"/>
       <word id="4"
             form="ὦ"
@@ -39308,7 +39308,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-351 w-6"/>
       <word id="7"
             form="εἰς"
@@ -39507,7 +39507,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-354 w-3"/>
       <word id="4"
             form="ὦ"
@@ -39664,7 +39664,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-356 w-6"/>
       <word id="7"
             form="ἐπειδήπερ"
@@ -39776,7 +39776,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-357 w-5"/>
       <word id="6"
             form="ὦ"
@@ -39968,7 +39968,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-359 w-4"/>
       <word id="5"
             form="ὦ"
@@ -40038,7 +40038,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-360 w-5"/>
       <word id="6"
             form="ὦ"
@@ -40136,7 +40136,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-361 w-9"/>
       <word id="10"
             form="ὅτι"
@@ -40295,7 +40295,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-364 w-4"/>
       <word id="5"
             form="οἶμαι"
@@ -40309,7 +40309,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-364 w-6"/>
       <word id="7"
             form="καὶ"
@@ -40706,7 +40706,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-369 w-6"/>
       <word id="7"
             form="ὦ"
@@ -40727,7 +40727,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-369 w-9"/>
       <word id="10"
             form="ὅτι"
@@ -40851,7 +40851,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plato Euthyphro: s-370 w-6"/>
       <word id="7"
             form="ὅτι"
@@ -40970,7 +40970,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-370 w-23"/>
       <word id="24"
             form="ταῦτ᾽"
@@ -41005,7 +41005,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plato Euthyphro: s-370 w-28"/>
       <word id="29"
             form="καὶ"
@@ -41157,7 +41157,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plato Euthyphro: s-371 w-7"/>
       <word id="8"
             form="ἃ"
@@ -41269,7 +41269,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-372 w-6"/>
       <word id="7"
             form="ὦ"
@@ -41290,7 +41290,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-372 w-9"/>
       <word id="10"
             form="εἰ"
@@ -41311,7 +41311,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-372 w-12"/>
       <word id="13"
             form="εἶπες"
@@ -41510,7 +41510,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plato Euthyphro: s-374 w-9"/>
       <word id="10"
             form="ὃ"
@@ -41538,7 +41538,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-374 w-13"/>
       <word id="14"
             form="ἱκανῶς"
@@ -41704,7 +41704,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plato Euthyphro: s-375 w-14"/>
       <word id="15"
             form="τί"
@@ -41956,7 +41956,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-378 w-8"/>
       <word id="9"
             form="τὸ"
@@ -42040,7 +42040,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-379 w-3"/>
       <word id="4"
             form="ὦ"
@@ -42199,7 +42199,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-381 w-3"/>
       <word id="4"
             form="ὦ"
@@ -42220,7 +42220,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-381 w-6"/>
       <word id="7"
             form="συνῆκας"
@@ -42281,7 +42281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-382 w-4"/>
       <word id="5"
             form="ὦ"
@@ -42302,7 +42302,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-382 w-7"/>
       <word id="8"
             form="τῆς"
@@ -42365,7 +42365,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plato Euthyphro: s-382 w-16"/>
       <word id="17"
             form="ὥστε"
@@ -42695,7 +42695,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-386 w-14"/>
       <word id="15"
             form="ταῦτα"
@@ -42805,7 +42805,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-388 w-6"/>
       <word id="7"
             form="ὧν"
@@ -42854,7 +42854,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-388 w-13"/>
       <word id="14"
             form="ταῦτα"
@@ -43034,7 +43034,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-390 w-3"/>
       <word id="4"
             form="ὦ"
@@ -43102,7 +43102,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-391 w-6"/>
       <word id="7"
             form="ὦ"
@@ -43123,7 +43123,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-391 w-9"/>
       <word id="10"
             form="τέχνη"
@@ -43305,7 +43305,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-393 w-5"/>
       <word id="6"
             form="εἰ"
@@ -43389,7 +43389,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-394 w-4"/>
       <word id="5"
             form="τίς"
@@ -43768,7 +43768,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-398 w-8"/>
       <word id="9"
             form="ὥστε"
@@ -43824,7 +43824,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plato Euthyphro: s-398 w-16"/>
       <word id="17"
             form="ἐκεῖνοι"
@@ -43901,7 +43901,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-399 w-3"/>
       <word id="4"
             form="ὦ"
@@ -43922,7 +43922,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-399 w-6"/>
       <word id="7"
             form="τοὺς"
@@ -44046,7 +44046,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-400 w-7"/>
       <word id="8"
             form="ὦ"
@@ -44067,7 +44067,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plato Euthyphro: s-400 w-10"/>
       <word id="11"
             form="τὰ"
@@ -44198,7 +44198,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-401 w-11"/>
       <word id="12"
             form="ὅπερ"
@@ -44233,7 +44233,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-401 w-16"/>
       <word id="17"
             form="χάρις"
@@ -44280,7 +44280,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-402 w-4"/>
       <word id="5"
             form="ὦ"
@@ -44301,7 +44301,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-402 w-7"/>
       <word id="8"
             form="τὸ"
@@ -44322,7 +44322,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plato Euthyphro: s-402 w-10"/>
       <word id="11"
             form="ἀλλ᾽"
@@ -44481,7 +44481,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-404 w-5"/>
       <word id="6"
             form="ὡς"
@@ -44502,7 +44502,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-404 w-8"/>
       <word id="9"
             form="τὸ"
@@ -44523,7 +44523,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-404 w-11"/>
       <word id="12"
             form="τὸ"
@@ -44696,7 +44696,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plato Euthyphro: s-406 w-14"/>
       <word id="15"
             form="καὶ"
@@ -44759,7 +44759,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plato Euthyphro: s-406 w-23"/>
       <word id="24"
             form="αὐτὸς"
@@ -45433,7 +45433,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-415 w-7"/>
       <word id="8"
             form="ἢ"
@@ -45468,7 +45468,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plato Euthyphro: s-415 w-12"/>
       <word id="13"
             form="νῦν"
@@ -45613,7 +45613,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plato Euthyphro: s-417 w-11"/>
       <word id="12"
             form="ὡς"
@@ -45861,7 +45861,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-419 w-7"/>
       <word id="8"
             form="καὶ"
@@ -46045,7 +46045,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plato Euthyphro: s-420 w-12"/>
       <word id="13"
             form="οὐκ"
@@ -46150,7 +46150,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Plato Euthyphro: s-420 w-27"/>
       <word id="28"
             form="ἀλλὰ"
@@ -46241,7 +46241,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="41"
+            head="0"
             cite=" Plato Euthyphro: s-420 w-40"/>
       <word id="41"
             form="καὶ"
@@ -46414,7 +46414,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-422 w-3"/>
       <word id="4"
             form="ὦ"
@@ -46442,7 +46442,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plato Euthyphro: s-422 w-7"/>
       <word id="8"
             form="καὶ"
@@ -46524,7 +46524,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-423 w-4"/>
       <word id="5"
             form="ὦ"
@@ -46585,7 +46585,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plato Euthyphro: s-424 w-5"/>
       <word id="6"
             form="καί"
@@ -46655,7 +46655,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plato Euthyphro: s-425 w-3"/>
       <word id="4"
             form="ὦ"
@@ -46744,7 +46744,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plato Euthyphro: s-426 w-9"/>
       <word id="10"
             form="ὡς"
@@ -46856,7 +46856,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plato Euthyphro: s-426 w-25"/>
       <word id="26"
             form="ἐνδειξάμενος"
@@ -47003,7 +47003,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Plato Euthyphro: s-426 w-46"/>
       <word id="47"
             form="καὶ"

@@ -59,7 +59,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-1 w-7"/>
       <word id="8"
             form="ὡς"
@@ -108,7 +108,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-1 w-14"/>
       <word id="15"
             form="πρὶν"
@@ -271,7 +271,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-2 w-5"/>
       <word id="6"
             form="καὶ"
@@ -313,7 +313,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-2 w-11"/>
       <word id="12"
             form="ἔξοιδ᾽"
@@ -362,7 +362,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Sophocles Trachiniae: s-2 w-18"/>
       <word id="19"
             form="ἥτις"
@@ -467,7 +467,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Sophocles Trachiniae: s-2 w-33"/>
       <word id="34"
             form="εἴ"
@@ -558,7 +558,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-3 w-6"/>
       <word id="7"
             form="Ἀχελῷον"
@@ -579,7 +579,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-3 w-9"/>
       <word id="10"
             form="ὅς"
@@ -663,7 +663,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-3 w-21"/>
       <word id="22"
             form="ἄλλοτ᾽"
@@ -698,7 +698,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-3 w-26"/>
       <word id="27"
             form="ἄλλοτ᾽"
@@ -869,7 +869,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-5 w-9"/>
       <word id="10"
             form="πρὶν"
@@ -958,7 +958,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-6 w-6"/>
       <word id="7"
             form="ἀσμένῃ"
@@ -986,7 +986,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-6 w-10"/>
       <word id="11"
             form="ὁ"
@@ -1281,7 +1281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-10 w-8"/>
       <word id="9"
             form="ὅδ᾽"
@@ -1459,7 +1459,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-12 w-7"/>
       <word id="8"
             form="εἰ"
@@ -1585,7 +1585,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-13 w-12"/>
       <word id="13"
             form="κείνου"
@@ -1707,7 +1707,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-15 w-4"/>
       <word id="5"
             form="οὓς"
@@ -1735,7 +1735,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-15 w-8"/>
       <word id="9"
             form="γῄτης"
@@ -1777,7 +1777,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-15 w-14"/>
       <word id="15"
             form="σπείρων"
@@ -1992,7 +1992,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-17 w-8"/>
       <word id="9"
             form="ἐνταῦθα"
@@ -2095,7 +2095,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-18 w-8"/>
       <word id="9"
             form="ἡμεῖς"
@@ -2172,7 +2172,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-18 w-19"/>
       <word id="20"
             form="κεῖνος"
@@ -2392,7 +2392,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-21 w-5"/>
       <word id="6"
             form="ἀλλ᾽"
@@ -2549,7 +2549,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-23 w-6"/>
       <word id="7"
             form="τὴν"
@@ -2638,7 +2638,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-24 w-3"/>
       <word id="4"
             form="πολλὰ"
@@ -2755,7 +2755,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-25 w-3"/>
       <word id="4"
             form="εἰ"
@@ -2811,7 +2811,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-25 w-11"/>
       <word id="12"
             form="κἀμὲ"
@@ -2909,7 +2909,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-26 w-6"/>
       <word id="7"
             form="ἀτὰρ"
@@ -2965,7 +2965,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-26 w-14"/>
       <word id="15"
             form="μάλιστα"
@@ -3007,7 +3007,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-26 w-20"/>
       <word id="21"
             form="εἰ"
@@ -3156,7 +3156,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-27 w-8"/>
       <word id="9"
             form="ὥστ᾽"
@@ -3219,7 +3219,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-27 w-17"/>
       <word id="18"
             form="πάρεστι"
@@ -3322,7 +3322,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-28 w-6"/>
       <word id="7"
             form="κἀξ"
@@ -3418,7 +3418,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-29 w-6"/>
       <word id="7"
             form="εἴρηκεν"
@@ -3518,7 +3518,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-31 w-2"/>
       <word id="3"
             form="μῆτερ"
@@ -3532,7 +3532,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-31 w-4"/>
       <word id="5"
             form="εἰ"
@@ -3658,7 +3658,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-32 w-12"/>
       <word id="13"
             form="αἰσχύνην"
@@ -3705,7 +3705,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-33 w-3"/>
       <word id="4"
             form="μύθοις"
@@ -3787,7 +3787,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-34 w-5"/>
       <word id="6"
             form="τέκνον"
@@ -3801,7 +3801,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-34 w-7"/>
       <word id="8"
             form="ἱδρῦσθαι"
@@ -3951,7 +3951,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-36 w-3"/>
       <word id="4"
             form="εἰ"
@@ -3986,7 +3986,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-36 w-8"/>
       <word id="9"
             form="κλύοι"
@@ -4054,7 +4054,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-37 w-5"/>
       <word id="6"
             form="ὡς"
@@ -4197,7 +4197,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-39 w-7"/>
       <word id="8"
             form="ἐπιστρατεύειν"
@@ -4272,7 +4272,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-40 w-4"/>
       <word id="5"
             form="ὦ"
@@ -4293,7 +4293,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-40 w-7"/>
       <word id="8"
             form="ὡς"
@@ -4389,7 +4389,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-41 w-3"/>
       <word id="4"
             form="μῆτερ"
@@ -4674,7 +4674,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-44 w-7"/>
       <word id="8"
             form="τέκνον"
@@ -4688,7 +4688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-44 w-9"/>
       <word id="10"
             form="οὐκ"
@@ -4716,7 +4716,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-44 w-13"/>
       <word id="14"
             form="ἡνίκ᾽"
@@ -4800,7 +4800,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Trachiniae: s-44 w-25"/>
       <word id="26"
             form="ἢ"
@@ -4854,7 +4854,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-45 w-3"/>
       <word id="4"
             form="μῆτερ"
@@ -4929,7 +4929,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-46 w-8"/>
       <word id="9"
             form="κἂν"
@@ -5107,7 +5107,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-48 w-5"/>
       <word id="6"
             form="οὐδὲν"
@@ -5210,7 +5210,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-49 w-3"/>
       <word id="4"
             form="ὦ"
@@ -5292,7 +5292,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-50 w-8"/>
       <word id="9"
             form="ἐπεὶ"
@@ -5313,7 +5313,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-50 w-11"/>
       <word id="12"
             form="κέρδος"
@@ -5395,7 +5395,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-51 w-8"/>
       <word id="9"
             form="φλογιζόμενον"
@@ -5507,7 +5507,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Trachiniae: s-51 w-24"/>
       <word id="25"
             form="ὦ"
@@ -5542,7 +5542,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-51 w-29"/>
       <word id="30"
             form="ἢ"
@@ -5612,7 +5612,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="41"
+            head="0"
             cite=" Sophocles Trachiniae: s-51 w-39"/>
       <word id="40"
             form="ὦ"
@@ -5742,7 +5742,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-52 w-9"/>
       <word id="10"
             form="οἷά"
@@ -5777,7 +5777,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-52 w-14"/>
       <word id="15"
             form="οὔποτ᾽"
@@ -5819,7 +5819,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-52 w-20"/>
       <word id="21"
             form="ἀλλ᾽"
@@ -5896,7 +5896,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Sophocles Trachiniae: s-52 w-31"/>
       <word id="32"
             form="κακὰν"
@@ -6071,7 +6071,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-53 w-18"/>
       <word id="19"
             form="οὕτῶ"
@@ -6113,7 +6113,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Trachiniae: s-53 w-24"/>
       <word id="25"
             form="τὸ"
@@ -6141,7 +6141,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Sophocles Trachiniae: s-53 w-28"/>
       <word id="29"
             form="βιότου"
@@ -6305,7 +6305,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-55 w-6"/>
       <word id="7"
             form="ἀντία"
@@ -6567,7 +6567,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-58 w-8"/>
       <word id="9"
             form="οἷον"
@@ -6714,7 +6714,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-59 w-14"/>
       <word id="15"
             form="ἀλλ᾽"
@@ -6742,7 +6742,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-59 w-18"/>
       <word id="19"
             form="τῷ"
@@ -6976,7 +6976,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-62 w-3"/>
       <word id="4"
             form="ὡς"
@@ -6997,7 +6997,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-62 w-6"/>
       <word id="7"
             form="πάρει"
@@ -7065,7 +7065,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-63 w-5"/>
       <word id="6"
             form="μήτ᾽"
@@ -7189,7 +7189,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Trachiniae: s-64 w-9"/>
       <word id="10"
             form="καί"
@@ -7287,7 +7287,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Trachiniae: s-64 w-23"/>
       <word id="24"
             form="ἀλλ᾽"
@@ -7427,7 +7427,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Sophocles Trachiniae: s-64 w-43"/>
       <word id="44"
             form="ἤτοι"
@@ -7516,7 +7516,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-65 w-5"/>
       <word id="6"
             form="τὴν"
@@ -7551,7 +7551,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-65 w-10"/>
       <word id="11"
             form="κακοῖσιν"
@@ -7673,7 +7673,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-67 w-3"/>
       <word id="4"
             form="οἷον"
@@ -7701,7 +7701,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-67 w-7"/>
       <word id="8"
             form="αὐτίκ᾽"
@@ -7813,7 +7813,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-68 w-11"/>
       <word id="12"
             form="τότ᾽"
@@ -7876,7 +7876,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Sophocles Trachiniae: s-68 w-20"/>
       <word id="21"
             form="ἁμοὶ"
@@ -7918,7 +7918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Sophocles Trachiniae: s-68 w-26"/>
       <word id="27"
             form="πολλοὺς"
@@ -7946,7 +7946,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Sophocles Trachiniae: s-68 w-30"/>
       <word id="31"
             form="οὔπω"
@@ -7967,7 +7967,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Sophocles Trachiniae: s-68 w-33"/>
       <word id="34"
             form="ἀλλ᾽"
@@ -8203,7 +8203,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-69 w-25"/>
       <word id="26"
             form="χρόνον"
@@ -8273,7 +8273,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Trachiniae: s-69 w-35"/>
       <word id="36"
             form="τότ᾽"
@@ -8504,7 +8504,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-70 w-10"/>
       <word id="11"
             form="ὡς"
@@ -8656,7 +8656,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-71 w-9"/>
       <word id="10"
             form="ὡς"
@@ -8747,7 +8747,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-72 w-7"/>
       <word id="8"
             form="φίλαι"
@@ -8761,7 +8761,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-72 w-9"/>
       <word id="10"
             form="ταρβοῦσαν"
@@ -8775,7 +8775,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-72 w-11"/>
       <word id="12"
             form="εἴ"
@@ -8990,7 +8990,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-75 w-3"/>
       <word id="4"
             form="πρῶτος"
@@ -9182,7 +9182,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-77 w-3"/>
       <word id="4"
             form="ὦ"
@@ -9203,7 +9203,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-77 w-6"/>
       <word id="7"
             form="τόνδε"
@@ -9526,7 +9526,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-81 w-5"/>
       <word id="6"
             form="ὅπως"
@@ -9657,7 +9657,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-82 w-5"/>
       <word id="6"
             form="εἴπερ"
@@ -9718,7 +9718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-83 w-5"/>
       <word id="6"
             form="γύναι"
@@ -9809,7 +9809,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-84 w-9"/>
       <word id="10"
             form="οὐ"
@@ -9926,7 +9926,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-85 w-10"/>
       <word id="11"
             form="πρὶν"
@@ -10001,7 +10001,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-86 w-5"/>
       <word id="6"
             form="ἑκοῦσι"
@@ -10111,7 +10111,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-88 w-3"/>
       <word id="4"
             form="τὸν"
@@ -10160,7 +10160,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-88 w-10"/>
       <word id="11"
             form="ἔδωκας"
@@ -10228,7 +10228,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-89 w-2"/>
       <word id="3"
             form="ὦ"
@@ -10312,7 +10312,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-89 w-14"/>
       <word id="15"
             form="ὡς"
@@ -10436,7 +10436,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-90 w-7"/>
       <word id="8"
             form="ἐν"
@@ -10560,7 +10560,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-91 w-6"/>
       <word id="7"
             form="ὦ"
@@ -10637,7 +10637,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-91 w-17"/>
       <word id="18"
             form="γείτονάς"
@@ -10719,7 +10719,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-92 w-7"/>
       <word id="8"
             form="ὦ"
@@ -10794,7 +10794,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-93 w-4"/>
       <word id="5"
             form="εὐοῖ"
@@ -10815,7 +10815,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-93 w-7"/>
       <word id="8"
             form="ὁ"
@@ -10925,7 +10925,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-95 w-2"/>
       <word id="3"
             form="ὦ"
@@ -11028,7 +11028,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-96 w-2"/>
       <word id="3"
             form="φίλαι"
@@ -11049,7 +11049,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-96 w-5"/>
       <word id="6"
             form="οὐ"
@@ -11189,7 +11189,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-97 w-6"/>
       <word id="7"
             form="χρόνῳ"
@@ -11217,7 +11217,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-97 w-10"/>
       <word id="11"
             form="χαρτὸν"
@@ -11299,7 +11299,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-98 w-5"/>
       <word id="6"
             form="εὖ"
@@ -11327,7 +11327,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-98 w-9"/>
       <word id="10"
             form="γύναι"
@@ -11341,7 +11341,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-98 w-11"/>
       <word id="12"
             form="κατ᾽"
@@ -11479,7 +11479,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-100 w-4"/>
       <word id="5"
             form="πρῶθ᾽"
@@ -11521,7 +11521,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-100 w-10"/>
       <word id="11"
             form="εἰ"
@@ -11804,7 +11804,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-105 w-5"/>
       <word id="6"
             form="ἔνθ᾽"
@@ -12061,7 +12061,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-108 w-3"/>
       <word id="4"
             form="πρὸς"
@@ -12082,7 +12082,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-108 w-6"/>
       <word id="7"
             form="τοῦ"
@@ -12150,7 +12150,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-109 w-3"/>
       <word id="4"
             form="εἰ"
@@ -12405,7 +12405,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-112 w-2"/>
       <word id="3"
             form="ἀλλὰ"
@@ -12468,7 +12468,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-112 w-11"/>
       <word id="12"
             form="ὥς"
@@ -12496,7 +12496,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-112 w-15"/>
       <word id="16"
             form="οὐκ"
@@ -12517,7 +12517,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-112 w-18"/>
       <word id="19"
             form="ἀλλ᾽"
@@ -12601,7 +12601,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-113 w-7"/>
       <word id="8"
             form="γύναι"
@@ -12615,7 +12615,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-113 w-9"/>
       <word id="10"
             form="προσεῖναι"
@@ -12629,7 +12629,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-113 w-11"/>
       <word id="12"
             form="Ζεὺς"
@@ -12732,7 +12732,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-114 w-9"/>
       <word id="10"
             form="ὡς"
@@ -12842,7 +12842,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Trachiniae: s-115 w-11"/>
       <word id="12"
             form="ἦ"
@@ -12973,7 +12973,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-116 w-4"/>
       <word id="5"
             form="ἀλλ᾽"
@@ -13008,7 +13008,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-116 w-9"/>
       <word id="10"
             form="στρατὸν"
@@ -13193,7 +13193,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-118 w-7"/>
       <word id="8"
             form="ξένον"
@@ -13221,7 +13221,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-118 w-11"/>
       <word id="12"
             form="πολλὰ"
@@ -13256,7 +13256,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-118 w-16"/>
       <word id="17"
             form="πολλὰ"
@@ -13291,7 +13291,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Trachiniae: s-118 w-21"/>
       <word id="22"
             form="λέγων"
@@ -13396,7 +13396,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Sophocles Trachiniae: s-118 w-36"/>
       <word id="37"
             form="φωνεῖ"
@@ -13499,7 +13499,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-119 w-6"/>
       <word id="7"
             form="ἔρριψεν"
@@ -13560,7 +13560,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-120 w-4"/>
       <word id="5"
             form="ὡς"
@@ -13616,7 +13616,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-120 w-12"/>
       <word id="13"
             form="ἵππους"
@@ -13644,7 +13644,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-120 w-16"/>
       <word id="17"
             form="τότ᾽"
@@ -13679,7 +13679,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Trachiniae: s-120 w-21"/>
       <word id="22"
             form="θατέρᾳ"
@@ -13714,7 +13714,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Trachiniae: s-120 w-26"/>
       <word id="27"
             form="ἀπ᾽"
@@ -13903,7 +13903,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-121 w-19"/>
       <word id="20"
             form="ὁθούνεκ᾽"
@@ -13992,7 +13992,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-122 w-5"/>
       <word id="6"
             form="Ζεύς"
@@ -14198,7 +14198,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-124 w-13"/>
       <word id="14"
             form="πόλις"
@@ -14385,7 +14385,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-126 w-7"/>
       <word id="8"
             form="ἐγὼ"
@@ -14467,7 +14467,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-127 w-4"/>
       <word id="5"
             form="εὖτ᾽"
@@ -14537,7 +14537,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-127 w-14"/>
       <word id="15"
             form="φρόνει"
@@ -14668,7 +14668,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-129 w-2"/>
       <word id="3"
             form="νῦν"
@@ -14710,7 +14710,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-129 w-8"/>
       <word id="9"
             form="τῶν"
@@ -14738,7 +14738,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-129 w-12"/>
       <word id="13"
             form="τὰ"
@@ -14827,7 +14827,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-130 w-7"/>
       <word id="8"
             form="ἀνδρὸς"
@@ -14869,7 +14869,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-130 w-13"/>
       <word id="14"
             form="πανδίκῳ"
@@ -15033,7 +15033,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-132 w-11"/>
       <word id="12"
             form="μὴ"
@@ -15108,7 +15108,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-133 w-6"/>
       <word id="7"
             form="φίλαι"
@@ -15122,7 +15122,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-133 w-8"/>
       <word id="9"
             form="ταύτας"
@@ -15199,7 +15199,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Trachiniae: s-133 w-19"/>
       <word id="20"
             form="αἳ"
@@ -15262,7 +15262,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Trachiniae: s-133 w-28"/>
       <word id="29"
             form="τανῦν"
@@ -15337,7 +15337,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-134 w-4"/>
       <word id="5"
             form="μή"
@@ -15414,7 +15414,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-134 w-15"/>
       <word id="16"
             form="μη"
@@ -15435,7 +15435,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-134 w-18"/>
       <word id="19"
             form="εἴ"
@@ -15463,7 +15463,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-134 w-22"/>
       <word id="23"
             form="τῆσδέ"
@@ -15580,7 +15580,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-136 w-3"/>
       <word id="4"
             form="τίς"
@@ -15718,7 +15718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-138 w-8"/>
       <word id="9"
             form="γενναία"
@@ -15774,7 +15774,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-139 w-2"/>
       <word id="3"
             form="τίνος"
@@ -15856,7 +15856,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-140 w-4"/>
       <word id="5"
             form="τίς"
@@ -15980,7 +15980,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-142 w-7"/>
       <word id="8"
             form="ὅσῳπερ"
@@ -16071,7 +16071,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-143 w-5"/>
       <word id="6"
             form="τί"
@@ -16516,7 +16516,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-152 w-2"/>
       <word id="3"
             form="ὦ"
@@ -16537,7 +16537,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-152 w-5"/>
       <word id="6"
             form="ἀλλ᾽"
@@ -16572,7 +16572,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-152 w-10"/>
       <word id="11"
             form="ἐπεὶ"
@@ -16747,7 +16747,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Trachiniae: s-153 w-12"/>
       <word id="13"
             form="ἥτις"
@@ -16817,7 +16817,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Trachiniae: s-153 w-22"/>
       <word id="23"
             form="ἀλλ᾽"
@@ -16873,7 +16873,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Sophocles Trachiniae: s-153 w-30"/>
       <word id="31"
             form="ἐξ"
@@ -16983,7 +16983,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-154 w-9"/>
       <word id="10"
             form="ἀλλὰ"
@@ -17060,7 +17060,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-155 w-5"/>
       <word id="6"
             form="καὶ"
@@ -17109,7 +17109,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-155 w-12"/>
       <word id="13"
             form="μη"
@@ -17312,7 +17312,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-157 w-7"/>
       <word id="8"
             form="ὡς"
@@ -17361,7 +17361,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-157 w-14"/>
       <word id="15"
             form="ἐγώ"
@@ -17450,7 +17450,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-158 w-6"/>
       <word id="7"
             form="ὅπως"
@@ -17485,7 +17485,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-158 w-11"/>
       <word id="12"
             form="οὕστινάς"
@@ -17520,7 +17520,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-158 w-16"/>
       <word id="17"
             form="ὧν"
@@ -17820,7 +17820,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-163 w-10"/>
       <word id="11"
             form="οὐ"
@@ -17925,7 +17925,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-164 w-8"/>
       <word id="9"
             form="ἢ"
@@ -18028,7 +18028,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-165 w-6"/>
       <word id="7"
             form="τούτους"
@@ -18089,7 +18089,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-166 w-4"/>
       <word id="5"
             form="χὠ"
@@ -18199,7 +18199,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-167 w-11"/>
       <word id="12"
             form="ἀλλ᾽"
@@ -18473,7 +18473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-171 w-6"/>
       <word id="7"
             form="πολλῶν"
@@ -18501,7 +18501,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-171 w-10"/>
       <word id="11"
             form="ὡς"
@@ -18599,7 +18599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Trachiniae: s-171 w-24"/>
       <word id="25"
             form="Ἔρως"
@@ -18662,7 +18662,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Sophocles Trachiniae: s-171 w-33"/>
       <word id="34"
             form="οὐ"
@@ -18903,7 +18903,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-173 w-10"/>
       <word id="11"
             form="κρύφιον"
@@ -18938,7 +18938,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-173 w-15"/>
       <word id="16"
             form="ἔγκλημα"
@@ -19008,7 +19008,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Sophocles Trachiniae: s-173 w-25"/>
       <word id="26"
             form="ἐν"
@@ -19071,7 +19071,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Sophocles Trachiniae: s-173 w-34"/>
       <word id="35"
             form="κτείνει"
@@ -19160,7 +19160,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-174 w-3"/>
       <word id="4"
             form="ὡς"
@@ -19181,7 +19181,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-174 w-6"/>
       <word id="7"
             form="ἥκει"
@@ -19237,7 +19237,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-174 w-14"/>
       <word id="15"
             form="γύναι"
@@ -19251,7 +19251,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-174 w-16"/>
       <word id="17"
             form="οὐ"
@@ -19368,7 +19368,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-176 w-4"/>
       <word id="5"
             form="εἴπερ"
@@ -19473,7 +19473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-177 w-9"/>
       <word id="10"
             form="δέσποιν᾽"
@@ -19487,7 +19487,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-177 w-11"/>
       <word id="12"
             form="ὃ"
@@ -19611,7 +19611,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-178 w-11"/>
       <word id="12"
             form="ὥστ᾽"
@@ -19679,7 +19679,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-179 w-6"/>
       <word id="7"
             form="οὐχ"
@@ -19700,7 +19700,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-179 w-9"/>
       <word id="10"
             form="τὸ"
@@ -19768,7 +19768,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-180 w-3"/>
       <word id="4"
             form="ποῦ"
@@ -19918,7 +19918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-183 w-4"/>
       <word id="5"
             form="ὥσπερ"
@@ -20084,7 +20084,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Trachiniae: s-184 w-19"/>
       <word id="20"
             form="τῆς"
@@ -20126,7 +20126,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Trachiniae: s-184 w-25"/>
       <word id="26"
             form="δῆθεν"
@@ -20224,7 +20224,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-185 w-8"/>
       <word id="9"
             form="τὰ"
@@ -20327,7 +20327,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-186 w-4"/>
       <word id="5"
             form="γυναῖκες"
@@ -20442,7 +20442,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-188 w-4"/>
       <word id="5"
             form="ὡς"
@@ -20484,7 +20484,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-188 w-10"/>
       <word id="11"
             form="εἴ"
@@ -20705,7 +20705,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-193 w-2"/>
       <word id="3"
             form="ὡς"
@@ -20761,7 +20761,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-193 w-10"/>
       <word id="11"
             form="ἀλλ᾽"
@@ -20829,7 +20829,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-194 w-3"/>
       <word id="4"
             form="γύναι"
@@ -20843,7 +20843,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-194 w-5"/>
       <word id="6"
             form="μολόντα"
@@ -20897,7 +20897,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-195 w-2"/>
       <word id="3"
             form="ὡς"
@@ -20918,7 +20918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-195 w-5"/>
       <word id="6"
             form="ὡς"
@@ -20939,7 +20939,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-195 w-8"/>
       <word id="9"
             form="ἐμοῦ"
@@ -21021,7 +21021,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-196 w-9"/>
       <word id="10"
             form="πρὶν"
@@ -21103,7 +21103,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-197 w-6"/>
       <word id="7"
             form="πάρειμ᾽"
@@ -21218,7 +21218,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-199 w-4"/>
       <word id="5"
             form="ὧν"
@@ -21438,7 +21438,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-203 w-2"/>
       <word id="3"
             form="βλέφ᾽"
@@ -21600,7 +21600,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-206 w-3"/>
       <word id="4"
             form="εἰ"
@@ -21621,7 +21621,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-206 w-6"/>
       <word id="7"
             form="ὅ"
@@ -21731,7 +21731,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-207 w-11"/>
       <word id="12"
             form="εἰ"
@@ -21773,7 +21773,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-207 w-17"/>
       <word id="18"
             form="δεσπότιν"
@@ -22035,7 +22035,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-212 w-5"/>
       <word id="6"
             form="ἢν"
@@ -22347,7 +22347,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-219 w-2"/>
       <word id="3"
             form="πρίν"
@@ -22424,7 +22424,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-220 w-2"/>
       <word id="3"
             form="εἴ"
@@ -22525,7 +22525,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-222 w-3"/>
       <word id="4"
             form="ἣν"
@@ -22560,7 +22560,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-222 w-8"/>
       <word id="9"
             form="κάτοισθα"
@@ -22673,7 +22673,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-225 w-4"/>
       <word id="5"
             form="ἣν"
@@ -22708,7 +22708,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-225 w-9"/>
       <word id="10"
             form="Ἰόλην"
@@ -23267,7 +23267,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-235 w-3"/>
       <word id="4"
             form="φράσον"
@@ -23281,7 +23281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-235 w-5"/>
       <word id="6"
             form="φίλη"
@@ -23302,7 +23302,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-235 w-8"/>
       <word id="9"
             form="τόνδε"
@@ -23400,7 +23400,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-236 w-5"/>
       <word id="6"
             form="ὡς"
@@ -23449,7 +23449,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-236 w-12"/>
       <word id="13"
             form="κοὐχ"
@@ -23491,7 +23491,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-236 w-18"/>
       <word id="19"
             form="ἀλλ᾽"
@@ -23561,7 +23561,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-237 w-2"/>
       <word id="3"
             form="ὦ"
@@ -23582,7 +23582,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-237 w-5"/>
       <word id="6"
             form="ἀποστήτω"
@@ -23685,7 +23685,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-239 w-2"/>
       <word id="3"
             form="πρός"
@@ -23755,7 +23755,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-239 w-12"/>
       <word id="13"
             form="ἐκκλέψῃς"
@@ -24010,7 +24010,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-241 w-10"/>
       <word id="11"
             form="οὐ"
@@ -24295,7 +24295,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-244 w-13"/>
       <word id="14"
             form="κάρτα"
@@ -24316,7 +24316,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-244 w-16"/>
       <word id="17"
             form="ἢ"
@@ -24524,7 +24524,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-246 w-8"/>
       <word id="9"
             form="μάθησιν"
@@ -24613,7 +24613,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-247 w-7"/>
       <word id="8"
             form="ὅταν"
@@ -24648,7 +24648,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-247 w-12"/>
       <word id="13"
             form="ὀφθήσει"
@@ -24887,7 +24887,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-251 w-5"/>
       <word id="6"
             form="οἳ"
@@ -24957,7 +24957,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-252 w-4"/>
       <word id="5"
             form="οὐ"
@@ -24985,7 +24985,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-252 w-8"/>
       <word id="9"
             form="ἐπεὶ"
@@ -25366,7 +25366,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-256 w-11"/>
       <word id="12"
             form="ἐπεί"
@@ -25422,7 +25422,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-256 w-19"/>
       <word id="20"
             form="ὅτι"
@@ -25478,7 +25478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Trachiniae: s-256 w-27"/>
       <word id="28"
             form="καὶ"
@@ -25672,7 +25672,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-258 w-9"/>
       <word id="10"
             form="πρὸς"
@@ -25747,7 +25747,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-259 w-4"/>
       <word id="5"
             form="κοὐ"
@@ -25836,7 +25836,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-260 w-2"/>
       <word id="3"
             form="ὦ"
@@ -25864,7 +25864,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-260 w-6"/>
       <word id="7"
             form="ἐπεί"
@@ -26098,7 +26098,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-262 w-8"/>
       <word id="9"
             form="καὶ"
@@ -26194,7 +26194,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-263 w-3"/>
       <word id="4"
             form="δεῖ"
@@ -26250,7 +26250,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-263 w-11"/>
       <word id="12"
             form="οὔ"
@@ -26313,7 +26313,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-263 w-20"/>
       <word id="21"
             form="ἀλλ᾽"
@@ -26334,7 +26334,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Trachiniae: s-263 w-23"/>
       <word id="24"
             form="ὦ"
@@ -26355,7 +26355,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-263 w-26"/>
       <word id="27"
             form="δειμαίνων"
@@ -26425,7 +26425,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-263 w-36"/>
       <word id="37"
             form="ἥμαρτον"
@@ -26439,7 +26439,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Sophocles Trachiniae: s-263 w-38"/>
       <word id="39"
             form="εἴ"
@@ -26542,7 +26542,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-264 w-8"/>
       <word id="9"
             form="κείνου"
@@ -26654,7 +26654,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Trachiniae: s-264 w-24"/>
       <word id="25"
             form="οὓς"
@@ -26689,7 +26689,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Trachiniae: s-264 w-29"/>
       <word id="30"
             form="ἐμπέδως"
@@ -26883,7 +26883,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-266 w-8"/>
       <word id="9"
             form="κοὔτοι"
@@ -26925,7 +26925,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-266 w-14"/>
       <word id="15"
             form="θεοῖσι"
@@ -26986,7 +26986,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-267 w-5"/>
       <word id="6"
             form="ὡς"
@@ -27028,7 +27028,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-267 w-11"/>
       <word id="12"
             form="ἅ"
@@ -27084,7 +27084,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-267 w-19"/>
       <word id="20"
             form="καὶ"
@@ -27341,7 +27341,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-270 w-6"/>
       <word id="7"
             form="καὶ"
@@ -27390,7 +27390,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-270 w-13"/>
       <word id="14"
             form="οὐ"
@@ -27726,7 +27726,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-272 w-15"/>
       <word id="16"
             form="ὁ"
@@ -28014,7 +28014,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-275 w-4"/>
       <word id="5"
             form="ἦν"
@@ -28049,7 +28049,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-275 w-9"/>
       <word id="10"
             form="ταυρείων"
@@ -28133,7 +28133,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-276 w-5"/>
       <word id="6"
             form="ἦν"
@@ -28175,7 +28175,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-276 w-11"/>
       <word id="12"
             form="καὶ"
@@ -28271,7 +28271,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-277 w-9"/>
       <word id="10"
             form="τὸν"
@@ -28461,7 +28461,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-280 w-5"/>
       <word id="6"
             form="ὥστε"
@@ -28517,7 +28517,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-281 w-2"/>
       <word id="3"
             form="φίλαι"
@@ -28531,7 +28531,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-281 w-4"/>
       <word id="5"
             form="κατ᾽"
@@ -28615,7 +28615,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-281 w-16"/>
       <word id="17"
             form="τῆμος"
@@ -28664,7 +28664,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Sophocles Trachiniae: s-281 w-23"/>
       <word id="24"
             form="τὰ"
@@ -28706,7 +28706,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Sophocles Trachiniae: s-281 w-29"/>
       <word id="30"
             form="τὰ"
@@ -28774,7 +28774,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-282 w-3"/>
       <word id="4"
             form="οἶμαι"
@@ -28802,7 +28802,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-282 w-7"/>
       <word id="8"
             form="ἀλλ᾽"
@@ -28823,7 +28823,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-282 w-10"/>
       <word id="11"
             form="παρεισδέδεγμαι"
@@ -29010,7 +29010,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-284 w-3"/>
       <word id="4"
             form="ὁ"
@@ -29052,7 +29052,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-284 w-9"/>
       <word id="10"
             form="οἰκούρι᾽"
@@ -29281,7 +29281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-286 w-11"/>
       <word id="12"
             form="κοινωνοῦσα"
@@ -29377,7 +29377,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-287 w-8"/>
       <word id="9"
             form="τὴν"
@@ -29452,7 +29452,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-288 w-6"/>
       <word id="7"
             form="τῶν"
@@ -29562,7 +29562,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-289 w-10"/>
       <word id="11"
             form="τῆς"
@@ -29630,7 +29630,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-290 w-4"/>
       <word id="5"
             form="ὥσπερ"
@@ -29651,7 +29651,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-290 w-7"/>
       <word id="8"
             form="ὀργαίνειν"
@@ -29735,7 +29735,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-291 w-4"/>
       <word id="5"
             form="φίλαι"
@@ -29749,7 +29749,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-291 w-6"/>
       <word id="7"
             form="λυτήριον"
@@ -29770,7 +29770,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-291 w-9"/>
       <word id="10"
             form="τῇδ᾽"
@@ -29859,7 +29859,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-292 w-8"/>
       <word id="9"
             form="λέβητι"
@@ -29887,7 +29887,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Trachiniae: s-292 w-12"/>
       <word id="13"
             form="ὃ"
@@ -29978,7 +29978,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Sophocles Trachiniae: s-292 w-25"/>
       <word id="26"
             form="ὃς"
@@ -30055,7 +30055,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="43"
+            head="0"
             cite=" Sophocles Trachiniae: s-292 w-36"/>
       <word id="37"
             form="οὔ"
@@ -30151,7 +30151,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-293 w-3"/>
       <word id="4"
             form="τὸν"
@@ -30228,7 +30228,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-293 w-14"/>
       <word id="15"
             form="φέρων"
@@ -30256,7 +30256,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-293 w-18"/>
       <word id="19"
             form="ἡνίκ᾽"
@@ -30291,7 +30291,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-293 w-23"/>
       <word id="24"
             form="ψαύει"
@@ -30563,7 +30563,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-297 w-4"/>
       <word id="5"
             form="τοσόνδ᾽"
@@ -30598,7 +30598,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-297 w-9"/>
       <word id="10"
             form="ἐὰν"
@@ -30619,7 +30619,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-297 w-12"/>
       <word id="13"
             form="πορθμῶν"
@@ -30633,7 +30633,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-297 w-14"/>
       <word id="15"
             form="ὁθούνεχ᾽"
@@ -30750,7 +30750,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-298 w-10"/>
       <word id="11"
             form="ᾗ"
@@ -30806,7 +30806,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-298 w-18"/>
       <word id="19"
             form="ἔσται"
@@ -30862,7 +30862,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-298 w-26"/>
       <word id="27"
             form="ὥστε"
@@ -30958,7 +30958,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-299 w-3"/>
       <word id="4"
             form="ὦ"
@@ -30979,7 +30979,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-299 w-6"/>
       <word id="7"
             form="δόμοις"
@@ -31035,7 +31035,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-299 w-14"/>
       <word id="15"
             form="χιτῶνα"
@@ -31063,7 +31063,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-299 w-18"/>
       <word id="19"
             form="προσβαλοῦσ᾽"
@@ -31206,7 +31206,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-301 w-9"/>
       <word id="10"
             form="τάς"
@@ -31344,7 +31344,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-302 w-14"/>
       <word id="15"
             form="μεμηχάνηται"
@@ -31365,7 +31365,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-302 w-17"/>
       <word id="18"
             form="εἴ"
@@ -31447,7 +31447,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-303 w-4"/>
       <word id="5"
             form="πεπαύσομαι"
@@ -31538,7 +31538,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-304 w-9"/>
       <word id="10"
             form="δοκεῖς"
@@ -31634,7 +31634,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-305 w-6"/>
       <word id="7"
             form="ὡς"
@@ -31676,7 +31676,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-305 w-12"/>
       <word id="13"
             form="πείρᾳ"
@@ -31758,7 +31758,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-306 w-5"/>
       <word id="6"
             form="ὡς"
@@ -31807,7 +31807,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-306 w-12"/>
       <word id="13"
             form="ἔχοις"
@@ -31835,7 +31835,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-306 w-16"/>
       <word id="17"
             form="μὴ"
@@ -32065,7 +32065,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-310 w-6"/>
       <word id="7"
             form="οὔποτ᾽"
@@ -32154,7 +32154,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-312 w-2"/>
       <word id="3"
             form="τέκνον"
@@ -32175,7 +32175,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-312 w-5"/>
       <word id="6"
             form="ὡς"
@@ -32292,7 +32292,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-313 w-8"/>
       <word id="9"
             form="Λίχα"
@@ -32306,7 +32306,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-313 w-10"/>
       <word id="11"
             form="ἕως"
@@ -32355,7 +32355,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-313 w-17"/>
       <word id="18"
             form="ὅπως"
@@ -32542,7 +32542,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-314 w-12"/>
       <word id="13"
             form="μη"
@@ -32640,7 +32640,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-314 w-26"/>
       <word id="27"
             form="πρὶν"
@@ -32750,7 +32750,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-315 w-4"/>
       <word id="5"
             form="εἴ"
@@ -32827,7 +32827,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-315 w-15"/>
       <word id="16"
             form="στελεῖν"
@@ -32951,7 +32951,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-316 w-5"/>
       <word id="6"
             form="ὃ"
@@ -33040,7 +33040,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-317 w-3"/>
       <word id="4"
             form="καὶ"
@@ -33325,7 +33325,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-319 w-8"/>
       <word id="9"
             form="οὔ"
@@ -33388,7 +33388,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Sophocles Trachiniae: s-319 w-17"/>
       <word id="18"
             form="τὸ"
@@ -33458,7 +33458,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Sophocles Trachiniae: s-319 w-27"/>
       <word id="28"
             form="λόγων"
@@ -33985,7 +33985,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-326 w-12"/>
       <word id="13"
             form="πρὶν"
@@ -34118,7 +34118,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-327 w-11"/>
       <word id="12"
             form="οἵ"
@@ -34195,7 +34195,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-327 w-22"/>
       <word id="23"
             form="ἔνθ᾽"
@@ -34328,7 +34328,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-328 w-11"/>
       <word id="12"
             form="ἀλλὰ"
@@ -34499,7 +34499,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-330 w-5"/>
       <word id="6"
             form="δυοκαιδεκάμηνον"
@@ -34541,7 +34541,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-330 w-11"/>
       <word id="12"
             form="ἴδριες"
@@ -34792,7 +34792,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-334 w-7"/>
       <word id="8"
             form="πρὶν"
@@ -34834,7 +34834,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-334 w-13"/>
       <word id="14"
             form="νασιῶτιν"
@@ -34862,7 +34862,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-334 w-17"/>
       <word id="18"
             form="ἔνθα"
@@ -34923,7 +34923,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-335 w-4"/>
       <word id="5"
             form="τᾶς"
@@ -34998,7 +34998,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-336 w-2"/>
       <word id="3"
             form="ὡς"
@@ -35115,7 +35115,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-337 w-4"/>
       <word id="5"
             form="Δῃάνειρα"
@@ -35202,7 +35202,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-339 w-3"/>
       <word id="4"
             form="εἰ"
@@ -35368,7 +35368,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-341 w-3"/>
       <word id="4"
             form="ὥστε"
@@ -35466,7 +35466,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-342 w-2"/>
       <word id="3"
             form="εἰ"
@@ -35487,7 +35487,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-342 w-5"/>
       <word id="6"
             form="ἐξ"
@@ -35557,7 +35557,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-343 w-4"/>
       <word id="5"
             form="ἢν"
@@ -35578,7 +35578,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-343 w-7"/>
       <word id="8"
             form="γυναῖκες"
@@ -35592,7 +35592,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-343 w-9"/>
       <word id="10"
             form="ὑμῖν"
@@ -35697,7 +35697,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-344 w-8"/>
       <word id="9"
             form="ἀργὴς"
@@ -35788,7 +35788,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Trachiniae: s-344 w-21"/>
       <word id="22"
             form="ἀλλ᾽"
@@ -35830,7 +35830,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Trachiniae: s-344 w-27"/>
       <word id="28"
             form="καὶ"
@@ -35940,7 +35940,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-345 w-9"/>
       <word id="10"
             form="μείζον᾽"
@@ -36029,7 +36029,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-346 w-8"/>
       <word id="9"
             form="πονῶν"
@@ -36064,7 +36064,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-346 w-13"/>
       <word id="14"
             form="προυδιδάξατο"
@@ -36099,7 +36099,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-346 w-18"/>
       <word id="19"
             form="ἀλλ᾽"
@@ -36342,7 +36342,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-348 w-14"/>
       <word id="15"
             form="ἕως"
@@ -36445,7 +36445,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-350 w-3"/>
       <word id="4"
             form="ὅτ᾽"
@@ -36473,7 +36473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-350 w-7"/>
       <word id="8"
             form="ἔχρισα"
@@ -36536,7 +36536,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-350 w-16"/>
       <word id="17"
             form="σπάσασα"
@@ -36627,7 +36627,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Trachiniae: s-350 w-29"/>
       <word id="30"
             form="ὥσπερ"
@@ -36702,7 +36702,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-351 w-7"/>
       <word id="8"
             form="ἀξύμβλητον"
@@ -36798,7 +36798,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-352 w-9"/>
       <word id="10"
             form="ᾧ"
@@ -36819,7 +36819,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-352 w-12"/>
       <word id="13"
             form="ἐς"
@@ -36847,7 +36847,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-352 w-16"/>
       <word id="17"
             form="ἀκτῖν᾽"
@@ -36908,7 +36908,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-353 w-4"/>
       <word id="5"
             form="ῥεῖ"
@@ -36957,7 +36957,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-353 w-11"/>
       <word id="12"
             form="μορφῇ"
@@ -37107,7 +37107,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-355 w-4"/>
       <word id="5"
             form="ὅθεν"
@@ -37128,7 +37128,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-355 w-7"/>
       <word id="8"
             form="ἀναζέουσι"
@@ -37156,7 +37156,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-355 w-11"/>
       <word id="12"
             form="γλαυκῆς"
@@ -37404,7 +37404,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-358 w-5"/>
       <word id="6"
             form="ἀντὶ"
@@ -37467,7 +37467,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-358 w-14"/>
       <word id="15"
             form="ἧς"
@@ -37521,7 +37521,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-359 w-3"/>
       <word id="4"
             form="ἀλλὰ"
@@ -37610,7 +37610,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-360 w-4"/>
       <word id="5"
             form="ὅτ᾽"
@@ -37638,7 +37638,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-360 w-8"/>
       <word id="9"
             form="τὴν"
@@ -37699,7 +37699,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-361 w-4"/>
       <word id="5"
             form="εἴ"
@@ -37741,7 +37741,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-361 w-10"/>
       <word id="11"
             form="ἐγὼ"
@@ -37872,7 +37872,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-362 w-14"/>
       <word id="15"
             form="φθείρει"
@@ -38085,7 +38085,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-365 w-3"/>
       <word id="4"
             form="κεῖνος"
@@ -38113,7 +38113,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-365 w-7"/>
       <word id="8"
             form="ταύτῃ"
@@ -38216,7 +38216,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-366 w-7"/>
       <word id="8"
             form="ἥτις"
@@ -38321,7 +38321,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-367 w-7"/>
       <word id="8"
             form="τὴν"
@@ -38473,7 +38473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-368 w-11"/>
       <word id="12"
             form="ἥτις"
@@ -38597,7 +38597,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-369 w-11"/>
       <word id="12"
             form="τῆς"
@@ -38716,7 +38716,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-370 w-10"/>
       <word id="11"
             form="ἀλλ᾽"
@@ -38826,7 +38826,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-371 w-8"/>
       <word id="9"
             form="εἰ"
@@ -38908,7 +38908,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-372 w-3"/>
       <word id="4"
             form="μαστὴρ"
@@ -38976,7 +38976,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-373 w-3"/>
       <word id="4"
             form="ὡς"
@@ -39067,7 +39067,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Trachiniae: s-373 w-16"/>
       <word id="17"
             form="ἢ"
@@ -39109,7 +39109,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Trachiniae: s-373 w-22"/>
       <word id="23"
             form="ἢ"
@@ -39212,7 +39212,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-374 w-4"/>
       <word id="5"
             form="ὦ"
@@ -39233,7 +39233,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-374 w-7"/>
       <word id="8"
             form="πρός"
@@ -39315,7 +39315,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-375 w-6"/>
       <word id="7"
             form="τὸν"
@@ -39357,7 +39357,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-375 w-12"/>
       <word id="13"
             form="κατακτείνασα"
@@ -39411,7 +39411,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-376 w-2"/>
       <word id="3"
             form="τιν᾽"
@@ -39432,7 +39432,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-376 w-5"/>
       <word id="6"
             form="ὦ"
@@ -39453,7 +39453,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-376 w-8"/>
       <word id="9"
             form="λόγον"
@@ -39656,7 +39656,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-379 w-3"/>
       <word id="4"
             form="ὦ"
@@ -39951,7 +39951,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-383 w-5"/>
       <word id="6"
             form="πάντα"
@@ -40049,7 +40049,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-384 w-7"/>
       <word id="8"
             form="νίκης"
@@ -40084,7 +40084,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-384 w-12"/>
       <word id="13"
             form="ἀκτή"
@@ -40140,7 +40140,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Trachiniae: s-384 w-20"/>
       <word id="21"
             form="ἔνθα"
@@ -40369,7 +40369,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-386 w-13"/>
       <word id="14"
             form="τὸ"
@@ -40458,7 +40458,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-387 w-4"/>
       <word id="5"
             form="ὡς"
@@ -40486,7 +40486,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-387 w-8"/>
       <word id="9"
             form="ταυροκτονεῖ"
@@ -40671,7 +40671,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-389 w-7"/>
       <word id="8"
             form="κόσμῳ"
@@ -40713,7 +40713,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-389 w-13"/>
       <word id="14"
             form="κατηύχετο"
@@ -40809,7 +40809,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-390 w-11"/>
       <word id="12"
             form="ἱδρὼς"
@@ -40837,7 +40837,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-390 w-15"/>
       <word id="16"
             form="καὶ"
@@ -40872,7 +40872,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-390 w-20"/>
       <word id="21"
             form="ὥστε"
@@ -40893,7 +40893,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-390 w-23"/>
       <word id="24"
             form="χιτὼν"
@@ -41155,7 +41155,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-393 w-15"/>
       <word id="16"
             form="ποίαις"
@@ -41279,7 +41279,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-394 w-11"/>
       <word id="12"
             form="ὥσπερ"
@@ -41391,7 +41391,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-395 w-10"/>
       <word id="11"
             form="μάρψας"
@@ -41419,7 +41419,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-395 w-14"/>
       <word id="15"
             form="ἄρθρον"
@@ -41447,7 +41447,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-395 w-18"/>
       <word id="19"
             form="ῥιπτεῖ"
@@ -41543,7 +41543,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-396 w-6"/>
       <word id="7"
             form="μέσου"
@@ -41639,7 +41639,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-397 w-6"/>
       <word id="7"
             form="τοῦ"
@@ -41667,7 +41667,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-397 w-10"/>
       <word id="11"
             form="τοῦ"
@@ -41789,7 +41789,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-399 w-6"/>
       <word id="7"
             form="βοῶν"
@@ -41866,7 +41866,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-400 w-5"/>
       <word id="6"
             form="Λοκρῶν"
@@ -41955,7 +41955,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-401 w-4"/>
       <word id="5"
             form="πολλὰ"
@@ -42004,7 +42004,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-401 w-11"/>
       <word id="12"
             form="πολλὰ"
@@ -42039,7 +42039,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-401 w-16"/>
       <word id="17"
             form="τὸ"
@@ -42095,7 +42095,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Trachiniae: s-401 w-24"/>
       <word id="25"
             form="καὶ"
@@ -42158,7 +42158,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-401 w-33"/>
       <word id="34"
             form="τότ᾽"
@@ -42256,7 +42256,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Sophocles Trachiniae: s-401 w-47"/>
       <word id="48"
             form="καί"
@@ -42326,7 +42326,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-402 w-3"/>
       <word id="4"
             form="πρόσελθε"
@@ -42375,7 +42375,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-402 w-10"/>
       <word id="11"
             form="μη"
@@ -42471,7 +42471,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-403 w-4"/>
       <word id="5"
             form="καὶ"
@@ -42602,7 +42602,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-404 w-5"/>
       <word id="6"
             form="ἀλλά"
@@ -42672,7 +42672,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-404 w-15"/>
       <word id="16"
             form="μη"
@@ -42733,7 +42733,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-405 w-3"/>
       <word id="4"
             form="ἐν"
@@ -42918,7 +42918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-407 w-2"/>
       <word id="3"
             form="μῆτερ"
@@ -42932,7 +42932,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-407 w-4"/>
       <word id="5"
             form="πατρὶ"
@@ -42981,7 +42981,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-407 w-11"/>
       <word id="12"
             form="ὧν"
@@ -43070,7 +43070,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-408 w-4"/>
       <word id="5"
             form="ἐπεύχομαι"
@@ -43119,7 +43119,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-409 w-3"/>
       <word id="4"
             form="ἐπεί"
@@ -43168,7 +43168,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-409 w-10"/>
       <word id="11"
             form="πάντων"
@@ -43224,7 +43224,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Trachiniae: s-409 w-18"/>
       <word id="19"
             form="ὁποῖον"
@@ -43531,7 +43531,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-414 w-9"/>
       <word id="10"
             form="ἥτις"
@@ -43667,7 +43667,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-416 w-8"/>
       <word id="9"
             form="τήνδ᾽"
@@ -43721,7 +43721,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-417 w-3"/>
       <word id="4"
             form="ὦ"
@@ -43742,7 +43742,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-417 w-6"/>
       <word id="7"
             form="προσέμιξεν"
@@ -43812,7 +43812,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-417 w-16"/>
       <word id="17"
             form="ὅ"
@@ -43840,7 +43840,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-417 w-20"/>
       <word id="21"
             form="ὁπότε"
@@ -43882,7 +43882,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-417 w-26"/>
       <word id="27"
             form="ἀναδοχὰν"
@@ -44170,7 +44170,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-420 w-11"/>
       <word id="12"
             form="προστακέντος"
@@ -44191,7 +44191,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-420 w-14"/>
       <word id="15"
             form="ὃν"
@@ -44219,7 +44219,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-420 w-18"/>
       <word id="19"
             form="ἔτεκε"
@@ -44254,7 +44254,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-420 w-23"/>
       <word id="24"
             form="πῶς"
@@ -44317,7 +44317,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Sophocles Trachiniae: s-420 w-32"/>
       <word id="33"
             form="δεινοτάτῳ"
@@ -44574,7 +44574,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-422 w-17"/>
       <word id="18"
             form="τὰ"
@@ -44855,7 +44855,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-425 w-3"/>
       <word id="4"
             form="ὦ"
@@ -44876,7 +44876,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-425 w-6"/>
       <word id="7"
             form="οἷον"
@@ -44986,7 +44986,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-426 w-6"/>
       <word id="7"
             form="ἃ"
@@ -45180,7 +45180,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-428 w-4"/>
       <word id="5"
             form="ἢ"
@@ -45318,7 +45318,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-430 w-5"/>
       <word id="6"
             form="ἀλλὰ"
@@ -45353,7 +45353,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-430 w-10"/>
       <word id="11"
             form="καί"
@@ -45526,7 +45526,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-432 w-3"/>
       <word id="4"
             form="ὡς"
@@ -45643,7 +45643,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-433 w-3"/>
       <word id="4"
             form="ὦ"
@@ -45664,7 +45664,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-433 w-6"/>
       <word id="7"
             form="καινοποιηθὲν"
@@ -46065,7 +46065,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-442 w-4"/>
       <word id="5"
             form="γύναι"
@@ -46079,7 +46079,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-442 w-6"/>
       <word id="7"
             form="ξυντρέχει"
@@ -46330,7 +46330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-447 w-2"/>
       <word id="3"
             form="ὦ"
@@ -46351,7 +46351,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-447 w-5"/>
       <word id="6"
             form="τάνδε"
@@ -46398,7 +46398,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-448 w-2"/>
       <word id="3"
             form="ὡς"
@@ -46764,7 +46764,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-457 w-3"/>
       <word id="4"
             form="εἰ"
@@ -46813,7 +46813,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-457 w-10"/>
       <word id="11"
             form="κάρτ᾽"
@@ -46963,7 +46963,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-460 w-3"/>
       <word id="4"
             form="ὥστε"
@@ -47101,7 +47101,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-461 w-15"/>
       <word id="16"
             form="ὅπως"
@@ -47136,7 +47136,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-461 w-20"/>
       <word id="21"
             form="κρύψασ᾽"
@@ -47185,7 +47185,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-461 w-27"/>
       <word id="28"
             form="βρυχᾶτο"
@@ -47358,7 +47358,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-462 w-6"/>
       <word id="7"
             form="εἴ"
@@ -47407,7 +47407,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-462 w-13"/>
       <word id="14"
             form="ἔκλαιεν"
@@ -47442,7 +47442,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Trachiniae: s-462 w-18"/>
       <word id="19"
             form="αὐτὴ"
@@ -47582,7 +47582,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-463 w-5"/>
       <word id="6"
             form="ἐξαίφνης"
@@ -47807,7 +47807,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-466 w-5"/>
       <word id="6"
             form="ἐπενθοροῦσ᾽"
@@ -47856,7 +47856,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-466 w-12"/>
       <word id="13"
             form="καὶ"
@@ -47959,7 +47959,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-467 w-7"/>
       <word id="8"
             form="τὸ"
@@ -47994,7 +47994,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-467 w-12"/>
       <word id="13"
             form="ὡς"
@@ -48132,7 +48132,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-468 w-9"/>
       <word id="10"
             form="ᾗ"
@@ -48174,7 +48174,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-468 w-15"/>
       <word id="16"
             form="ἐκ"
@@ -48270,7 +48270,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-469 w-4"/>
       <word id="5"
             form="ὅσονπερ"
@@ -48291,7 +48291,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-469 w-7"/>
       <word id="8"
             form="τῷ"
@@ -48401,7 +48401,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-470 w-8"/>
       <word id="9"
             form="ὁρῶμεν"
@@ -48600,7 +48600,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-472 w-10"/>
       <word id="11"
             form="ὄψ᾽"
@@ -48766,7 +48766,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-473 w-10"/>
       <word id="11"
             form="ἀμφί"
@@ -48794,7 +48794,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-473 w-14"/>
       <word id="15"
             form="οὔ"
@@ -48829,7 +48829,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-473 w-19"/>
       <word id="20"
             form="ἀλλὰ"
@@ -48885,7 +48885,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Trachiniae: s-473 w-27"/>
       <word id="28"
             form="ὥς"
@@ -48934,7 +48934,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Sophocles Trachiniae: s-473 w-34"/>
       <word id="35"
             form="κλαίων"
@@ -49018,7 +49018,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Sophocles Trachiniae: s-473 w-46"/>
       <word id="47"
             form="ὠρφανισμένος"
@@ -49163,7 +49163,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-475 w-11"/>
       <word id="12"
             form="μάταιός"
@@ -49247,7 +49247,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-476 w-7"/>
       <word id="8"
             form="πρὶν"
@@ -49364,7 +49364,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-477 w-8"/>
       <word id="9"
             form="δύσκριτ᾽"
@@ -49448,7 +49448,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-478 w-6"/>
       <word id="7"
             form="τάδε"
@@ -49614,7 +49614,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-480 w-8"/>
       <word id="9"
             form="ἥτις"
@@ -49656,7 +49656,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-480 w-14"/>
       <word id="15"
             form="ὅπως"
@@ -49892,7 +49892,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-482 w-7"/>
       <word id="8"
             form="ὀξύφωνος"
@@ -50119,7 +50119,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-486 w-2"/>
       <word id="3"
             form="ὅδ᾽"
@@ -50264,7 +50264,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-488 w-4"/>
       <word id="5"
             form="πάτερ"
@@ -50428,7 +50428,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-492 w-2"/>
       <word id="3"
             form="τέκνον"
@@ -50597,7 +50597,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-495 w-3"/>
       <word id="4"
             form="γέρον"
@@ -50733,7 +50733,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-497 w-13"/>
       <word id="14"
             form="ὦ"
@@ -50887,7 +50887,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-500 w-3"/>
       <word id="4"
             form="ποῖ"
@@ -51346,7 +51346,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-507 w-5"/>
       <word id="6"
             form="ἱερῶν"
@@ -51491,7 +51491,7 @@
             lemma="?????1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-509 w-6"/>
       <word id="7"
             form="οἵαν"
@@ -51580,7 +51580,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-510 w-10"/>
       <word id="11"
             form="τόδ᾽"
@@ -51690,7 +51690,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-511 w-9"/>
       <word id="10"
             form="ὃς"
@@ -51823,7 +51823,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-513 w-3"/>
       <word id="4"
             form="ἐᾶτέ"
@@ -51844,7 +51844,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-513 w-6"/>
       <word id="7"
             form="ἐᾶτέ"
@@ -51999,7 +51999,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-516 w-3"/>
       <word id="4"
             form="ἀπολεῖς"
@@ -52086,7 +52086,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-518 w-3"/>
       <word id="4"
             form="τοτοτοῖ"
@@ -52154,7 +52154,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-519 w-3"/>
       <word id="4"
             form="ὦ"
@@ -52196,7 +52196,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-519 w-9"/>
       <word id="10"
             form="οὓς"
@@ -52301,7 +52301,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Trachiniae: s-519 w-24"/>
       <word id="25"
             form="καὶ"
@@ -52432,7 +52432,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-520 w-3"/>
       <word id="4"
             form="οὐ"
@@ -52577,7 +52577,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-522 w-5"/>
       <word id="6"
             form="τοὔργον"
@@ -52799,7 +52799,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-525 w-4"/>
       <word id="5"
             form="λαθίπονον"
@@ -52956,7 +52956,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-527 w-3"/>
       <word id="4"
             form="ποῦ"
@@ -53064,7 +53064,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-529 w-3"/>
       <word id="4"
             form="ἰὼ"
@@ -53216,7 +53216,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-531 w-4"/>
       <word id="5"
             form="τόδε"
@@ -53277,7 +53277,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-532 w-3"/>
       <word id="4"
             form="τὸν"
@@ -53305,7 +53305,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-532 w-7"/>
       <word id="8"
             form="ἀνεπίφθονον"
@@ -53401,7 +53401,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-533 w-4"/>
       <word id="5"
             form="ᾧ"
@@ -53450,7 +53450,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-533 w-11"/>
       <word id="12"
             form="τὰν"
@@ -53492,7 +53492,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-533 w-17"/>
       <word id="18"
             form="ὧδ᾽"
@@ -53595,7 +53595,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-534 w-8"/>
       <word id="9"
             form="εὔνασον"
@@ -53698,7 +53698,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-535 w-5"/>
       <word id="6"
             form="φίλαι"
@@ -53712,7 +53712,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-535 w-7"/>
       <word id="8"
             form="ἄνακτος"
@@ -53974,7 +53974,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-537 w-14"/>
       <word id="15"
             form="οἷον"
@@ -54072,7 +54072,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Trachiniae: s-537 w-28"/>
       <word id="29"
             form="ᾧ"
@@ -54161,7 +54161,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-538 w-9"/>
       <word id="10"
             form="πλεύμονός"
@@ -54203,7 +54203,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-538 w-15"/>
       <word id="16"
             form="ἐκ"
@@ -54259,7 +54259,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Trachiniae: s-538 w-23"/>
       <word id="24"
             form="καὶ"
@@ -54301,7 +54301,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Sophocles Trachiniae: s-538 w-29"/>
       <word id="30"
             form="ἀφράστῳ"
@@ -54376,7 +54376,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-539 w-5"/>
       <word id="6"
             form="οὔθ᾽"
@@ -54446,7 +54446,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-539 w-15"/>
       <word id="16"
             form="οὔθ᾽"
@@ -54530,7 +54530,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-539 w-27"/>
       <word id="28"
             form="ἔδρασέ"
@@ -54577,7 +54577,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-540 w-3"/>
       <word id="4"
             form="θῆλυς"
@@ -54619,7 +54619,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-540 w-9"/>
       <word id="10"
             form="μόνη"
@@ -54703,7 +54703,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-541 w-3"/>
       <word id="4"
             form="γενοῦ"
@@ -54745,7 +54745,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-541 w-9"/>
       <word id="10"
             form="καὶ"
@@ -54897,7 +54897,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Trachiniae: s-542 w-13"/>
       <word id="14"
             form="ὡς"
@@ -55046,7 +55046,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-543 w-2"/>
       <word id="3"
             form="ὦ"
@@ -55128,7 +55128,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-544 w-6"/>
       <word id="7"
             form="ὅστις"
@@ -55170,7 +55170,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-544 w-12"/>
       <word id="13"
             form="καὶ"
@@ -55268,7 +55268,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-544 w-26"/>
       <word id="27"
             form="ἀλλ᾽"
@@ -55434,7 +55434,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-546 w-7"/>
       <word id="8"
             form="σκέψαι"
@@ -55556,7 +55556,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-548 w-2"/>
       <word id="3"
             form="θεᾶσθε"
@@ -55666,7 +55666,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-549 w-2"/>
       <word id="3"
             form="ἆ"
@@ -55687,7 +55687,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-549 w-5"/>
       <word id="6"
             form="ἔθαλψεν"
@@ -55736,7 +55736,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-549 w-12"/>
       <word id="13"
             form="διῇξε"
@@ -55757,7 +55757,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-549 w-15"/>
       <word id="16"
             form="οὐ"
@@ -55860,7 +55860,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-550 w-3"/>
       <word id="4"
             form="δέξαι"
@@ -55881,7 +55881,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-550 w-6"/>
       <word id="7"
             form="ὦ"
@@ -55909,7 +55909,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-550 w-10"/>
       <word id="11"
             form="παῖσον"
@@ -55923,7 +55923,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-550 w-12"/>
       <word id="13"
             form="ἔνσεισον"
@@ -55937,7 +55937,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-550 w-14"/>
       <word id="15"
             form="ὦναξ"
@@ -55972,7 +55972,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-550 w-19"/>
       <word id="20"
             form="πάτερ"
@@ -55986,7 +55986,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-550 w-21"/>
       <word id="22"
             form="κεραυνοῦ"
@@ -56040,7 +56040,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-551 w-5"/>
       <word id="6"
             form="ἤνθηκεν"
@@ -56101,7 +56101,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-4"/>
       <word id="5"
             form="ὦ"
@@ -56164,7 +56164,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-13"/>
       <word id="14"
             form="ὑμεῖς"
@@ -56206,7 +56206,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-19"/>
       <word id="20"
             form="οἵ"
@@ -56241,7 +56241,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-24"/>
       <word id="25"
             form="βουκόλων"
@@ -56297,7 +56297,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="73"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-32"/>
       <word id="33"
             form="βίᾳ"
@@ -56318,7 +56318,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="73"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-35"/>
       <word id="36"
             form="Λερναίαν"
@@ -56346,7 +56346,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="73"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-39"/>
       <word id="40"
             form="διφυῆ"
@@ -56395,7 +56395,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-46"/>
       <word id="47"
             form="ὑβριστὴν"
@@ -56437,7 +56437,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="73"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-52"/>
       <word id="53"
             form="Ἐρυμάνθιόν"
@@ -56465,7 +56465,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="73"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-56"/>
       <word id="57"
             form="τόν"
@@ -56521,7 +56521,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="67"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-64"/>
       <word id="65"
             form="ἀπρόσμαχον"
@@ -56570,7 +56570,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="73"
+            head="0"
             cite=" Sophocles Trachiniae: s-552 w-71"/>
       <word id="72"
             form="τόν"
@@ -56834,7 +56834,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-554 w-12"/>
       <word id="13"
             form="ὁ"
@@ -57042,7 +57042,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-555 w-15"/>
       <word id="16"
             form="τήν"
@@ -57124,7 +57124,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-556 w-3"/>
       <word id="4"
             form="ἵν᾽"
@@ -57248,7 +57248,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-557 w-4"/>
       <word id="5"
             form="πένθος"
@@ -57283,7 +57283,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-557 w-9"/>
       <word id="10"
             form="ἀνδρὸς"
@@ -57358,7 +57358,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-558 w-4"/>
       <word id="5"
             form="πάτερ"
@@ -57372,7 +57372,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-558 w-6"/>
       <word id="7"
             form="σιγὴν"
@@ -57407,7 +57407,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-558 w-11"/>
       <word id="12"
             form="νοσῶν"
@@ -57524,7 +57524,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-560 w-4"/>
       <word id="5"
             form="μὴ"
@@ -57954,7 +57954,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-565 w-3"/>
       <word id="4"
             form="καὶ"
@@ -58010,7 +58010,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-565 w-11"/>
       <word id="12"
             form="ὡς"
@@ -58263,7 +58263,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-569 w-2"/>
       <word id="3"
             form="εὐλαβοῦ"
@@ -58661,7 +58661,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-577 w-5"/>
       <word id="6"
             form="εἰ"
@@ -58842,7 +58842,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-581 w-2"/>
       <word id="3"
             form="ὦ"
@@ -58863,7 +58863,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-581 w-5"/>
       <word id="6"
             form="πατέρα"
@@ -58952,7 +58952,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-582 w-7"/>
       <word id="8"
             form="ὡς"
@@ -59172,7 +59172,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-585 w-4"/>
       <word id="5"
             form="οἴχομαι"
@@ -59273,7 +59273,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-587 w-2"/>
       <word id="3"
             form="φρονῶ"
@@ -59334,7 +59334,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-588 w-2"/>
       <word id="3"
             form="ὦ"
@@ -59458,7 +59458,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-589 w-8"/>
       <word id="9"
             form="κάλει"
@@ -59528,7 +59528,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Trachiniae: s-589 w-18"/>
       <word id="19"
             form="ὡς"
@@ -59645,7 +59645,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-590 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -59771,7 +59771,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-591 w-8"/>
       <word id="9"
             form="τοὺς"
@@ -59874,7 +59874,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-592 w-5"/>
       <word id="6"
             form="εἴ"
@@ -59902,7 +59902,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-592 w-9"/>
       <word id="10"
             form="πάτερ"
@@ -59916,7 +59916,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-592 w-11"/>
       <word id="12"
             form="πράσσειν"
@@ -59930,7 +59930,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-592 w-13"/>
       <word id="14"
             form="κλύοντες"
@@ -60134,7 +60134,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-595 w-8"/>
       <word id="9"
             form="τῶν"
@@ -60176,7 +60176,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-595 w-14"/>
       <word id="15"
             form="ἀλλ᾽"
@@ -60272,7 +60272,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-596 w-6"/>
       <word id="7"
             form="ὡς"
@@ -60314,7 +60314,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-596 w-12"/>
       <word id="13"
             form="οὕτω"
@@ -60424,7 +60424,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-597 w-9"/>
       <word id="10"
             form="τοῖς"
@@ -60452,7 +60452,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-597 w-13"/>
       <word id="14"
             form="ἃ"
@@ -60571,7 +60571,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Sophocles Trachiniae: s-597 w-30"/>
       <word id="31"
             form="ἥ"
@@ -60892,7 +60892,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-601 w-6"/>
       <word id="7"
             form="τέκνον"
@@ -60906,7 +60906,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-601 w-8"/>
       <word id="9"
             form="δεῖ"
@@ -61011,7 +61011,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Trachiniae: s-601 w-23"/>
       <word id="24"
             form="ἀλλ᾽"
@@ -61046,7 +61046,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Sophocles Trachiniae: s-601 w-28"/>
       <word id="29"
             form="νόμον"
@@ -61114,7 +61114,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-602 w-2"/>
       <word id="3"
             form="ὦ"
@@ -61135,7 +61135,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-602 w-5"/>
       <word id="6"
             form="ταρβῶ"
@@ -61191,7 +61191,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-602 w-13"/>
       <word id="14"
             form="πείσομαι"
@@ -61688,7 +61688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-611 w-3"/>
       <word id="4"
             form="Ζῆν᾽"
@@ -61756,7 +61756,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-612 w-5"/>
       <word id="6"
             form="πημονὰς"
@@ -61956,7 +61956,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-617 w-2"/>
       <word id="3"
             form="ὡς"
@@ -62115,7 +62115,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Trachiniae: s-618 w-14"/>
       <word id="15"
             form="πολλὴν"
@@ -62171,7 +62171,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Trachiniae: s-618 w-22"/>
       <word id="23"
             form="πολλὸν"
@@ -62227,7 +62227,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Trachiniae: s-618 w-30"/>
       <word id="31"
             form="σῶμα"
@@ -62255,7 +62255,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Sophocles Trachiniae: s-618 w-34"/>
       <word id="35"
             form="καὶ"
@@ -62360,7 +62360,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Trachiniae: s-619 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -62388,7 +62388,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-619 w-10"/>
       <word id="11"
             form="εἴπερ"
@@ -62423,7 +62423,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-619 w-15"/>
       <word id="16"
             form="ἔρξον"
@@ -62479,7 +62479,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-620 w-4"/>
       <word id="5"
             form="μενῶ"
@@ -62577,7 +62577,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-621 w-2"/>
       <word id="3"
             form="πάτερ"
@@ -62591,7 +62591,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-621 w-4"/>
       <word id="5"
             form="τί"
@@ -62727,7 +62727,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-624 w-4"/>
       <word id="5"
             form="πατρὸς"
@@ -62839,7 +62839,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-625 w-4"/>
       <word id="5"
             form="οἷά"
@@ -62867,7 +62867,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-625 w-8"/>
       <word id="9"
             form="πάτερ"
@@ -62956,7 +62956,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-626 w-4"/>
       <word id="5"
             form="ἀλλ᾽"
@@ -63175,7 +63175,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Trachiniae: s-628 w-6"/>
       <word id="7"
             form="τἄλλα"
@@ -63620,7 +63620,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-635 w-6"/>
       <word id="7"
             form="ἐργασθήσεται"
@@ -63707,7 +63707,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-637 w-3"/>
       <word id="4"
             form="ὥς"
@@ -63801,7 +63801,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-639 w-5"/>
       <word id="6"
             form="τέκνον"
@@ -63848,7 +63848,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-640 w-4"/>
       <word id="5"
             form="εἴπερ"
@@ -63876,7 +63876,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-640 w-8"/>
       <word id="9"
             form="πατρῴων"
@@ -63904,7 +63904,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-640 w-12"/>
       <word id="13"
             form="προσθοῦ"
@@ -63925,7 +63925,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-640 w-15"/>
       <word id="16"
             form="μη"
@@ -64070,7 +64070,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-641 w-15"/>
       <word id="16"
             form="ἀλλ᾽"
@@ -64091,7 +64091,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-641 w-18"/>
       <word id="19"
             form="ὦ"
@@ -64112,7 +64112,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Trachiniae: s-641 w-21"/>
       <word id="22"
             form="τοῦτο"
@@ -64330,7 +64330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-645 w-6"/>
       <word id="7"
             form="τὸ"
@@ -64496,7 +64496,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-647 w-4"/>
       <word id="5"
             form="ἥ"
@@ -64622,7 +64622,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Trachiniae: s-647 w-22"/>
       <word id="23"
             form="ὅστις"
@@ -64643,7 +64643,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite="urn:cts:greekLit:tlg0011.tlg001:1235 Sophocles Trachiniae: s-647 w-25"/>
       <word id="26"
             form="ξ"
@@ -64671,7 +64671,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Trachiniae: s-647 w-29"/>
       <word id="30"
             form="ἕλοιτο"
@@ -64745,7 +64745,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-648 w-4"/>
       <word id="5"
             form="ὦ"
@@ -64766,7 +64766,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-648 w-7"/>
       <word id="8"
             form="θανεῖν"
@@ -64850,7 +64850,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-649 w-3"/>
       <word id="4"
             form="ὡς"
@@ -64871,7 +64871,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-649 w-6"/>
       <word id="7"
             form="οὐ"
@@ -65014,7 +65014,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-651 w-2"/>
       <word id="3"
             form="τάχ᾽"
@@ -65028,7 +65028,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-651 w-4"/>
       <word id="5"
             form="ὡς"
@@ -65049,7 +65049,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-651 w-7"/>
       <word id="8"
             form="ὡς"
@@ -65157,7 +65157,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Trachiniae: s-653 w-2"/>
       <word id="3"
             form="ὡς"
@@ -65293,7 +65293,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Trachiniae: s-655 w-5"/>
       <word id="6"
             form="πάτερ"
@@ -65333,7 +65333,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-656 w-3"/>
       <word id="4"
             form="τοὐμὸν"
@@ -65539,7 +65539,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-660 w-5"/>
       <word id="6"
             form="τὸ"
@@ -65656,7 +65656,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-661 w-10"/>
       <word id="11"
             form="πάτερ"
@@ -65738,7 +65738,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-662 w-9"/>
       <word id="10"
             form="ὦ"
@@ -65759,7 +65759,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Trachiniae: s-662 w-12"/>
       <word id="13"
             form="πρόσθες"
@@ -65773,7 +65773,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Trachiniae: s-662 w-14"/>
       <word id="15"
             form="ὡς"
@@ -65829,7 +65829,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-662 w-22"/>
       <word id="23"
             form="ἐς"
@@ -66042,7 +66042,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Trachiniae: s-665 w-7"/>
       <word id="8"
             form="ἐπεὶ"
@@ -66070,7 +66070,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Trachiniae: s-665 w-11"/>
       <word id="12"
             form="πάτερ"
@@ -66119,7 +66119,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-666 w-3"/>
       <word id="4"
             form="πρὶν"
@@ -66154,7 +66154,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Trachiniae: s-666 w-8"/>
       <word id="9"
             form="ὦ"
@@ -66182,7 +66182,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Trachiniae: s-666 w-12"/>
       <word id="13"
             form="χάλυβος"
@@ -66217,7 +66217,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Trachiniae: s-666 w-17"/>
       <word id="18"
             form="ἀνάπαυε"
@@ -66238,7 +66238,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Trachiniae: s-666 w-20"/>
       <word id="21"
             form="ὡς"
@@ -66299,7 +66299,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-667 w-2"/>
       <word id="3"
             form="ὀπαδοί"
@@ -66313,7 +66313,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Trachiniae: s-667 w-4"/>
       <word id="5"
             form="μεγάλην"
@@ -66362,7 +66362,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-667 w-11"/>
       <word id="12"
             form="μεγάλην"
@@ -66425,7 +66425,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Trachiniae: s-667 w-20"/>
       <word id="21"
             form="οἳ"
@@ -66542,7 +66542,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Trachiniae: s-668 w-7"/>
       <word id="8"
             form="τὰ"
@@ -66598,7 +66598,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Trachiniae: s-668 w-15"/>
       <word id="16"
             form="αἰσχρὰ"
@@ -66626,7 +66626,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Trachiniae: s-668 w-19"/>
       <word id="20"
             form="χαλεπώτατα"
@@ -66768,7 +66768,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Trachiniae: s-669 w-7"/>
       <word id="8"
             form="ἀπ᾽"
@@ -66789,7 +66789,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Trachiniae: s-669 w-10"/>
       <word id="11"
             form="μεγάλους"
@@ -66831,7 +66831,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Trachiniae: s-669 w-16"/>
       <word id="17"
             form="πολλὰ"

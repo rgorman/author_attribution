@@ -103,7 +103,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-1 w-9"/>
       <word id="10"
             form="σφέτερον"
@@ -320,7 +320,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-3 w-5"/>
       <word id="6"
             form="ῥέα"
@@ -355,7 +355,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-3 w-10"/>
       <word id="11"
             form="ῥεῖα"
@@ -488,7 +488,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Hesiod Works: s-3 w-29"/>
       <word id="30"
             form="ὃς"
@@ -563,7 +563,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-4 w-5"/>
       <word id="6"
             form="δίκῃ"
@@ -638,7 +638,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-5 w-4"/>
       <word id="5"
             form="Πέρση"
@@ -652,7 +652,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-5 w-6"/>
       <word id="7"
             form="ἐτήτυμα"
@@ -727,7 +727,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-6 w-7"/>
       <word id="8"
             form="ἀλλ᾽"
@@ -825,7 +825,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-7 w-6"/>
       <word id="7"
             form="ἣ"
@@ -975,7 +975,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-9 w-10"/>
       <word id="11"
             form="σχετλίη"
@@ -1036,7 +1036,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-10 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -1167,7 +1167,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-11 w-9"/>
       <word id="10"
             form="θῆκε"
@@ -1209,7 +1209,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-11 w-15"/>
       <word id="16"
             form="αἰθέρι"
@@ -1230,7 +1230,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-11 w-18"/>
       <word id="19"
             form="γαίης"
@@ -1258,7 +1258,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Hesiod Works: s-11 w-22"/>
       <word id="23"
             form="καὶ"
@@ -1445,7 +1445,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-13 w-10"/>
       <word id="11"
             form="ὃς"
@@ -1807,7 +1807,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-17 w-3"/>
       <word id="4"
             form="σὺ"
@@ -1856,7 +1856,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-17 w-10"/>
       <word id="11"
             form="μη"
@@ -2036,7 +2036,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-18 w-10"/>
       <word id="11"
             form="ᾧτινι"
@@ -2092,7 +2092,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Hesiod Works: s-18 w-18"/>
       <word id="19"
             form="τὸν"
@@ -2338,7 +2338,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-21 w-7"/>
       <word id="8"
             form="αἵ"
@@ -2434,7 +2434,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-22 w-6"/>
       <word id="7"
             form="ἀλλὰ"
@@ -2504,7 +2504,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-22 w-16"/>
       <word id="17"
             form="οἳ"
@@ -2565,7 +2565,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-23 w-2"/>
       <word id="3"
             form="οὐ"
@@ -2824,7 +2824,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-25 w-8"/>
       <word id="9"
             form="ὥστε"
@@ -2948,7 +2948,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-26 w-8"/>
       <word id="9"
             form="ἔργα"
@@ -3058,7 +3058,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-27 w-7"/>
       <word id="8"
             form="ὅττι"
@@ -3391,7 +3391,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-32 w-2"/>
       <word id="3"
             form="πάντων"
@@ -3426,7 +3426,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-32 w-7"/>
       <word id="8"
             form="χαίρεις"
@@ -3606,7 +3606,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-33 w-8"/>
       <word id="9"
             form="ᾧ"
@@ -3845,7 +3845,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-36 w-10"/>
       <word id="11"
             form="ἐν"
@@ -3901,7 +3901,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-36 w-18"/>
       <word id="19"
             form="ἀθανάτῃς"
@@ -4982,7 +4982,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-48 w-8"/>
       <word id="9"
             form="ὀνόμηνε"
@@ -5024,7 +5024,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-48 w-14"/>
       <word id="15"
             form="ὅτι"
@@ -5162,7 +5162,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-49 w-7"/>
       <word id="8"
             form="εἰς"
@@ -5293,7 +5293,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-50 w-5"/>
       <word id="6"
             form="ὥς"
@@ -5377,7 +5377,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-50 w-17"/>
       <word id="18"
             form="ἀλλ᾽"
@@ -5405,7 +5405,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Hesiod Works: s-50 w-21"/>
       <word id="22"
             form="μή"
@@ -5487,7 +5487,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-51 w-4"/>
       <word id="5"
             form="ὅτε"
@@ -5522,7 +5522,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-51 w-9"/>
       <word id="10"
             form="ἐνόησεν"
@@ -5681,7 +5681,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Hesiod Works: s-52 w-20"/>
       <word id="21"
             form="αἵ"
@@ -5995,7 +5995,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-56 w-13"/>
       <word id="14"
             form="οὐ"
@@ -6220,7 +6220,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-59 w-6"/>
       <word id="7"
             form="πλείη"
@@ -6313,7 +6313,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-60 w-6"/>
       <word id="7"
             form="αἳ"
@@ -6390,7 +6390,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-60 w-17"/>
       <word id="18"
             form="ἐπεὶ"
@@ -6535,7 +6535,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-62 w-4"/>
       <word id="5"
             form="ἕτερόν"
@@ -6858,7 +6858,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-66 w-6"/>
       <word id="7"
             form="ὅτ᾽"
@@ -7052,7 +7052,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-68 w-7"/>
       <word id="8"
             form="αἰεὶ"
@@ -7525,7 +7525,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-74 w-9"/>
       <word id="10"
             form="-"
@@ -7588,7 +7588,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Hesiod Works: s-74 w-18"/>
       <word id="19"
             form="ἀλεξίκακοι"
@@ -7602,7 +7602,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Hesiod Works: s-74 w-20"/>
       <word id="21"
             form="φύλακες"
@@ -7630,7 +7630,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Hesiod Works: s-74 w-24"/>
       <word id="25"
             form="[οἵ"
@@ -7819,7 +7819,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-75 w-7"/>
       <word id="8"
             form="δεύτερον"
@@ -7903,7 +7903,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Hesiod Works: s-75 w-19"/>
       <word id="20"
             form="χρυσέῳ"
@@ -8048,7 +8048,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-76 w-11"/>
       <word id="12"
             form="μέγα"
@@ -8069,7 +8069,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-76 w-14"/>
       <word id="15"
             form="ᾧ"
@@ -8172,7 +8172,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-77 w-10"/>
       <word id="11"
             form="παυρίδιον"
@@ -8207,7 +8207,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-77 w-15"/>
       <word id="16"
             form="ἄλγε᾽"
@@ -8296,7 +8296,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-78 w-8"/>
       <word id="9"
             form="οὐ"
@@ -8387,7 +8387,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Hesiod Works: s-78 w-21"/>
       <word id="22"
             form="ἣ"
@@ -8499,7 +8499,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-79 w-8"/>
       <word id="9"
             form="οὕνεκα"
@@ -8548,7 +8548,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-79 w-15"/>
       <word id="16"
             form="οἳ"
@@ -8644,7 +8644,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-80 w-9"/>
       <word id="10"
             form="-"
@@ -8700,7 +8700,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-80 w-17"/>
       <word id="18"
             form="δεύτεροι"
@@ -8714,7 +8714,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-80 w-19"/>
       <word id="20"
             form="ἀλλ᾽"
@@ -8770,7 +8770,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-80 w-27"/>
       <word id="28"
             form="Ζεὺς"
@@ -8847,7 +8847,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="42"
+            head="0"
             cite=" Hesiod Works: s-80 w-38"/>
       <word id="39"
             form="οὐκ"
@@ -8882,7 +8882,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Hesiod Works: s-80 w-43"/>
       <word id="44"
             form="ἐκ"
@@ -8903,7 +8903,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Hesiod Works: s-80 w-46"/>
       <word id="47"
             form="δεινόν"
@@ -9046,7 +9046,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-82 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -9088,7 +9088,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-82 w-12"/>
       <word id="13"
             form="ἄπλαστοι"
@@ -9261,7 +9261,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-84 w-7"/>
       <word id="8"
             form="χάλκεοι"
@@ -9551,7 +9551,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-87 w-9"/>
       <word id="10"
             form="λαμπρὸν"
@@ -9661,7 +9661,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-88 w-9"/>
       <word id="10"
             form="αὖτις"
@@ -9738,7 +9738,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Hesiod Works: s-88 w-20"/>
       <word id="21"
             form="δικαιότερον"
@@ -9766,7 +9766,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Hesiod Works: s-88 w-24"/>
       <word id="25"
             form="ἀνδρῶν"
@@ -9801,7 +9801,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Hesiod Works: s-88 w-29"/>
       <word id="30"
             form="οἳ"
@@ -9988,7 +9988,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-89 w-16"/>
       <word id="17"
             form="Καδμηίδι"
@@ -10009,7 +10009,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-89 w-19"/>
       <word id="20"
             form="ὤλεσε"
@@ -10051,7 +10051,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Hesiod Works: s-89 w-25"/>
       <word id="26"
             form="τοὺς"
@@ -10242,7 +10242,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-90 w-8"/>
       <word id="9"
             form="τοῖς"
@@ -10478,7 +10478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Hesiod Works: s-91 w-17"/>
       <word id="18"
             form="τοῖσιν"
@@ -10848,7 +10848,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-96 w-11"/>
       <word id="12"
             form="οἳ]"
@@ -10963,7 +10963,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-98 w-8"/>
       <word id="9"
             form="ἀλλ᾽"
@@ -11141,7 +11141,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-100 w-9"/>
       <word id="10"
             form="οὐ"
@@ -11368,7 +11368,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-103 w-9"/>
       <word id="10"
             form="εὖτ᾽"
@@ -11485,7 +11485,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-104 w-10"/>
       <word id="11"
             form="οὐ"
@@ -11541,7 +11541,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-104 w-18"/>
       <word id="19"
             form="οὐ"
@@ -11583,7 +11583,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Hesiod Works: s-104 w-24"/>
       <word id="25"
             form="ὡς"
@@ -12063,7 +12063,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-109 w-13"/>
       <word id="14"
             form="μᾶλλον"
@@ -12166,7 +12166,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-110 w-5"/>
       <word id="6"
             form="καὶ"
@@ -12292,7 +12292,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-111 w-11"/>
       <word id="12"
             form="ἐπὶ"
@@ -12880,7 +12880,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-118 w-4"/>
       <word id="5"
             form="γναμπτοῖσι"
@@ -12915,7 +12915,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-118 w-9"/>
       <word id="10"
             form="μύρετο"
@@ -13002,7 +13002,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-120 w-2"/>
       <word id="3"
             form="τί"
@@ -13103,7 +13103,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-122 w-4"/>
       <word id="5"
             form="ᾗ"
@@ -13199,7 +13199,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-123 w-3"/>
       <word id="4"
             form="αἴ"
@@ -13227,7 +13227,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-123 w-7"/>
       <word id="8"
             form="ποιήσομαι"
@@ -13281,7 +13281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-124 w-3"/>
       <word id="4"
             form="ὅς"
@@ -13494,7 +13494,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-127 w-3"/>
       <word id="4"
             form="σὺ"
@@ -13529,7 +13529,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-127 w-8"/>
       <word id="9"
             form="μη"
@@ -13688,7 +13688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-129 w-8"/>
       <word id="9"
             form="βαρύθει"
@@ -14044,7 +14044,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-134 w-6"/>
       <word id="7"
             form="ᾗ"
@@ -14086,7 +14086,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-134 w-12"/>
       <word id="13"
             form="σκολιῇς"
@@ -14205,7 +14205,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-135 w-9"/>
       <word id="10"
             form="ἠέρα"
@@ -14226,7 +14226,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-135 w-12"/>
       <word id="13"
             form="κακὸν"
@@ -14254,7 +14254,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Hesiod Works: s-135 w-16"/>
       <word id="17"
             form="οἵ"
@@ -14420,7 +14420,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-136 w-14"/>
       <word id="15"
             form="τοῖσι"
@@ -14448,7 +14448,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-136 w-18"/>
       <word id="19"
             form="λαοὶ"
@@ -14537,7 +14537,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-137 w-6"/>
       <word id="7"
             form="οὐ"
@@ -14705,7 +14705,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-138 w-12"/>
       <word id="13"
             form="θαλίῃς"
@@ -14801,7 +14801,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-139 w-7"/>
       <word id="8"
             form="οὔρεσι"
@@ -14864,7 +14864,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-139 w-16"/>
       <word id="17"
             form="μέσση"
@@ -15089,7 +15089,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-143 w-6"/>
       <word id="7"
             form="καρπὸν"
@@ -15206,7 +15206,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-144 w-10"/>
       <word id="11"
             form="τοῖς"
@@ -15323,7 +15323,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-145 w-8"/>
       <word id="9"
             form="ὅς"
@@ -15543,7 +15543,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-148 w-5"/>
       <word id="6"
             form="μινύθουσι"
@@ -15779,7 +15779,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-150 w-3"/>
       <word id="4"
             form="ὑμεῖς"
@@ -15896,7 +15896,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-151 w-8"/>
       <word id="9"
             form="ὅσοι"
@@ -16144,7 +16144,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-153 w-11"/>
       <word id="12"
             form="πάντη"
@@ -16233,7 +16233,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-154 w-7"/>
       <word id="8"
             form="Διὸς"
@@ -16254,7 +16254,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-154 w-10"/>
       <word id="11"
             form="κυδρή"
@@ -16296,7 +16296,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Hesiod Works: s-154 w-16"/>
       <word id="17"
             form="οἳ"
@@ -16399,7 +16399,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-155 w-10"/>
       <word id="11"
             form="αὐτίκα"
@@ -16476,7 +16476,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Hesiod Works: s-155 w-21"/>
       <word id="22"
             form="ὄφρ᾽"
@@ -16518,7 +16518,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Hesiod Works: s-155 w-27"/>
       <word id="28"
             form="οἳ"
@@ -16607,7 +16607,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-156 w-3"/>
       <word id="4"
             form="βασιλῆς"
@@ -16621,7 +16621,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-156 w-5"/>
       <word id="6"
             form="ἰθύνετε"
@@ -16656,7 +16656,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-156 w-10"/>
       <word id="11"
             form="σκολιέων"
@@ -16780,7 +16780,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-157 w-10"/>
       <word id="11"
             form="ἡ"
@@ -16927,7 +16927,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-158 w-11"/>
       <word id="12"
             form="αἴ"
@@ -16955,7 +16955,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-158 w-15"/>
       <word id="16"
             form="ἐπιδέρκεται"
@@ -16969,7 +16969,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Hesiod Works: s-158 w-17"/>
       <word id="18"
             form="οὐ"
@@ -17004,7 +17004,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Hesiod Works: s-158 w-22"/>
       <word id="23"
             form="οἵην"
@@ -17210,7 +17210,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-160 w-6"/>
       <word id="7"
             form="εἰ"
@@ -17378,7 +17378,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-162 w-3"/>
       <word id="4"
             form="σὺ"
@@ -17434,7 +17434,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-162 w-11"/>
       <word id="12"
             form="καὶ"
@@ -17469,7 +17469,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-162 w-16"/>
       <word id="17"
             form="βίης"
@@ -17621,7 +17621,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-163 w-16"/>
       <word id="17"
             form="ἐπεὶ"
@@ -17719,7 +17719,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-164 w-5"/>
       <word id="6"
             form="ἣ"
@@ -17829,7 +17829,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-165 w-10"/>
       <word id="11"
             form="τῷ"
@@ -17953,7 +17953,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-166 w-9"/>
       <word id="10"
             form="ἐν"
@@ -18002,7 +18002,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-166 w-16"/>
       <word id="17"
             form="τοῦ"
@@ -18175,7 +18175,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-168 w-7"/>
       <word id="8"
             form="μέγα"
@@ -18311,7 +18311,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-170 w-4"/>
       <word id="5"
             form="μάλα"
@@ -18568,7 +18568,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-173 w-6"/>
       <word id="7"
             form="ῥηιδίη"
@@ -18603,7 +18603,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-173 w-11"/>
       <word id="12"
             form="χαλεπή"
@@ -18664,7 +18664,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-174 w-4"/>
       <word id="5"
             form="ὃς"
@@ -18706,7 +18706,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-174 w-10"/>
       <word id="11"
             form="τά"
@@ -18818,7 +18818,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-175 w-5"/>
       <word id="6"
             form="ὃς"
@@ -18958,7 +18958,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-176 w-13"/>
       <word id="14"
             form="ὃ"
@@ -19077,7 +19077,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-177 w-9"/>
       <word id="10"
             form="Πέρση"
@@ -19112,7 +19112,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-177 w-14"/>
       <word id="15"
             form="ὄφρα"
@@ -19147,7 +19147,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Hesiod Works: s-177 w-19"/>
       <word id="20"
             form="φιλέῃ"
@@ -19196,7 +19196,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Hesiod Works: s-177 w-26"/>
       <word id="27"
             form="βιότου"
@@ -19362,7 +19362,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-179 w-7"/>
       <word id="8"
             form="ὅς"
@@ -19397,7 +19397,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-179 w-12"/>
       <word id="13"
             form="κηφήνεσσι"
@@ -19432,7 +19432,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Hesiod Works: s-179 w-17"/>
       <word id="18"
             form="οἵ"
@@ -19549,7 +19549,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-180 w-8"/>
       <word id="9"
             form="ὥς"
@@ -19778,7 +19778,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-183 w-5"/>
       <word id="6"
             form="ἀεργίη"
@@ -19871,7 +19871,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-184 w-5"/>
       <word id="6"
             form="τάχα"
@@ -20007,7 +20007,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-186 w-5"/>
       <word id="6"
             form="τὸ"
@@ -20035,7 +20035,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-186 w-9"/>
       <word id="10"
             form="εἴ"
@@ -20126,7 +20126,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Hesiod Works: s-186 w-22"/>
       <word id="23"
             form="ὥς"
@@ -20238,7 +20238,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-187 w-10"/>
       <word id="11"
             form="ἥ"
@@ -20334,7 +20334,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-188 w-5"/>
       <word id="6"
             form="θάρσος"
@@ -20548,7 +20548,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-190 w-10"/>
       <word id="11"
             form="ἢ"
@@ -20597,7 +20597,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Hesiod Works: s-190 w-17"/>
       <word id="18"
             form="οἷά"
@@ -20632,7 +20632,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Hesiod Works: s-190 w-22"/>
       <word id="23"
             form="εὖτ᾽"
@@ -20688,7 +20688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Hesiod Works: s-190 w-30"/>
       <word id="31"
             form="αἰδῶ"
@@ -20786,7 +20786,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-191 w-6"/>
       <word id="7"
             form="μινύθουσι"
@@ -20828,7 +20828,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-191 w-12"/>
       <word id="13"
             form="παῦρον"
@@ -20966,7 +20966,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Hesiod Works: s-192 w-11"/>
       <word id="12"
             form="ὅς"
@@ -21043,7 +21043,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Hesiod Works: s-192 w-22"/>
       <word id="23"
             form="παρακαίρια"
@@ -21064,7 +21064,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Hesiod Works: s-192 w-25"/>
       <word id="26"
             form="ὅς"
@@ -21120,7 +21120,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Hesiod Works: s-192 w-33"/>
       <word id="34"
             form="ὅς"
@@ -21299,7 +21299,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-193 w-8"/>
       <word id="9"
             form="ἐς"
@@ -21519,7 +21519,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-195 w-11"/>
       <word id="12"
             form="ἐπὶ"
@@ -21615,7 +21615,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-196 w-7"/>
       <word id="8"
             form="ἠμὲν"
@@ -21685,7 +21685,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-196 w-17"/>
       <word id="18"
             form="ὥς"
@@ -21748,7 +21748,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Hesiod Works: s-196 w-26"/>
       <word id="27"
             form="ὄφρ᾽"
@@ -21874,7 +21874,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-197 w-6"/>
       <word id="7"
             form="τὸν"
@@ -21949,7 +21949,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-198 w-5"/>
       <word id="6"
             form="ὅς"
@@ -22059,7 +22059,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-199 w-9"/>
       <word id="10"
             form="γείτονες"
@@ -22087,7 +22087,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-199 w-13"/>
       <word id="14"
             form="ζώσαντο"
@@ -22148,7 +22148,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-200 w-4"/>
       <word id="5"
             form="ὅσσον"
@@ -22241,7 +22241,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-201 w-4"/>
       <word id="5"
             form="ὅς"
@@ -22330,7 +22330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-202 w-6"/>
       <word id="7"
             form="εἰ"
@@ -22419,7 +22419,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-203 w-6"/>
       <word id="7"
             form="εὖ"
@@ -22447,7 +22447,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-203 w-10"/>
       <word id="11"
             form="αὐτῷ"
@@ -22475,7 +22475,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-203 w-14"/>
       <word id="15"
             form="καὶ"
@@ -22496,7 +22496,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-203 w-17"/>
       <word id="18"
             form="αἴ"
@@ -22524,7 +22524,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Hesiod Works: s-203 w-21"/>
       <word id="22"
             form="ὡς"
@@ -22711,7 +22711,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-206 w-4"/>
       <word id="5"
             form="καὶ"
@@ -22772,7 +22772,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-207 w-3"/>
       <word id="4"
             form="ὅς"
@@ -22800,7 +22800,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-207 w-7"/>
       <word id="8"
             form="καὶ"
@@ -22828,7 +22828,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-207 w-11"/>
       <word id="12"
             form="ὅς"
@@ -22903,7 +22903,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-208 w-5"/>
       <word id="6"
             form="ἀδώτῃ"
@@ -22964,7 +22964,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-209 w-3"/>
       <word id="4"
             form="ἅρπαξ"
@@ -23085,7 +23085,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Hesiod Works: s-210 w-7"/>
       <word id="8"
             form="ὅ"
@@ -23106,7 +23106,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-210 w-10"/>
       <word id="11"
             form="κεἰ"
@@ -23134,7 +23134,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-210 w-14"/>
       <word id="15"
             form="χαίρει"
@@ -23267,7 +23267,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-211 w-8"/>
       <word id="9"
             form="καί"
@@ -23391,7 +23391,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-212 w-6"/>
       <word id="7"
             form="ὃ"
@@ -23529,7 +23529,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-213 w-13"/>
       <word id="14"
             form="τάχα"
@@ -23686,7 +23686,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-215 w-4"/>
       <word id="5"
             form="ἐπεὶ"
@@ -23779,7 +23779,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-216 w-5"/>
       <word id="6"
             form="πῆμα"
@@ -23821,7 +23821,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-216 w-11"/>
       <word id="12"
             form="ἅ"
@@ -24338,7 +24338,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-223 w-5"/>
       <word id="6"
             form="πέποιθ᾽"
@@ -24638,7 +24638,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-227 w-5"/>
       <word id="6"
             form="μείζων"
@@ -24759,7 +24759,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Hesiod Works: s-228 w-10"/>
       <word id="11"
             form="ὧδ᾽"
@@ -24780,7 +24780,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-228 w-13"/>
       <word id="14"
             form="καὶ"
@@ -24869,7 +24869,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-229 w-6"/>
       <word id="7"
             form="ἀρότοιο"
@@ -24981,7 +24981,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-230 w-10"/>
       <word id="11"
             form="αὖτις"
@@ -25098,7 +25098,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-231 w-6"/>
       <word id="7"
             form="οἵ"
@@ -25140,7 +25140,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-231 w-12"/>
       <word id="13"
             form="οἵ"
@@ -25175,7 +25175,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-231 w-17"/>
       <word id="18"
             form="πόντου"
@@ -25257,7 +25257,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-232 w-3"/>
       <word id="4"
             form="γυμνὸν"
@@ -25285,7 +25285,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-232 w-7"/>
       <word id="8"
             form="γυμνὸν"
@@ -25313,7 +25313,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-232 w-11"/>
       <word id="12"
             form="εἴ"
@@ -25423,7 +25423,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-233 w-6"/>
       <word id="7"
             form="μή"
@@ -25648,7 +25648,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-236 w-2"/>
       <word id="3"
             form="νήπιε"
@@ -25669,7 +25669,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-236 w-5"/>
       <word id="6"
             form="ἔργα"
@@ -25683,7 +25683,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-236 w-7"/>
       <word id="8"
             form="τά"
@@ -25725,7 +25725,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-236 w-13"/>
       <word id="14"
             form="μή"
@@ -25816,7 +25816,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Hesiod Works: s-236 w-26"/>
       <word id="27"
             form="οἳ"
@@ -25945,7 +25945,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-238 w-5"/>
       <word id="6"
             form="χρῆμα"
@@ -25980,7 +25980,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-238 w-10"/>
       <word id="11"
             form="σὺ"
@@ -26254,7 +26254,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-241 w-14"/>
       <word id="15"
             form="ἥτις"
@@ -26289,7 +26289,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Hesiod Works: s-241 w-19"/>
       <word id="20"
             form="χρήματα"
@@ -26345,7 +26345,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Hesiod Works: s-241 w-27"/>
       <word id="28"
             form="μὴ"
@@ -26387,7 +26387,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Hesiod Works: s-241 w-33"/>
       <word id="34"
             form="ὃ"
@@ -26415,7 +26415,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Hesiod Works: s-241 w-37"/>
       <word id="38"
             form="σὺ"
@@ -26443,7 +26443,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Hesiod Works: s-241 w-41"/>
       <word id="42"
             form="ἡ"
@@ -26478,7 +26478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Hesiod Works: s-241 w-46"/>
       <word id="47"
             form="μινύθῃ"
@@ -26850,7 +26850,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-246 w-9"/>
       <word id="10"
             form="μετοπωρινὸν"
@@ -26885,7 +26885,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-246 w-14"/>
       <word id="15"
             form="μετὰ"
@@ -27046,7 +27046,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-247 w-13"/>
       <word id="14"
             form="πλεῖον"
@@ -27142,7 +27142,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-248 w-7"/>
       <word id="8"
             form="φύλλα"
@@ -27177,7 +27177,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-248 w-12"/>
       <word id="13"
             form="πτόρθοιό"
@@ -27299,7 +27299,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-250 w-5"/>
       <word id="6"
             form="ὕπερον"
@@ -27327,7 +27327,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-250 w-9"/>
       <word id="10"
             form="ἄξονα"
@@ -27458,7 +27458,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-252 w-5"/>
       <word id="6"
             form="ἀπὸ"
@@ -27638,7 +27638,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-255 w-4"/>
       <word id="5"
             form="ὅτ᾽"
@@ -27666,7 +27666,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-255 w-8"/>
       <word id="9"
             form="ἐς"
@@ -27687,7 +27687,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-255 w-11"/>
       <word id="12"
             form="κατ᾽"
@@ -27736,7 +27736,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-255 w-18"/>
       <word id="19"
             form="πρίνινον"
@@ -27804,7 +27804,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-256 w-7"/>
       <word id="8"
             form="εὖτ᾽"
@@ -27928,7 +27928,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-257 w-5"/>
       <word id="6"
             form="ποησάμενος"
@@ -27956,7 +27956,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-257 w-9"/>
       <word id="10"
             form="αὐτόγυον"
@@ -27984,7 +27984,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-257 w-13"/>
       <word id="14"
             form="ἐπεὶ"
@@ -28068,7 +28068,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-258 w-5"/>
       <word id="6"
             form="ἕτερόν"
@@ -28164,7 +28164,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-259 w-7"/>
       <word id="8"
             form="δρυὸς"
@@ -28262,7 +28262,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-260 w-6"/>
       <word id="7"
             form="τῶν"
@@ -28304,7 +28304,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-260 w-12"/>
       <word id="13"
             form="ἥβης"
@@ -28472,7 +28472,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-262 w-12"/>
       <word id="13"
             form="τὸ"
@@ -28610,7 +28610,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Hesiod Works: s-263 w-12"/>
       <word id="13"
             form="ὃς"
@@ -28666,7 +28666,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Hesiod Works: s-263 w-20"/>
       <word id="21"
             form="μηκέτι"
@@ -28701,7 +28701,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Hesiod Works: s-263 w-25"/>
       <word id="26"
             form="ἀλλ᾽"
@@ -28921,7 +28921,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-266 w-3"/>
       <word id="4"
             form="εὖτ᾽"
@@ -29413,7 +29413,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-274 w-8"/>
       <word id="9"
             form="νήπιος"
@@ -29427,7 +29427,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-274 w-10"/>
       <word id="11"
             form="οὐ"
@@ -29509,7 +29509,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-275 w-6"/>
       <word id="7"
             form="τῶν"
@@ -29628,7 +29628,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-276 w-8"/>
       <word id="9"
             form="δὴ"
@@ -29740,7 +29740,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Hesiod Works: s-276 w-24"/>
       <word id="25"
             form="πρωὶ"
@@ -29768,7 +29768,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Hesiod Works: s-276 w-28"/>
       <word id="29"
             form="ἵνα"
@@ -30056,7 +30056,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-281 w-8"/>
       <word id="9"
             form="ἐκτελέα"
@@ -30098,7 +30098,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-281 w-14"/>
       <word id="15"
             form="ἀρχόμενος"
@@ -30133,7 +30133,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Hesiod Works: s-281 w-19"/>
       <word id="20"
             form="ὅτ᾽"
@@ -30381,7 +30381,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-283 w-6"/>
       <word id="7"
             form="κακοθημοσύνη"
@@ -30481,7 +30481,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-284 w-7"/>
       <word id="8"
             form="εἰ"
@@ -30537,7 +30537,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-284 w-15"/>
       <word id="16"
             form="ἐκ"
@@ -30694,7 +30694,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-286 w-6"/>
       <word id="7"
             form="οὐ"
@@ -30858,7 +30858,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-288 w-9"/>
       <word id="10"
             form="ἥμενος"
@@ -30907,7 +30907,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-288 w-16"/>
       <word id="17"
             form="ἀντία"
@@ -30963,7 +30963,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Hesiod Works: s-288 w-24"/>
       <word id="25"
             form="οἴσεις"
@@ -31092,7 +31092,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-290 w-7"/>
       <word id="8"
             form="ἀργαλέος"
@@ -31199,7 +31199,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-291 w-6"/>
       <word id="7"
             form="τόδε"
@@ -31309,7 +31309,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-292 w-9"/>
       <word id="10"
             form="τέρπει"
@@ -31358,7 +31358,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-292 w-16"/>
       <word id="17"
             form="τῆμος"
@@ -31421,7 +31421,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Hesiod Works: s-292 w-25"/>
       <word id="26"
             form="μήτ᾽"
@@ -31749,7 +31749,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-296 w-11"/>
       <word id="12"
             form="ὁπότε"
@@ -31791,7 +31791,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Hesiod Works: s-296 w-17"/>
       <word id="18"
             form="ἔνθα"
@@ -31847,7 +31847,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Hesiod Works: s-296 w-25"/>
       <word id="26"
             form="μή"
@@ -31910,7 +31910,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Hesiod Works: s-296 w-34"/>
       <word id="35"
             form="λεπτῇ"
@@ -31999,7 +31999,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-297 w-5"/>
       <word id="6"
             form="κενεὴν"
@@ -32055,7 +32055,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-297 w-13"/>
       <word id="14"
             form="κακὰ"
@@ -32144,7 +32144,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-298 w-8"/>
       <word id="9"
             form="ἥμενον"
@@ -32172,7 +32172,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-298 w-12"/>
       <word id="13"
             form="τῷ"
@@ -32383,7 +32383,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-301 w-7"/>
       <word id="8"
             form="βουδόρα"
@@ -32404,7 +32404,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-301 w-10"/>
       <word id="11"
             form="τοῦτον"
@@ -32425,7 +32425,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-301 w-13"/>
       <word id="14"
             form="καὶ"
@@ -32446,7 +32446,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Hesiod Works: s-301 w-16"/>
       <word id="17"
             form="αἵτ᾽"
@@ -32502,7 +32502,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Hesiod Works: s-301 w-24"/>
       <word id="25"
             form="ὅστε"
@@ -32722,7 +32722,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-303 w-15"/>
       <word id="16"
             form="καὶ"
@@ -32804,7 +32804,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-304 w-4"/>
       <word id="5"
             form="οὐρὰς"
@@ -32846,7 +32846,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-304 w-10"/>
       <word id="11"
             form="τῶν"
@@ -33033,7 +33033,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-306 w-7"/>
       <word id="8"
             form="οὐ"
@@ -33162,7 +33162,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-308 w-5"/>
       <word id="6"
             form="οὕνεκ᾽"
@@ -33197,7 +33197,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-308 w-10"/>
       <word id="11"
             form="οὐ"
@@ -33342,7 +33342,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-310 w-7"/>
       <word id="8"
             form="ἥτε"
@@ -33557,7 +33557,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Hesiod Works: s-311 w-16"/>
       <word id="17"
             form="ὅτ᾽"
@@ -33784,7 +33784,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-313 w-10"/>
       <word id="11"
             form="βράδιον"
@@ -34093,7 +34093,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-316 w-6"/>
       <word id="7"
             form="οὗ"
@@ -34135,7 +34135,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-316 w-12"/>
       <word id="13"
             form="κάρη"
@@ -34177,7 +34177,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-316 w-18"/>
       <word id="19"
             form="τῷ"
@@ -34205,7 +34205,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Hesiod Works: s-316 w-22"/>
       <word id="23"
             form="ἀλευόμενοι"
@@ -34280,7 +34280,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-317 w-6"/>
       <word id="7"
             form="ὥς"
@@ -34308,7 +34308,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-317 w-10"/>
       <word id="11"
             form="χλαῖνάν"
@@ -34444,7 +34444,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-319 w-3"/>
       <word id="4"
             form="ἵνα"
@@ -34479,7 +34479,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-319 w-8"/>
       <word id="9"
             form="μη"
@@ -34610,7 +34610,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-320 w-10"/>
       <word id="11"
             form="πίλοις"
@@ -34671,7 +34671,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-321 w-4"/>
       <word id="5"
             form="ὁπότ᾽"
@@ -34713,7 +34713,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-321 w-10"/>
       <word id="11"
             form="δέρματα"
@@ -34748,7 +34748,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-321 w-15"/>
       <word id="16"
             form="ὄφρ᾽"
@@ -34851,7 +34851,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-322 w-7"/>
       <word id="8"
             form="ἵν᾽"
@@ -35085,7 +35085,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-324 w-6"/>
       <word id="7"
             form="ὑψοῦ"
@@ -35286,7 +35286,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-325 w-7"/>
       <word id="8"
             form="μή"
@@ -35342,7 +35342,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Hesiod Works: s-325 w-15"/>
       <word id="16"
             form="χρῶτα"
@@ -35471,7 +35471,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-327 w-5"/>
       <word id="6"
             form="χειμέριος"
@@ -35485,7 +35485,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-327 w-7"/>
       <word id="8"
             form="χαλεπὸς"
@@ -35506,7 +35506,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-327 w-10"/>
       <word id="11"
             form="χαλεπὸς"
@@ -35576,7 +35576,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-328 w-4"/>
       <word id="5"
             form="ἐπ᾽"
@@ -35763,7 +35763,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Hesiod Works: s-330 w-11"/>
       <word id="12"
             form="εἰσόκεν"
@@ -35915,7 +35915,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-331 w-12"/>
       <word id="13"
             form="δή"
@@ -36095,7 +36095,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-332 w-11"/>
       <word id="12"
             form="ἔαρος"
@@ -36294,7 +36294,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-335 w-12"/>
       <word id="13"
             form="τότε"
@@ -36495,7 +36495,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-337 w-12"/>
       <word id="13"
             form="ὅτε"
@@ -36605,7 +36605,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-338 w-9"/>
       <word id="10"
             form="ἵνα"
@@ -36701,7 +36701,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-339 w-7"/>
       <word id="8"
             form="ἠώς"
@@ -36743,7 +36743,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-339 w-13"/>
       <word id="14"
             form="προφέρει"
@@ -36778,7 +36778,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Hesiod Works: s-339 w-18"/>
       <word id="19"
             form="ἠώς"
@@ -36792,7 +36792,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Hesiod Works: s-339 w-20"/>
       <word id="21"
             form="ἥτε"
@@ -37007,7 +37007,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-340 w-17"/>
       <word id="18"
             form="θέρεος"
@@ -37035,7 +37035,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-340 w-21"/>
       <word id="22"
             form="τῆμος"
@@ -37091,7 +37091,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Hesiod Works: s-340 w-29"/>
       <word id="30"
             form="μαχλόταται"
@@ -37119,7 +37119,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Hesiod Works: s-340 w-33"/>
       <word id="34"
             form="ἀφαυρότατοι"
@@ -37161,7 +37161,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Hesiod Works: s-340 w-39"/>
       <word id="40"
             form="ἐπεὶ"
@@ -37210,7 +37210,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Hesiod Works: s-340 w-46"/>
       <word id="47"
             form="αὐαλέος"
@@ -37377,7 +37377,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-341 w-11"/>
       <word id="12"
             form="μάζα"
@@ -37433,7 +37433,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-341 w-19"/>
       <word id="20"
             form="καὶ"
@@ -37557,7 +37557,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-342 w-6"/>
       <word id="7"
             form="ἐν"
@@ -37585,7 +37585,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-342 w-10"/>
       <word id="11"
             form="κεκορημένον"
@@ -37655,7 +37655,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Hesiod Works: s-342 w-20"/>
       <word id="21"
             form="κρήνης"
@@ -37697,7 +37697,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Hesiod Works: s-342 w-26"/>
       <word id="27"
             form="ἥτ᾽"
@@ -37718,7 +37718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Hesiod Works: s-342 w-29"/>
       <word id="30"
             form="τρὶς"
@@ -37746,7 +37746,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Hesiod Works: s-342 w-33"/>
       <word id="34"
             form="τὸ"
@@ -37858,7 +37858,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-343 w-8"/>
       <word id="9"
             form="εὖτ᾽"
@@ -37907,7 +37907,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-343 w-15"/>
       <word id="16"
             form="χώρῳ"
@@ -38092,7 +38092,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-345 w-10"/>
       <word id="11"
             form="θῆτά"
@@ -38279,7 +38279,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-347 w-9"/>
       <word id="10"
             form="μή"
@@ -38389,7 +38389,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-348 w-6"/>
       <word id="7"
             form="ὄφρα"
@@ -38602,7 +38602,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-350 w-11"/>
       <word id="12"
             form="Ἀρκτοῦρον"
@@ -38644,7 +38644,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-350 w-17"/>
       <word id="18"
             form="ὦ"
@@ -38665,7 +38665,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Hesiod Works: s-350 w-20"/>
       <word id="21"
             form="τότε"
@@ -38782,7 +38782,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-351 w-10"/>
       <word id="11"
             form="πέντε"
@@ -38810,7 +38810,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-351 w-14"/>
       <word id="15"
             form="ἕκτῳ"
@@ -38987,7 +38987,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-352 w-13"/>
       <word id="14"
             form="τότ᾽"
@@ -39151,7 +39151,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-354 w-8"/>
       <word id="9"
             form="εὖτ᾽"
@@ -39235,7 +39235,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-354 w-20"/>
       <word id="21"
             form="δὴ"
@@ -39352,7 +39352,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-355 w-9"/>
       <word id="10"
             form="γῆν"
@@ -39380,7 +39380,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-355 w-13"/>
       <word id="14"
             form="ὥς"
@@ -39483,7 +39483,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-356 w-10"/>
       <word id="11"
             form="ὄφρ᾽"
@@ -39532,7 +39532,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Hesiod Works: s-356 w-17"/>
       <word id="18"
             form="χείμαρον"
@@ -39553,7 +39553,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Hesiod Works: s-356 w-20"/>
       <word id="21"
             form="ἵνα"
@@ -39792,7 +39792,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-359 w-6"/>
       <word id="7"
             form="εἰσόκεν"
@@ -39867,7 +39867,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-360 w-7"/>
       <word id="8"
             form="ἐν"
@@ -39916,7 +39916,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-360 w-14"/>
       <word id="15"
             form="ἵν᾽"
@@ -39951,7 +39951,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Hesiod Works: s-360 w-19"/>
       <word id="20"
             form="ὥς"
@@ -40007,7 +40007,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Hesiod Works: s-360 w-27"/>
       <word id="28"
             form="μέγα"
@@ -40035,7 +40035,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Hesiod Works: s-360 w-31"/>
       <word id="32"
             form="πλωίζεσκ᾽"
@@ -40063,7 +40063,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Hesiod Works: s-360 w-35"/>
       <word id="36"
             form="βίου"
@@ -40138,7 +40138,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-361 w-6"/>
       <word id="7"
             form="πολὺν"
@@ -40173,7 +40173,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-361 w-11"/>
       <word id="12"
             form="Κύμην"
@@ -40201,7 +40201,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-361 w-15"/>
       <word id="16"
             form="ἐν"
@@ -40304,7 +40304,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-362 w-10"/>
       <word id="11"
             form="ἀλλὰ"
@@ -40332,7 +40332,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-362 w-14"/>
       <word id="15"
             form="τὴν"
@@ -40451,7 +40451,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-363 w-10"/>
       <word id="11"
             form="χεῖμα"
@@ -40472,7 +40472,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-363 w-13"/>
       <word id="14"
             form="θέρει"
@@ -40493,7 +40493,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-363 w-16"/>
       <word id="17"
             form="οὐ"
@@ -40554,7 +40554,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-364 w-3"/>
       <word id="4"
             form="ὦ"
@@ -40575,7 +40575,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-364 w-6"/>
       <word id="7"
             form="ἔργων"
@@ -40617,7 +40617,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-364 w-12"/>
       <word id="13"
             form="περὶ"
@@ -40703,7 +40703,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-365 w-4"/>
       <word id="5"
             form="μεγάλῃ"
@@ -40787,7 +40787,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-366 w-4"/>
       <word id="5"
             form="μεῖζον"
@@ -40836,7 +40836,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-366 w-11"/>
       <word id="12"
             form="εἴ"
@@ -41011,7 +41011,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-367 w-15"/>
       <word id="16"
             form="δείξω"
@@ -41060,7 +41060,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Hesiod Works: s-367 w-22"/>
       <word id="23"
             form="οὔ"
@@ -41205,7 +41205,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-368 w-10"/>
       <word id="11"
             form="εἰ"
@@ -41254,7 +41254,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Hesiod Works: s-368 w-17"/>
       <word id="18"
             form="ᾗ"
@@ -41654,7 +41654,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-372 w-7"/>
       <word id="8"
             form="ἔνθα"
@@ -41933,7 +41933,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-376 w-6"/>
       <word id="7"
             form="ἐς"
@@ -41982,7 +41982,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-376 w-13"/>
       <word id="14"
             form="ὡραῖος"
@@ -42099,7 +42099,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-377 w-11"/>
       <word id="12"
             form="εἰ"
@@ -42475,7 +42475,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-380 w-15"/>
       <word id="16"
             form="σπεύδειν"
@@ -42655,7 +42655,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Hesiod Works: s-381 w-17"/>
       <word id="18"
             form="ὅστ᾽"
@@ -42718,7 +42718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Hesiod Works: s-381 w-26"/>
       <word id="27"
             form="χαλεπὸν"
@@ -42854,7 +42854,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-383 w-5"/>
       <word id="6"
             form="ὅσον"
@@ -42903,7 +42903,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-383 w-12"/>
       <word id="13"
             form="τόσσον"
@@ -42959,7 +42959,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-383 w-20"/>
       <word id="21"
             form="τότε"
@@ -43454,7 +43454,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-392 w-9"/>
       <word id="10"
             form="ὡς"
@@ -43576,7 +43576,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-394 w-4"/>
       <word id="5"
             form="τὰ"
@@ -43707,7 +43707,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-396 w-3"/>
       <word id="4"
             form="εἴ"
@@ -43980,7 +43980,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-400 w-8"/>
       <word id="9"
             form="μήτε"
@@ -44160,7 +44160,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-402 w-6"/>
       <word id="7"
             form="πέμπτῳ"
@@ -44239,7 +44239,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-403 w-4"/>
       <word id="5"
             form="ὥς"
@@ -44321,7 +44321,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-404 w-5"/>
       <word id="6"
             form="ἥ"
@@ -44363,7 +44363,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-404 w-11"/>
       <word id="12"
             form="πάντα"
@@ -44391,7 +44391,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-404 w-15"/>
       <word id="16"
             form="μὴ"
@@ -44508,7 +44508,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Hesiod Works: s-405 w-11"/>
       <word id="12"
             form="τῆς"
@@ -44564,7 +44564,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-405 w-19"/>
       <word id="20"
             form="δειπνολόχης"
@@ -44845,7 +44845,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-409 w-5"/>
       <word id="6"
             form="μή"
@@ -45037,7 +45037,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-411 w-14"/>
       <word id="15"
             form="δὶς"
@@ -45140,7 +45140,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-412 w-9"/>
       <word id="10"
             form="δίκην"
@@ -45175,7 +45175,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-412 w-14"/>
       <word id="15"
             form="δέξασθαι"
@@ -45250,7 +45250,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-413 w-8"/>
       <word id="9"
             form="σὲ"
@@ -45367,7 +45367,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-414 w-8"/>
       <word id="9"
             form="μη"
@@ -45601,7 +45601,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-416 w-8"/>
       <word id="9"
             form="πλείστη"
@@ -45708,7 +45708,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Hesiod Works: s-417 w-5"/>
       <word id="6"
             form="τάχα"
@@ -45851,7 +45851,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Hesiod Works: s-419 w-4"/>
       <word id="5"
             form="δαπάνη"
@@ -46061,7 +46061,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-421 w-6"/>
       <word id="7"
             form="ἀποπτύουσι"
@@ -46197,7 +46197,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Hesiod Works: s-423 w-5"/>
       <word id="6"
             form="μεμνημένος"
@@ -46211,7 +46211,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-423 w-7"/>
       <word id="8"
             form="ἔς"
@@ -46440,7 +46440,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Hesiod Works: s-426 w-7"/>
       <word id="8"
             form="πεπνυμένα"
@@ -46461,7 +46461,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-426 w-10"/>
       <word id="11"
             form="ἢ"
@@ -46624,7 +46624,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-427 w-11"/>
       <word id="12"
             form="ἀλλ᾽"
@@ -46713,7 +46713,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-428 w-9"/>
       <word id="10"
             form="ἀλλ᾽"
@@ -46823,7 +46823,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-429 w-10"/>
       <word id="11"
             form="πρίν"
@@ -46858,7 +46858,7 @@
             lemma="εἰς1"
             postag="r--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-429 w-15"/>
       <word id="16"
             form="καλὰ"
@@ -46879,7 +46879,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-429 w-18"/>
       <word id="19"
             form="χεῖρας"
@@ -46982,7 +46982,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Hesiod Works: s-430 w-8"/>
       <word id="9"
             form="τῷ"
@@ -47331,7 +47331,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-434 w-7"/>
       <word id="8"
             form="μή"
@@ -47574,7 +47574,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-437 w-6"/>
       <word id="7"
             form="οὐ"
@@ -47602,7 +47602,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Hesiod Works: s-437 w-10"/>
       <word id="11"
             form="παῖδα"
@@ -47623,7 +47623,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-437 w-13"/>
       <word id="14"
             form="ὅτ᾽"
@@ -47658,7 +47658,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Hesiod Works: s-437 w-18"/>
       <word id="19"
             form="μη"
@@ -48105,7 +48105,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-443 w-14"/>
       <word id="15"
             form="μάλα"
@@ -48340,7 +48340,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-448 w-6"/>
       <word id="7"
             form="κούφη"
@@ -48382,7 +48382,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-448 w-12"/>
       <word id="13"
             form="ἀργαλέη"
@@ -48410,7 +48410,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Hesiod Works: s-448 w-16"/>
       <word id="17"
             form="χαλεπὴ"
@@ -48485,7 +48485,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-449 w-6"/>
       <word id="7"
             form="ἥν"
@@ -48808,7 +48808,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-453 w-8"/>
       <word id="9"
             form="εὖτ᾽"
@@ -49154,7 +49154,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Hesiod Works: s-457 w-5"/>
       <word id="6"
             form="ἄμφω"
@@ -49189,7 +49189,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Hesiod Works: s-457 w-10"/>
       <word id="11"
             form="ἠμὲν"
@@ -49406,7 +49406,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-459 w-11"/>
       <word id="12"
             form="ὅτε"
@@ -49687,7 +49687,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-463 w-9"/>
       <word id="10"
             form="ἀνδρογόνος"
@@ -49771,7 +49771,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-464 w-6"/>
       <word id="7"
             form="οὔ"
@@ -49923,7 +49923,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-465 w-11"/>
       <word id="12"
             form="ἀλλ᾽"
@@ -50252,7 +50252,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-468 w-9"/>
       <word id="10"
             form="οὐρῆας"
@@ -50357,7 +50357,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-469 w-8"/>
       <word id="9"
             form="ἵστορα"
@@ -50479,7 +50479,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-471 w-5"/>
       <word id="6"
             form="κούρῃ"
@@ -50894,7 +50894,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-474 w-10"/>
       <word id="11"
             form="οἳ"
@@ -50978,7 +50978,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Hesiod Works: s-475 w-4"/>
       <word id="5"
             form="ἐπεὶ"
@@ -51097,7 +51097,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Hesiod Works: s-476 w-9"/>
       <word id="10"
             form="τὸν"
@@ -51242,7 +51242,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Hesiod Works: s-477 w-14"/>
       <word id="15"
             form="ὑλοτόμον"
@@ -51312,7 +51312,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Hesiod Works: s-477 w-24"/>
       <word id="25"
             form="τά"
@@ -51476,7 +51476,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-479 w-9"/>
       <word id="10"
             form="πρωτίστη"
@@ -52274,7 +52274,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Hesiod Works: s-488 w-8"/>
       <word id="9"
             form="αἱ"
@@ -52309,7 +52309,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Hesiod Works: s-488 w-13"/>
       <word id="14"
             form="ἀκήριοι"
@@ -52400,7 +52400,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Hesiod Works: s-489 w-5"/>
       <word id="6"
             form="παῦροι"
@@ -52545,7 +52545,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Hesiod Works: s-491 w-6"/>
       <word id="7"
             form="ὃς"
@@ -52601,7 +52601,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Hesiod Works: s-491 w-14"/>
       <word id="15"
             form="ὄρνιθας"

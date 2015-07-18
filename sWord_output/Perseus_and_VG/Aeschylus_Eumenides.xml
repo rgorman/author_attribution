@@ -120,7 +120,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-2 w-5"/>
       <word id="6"
             form="ἣ"
@@ -183,7 +183,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-2 w-14"/>
       <word id="15"
             form="ὡς"
@@ -276,7 +276,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-3 w-6"/>
       <word id="7"
             form="θελούσης"
@@ -290,7 +290,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-3 w-8"/>
       <word id="9"
             form="οὐ"
@@ -332,7 +332,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-3 w-14"/>
       <word id="15"
             form="Τιτανὶς"
@@ -550,7 +550,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-6 w-7"/>
       <word id="8"
             form="κέλσας"
@@ -599,7 +599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-6 w-14"/>
       <word id="15"
             form="ἐς"
@@ -730,7 +730,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-7 w-10"/>
       <word id="11"
             form="χθόνα"
@@ -819,7 +819,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-8 w-7"/>
       <word id="8"
             form="Δελφός"
@@ -1168,7 +1168,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-13 w-4"/>
       <word id="5"
             form="ἔνθα"
@@ -1203,7 +1203,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-13 w-9"/>
       <word id="10"
             form="φίλορνις"
@@ -1217,7 +1217,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-13 w-11"/>
       <word id="12"
             form="δαιμόνων"
@@ -1287,7 +1287,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-14 w-5"/>
       <word id="6"
             form="οὐ"
@@ -1315,7 +1315,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-14 w-9"/>
       <word id="10"
             form="ἐξ"
@@ -1357,7 +1357,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-14 w-15"/>
       <word id="16"
             form="λαγὼ"
@@ -1488,7 +1488,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-15 w-12"/>
       <word id="13"
             form="ἔπειτα"
@@ -1652,7 +1652,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-17 w-5"/>
       <word id="6"
             form="ἴτων"
@@ -1680,7 +1680,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-17 w-9"/>
       <word id="10"
             form="ὡς"
@@ -1788,7 +1788,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-19 w-4"/>
       <word id="5"
             form="δεινὰ"
@@ -1823,7 +1823,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-19 w-9"/>
       <word id="10"
             form="πάλιν"
@@ -1879,7 +1879,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Eumenides: s-19 w-17"/>
       <word id="18"
             form="ὡς"
@@ -1935,7 +1935,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Eumenides: s-19 w-25"/>
       <word id="26"
             form="τρέχω"
@@ -2213,7 +2213,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-22 w-11"/>
       <word id="12"
             form="αἵματι"
@@ -2297,7 +2297,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Eumenides: s-22 w-23"/>
       <word id="24"
             form="λήνει"
@@ -2508,7 +2508,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-25 w-3"/>
       <word id="4"
             form="ἀλλὰ"
@@ -2536,7 +2536,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-25 w-7"/>
       <word id="8"
             form="οὐ"
@@ -2693,7 +2693,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-27 w-6"/>
       <word id="7"
             form="μέλαιναι"
@@ -3593,7 +3593,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-37 w-11"/>
       <word id="12"
             form="αἷς"
@@ -3733,7 +3733,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-38 w-5"/>
       <word id="6"
             form="ἐπεὶ"
@@ -3796,7 +3796,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-38 w-14"/>
       <word id="15"
             form="μισήματ᾽"
@@ -4255,7 +4255,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-43 w-10"/>
       <word id="11"
             form="ὥστ᾽"
@@ -4405,7 +4405,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-45 w-3"/>
       <word id="4"
             form="οἶσθα"
@@ -4487,7 +4487,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-46 w-4"/>
       <word id="5"
             form="καὶ"
@@ -4693,7 +4693,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-49 w-3"/>
       <word id="4"
             form="αὐτάδελφον"
@@ -4749,7 +4749,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-49 w-11"/>
       <word id="12"
             form="φύλασσε"
@@ -4817,7 +4817,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-50 w-7"/>
       <word id="8"
             form="τόνδε"
@@ -4962,7 +4962,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-51 w-3"/>
       <word id="4"
             form="ὠή"
@@ -4976,7 +4976,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-51 w-5"/>
       <word id="6"
             form="καὶ"
@@ -5149,7 +5149,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Eumenides: s-52 w-19"/>
       <word id="20"
             form="αἰσχρῶς"
@@ -5364,7 +5364,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-54 w-14"/>
       <word id="15"
             form="κατασφαγείσης"
@@ -5520,7 +5520,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-56 w-6"/>
       <word id="7"
             form="ἐν"
@@ -5639,7 +5639,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-57 w-8"/>
       <word id="9"
             form="χοάς"
@@ -5688,7 +5688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Eumenides: s-57 w-15"/>
       <word id="16"
             form="καὶ"
@@ -5744,7 +5744,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Eumenides: s-57 w-23"/>
       <word id="24"
             form="ὥραν"
@@ -5887,7 +5887,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-59 w-7"/>
       <word id="8"
             form="καὶ"
@@ -6039,7 +6039,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-60 w-10"/>
       <word id="11"
             form="ὦ"
@@ -6196,7 +6196,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-63 w-4"/>
       <word id="5"
             form="ἁνὴρ"
@@ -6882,7 +6882,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-76 w-4"/>
       <word id="5"
             form="κλαγγαίνεις"
@@ -6999,7 +6999,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-78 w-2"/>
       <word id="3"
             form="μή"
@@ -7034,7 +7034,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-78 w-7"/>
       <word id="8"
             form="μη"
@@ -7224,7 +7224,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-81 w-7"/>
       <word id="8"
             form="ἀτμῷ"
@@ -7266,7 +7266,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-81 w-13"/>
       <word id="14"
             form="ἕπου"
@@ -7327,7 +7327,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-82 w-2"/>
       <word id="3"
             form="ἔγειρε"
@@ -7362,7 +7362,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-82 w-7"/>
       <word id="8"
             form="ἐγὼ"
@@ -7458,7 +7458,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-84 w-5"/>
       <word id="6"
             form="ἰδώμεθ᾽"
@@ -7568,7 +7568,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-86 w-2"/>
       <word id="3"
             form="φίλαι"
@@ -7582,7 +7582,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-86 w-4"/>
       <word id="5"
             form="-"
@@ -7650,7 +7650,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-87 w-8"/>
       <word id="9"
             form="-"
@@ -7720,7 +7720,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-88 w-7"/>
       <word id="8"
             form="ἄφερτον"
@@ -7882,7 +7882,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-91 w-4"/>
       <word id="5"
             form="ἐπίκλοπος"
@@ -7903,7 +7903,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-91 w-7"/>
       <word id="8"
             form="-"
@@ -7952,7 +7952,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-91 w-14"/>
       <word id="15"
             form="-"
@@ -8397,7 +8397,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-96 w-6"/>
       <word id="7"
             form="κρατοῦντες"
@@ -8652,7 +8652,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Eumenides: s-98 w-11"/>
       <word id="12"
             form="παρὰ"
@@ -8701,7 +8701,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Eumenides: s-98 w-18"/>
       <word id="19"
             form="παλαιγενεῖς"
@@ -8769,7 +8769,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-99 w-4"/>
       <word id="5"
             form="καὶ"
@@ -8804,7 +8804,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-99 w-9"/>
       <word id="10"
             form="ὑπό"
@@ -8970,7 +8970,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-101 w-2"/>
       <word id="3"
             form="κελεύω"
@@ -8984,7 +8984,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-101 w-4"/>
       <word id="5"
             form="τῶνδε"
@@ -9096,7 +9096,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-101 w-20"/>
       <word id="21"
             form="χρυσηλάτου"
@@ -9124,7 +9124,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-101 w-24"/>
       <word id="25"
             form="ἀνῇς"
@@ -9180,7 +9180,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Aeschylus Eumenides: s-101 w-32"/>
       <word id="33"
             form="ἐμοῦσα"
@@ -9372,7 +9372,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Eumenides: s-103 w-14"/>
       <word id="15"
             form="ἠδ᾽"
@@ -9393,7 +9393,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-103 w-17"/>
       <word id="18"
             form="λευσμός"
@@ -9414,7 +9414,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Eumenides: s-103 w-20"/>
       <word id="21"
             form="καὶ"
@@ -9867,7 +9867,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-109 w-3"/>
       <word id="4"
             form="ἀντάκουσον"
@@ -9949,7 +9949,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-110 w-7"/>
       <word id="8"
             form="ἀλλ᾽"
@@ -10856,7 +10856,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-127 w-7"/>
       <word id="8"
             form="ὅθεν"
@@ -11104,7 +11104,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-129 w-14"/>
       <word id="15"
             form="οὔ"
@@ -11214,7 +11214,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-130 w-8"/>
       <word id="9"
             form="τὰ"
@@ -11662,7 +11662,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-137 w-3"/>
       <word id="4"
             form="ἄγει"
@@ -11697,7 +11697,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-137 w-8"/>
       <word id="9"
             form="δίκας"
@@ -11891,7 +11891,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-139 w-11"/>
       <word id="12"
             form="εἰ"
@@ -11952,7 +11952,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-140 w-3"/>
       <word id="4"
             form="Λοξίου"
@@ -11980,7 +11980,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Eumenides: s-140 w-7"/>
       <word id="8"
             form="δέχου"
@@ -12015,7 +12015,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Eumenides: s-140 w-12"/>
       <word id="13"
             form="οὐ"
@@ -12064,7 +12064,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Eumenides: s-140 w-19"/>
       <word id="20"
             form="ἀλλ᾽"
@@ -12204,7 +12204,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-141 w-6"/>
       <word id="7"
             form="σῴζων"
@@ -12239,7 +12239,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-141 w-11"/>
       <word id="12"
             form="πρόσειμι"
@@ -12288,7 +12288,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-141 w-18"/>
       <word id="19"
             form="θεά"
@@ -12663,7 +12663,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-148 w-6"/>
       <word id="7"
             form="ὑπέρ"
@@ -12719,7 +12719,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Eumenides: s-148 w-14"/>
       <word id="15"
             form="οὐδὲν"
@@ -13183,7 +13183,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-154 w-5"/>
       <word id="6"
             form="παπαῖ"
@@ -13625,7 +13625,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-158 w-18"/>
       <word id="19"
             form="ἔχονθ᾽"
@@ -13735,7 +13735,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-159 w-9"/>
       <word id="10"
             form="δελτογράφῳ"
@@ -13838,7 +13838,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-160 w-8"/>
       <word id="9"
             form="καὶ"
@@ -14032,7 +14032,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-162 w-7"/>
       <word id="8"
             form="μητροκτόνον"
@@ -14224,7 +14224,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-164 w-9"/>
       <word id="10"
             form="ὅσοις"
@@ -14622,7 +14622,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-168 w-7"/>
       <word id="8"
             form="Τρίτωνος"
@@ -14664,7 +14664,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-168 w-13"/>
       <word id="14"
             form="τίθησιν"
@@ -14706,7 +14706,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Eumenides: s-168 w-19"/>
       <word id="20"
             form="φίλοις"
@@ -14727,7 +14727,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-168 w-22"/>
       <word id="23"
             form="εἴτε"
@@ -14790,7 +14790,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-168 w-31"/>
       <word id="32"
             form="ἔλθοι"
@@ -15014,7 +15014,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Eumenides: s-169 w-15"/>
       <word id="16"
             form="τὸ"
@@ -15063,7 +15063,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Eumenides: s-169 w-22"/>
       <word id="23"
             form="ἀναίματον"
@@ -15147,7 +15147,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-170 w-4"/>
       <word id="5"
             form="ἀλλ᾽"
@@ -15175,7 +15175,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-170 w-8"/>
       <word id="9"
             form="ἐμοὶ"
@@ -15393,7 +15393,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-173 w-6"/>
       <word id="7"
             form="ἐπεὶ"
@@ -15435,7 +15435,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-173 w-12"/>
       <word id="13"
             form="λέξαι"
@@ -15634,7 +15634,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-175 w-11"/>
       <word id="12"
             form="ἀσινὴς"
@@ -15744,7 +15744,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-176 w-10"/>
       <word id="11"
             form="μάρτυρες"
@@ -15898,7 +15898,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-177 w-9"/>
       <word id="10"
             form="ἀλαοῖσι"
@@ -15933,7 +15933,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-177 w-14"/>
       <word id="15"
             form="κλῦθ᾽"
@@ -16160,7 +16160,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-179 w-9"/>
       <word id="10"
             form="παραφορὰ"
@@ -16181,7 +16181,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-179 w-12"/>
       <word id="13"
             form="ὕμνος"
@@ -16209,7 +16209,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-179 w-16"/>
       <word id="17"
             form="δέσμιος"
@@ -16398,7 +16398,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-180 w-15"/>
       <word id="16"
             form="τοῖς"
@@ -16419,7 +16419,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-180 w-18"/>
       <word id="19"
             form="ὄφρ᾽"
@@ -16564,7 +16564,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-182 w-7"/>
       <word id="8"
             form="παρακοπά"
@@ -16578,7 +16578,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-182 w-9"/>
       <word id="10"
             form="παραφορὰ"
@@ -16599,7 +16599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-182 w-12"/>
       <word id="13"
             form="ὕμνος"
@@ -16627,7 +16627,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-182 w-16"/>
       <word id="17"
             form="δέσμιος"
@@ -16800,7 +16800,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-184 w-5"/>
       <word id="6"
             form="οὐ"
@@ -16898,7 +16898,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-185 w-5"/>
       <word id="6"
             form="ὅταν"
@@ -17104,7 +17104,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-187 w-7"/>
       <word id="8"
             form="θεῶν"
@@ -17153,7 +17153,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Eumenides: s-187 w-14"/>
       <word id="15"
             form="μη"
@@ -17310,7 +17310,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-189 w-5"/>
       <word id="6"
             form="ὅταν"
@@ -17586,7 +17586,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Eumenides: s-191 w-17"/>
       <word id="18"
             form="ὀρχη"
@@ -17745,7 +17745,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Eumenides: s-192 w-15"/>
       <word id="16"
             form="δύσφορον"
@@ -17895,7 +17895,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-194 w-8"/>
       <word id="9"
             form="καὶ"
@@ -18089,7 +18089,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Eumenides: s-195 w-15"/>
       <word id="16"
             form="δύσφορον"
@@ -18176,7 +18176,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-197 w-5"/>
       <word id="6"
             form="κακῶν"
@@ -18232,7 +18232,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Eumenides: s-197 w-13"/>
       <word id="14"
             form="ἄτιμ᾽"
@@ -18295,7 +18295,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-197 w-22"/>
       <word id="23"
             form="δυσοδοπαίπαλα"
@@ -18421,7 +18421,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-198 w-10"/>
       <word id="11"
             form="ἐμοῦ"
@@ -18545,7 +18545,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-199 w-7"/>
       <word id="8"
             form="οὐ"
@@ -18580,7 +18580,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-199 w-12"/>
       <word id="13"
             form="καίπερ"
@@ -18711,7 +18711,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Eumenides: s-200 w-9"/>
       <word id="10"
             form="ἣν"
@@ -18767,7 +18767,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Eumenides: s-200 w-17"/>
       <word id="18"
             form="τῶν"
@@ -18809,7 +18809,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Eumenides: s-200 w-23"/>
       <word id="24"
             form="ἔνειμαν"
@@ -18940,7 +18940,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-201 w-6"/>
       <word id="7"
             form="πτερῶν"
@@ -19092,7 +19092,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Eumenides: s-202 w-15"/>
       <word id="16"
             form="θαῦμα"
@@ -19270,7 +19270,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-205 w-7"/>
       <word id="8"
             form="ὑμᾶς"
@@ -19319,7 +19319,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-205 w-14"/>
       <word id="15"
             form="οὔ"
@@ -19571,7 +19571,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-207 w-5"/>
       <word id="6"
             form="Διὸς"
@@ -19855,7 +19855,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-212 w-3"/>
       <word id="4"
             form="εἰ"
@@ -20197,7 +20197,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-218 w-3"/>
       <word id="4"
             form="ἤ"
@@ -20677,7 +20677,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-227 w-3"/>
       <word id="4"
             form="κρῖνε"
@@ -20911,7 +20911,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-231 w-5"/>
       <word id="6"
             form="ὦ"
@@ -20932,7 +20932,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-231 w-8"/>
       <word id="9"
             form="ἐν"
@@ -21035,7 +21035,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-232 w-10"/>
       <word id="11"
             form="ἔπειτα"
@@ -21283,7 +21283,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-235 w-3"/>
       <word id="4"
             form="πρῶτον"
@@ -21393,7 +21393,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-236 w-4"/>
       <word id="5"
             form="οὐ"
@@ -21578,7 +21578,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-238 w-6"/>
       <word id="7"
             form="ἔστ᾽"
@@ -21718,7 +21718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-239 w-7"/>
       <word id="8"
             form="καὶ"
@@ -21901,7 +21901,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-242 w-3"/>
       <word id="4"
             form="πατέρα"
@@ -21936,7 +21936,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-242 w-8"/>
       <word id="9"
             form="Ἀγαμέμνον᾽"
@@ -21978,7 +21978,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Eumenides: s-242 w-14"/>
       <word id="15"
             form="ξὺν"
@@ -22081,7 +22081,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-243 w-5"/>
       <word id="6"
             form="μολὼν"
@@ -22163,7 +22163,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-244 w-7"/>
       <word id="8"
             form="ποικίλοις"
@@ -22191,7 +22191,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-244 w-11"/>
       <word id="12"
             form="ἃ"
@@ -22252,7 +22252,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-245 w-3"/>
       <word id="4"
             form="τὸν"
@@ -22294,7 +22294,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-245 w-9"/>
       <word id="10"
             form="ἔκτεινα"
@@ -22322,7 +22322,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-245 w-13"/>
       <word id="14"
             form="οὐκ"
@@ -22343,7 +22343,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-245 w-16"/>
       <word id="17"
             form="ἀντικτόνοις"
@@ -22425,7 +22425,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-246 w-6"/>
       <word id="7"
             form="ἄλγη"
@@ -22714,7 +22714,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-249 w-4"/>
       <word id="5"
             form="εἴ"
@@ -23067,7 +23067,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-253 w-7"/>
       <word id="8"
             form="καὶ"
@@ -23109,7 +23109,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-253 w-13"/>
       <word id="14"
             form="χώρᾳ"
@@ -23366,7 +23366,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-256 w-7"/>
       <word id="8"
             form="φόνων"
@@ -23614,7 +23614,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-258 w-9"/>
       <word id="10"
             form="διαιρεῖν"
@@ -23649,7 +23649,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Eumenides: s-258 w-14"/>
       <word id="15"
             form="ὅρκον"
@@ -23731,7 +23731,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-259 w-5"/>
       <word id="6"
             form="εἰ"
@@ -24152,7 +24152,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-263 w-5"/>
       <word id="6"
             form="προφω"
@@ -24208,7 +24208,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-263 w-13"/>
       <word id="14"
             form="λῆξιν"
@@ -24393,7 +24393,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-265 w-7"/>
       <word id="8"
             form="τοῦτ᾽"
@@ -24442,7 +24442,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Eumenides: s-265 w-14"/>
       <word id="15"
             form="ὦ"
@@ -24559,7 +24559,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-266 w-11"/>
       <word id="12"
             form="ἐπει"
@@ -24655,7 +24655,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-267 w-6"/>
       <word id="7"
             form="καὶ"
@@ -25015,7 +25015,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-271 w-7"/>
       <word id="8"
             form="ἄλλ᾽"
@@ -25832,7 +25832,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Eumenides: s-281 w-16"/>
       <word id="17"
             form="ὅταν"
@@ -26003,7 +26003,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-283 w-7"/>
       <word id="8"
             form="τὸν"
@@ -26209,7 +26209,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-285 w-2"/>
       <word id="3"
             form="κῆρυξ"
@@ -26223,7 +26223,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-285 w-4"/>
       <word id="5"
             form="καὶ"
@@ -26251,7 +26251,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-285 w-8"/>
       <word id="9"
             form="ἥ"
@@ -26328,7 +26328,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Eumenides: s-285 w-19"/>
       <word id="20"
             form="ὑπέρτονον"
@@ -26578,7 +26578,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-287 w-3"/>
       <word id="4"
             form="ὧν"
@@ -27032,7 +27032,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-292 w-4"/>
       <word id="5"
             form="εἰσάγω"
@@ -27981,7 +27981,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-309 w-6"/>
       <word id="7"
             form="ἄλλ᾽"
@@ -28331,7 +28331,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-317 w-5"/>
       <word id="6"
             form="ἡ"
@@ -28614,14 +28614,14 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-321 w-7"/>
       <word id="8"
             form="ὦ"
             lemma="ὦ1"
             postag="e--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-321 w-8"/>
       <word id="9"
             form="μιαιφόνε"
@@ -28635,7 +28635,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-321 w-10"/>
       <word id="11"
             form="ζώνης"
@@ -28755,7 +28755,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-324 w-4"/>
       <word id="5"
             form="Ἄπολλον"
@@ -28769,7 +28769,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-324 w-6"/>
       <word id="7"
             form="εἴ"
@@ -28954,7 +28954,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-326 w-12"/>
       <word id="13"
             form="κρῖνον"
@@ -28968,7 +28968,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-326 w-14"/>
       <word id="15"
             form="ὡς"
@@ -29187,7 +29187,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-328 w-6"/>
       <word id="7"
             form="οὐκ"
@@ -29208,7 +29208,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-328 w-9"/>
       <word id="10"
             form="οὐ"
@@ -29257,7 +29257,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-328 w-16"/>
       <word id="17"
             form="ὃ"
@@ -29367,7 +29367,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-329 w-8"/>
       <word id="9"
             form="βουλῇ"
@@ -29489,7 +29489,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-331 w-2"/>
       <word id="3"
             form="ὡς"
@@ -29517,7 +29517,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-331 w-6"/>
       <word id="7"
             form="τόνδε"
@@ -29573,7 +29573,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Eumenides: s-331 w-14"/>
       <word id="15"
             form="τὸν"
@@ -29718,7 +29718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-332 w-11"/>
       <word id="12"
             form="καὶ"
@@ -29753,7 +29753,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Eumenides: s-332 w-16"/>
       <word id="17"
             form="οὔ"
@@ -29795,7 +29795,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-332 w-22"/>
       <word id="23"
             form="ὥστ᾽"
@@ -29816,7 +29816,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-332 w-25"/>
       <word id="26"
             form="ἀλλ᾽"
@@ -29844,7 +29844,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Eumenides: s-332 w-29"/>
       <word id="30"
             form="Παλλὰς"
@@ -30012,7 +30012,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-333 w-12"/>
       <word id="13"
             form="δροίτῃ"
@@ -30075,7 +30075,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-333 w-21"/>
       <word id="22"
             form="ἐν"
@@ -30276,7 +30276,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-335 w-4"/>
       <word id="5"
             form="ὡς"
@@ -30304,7 +30304,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-335 w-8"/>
       <word id="9"
             form="ὅσπερ"
@@ -30623,7 +30623,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-340 w-7"/>
       <word id="8"
             form="πέδας"
@@ -30789,7 +30789,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-341 w-9"/>
       <word id="10"
             form="οὔτις"
@@ -30871,7 +30871,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-342 w-7"/>
       <word id="8"
             form="τὰ"
@@ -31262,7 +31262,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-347 w-4"/>
       <word id="5"
             form="καὶ"
@@ -31365,7 +31365,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-348 w-8"/>
       <word id="9"
             form="τροφὸς"
@@ -31449,7 +31449,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-349 w-5"/>
       <word id="6"
             form="ἡ"
@@ -31505,7 +31505,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Eumenides: s-349 w-13"/>
       <word id="14"
             form="οἷσι"
@@ -31711,7 +31711,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-352 w-7"/>
       <word id="8"
             form="οὐ"
@@ -31760,7 +31760,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-352 w-14"/>
       <word id="15"
             form="ἀλλ᾽"
@@ -31842,7 +31842,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-353 w-3"/>
       <word id="4"
             form="Παλλάς"
@@ -31856,7 +31856,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-353 w-5"/>
       <word id="6"
             form="τἄλλα"
@@ -31891,7 +31891,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-353 w-10"/>
       <word id="11"
             form="τὸ"
@@ -31947,7 +31947,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-353 w-18"/>
       <word id="19"
             form="καὶ"
@@ -31996,7 +31996,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Eumenides: s-353 w-25"/>
       <word id="26"
             form="ὅπως"
@@ -32080,7 +32080,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Aeschylus Eumenides: s-353 w-37"/>
       <word id="38"
             form="θεά"
@@ -32094,7 +32094,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Aeschylus Eumenides: s-353 w-39"/>
       <word id="40"
             form="καὶ"
@@ -32122,7 +32122,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Aeschylus Eumenides: s-353 w-43"/>
       <word id="44"
             form="καὶ"
@@ -32267,7 +32267,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-354 w-9"/>
       <word id="10"
             form="ὡς"
@@ -32478,7 +32478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-358 w-5"/>
       <word id="6"
             form="ἄμομφος"
@@ -32532,7 +32532,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-359 w-4"/>
       <word id="5"
             form="ἐν"
@@ -32588,7 +32588,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-359 w-12"/>
       <word id="13"
             form="ξένοι"
@@ -32642,7 +32642,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-360 w-5"/>
       <word id="6"
             form="Ἀττικὸς"
@@ -32663,7 +32663,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-360 w-8"/>
       <word id="9"
             form="πρώτας"
@@ -32869,7 +32869,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-362 w-10"/>
       <word id="11"
             form="ὅτ᾽"
@@ -32918,7 +32918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Eumenides: s-362 w-17"/>
       <word id="18"
             form="καὶ"
@@ -32974,7 +32974,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Eumenides: s-362 w-25"/>
       <word id="26"
             form="Ἄρει"
@@ -33002,7 +33002,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Eumenides: s-362 w-29"/>
       <word id="30"
             form="ἔνθεν"
@@ -33037,7 +33037,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Aeschylus Eumenides: s-362 w-34"/>
       <word id="35"
             form="πάγος"
@@ -33219,7 +33219,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Eumenides: s-363 w-20"/>
       <word id="21"
             form="αὐτῶν"
@@ -33425,7 +33425,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-365 w-10"/>
       <word id="11"
             form="καὶ"
@@ -33654,7 +33654,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Eumenides: s-367 w-14"/>
       <word id="15"
             form="οἷον"
@@ -33689,7 +33689,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Eumenides: s-367 w-19"/>
       <word id="20"
             form="οὔ"
@@ -33799,7 +33799,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-368 w-5"/>
       <word id="6"
             form="αἰδοῖον"
@@ -33813,7 +33813,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-368 w-7"/>
       <word id="8"
             form="ὀξύθυμον"
@@ -34312,7 +34312,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-374 w-7"/>
       <word id="8"
             form="μαντεῖα"
@@ -34814,7 +34814,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-382 w-6"/>
       <word id="7"
             form="ἄλλως"
@@ -35104,7 +35104,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-385 w-6"/>
       <word id="7"
             form="δίκης"
@@ -35146,7 +35146,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-385 w-12"/>
       <word id="13"
             form="ὡς"
@@ -35373,7 +35373,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-388 w-8"/>
       <word id="9"
             form="τὸ"
@@ -35415,7 +35415,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-388 w-14"/>
       <word id="15"
             form="πλὴν"
@@ -35443,7 +35443,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-388 w-18"/>
       <word id="19"
             form="ἅπαντι"
@@ -35464,7 +35464,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-388 w-21"/>
       <word id="22"
             form="κάρτα"
@@ -35689,7 +35689,7 @@
             lemma="comma1"
             postag="---------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-391 w-6"/>
       <word id="7"
             form="ὅσοις"
@@ -35764,7 +35764,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Eumenides: s-392 w-4"/>
       <word id="5"
             form="πῶς"
@@ -35832,7 +35832,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-393 w-5"/>
       <word id="6"
             form="ἆρ᾽"
@@ -35900,7 +35900,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-394 w-5"/>
       <word id="6"
             form="ἢ"
@@ -35970,7 +35970,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-395 w-4"/>
       <word id="5"
             form="ἢ"
@@ -36054,7 +36054,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-396 w-5"/>
       <word id="6"
             form="ξένοι"
@@ -36068,7 +36068,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-396 w-7"/>
       <word id="8"
             form="τὸ"
@@ -36178,7 +36178,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-397 w-7"/>
       <word id="8"
             form="βαλοῦσά"
@@ -36506,7 +36506,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-402 w-5"/>
       <word id="6"
             form="&#34;"
@@ -36576,7 +36576,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-402 w-15"/>
       <word id="16"
             form="Παλλάδος"
@@ -36611,7 +36611,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Eumenides: s-402 w-20"/>
       <word id="21"
             form="καὶ"
@@ -36660,7 +36660,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-402 w-27"/>
       <word id="28"
             form="&#34;"
@@ -36716,7 +36716,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Aeschylus Eumenides: s-402 w-35"/>
       <word id="36"
             form="μητρὸς"
@@ -36905,7 +36905,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Aeschylus Eumenides: s-403 w-20"/>
       <word id="21"
             form="μήτοι"
@@ -37106,7 +37106,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-404 w-16"/>
       <word id="17"
             form="ὁδοὺς"
@@ -37155,7 +37155,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Eumenides: s-404 w-23"/>
       <word id="24"
             form="ὡς"
@@ -37225,7 +37225,7 @@
             lemma="comma1"
             postag="---------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-405 w-3"/>
       <word id="4"
             form="καὶ"
@@ -37295,7 +37295,7 @@
             lemma="comma1"
             postag="---------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-405 w-13"/>
       <word id="14"
             form="αὐτοῖσιν"
@@ -37356,7 +37356,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-406 w-3"/>
       <word id="4"
             form="καὶ"
@@ -37445,7 +37445,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-407 w-6"/>
       <word id="7"
             form="σωτήριόν"
@@ -37520,7 +37520,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-408 w-4"/>
       <word id="5"
             form="παλαιοὺς"
@@ -37651,7 +37651,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-409 w-10"/>
       <word id="11"
             form="φεῦ"
@@ -37665,7 +37665,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-409 w-12"/>
       <word id="13"
             form="ἰὸν"
@@ -37707,7 +37707,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-409 w-18"/>
       <word id="19"
             form="σταλαγμὸν"
@@ -37805,7 +37805,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-410 w-8"/>
       <word id="9"
             form="ἰὼ"
@@ -37826,7 +37826,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-410 w-11"/>
       <word id="12"
             form="πέδον"
@@ -38138,7 +38138,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-417 w-4"/>
       <word id="5"
             form="ἀλλ᾽"
@@ -38180,7 +38180,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-417 w-10"/>
       <word id="11"
             form="οὐκ"
@@ -38269,7 +38269,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-418 w-8"/>
       <word id="9"
             form="αὐτός"
@@ -38332,7 +38332,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Eumenides: s-418 w-17"/>
       <word id="18"
             form="ὡς"
@@ -38477,7 +38477,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-419 w-12"/>
       <word id="13"
             form="μη"
@@ -38512,7 +38512,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Eumenides: s-419 w-17"/>
       <word id="18"
             form="ἀφεῖσαι"
@@ -38767,7 +38767,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-421 w-4"/>
       <word id="5"
             form="παλαιοὺς"
@@ -38898,7 +38898,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-422 w-10"/>
       <word id="11"
             form="φεῦ"
@@ -38912,7 +38912,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-422 w-12"/>
       <word id="13"
             form="ἰὸν"
@@ -38954,7 +38954,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-422 w-18"/>
       <word id="19"
             form="σταλαγμὸν"
@@ -39052,7 +39052,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-423 w-8"/>
       <word id="9"
             form="ἰὼ"
@@ -39073,7 +39073,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-423 w-11"/>
       <word id="12"
             form="πέδον"
@@ -39338,7 +39338,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-429 w-4"/>
       <word id="5"
             form="μη"
@@ -39441,7 +39441,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-430 w-4"/>
       <word id="5"
             form="καὶ"
@@ -39530,7 +39530,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Eumenides: s-431 w-7"/>
       <word id="8"
             form="ἐν"
@@ -39701,7 +39701,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Eumenides: s-433 w-12"/>
       <word id="13"
             form="καρπὸν"
@@ -40014,7 +40014,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-436 w-4"/>
       <word id="5"
             form="φεῦ"
@@ -40028,7 +40028,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-436 w-6"/>
       <word id="7"
             form="ἐμὲ"
@@ -40077,7 +40077,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-436 w-13"/>
       <word id="14"
             form="φεῦ"
@@ -40091,7 +40091,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-436 w-15"/>
       <word id="16"
             form="ἀτίετον"
@@ -40208,7 +40208,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-438 w-4"/>
       <word id="5"
             form="φεῦ"
@@ -40264,7 +40264,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-439 w-4"/>
       <word id="5"
             form="τίς"
@@ -40318,7 +40318,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-440 w-3"/>
       <word id="4"
             form="μᾶτερ"
@@ -40909,7 +40909,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Eumenides: s-449 w-15"/>
       <word id="16"
             form="ὅσων"
@@ -41082,7 +41082,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Eumenides: s-450 w-16"/>
       <word id="17"
             form="ἀοίνοις"
@@ -41110,7 +41110,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Eumenides: s-450 w-20"/>
       <word id="21"
             form="μήτ᾽"
@@ -41124,7 +41124,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-450 w-22"/>
       <word id="23"
             form="ἐξελοῦσ᾽"
@@ -41159,7 +41159,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-450 w-27"/>
       <word id="28"
             form="ἐν"
@@ -41292,7 +41292,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-451 w-4"/>
       <word id="5"
             form="οὐ"
@@ -41320,7 +41320,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-451 w-8"/>
       <word id="9"
             form="ἐν"
@@ -41498,7 +41498,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-453 w-10"/>
       <word id="11"
             form="εὖ"
@@ -41601,7 +41601,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-454 w-4"/>
       <word id="5"
             form="φεῦ"
@@ -41615,7 +41615,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-454 w-6"/>
       <word id="7"
             form="ἐμὲ"
@@ -41664,7 +41664,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-454 w-13"/>
       <word id="14"
             form="φεῦ"
@@ -41678,7 +41678,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-454 w-15"/>
       <word id="16"
             form="ἀτίετον"
@@ -41795,7 +41795,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-456 w-4"/>
       <word id="5"
             form="φεῦ"
@@ -41851,7 +41851,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-457 w-4"/>
       <word id="5"
             form="τίς"
@@ -41905,7 +41905,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-458 w-3"/>
       <word id="4"
             form="μᾶτερ"
@@ -42076,7 +42076,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-460 w-6"/>
       <word id="7"
             form="ὡς"
@@ -42305,7 +42305,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-461 w-15"/>
       <word id="16"
             form="σὺ"
@@ -42394,7 +42394,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Eumenides: s-462 w-6"/>
       <word id="7"
             form="οὔ"
@@ -42621,7 +42621,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Eumenides: s-464 w-3"/>
       <word id="4"
             form="τίνα"
@@ -42930,7 +42930,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Eumenides: s-470 w-4"/>
       <word id="5"
             form="ὥστε"
@@ -43350,7 +43350,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-477 w-6"/>
       <word id="7"
             form="καὶ"
@@ -43606,7 +43606,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-479 w-12"/>
       <word id="13"
             form="καὶ"
@@ -43730,7 +43730,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-481 w-3"/>
       <word id="4"
             form="ἀνδρὸς"
@@ -43758,7 +43758,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-481 w-7"/>
       <word id="8"
             form="τὸ"
@@ -43997,7 +43997,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-484 w-4"/>
       <word id="5"
             form="οὐ"
@@ -44032,7 +44032,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-484 w-9"/>
       <word id="10"
             form="τὰν"
@@ -44308,7 +44308,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-486 w-7"/>
       <word id="8"
             form="μεγάλας"
@@ -44598,7 +44598,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-489 w-10"/>
       <word id="11"
             form="σιγῶν"
@@ -44790,7 +44790,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Eumenides: s-491 w-5"/>
       <word id="6"
             form="τὸ"
@@ -44832,7 +44832,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Eumenides: s-491 w-11"/>
       <word id="12"
             form="μη"
@@ -44881,7 +44881,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Eumenides: s-491 w-18"/>
       <word id="19"
             form="μῆλά"
@@ -45061,7 +45061,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-493 w-4"/>
       <word id="5"
             form="πόλεως"
@@ -45199,7 +45199,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Eumenides: s-494 w-13"/>
       <word id="14"
             form="περί"
@@ -45248,7 +45248,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Eumenides: s-494 w-20"/>
       <word id="21"
             form="τοῖς"
@@ -45276,7 +45276,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Eumenides: s-494 w-24"/>
       <word id="25"
             form="τοῖς"
@@ -45402,7 +45402,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Eumenides: s-495 w-8"/>
       <word id="9"
             form="νεανίδων"
@@ -45451,7 +45451,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Eumenides: s-495 w-15"/>
       <word id="16"
             form="κύρι᾽"
@@ -45472,7 +45472,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Eumenides: s-495 w-18"/>
       <word id="19"
             form="θεαί"
@@ -45514,7 +45514,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Aeschylus Eumenides: s-495 w-24"/>
       <word id="25"
             form="δαίμονες"
@@ -45535,7 +45535,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Aeschylus Eumenides: s-495 w-27"/>
       <word id="28"
             form="παντὶ"
@@ -45563,7 +45563,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Aeschylus Eumenides: s-495 w-31"/>
       <word id="32"
             form="παντὶ"
@@ -45741,7 +45741,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-497 w-5"/>
       <word id="6"
             form="ὅτι"
@@ -46174,7 +46174,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-502 w-6"/>
       <word id="7"
             form="καὶ"
@@ -46605,7 +46605,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-508 w-4"/>
       <word id="5"
             form="ἴκταρ"
@@ -46633,7 +46633,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-508 w-8"/>
       <word id="9"
             form="παρθένου"
@@ -46975,7 +46975,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Eumenides: s-512 w-15"/>
       <word id="16"
             form="τὸ"
@@ -47064,7 +47064,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-513 w-4"/>
       <word id="5"
             form="πολισσοῦχοι"
@@ -47092,7 +47092,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-513 w-8"/>
       <word id="9"
             form="ταῖσδε"
@@ -47186,7 +47186,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-515 w-2"/>
       <word id="3"
             form="χαίρετε"
@@ -47214,7 +47214,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-515 w-6"/>
       <word id="7"
             form="ἐπανδιπλάζω"
@@ -47228,7 +47228,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Eumenides: s-515 w-8"/>
       <word id="9"
             form="πάντες"
@@ -47298,7 +47298,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-515 w-18"/>
       <word id="19"
             form="Παλλάδος"
@@ -47581,7 +47581,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Eumenides: s-517 w-21"/>
       <word id="22"
             form="αἵτε"
@@ -47705,7 +47705,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-518 w-11"/>
       <word id="12"
             form="γυναικῶν"
@@ -47719,7 +47719,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-518 w-13"/>
       <word id="14"
             form="καὶ"
@@ -47805,7 +47805,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Eumenides: s-519 w-5"/>
       <word id="6"
             form="καὶ"
@@ -47847,7 +47847,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Eumenides: s-519 w-11"/>
       <word id="12"
             form="ὅπως"
@@ -47957,7 +47957,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-520 w-3"/>
       <word id="4"
             form="μεγάλαι"
@@ -47999,7 +47999,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Eumenides: s-520 w-9"/>
       <word id="10"
             form="ὑπ᾽"
@@ -48053,7 +48053,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-521 w-3"/>
       <word id="4"
             form="χωρῖται"
@@ -48067,7 +48067,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Eumenides: s-521 w-5"/>
       <word id="6"
             form="γᾶς"
@@ -48102,7 +48102,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-521 w-10"/>
       <word id="11"
             form="[καὶ]"
@@ -48151,7 +48151,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Eumenides: s-521 w-17"/>
       <word id="18"
             form="εὐφαμεῖτε"
@@ -48249,7 +48249,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Eumenides: s-522 w-8"/>
       <word id="9"
             form="σεμναί"
@@ -48263,7 +48263,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Eumenides: s-522 w-10"/>
       <word id="11"
             form="ξὺν"

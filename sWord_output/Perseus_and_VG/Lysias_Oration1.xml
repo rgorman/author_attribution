@@ -56,7 +56,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-1 w-5"/>
       <word id="6"
             form="ὦ"
@@ -77,7 +77,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-1 w-8"/>
       <word id="9"
             form="τὸ"
@@ -154,7 +154,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 1: s-1 w-19"/>
       <word id="20"
             form="οἷοίπερ"
@@ -250,7 +250,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-2 w-5"/>
       <word id="6"
             form="εἰ"
@@ -313,7 +313,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-2 w-14"/>
       <word id="15"
             form="ἥνπερ"
@@ -348,7 +348,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 1: s-2 w-19"/>
       <word id="20"
             form="οὐκ"
@@ -439,7 +439,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-3 w-7"/>
       <word id="8"
             form="ἀλλὰ"
@@ -612,7 +612,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-4 w-11"/>
       <word id="12"
             form="ἀλλʼ"
@@ -820,7 +820,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 1: s-5 w-23"/>
       <word id="24"
             form="ὥστε"
@@ -902,7 +902,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-6 w-2"/>
       <word id="3"
             form="ὦ"
@@ -923,7 +923,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-6 w-5"/>
       <word id="6"
             form="ταύτην"
@@ -1089,7 +1089,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 1: s-7 w-15"/>
       <word id="16"
             form="καὶ"
@@ -1131,7 +1131,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Lysias Orat. 1: s-7 w-21"/>
       <word id="22"
             form="ὅστις"
@@ -1269,7 +1269,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-8 w-3"/>
       <word id="4"
             form="ὦ"
@@ -1290,7 +1290,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-8 w-6"/>
       <word id="7"
             form="τοῦτό"
@@ -1521,7 +1521,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Lysias Orat. 1: s-8 w-39"/>
       <word id="40"
             form="καὶ"
@@ -1598,7 +1598,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Lysias Orat. 1: s-8 w-50"/>
       <word id="51"
             form="οὔτε"
@@ -1640,7 +1640,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="57"
+            head="0"
             cite=" Lysias Orat. 1: s-8 w-56"/>
       <word id="57"
             form="ἵνα"
@@ -1850,7 +1850,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 1: s-9 w-11"/>
       <word id="12"
             form="οὐδὲν"
@@ -1871,7 +1871,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 1: s-9 w-14"/>
       <word id="15"
             form="ἀλλὰ"
@@ -1960,7 +1960,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-10 w-7"/>
       <word id="8"
             form="ἐὰν"
@@ -2042,7 +2042,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-11 w-3"/>
       <word id="4"
             form="ὦ"
@@ -2063,7 +2063,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-11 w-6"/>
       <word id="7"
             form="ἐπειδὴ"
@@ -2140,7 +2140,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-11 w-17"/>
       <word id="18"
             form="τὸν"
@@ -2294,7 +2294,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Lysias Orat. 1: s-11 w-39"/>
       <word id="40"
             form="ἐφύλαττόν"
@@ -2343,7 +2343,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="42"
+            head="0"
             cite=" Lysias Orat. 1: s-11 w-46"/>
       <word id="47"
             form="καὶ"
@@ -2446,7 +2446,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-12 w-6"/>
       <word id="7"
             form="ἐπίστευον"
@@ -2509,7 +2509,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 1: s-12 w-15"/>
       <word id="16"
             form="ἡγούμενος"
@@ -2605,7 +2605,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 1: s-13 w-7"/>
       <word id="8"
             form="ὦ"
@@ -2626,7 +2626,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 1: s-13 w-10"/>
       <word id="11"
             form="πασῶν"
@@ -2806,7 +2806,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-15 w-7"/>
       <word id="8"
             form="πάντων"
@@ -2965,7 +2965,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 1: s-16 w-14"/>
       <word id="15"
             form="χρόνῳ"
@@ -3129,7 +3129,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-18 w-4"/>
       <word id="5"
             form="ὦ"
@@ -3150,7 +3150,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-18 w-7"/>
       <word id="8"
             form="("
@@ -3241,7 +3241,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Lysias Orat. 1: s-18 w-20"/>
       <word id="21"
             form="ἴσα"
@@ -3393,7 +3393,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-19 w-7"/>
       <word id="8"
             form="ἡ"
@@ -3461,7 +3461,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-20 w-4"/>
       <word id="5"
             form="ὁπότε"
@@ -3489,7 +3489,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-20 w-8"/>
       <word id="9"
             form="κινδυνεύῃ"
@@ -3531,7 +3531,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-20 w-14"/>
       <word id="15"
             form="ἐγὼ"
@@ -3566,7 +3566,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Lysias Orat. 1: s-20 w-19"/>
       <word id="20"
             form="αἱ"
@@ -3657,7 +3657,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-21 w-6"/>
       <word id="7"
             form="ὥστε"
@@ -3734,7 +3734,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-21 w-17"/>
       <word id="18"
             form="ἵνα"
@@ -3860,7 +3860,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-22 w-7"/>
       <word id="8"
             form="καὶ"
@@ -3895,7 +3895,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-22 w-12"/>
       <word id="13"
             form="ἀλλʼ"
@@ -3930,7 +3930,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Lysias Orat. 1: s-22 w-17"/>
       <word id="18"
             form="ὥστε"
@@ -4061,7 +4061,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-23 w-5"/>
       <word id="6"
             form="ὦ"
@@ -4082,7 +4082,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-23 w-8"/>
       <word id="9"
             form="ἧκον"
@@ -4124,7 +4124,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 1: s-23 w-14"/>
       <word id="15"
             form="μετὰ"
@@ -4229,7 +4229,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Lysias Orat. 1: s-23 w-29"/>
       <word id="30"
             form="ἵνα"
@@ -4440,7 +4440,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 1: s-26 w-13"/>
       <word id="14"
             form="ἵνα"
@@ -4529,7 +4529,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 1: s-27 w-8"/>
       <word id="9"
             form="ὡς"
@@ -4669,7 +4669,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-28 w-9"/>
       <word id="10"
             form="ἵνα"
@@ -4826,7 +4826,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-30 w-5"/>
       <word id="6"
             form="ἐκείνη"
@@ -4889,7 +4889,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 1: s-30 w-14"/>
       <word id="15"
             form="προσποιουμένη"
@@ -4910,7 +4910,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 1: s-30 w-17"/>
       <word id="18"
             form="καὶ"
@@ -5020,7 +5020,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 1: s-31 w-10"/>
       <word id="11"
             form="ἥκων"
@@ -5095,7 +5095,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-32 w-6"/>
       <word id="7"
             form="ἧκεν"
@@ -5212,7 +5212,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-33 w-9"/>
       <word id="10"
             form="ἔφασκε"
@@ -5275,7 +5275,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 1: s-33 w-18"/>
       <word id="19"
             form="εἶτα"
@@ -5411,7 +5411,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-35 w-4"/>
       <word id="5"
             form="ὦ"
@@ -5432,7 +5432,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-35 w-7"/>
       <word id="8"
             form="τὸ"
@@ -5460,7 +5460,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 1: s-35 w-11"/>
       <word id="12"
             form="τοῦ"
@@ -5645,7 +5645,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-37 w-4"/>
       <word id="5"
             form="ὦ"
@@ -5666,7 +5666,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-37 w-7"/>
       <word id="8"
             form="χρόνου"
@@ -5743,7 +5743,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 1: s-37 w-18"/>
       <word id="19"
             form="προσέρχεταί"
@@ -5785,7 +5785,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Lysias Orat. 1: s-37 w-24"/>
       <word id="25"
             form="ὑπὸ"
@@ -5834,7 +5834,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Lysias Orat. 1: s-37 w-31"/>
       <word id="32"
             form="ὡς"
@@ -5923,7 +5923,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-38 w-7"/>
       <word id="8"
             form="ὅτι"
@@ -5972,7 +5972,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-38 w-14"/>
       <word id="15"
             form="ἐφύλαττεν"
@@ -6124,7 +6124,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 1: s-39 w-12"/>
       <word id="13"
             form="εὐφίλητε"
@@ -6421,7 +6421,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-41 w-15"/>
       <word id="16"
             form="ἅπαντα"
@@ -6510,7 +6510,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Lysias Orat. 1: s-42 w-9"/>
       <word id="10"
             form="ὃς"
@@ -6667,7 +6667,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-44 w-3"/>
       <word id="4"
             form="ὦ"
@@ -6688,7 +6688,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-44 w-6"/>
       <word id="7"
             form="ἐκείνη"
@@ -6716,7 +6716,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Lysias Orat. 1: s-44 w-10"/>
       <word id="11"
             form="ἐγὼ"
@@ -6751,7 +6751,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 1: s-44 w-15"/>
       <word id="16"
             form="καὶ"
@@ -6807,7 +6807,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Lysias Orat. 1: s-44 w-23"/>
       <word id="24"
             form="καὶ"
@@ -6842,7 +6842,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Lysias Orat. 1: s-44 w-28"/>
       <word id="29"
             form="ἐνθυμούμενος"
@@ -6898,7 +6898,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Lysias Orat. 1: s-44 w-36"/>
       <word id="37"
             form="ἀναμιμνῃσκόμενος"
@@ -7003,7 +7003,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="54"
+            head="0"
             cite=" Lysias Orat. 1: s-44 w-51"/>
       <word id="52"
             form="ὃ"
@@ -7031,7 +7031,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Lysias Orat. 1: s-44 w-55"/>
       <word id="56"
             form="ἔδοξέ"
@@ -7159,7 +7159,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-45 w-8"/>
       <word id="9"
             form="καὶ"
@@ -7283,7 +7283,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-46 w-12"/>
       <word id="13"
             form="ἀγαγὼν"
@@ -7568,7 +7568,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 1: s-47 w-21"/>
       <word id="22"
             form="ἢ"
@@ -7631,7 +7631,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Lysias Orat. 1: s-47 w-30"/>
       <word id="31"
             form="ἀλλὰ"
@@ -7720,7 +7720,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-48 w-4"/>
       <word id="5"
             form="ἀλλὰ"
@@ -7823,7 +7823,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-49 w-8"/>
       <word id="9"
             form="καὶ"
@@ -7975,7 +7975,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-51 w-8"/>
       <word id="9"
             form="καὶ"
@@ -8052,7 +8052,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-51 w-19"/>
       <word id="20"
             form="ἐξεπλάγη"
@@ -8169,7 +8169,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-52 w-9"/>
       <word id="10"
             form="καὶ"
@@ -8232,7 +8232,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-52 w-18"/>
       <word id="19"
             form="κατηγόρει"
@@ -8302,7 +8302,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Lysias Orat. 1: s-52 w-28"/>
       <word id="29"
             form="ἔπειτα"
@@ -8386,7 +8386,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Lysias Orat. 1: s-52 w-40"/>
       <word id="41"
             form="καὶ"
@@ -8435,7 +8435,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Lysias Orat. 1: s-52 w-47"/>
       <word id="48"
             form="καὶ"
@@ -8669,7 +8669,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-54 w-6"/>
       <word id="7"
             form="εἶπον"
@@ -8690,7 +8690,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-54 w-9"/>
       <word id="10"
             form="ὅπως"
@@ -8772,7 +8772,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-55 w-4"/>
       <word id="5"
             form="οὐδέν"
@@ -8959,7 +8959,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-57 w-6"/>
       <word id="7"
             form="ἀλλὰ"
@@ -9001,7 +9001,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 1: s-57 w-12"/>
       <word id="13"
             form="εἴπερ"
@@ -9130,7 +9130,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-59 w-9"/>
       <word id="10"
             form="ὡς"
@@ -9458,7 +9458,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-63 w-12"/>
       <word id="13"
             form="ἐκέλευον"
@@ -9472,7 +9472,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 1: s-63 w-14"/>
       <word id="15"
             form="συνδειπνεῖν"
@@ -9533,7 +9533,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Lysias Orat. 1: s-64 w-6"/>
       <word id="7"
             form="ἀναβάντες"
@@ -9622,7 +9622,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-65 w-6"/>
       <word id="7"
             form="ἐκεῖνος"
@@ -9657,7 +9657,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-65 w-11"/>
       <word id="12"
             form="ἐγὼ"
@@ -9718,7 +9718,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-66 w-4"/>
       <word id="5"
             form="ὦ"
@@ -9739,7 +9739,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-66 w-7"/>
       <word id="8"
             form="εἰσέρχεται"
@@ -9753,7 +9753,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-66 w-9"/>
       <word id="10"
             form="καὶ"
@@ -9891,7 +9891,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Lysias Orat. 1: s-67 w-8"/>
       <word id="9"
             form="καταβὰς"
@@ -9919,7 +9919,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 1: s-67 w-12"/>
       <word id="13"
             form="καὶ"
@@ -9968,7 +9968,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 1: s-67 w-19"/>
       <word id="20"
             form="καὶ"
@@ -10010,7 +10010,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 1: s-67 w-25"/>
       <word id="26"
             form="τοὺς"
@@ -10403,7 +10403,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 1: s-70 w-18"/>
       <word id="19"
             form="οἱ"
@@ -10519,7 +10519,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-71 w-3"/>
       <word id="4"
             form="ὦ"
@@ -10540,7 +10540,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-71 w-6"/>
       <word id="7"
             form="πατάξας"
@@ -10568,7 +10568,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-71 w-10"/>
       <word id="11"
             form="καὶ"
@@ -10755,7 +10755,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-72 w-6"/>
       <word id="7"
             form="ἠντεβόλει"
@@ -10893,7 +10893,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-73 w-9"/>
       <word id="10"
             form="ἀλλʼ"
@@ -10998,7 +10998,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Lysias Orat. 1: s-73 w-24"/>
       <word id="25"
             form="καὶ"
@@ -11201,7 +11201,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-74 w-2"/>
       <word id="3"
             form="ὦ"
@@ -11222,7 +11222,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-74 w-5"/>
       <word id="6"
             form="ἐκεῖνος"
@@ -11306,7 +11306,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 1: s-74 w-17"/>
       <word id="18"
             form="οὐκ"
@@ -11348,7 +11348,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 1: s-74 w-23"/>
       <word id="24"
             form="οὐδʼ"
@@ -11390,7 +11390,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Lysias Orat. 1: s-74 w-29"/>
       <word id="30"
             form="ὥσπερ"
@@ -11460,7 +11460,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-75 w-4"/>
       <word id="5"
             form="ὅστις"
@@ -11516,7 +11516,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-75 w-12"/>
       <word id="13"
             form="περιέστρεψα"
@@ -11558,7 +11558,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 1: s-75 w-18"/>
       <word id="19"
             form="ἔνδον"
@@ -11600,7 +11600,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Lysias Orat. 1: s-75 w-24"/>
       <word id="25"
             form="οὓς"
@@ -11635,7 +11635,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Lysias Orat. 1: s-75 w-29"/>
       <word id="30"
             form="οὔτε"
@@ -11698,7 +11698,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="43"
+            head="0"
             cite=" Lysias Orat. 1: s-75 w-38"/>
       <word id="39"
             form="ᾧ"
@@ -11777,7 +11777,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-76 w-2"/>
       <word id="3"
             form="ὦ"
@@ -11798,7 +11798,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-76 w-5"/>
       <word id="6"
             form="οἶμαι"
@@ -11917,7 +11917,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 1: s-76 w-22"/>
       <word id="23"
             form="ἀλλʼ"
@@ -12135,7 +12135,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-79 w-3"/>
       <word id="4"
             form="ὦ"
@@ -12156,7 +12156,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-79 w-6"/>
       <word id="7"
             form="ἀλλʼ"
@@ -12184,7 +12184,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-79 w-10"/>
       <word id="11"
             form="καὶ"
@@ -12247,7 +12247,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 1: s-79 w-19"/>
       <word id="20"
             form="ἀποτίνειν"
@@ -12357,7 +12357,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-80 w-9"/>
       <word id="10"
             form="τὸν"
@@ -12420,7 +12420,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 1: s-80 w-18"/>
       <word id="19"
             form="καὶ"
@@ -12462,7 +12462,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Lysias Orat. 1: s-80 w-24"/>
       <word id="25"
             form="ἣν"
@@ -12760,7 +12760,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-85 w-2"/>
       <word id="3"
             form="ὦ"
@@ -12781,7 +12781,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-85 w-5"/>
       <word id="6"
             form="ὅτι"
@@ -12844,7 +12844,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 1: s-85 w-14"/>
       <word id="15"
             form="ᾧ"
@@ -12942,7 +12942,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 1: s-85 w-28"/>
       <word id="29"
             form="διαρρήδην"
@@ -12991,7 +12991,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Lysias Orat. 1: s-85 w-35"/>
       <word id="36"
             form="ὃς"
@@ -13185,7 +13185,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 1: s-86 w-14"/>
       <word id="15"
             form="ὥστε"
@@ -13309,7 +13309,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-87 w-4"/>
       <word id="5"
             form="εἴ"
@@ -13379,7 +13379,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-87 w-14"/>
       <word id="15"
             form="ἐποίησεν"
@@ -13498,7 +13498,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-88 w-12"/>
       <word id="13"
             form="τὴν"
@@ -13660,7 +13660,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Lysias Orat. 1: s-91 w-2"/>
       <word id="3"
             form="ἄνδρες"
@@ -13674,7 +13674,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Lysias Orat. 1: s-91 w-4"/>
       <word id="5"
             form="ὅτι"
@@ -13695,7 +13695,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-91 w-7"/>
       <word id="8"
             form="ἐάν"
@@ -13758,7 +13758,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-91 w-16"/>
       <word id="17"
             form="διπλῆν"
@@ -13826,7 +13826,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-92 w-4"/>
       <word id="5"
             form="ἐφʼ"
@@ -13861,7 +13861,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-92 w-9"/>
       <word id="10"
             form="ἐν"
@@ -13942,7 +13942,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-93 w-2"/>
       <word id="3"
             form="ὦ"
@@ -13963,7 +13963,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-93 w-5"/>
       <word id="6"
             form="τοὺς"
@@ -14096,7 +14096,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-94 w-6"/>
       <word id="7"
             form="τοῖς"
@@ -14145,7 +14145,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 1: s-94 w-13"/>
       <word id="14"
             form="ἡγούμενος"
@@ -14215,7 +14215,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Lysias Orat. 1: s-94 w-23"/>
       <word id="24"
             form="τοὺς"
@@ -14278,7 +14278,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Lysias Orat. 1: s-94 w-32"/>
       <word id="33"
             form="ὥστʼ"
@@ -14355,7 +14355,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Lysias Orat. 1: s-94 w-43"/>
       <word id="44"
             form="καὶ"
@@ -14411,7 +14411,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="50"
+            head="0"
             cite=" Lysias Orat. 1: s-94 w-51"/>
       <word id="52"
             form="καὶ"
@@ -14640,7 +14640,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-96 w-3"/>
       <word id="4"
             form="ὦ"
@@ -14661,7 +14661,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-96 w-6"/>
       <word id="7"
             form="οἱ"
@@ -14731,7 +14731,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 1: s-96 w-16"/>
       <word id="17"
             form="ἀλλὰ"
@@ -14979,7 +14979,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 1: s-98 w-13"/>
       <word id="14"
             form="ἵνα"
@@ -15028,7 +15028,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 1: s-98 w-20"/>
       <word id="21"
             form="παρὰ"
@@ -15281,7 +15281,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-101 w-4"/>
       <word id="5"
             form="τοιαύτην"
@@ -15323,7 +15323,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 1: s-101 w-10"/>
       <word id="11"
             form="ὥστε"
@@ -15386,7 +15386,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 1: s-101 w-19"/>
       <word id="20"
             form="εὖ"
@@ -15414,7 +15414,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 1: s-101 w-23"/>
       <word id="24"
             form="ἐὰν"
@@ -15533,7 +15533,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 1: s-101 w-40"/>
       <word id="41"
             form="οὐδεὶς"
@@ -15666,7 +15666,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-102 w-13"/>
       <word id="14"
             form="τὴν"
@@ -15816,7 +15816,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-104 w-3"/>
       <word id="4"
             form="ὦ"
@@ -15980,7 +15980,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-106 w-3"/>
       <word id="4"
             form="ὦ"
@@ -16001,7 +16001,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-106 w-6"/>
       <word id="7"
             form="δίκαιον"
@@ -16202,7 +16202,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-107 w-13"/>
       <word id="14"
             form="ἠδίκουν"
@@ -16354,7 +16354,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-108 w-18"/>
       <word id="19"
             form="σωφρονεῖν"
@@ -16516,7 +16516,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-111 w-3"/>
       <word id="4"
             form="ὦ"
@@ -16537,7 +16537,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Lysias Orat. 1: s-111 w-6"/>
       <word id="7"
             form="ὅπερ"
@@ -16572,7 +16572,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-111 w-11"/>
       <word id="12"
             form="φίλος"
@@ -16670,7 +16670,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Lysias Orat. 1: s-111 w-25"/>
       <word id="26"
             form="καὶ"
@@ -16712,7 +16712,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Lysias Orat. 1: s-111 w-31"/>
       <word id="32"
             form="ἀπιὼν"
@@ -16766,7 +16766,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-112 w-4"/>
       <word id="5"
             form="ὦ"
@@ -16787,7 +16787,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-112 w-7"/>
       <word id="8"
             form="ἐνθυμήθητε"
@@ -16876,7 +16876,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Lysias Orat. 1: s-113 w-10"/>
       <word id="11"
             form="πότερον"
@@ -17154,7 +17154,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 1: s-115 w-13"/>
       <word id="14"
             form="ἢ"
@@ -17189,7 +17189,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 1: s-115 w-18"/>
       <word id="19"
             form="ἵνα"
@@ -17257,7 +17257,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-116 w-2"/>
       <word id="3"
             form="ὦ"
@@ -17278,7 +17278,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-116 w-5"/>
       <word id="6"
             form="οὐκ"
@@ -17348,7 +17348,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 1: s-116 w-15"/>
       <word id="16"
             form="καὶ"
@@ -17425,7 +17425,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Lysias Orat. 1: s-116 w-26"/>
       <word id="27"
             form="μᾶλλον"
@@ -17488,7 +17488,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Lysias Orat. 1: s-116 w-35"/>
       <word id="36"
             form="οὐκ"
@@ -17642,7 +17642,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 1: s-117 w-11"/>
       <word id="12"
             form="οὐ"
@@ -17670,14 +17670,14 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Lysias Orat. 1: s-117 w-15"/>
       <word id="16"
             form=","
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Lysias Orat. 1: s-117 w-16"/>
       <word id="17"
             form="ἑτέρους"
@@ -17726,7 +17726,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Lysias Orat. 1: s-117 w-23"/>
       <word id="24"
             form="οὓς"
@@ -17815,7 +17815,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Lysias Orat. 1: s-118 w-4"/>
       <word id="5"
             form="οὐκ"
@@ -17899,7 +17899,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 1: s-118 w-16"/>
       <word id="17"
             form="ἵνʼ"
@@ -18032,7 +18032,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Lysias Orat. 1: s-118 w-35"/>
       <word id="36"
             form="ὡς"
@@ -18170,7 +18170,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Lysias Orat. 1: s-119 w-10"/>
       <word id="11"
             form="οὓς"
@@ -18327,7 +18327,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-122 w-5"/>
       <word id="6"
             form="ὦ"
@@ -18430,7 +18430,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Lysias Orat. 1: s-123 w-11"/>
       <word id="12"
             form="ζητοῦντες"
@@ -18601,7 +18601,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-125 w-7"/>
       <word id="8"
             form="οὔτε"
@@ -18650,7 +18650,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Lysias Orat. 1: s-125 w-14"/>
       <word id="15"
             form="οὔτε"
@@ -18685,7 +18685,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Lysias Orat. 1: s-125 w-19"/>
       <word id="20"
             form="οὔτε"
@@ -18783,7 +18783,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Lysias Orat. 1: s-125 w-33"/>
       <word id="34"
             form="οὔτε"
@@ -18818,7 +18818,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Lysias Orat. 1: s-125 w-38"/>
       <word id="39"
             form="ἤλπιζόν"
@@ -19024,7 +19024,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 1: s-127 w-14"/>
       <word id="15"
             form="ὥστε"
@@ -19192,7 +19192,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-128 w-9"/>
       <word id="10"
             form="εἰ"
@@ -19316,7 +19316,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Lysias Orat. 1: s-129 w-6"/>
       <word id="7"
             form="ἐξόν"
@@ -19337,7 +19337,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-129 w-9"/>
       <word id="10"
             form="εἴπερ"
@@ -19379,7 +19379,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-129 w-15"/>
       <word id="16"
             form="μηδένα"
@@ -19447,7 +19447,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-130 w-4"/>
       <word id="5"
             form="ὦ"
@@ -19468,7 +19468,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-130 w-7"/>
       <word id="8"
             form="οὐκ"
@@ -19538,7 +19538,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Lysias Orat. 1: s-130 w-17"/>
       <word id="18"
             form="ἀλλʼ"
@@ -19620,7 +19620,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-131 w-5"/>
       <word id="6"
             form="ὁρῶντες"
@@ -19683,7 +19683,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Lysias Orat. 1: s-131 w-14"/>
       <word id="15"
             form="ἧττον"
@@ -19725,7 +19725,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Lysias Orat. 1: s-131 w-20"/>
       <word id="21"
             form="ἐὰν"
@@ -19821,7 +19821,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Lysias Orat. 1: s-132 w-4"/>
       <word id="5"
             form="πολὺ"
@@ -19877,7 +19877,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Lysias Orat. 1: s-132 w-12"/>
       <word id="13"
             form="ἑτέρους"
@@ -19905,7 +19905,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Lysias Orat. 1: s-132 w-16"/>
       <word id="17"
             form="οἵτινες"
@@ -19982,7 +19982,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Lysias Orat. 1: s-132 w-27"/>
       <word id="28"
             form="τοῖς"
@@ -20159,7 +20159,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Lysias Orat. 1: s-133 w-12"/>
       <word id="13"
             form="οἳ"
@@ -20187,7 +20187,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 1: s-133 w-16"/>
       <word id="17"
             form="ἐάν"
@@ -20222,7 +20222,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Lysias Orat. 1: s-133 w-21"/>
       <word id="22"
             form="ὅ"
@@ -20271,7 +20271,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Lysias Orat. 1: s-133 w-28"/>
       <word id="29"
             form="οἱ"
@@ -20539,7 +20539,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Lysias Orat. 1: s-134 w-18"/>
       <word id="19"
             form="ὅτι"

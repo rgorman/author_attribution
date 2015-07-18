@@ -52,7 +52,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-1 w-6"/>
       <word id="7"
             form="ἆρ᾽"
@@ -297,7 +297,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-2 w-17"/>
       <word id="18"
             form="ὁποῖον"
@@ -650,7 +650,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-6 w-5"/>
       <word id="6"
             form="Ἀντιγόνη"
@@ -755,7 +755,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Antigone: s-6 w-20"/>
       <word id="21"
             form="μιᾷ"
@@ -879,7 +879,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-7 w-11"/>
       <word id="12"
             form="οὐδὲν"
@@ -907,7 +907,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Antigone: s-7 w-15"/>
       <word id="16"
             form="οὔ"
@@ -989,7 +989,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-8 w-3"/>
       <word id="4"
             form="καί"
@@ -1251,7 +1251,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-11 w-11"/>
       <word id="12"
             form="τὸν"
@@ -1321,7 +1321,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-12 w-3"/>
       <word id="4"
             form="ὡς"
@@ -1342,7 +1342,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-12 w-6"/>
       <word id="7"
             form="σὺν"
@@ -1571,7 +1571,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-13 w-18"/>
       <word id="19"
             form="ἐᾶν"
@@ -1599,7 +1599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-13 w-22"/>
       <word id="23"
             form="ἄταφον"
@@ -1779,7 +1779,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Antigone: s-14 w-15"/>
       <word id="16"
             form="καὶ"
@@ -1849,7 +1849,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Antigone: s-14 w-25"/>
       <word id="26"
             form="καὶ"
@@ -1912,7 +1912,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Sophocles Antigone: s-14 w-34"/>
       <word id="35"
             form="ἀλλ᾽"
@@ -1961,7 +1961,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Sophocles Antigone: s-14 w-41"/>
       <word id="42"
             form="φόνον"
@@ -2052,7 +2052,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-15 w-5"/>
       <word id="6"
             form="καὶ"
@@ -2157,7 +2157,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-16 w-3"/>
       <word id="4"
             form="ὦ"
@@ -2178,7 +2178,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-16 w-6"/>
       <word id="7"
             form="εἰ"
@@ -2213,7 +2213,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-16 w-11"/>
       <word id="12"
             form="ἐγὼ"
@@ -2531,7 +2531,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-21 w-6"/>
       <word id="7"
             form="ἀπόρρητον"
@@ -2732,7 +2732,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-24 w-3"/>
       <word id="4"
             form="Κρέοντος"
@@ -2877,7 +2877,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-27 w-2"/>
       <word id="3"
             form="ὦ"
@@ -2898,7 +2898,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-27 w-5"/>
       <word id="6"
             form="πατὴρ"
@@ -2954,7 +2954,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-27 w-13"/>
       <word id="14"
             form="πρὸς"
@@ -3085,7 +3085,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-28 w-8"/>
       <word id="9"
             form="πλεκταῖσιν"
@@ -3326,7 +3326,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-30 w-12"/>
       <word id="13"
             form="εἰ"
@@ -3457,7 +3457,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-31 w-9"/>
       <word id="10"
             form="ὡς"
@@ -3553,7 +3553,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-32 w-7"/>
       <word id="8"
             form="καὶ"
@@ -3686,7 +3686,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-33 w-10"/>
       <word id="11"
             form="ὡς"
@@ -3714,7 +3714,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-33 w-14"/>
       <word id="15"
             form="τοῖς"
@@ -3885,7 +3885,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-35 w-8"/>
       <word id="9"
             form="εἰ"
@@ -3920,7 +3920,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-35 w-13"/>
       <word id="14"
             form="ἐμοῦ"
@@ -4016,7 +4016,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-36 w-6"/>
       <word id="7"
             form="κεῖνον"
@@ -4177,7 +4177,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-38 w-8"/>
       <word id="9"
             form="ὅσια"
@@ -4362,7 +4362,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-41 w-3"/>
       <word id="4"
             form="εἰ"
@@ -4383,7 +4383,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-41 w-6"/>
       <word id="7"
             form="τὰ"
@@ -4479,7 +4479,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-42 w-6"/>
       <word id="7"
             form="τὸ"
@@ -4676,7 +4676,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-45 w-3"/>
       <word id="4"
             form="ὡς"
@@ -4845,7 +4845,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-48 w-8"/>
       <word id="9"
             form="κρυφῇ"
@@ -4873,7 +4873,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-48 w-12"/>
       <word id="13"
             form="σὺν"
@@ -4936,7 +4936,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-49 w-2"/>
       <word id="3"
             form="καταύδα"
@@ -4990,7 +4990,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-50 w-5"/>
       <word id="6"
             form="ἐὰν"
@@ -5248,7 +5248,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-55 w-2"/>
       <word id="3"
             form="ὅταν"
@@ -5283,7 +5283,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-55 w-7"/>
       <word id="8"
             form="πεπαύσομαι"
@@ -5384,7 +5384,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-57 w-4"/>
       <word id="5"
             form="ἐχθαρεῖ"
@@ -5419,7 +5419,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-57 w-9"/>
       <word id="10"
             form="ἐχθρὰ"
@@ -5686,7 +5686,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-60 w-5"/>
       <word id="6"
             form="στεῖχε"
@@ -5761,7 +5761,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-61 w-8"/>
       <word id="9"
             form="τοῖς"
@@ -5901,7 +5901,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-62 w-12"/>
       <word id="13"
             form="ἐφάνθης"
@@ -5922,7 +5922,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-62 w-15"/>
       <word id="16"
             form="ὦ"
@@ -5957,7 +5957,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-62 w-20"/>
       <word id="21"
             form="Διρκαίων"
@@ -5992,7 +5992,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-62 w-25"/>
       <word id="26"
             form="τὸν"
@@ -6200,7 +6200,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Antigone: s-63 w-17"/>
       <word id="18"
             form="λευκῆς"
@@ -6235,7 +6235,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Antigone: s-63 w-22"/>
       <word id="23"
             form="πολλῶν"
@@ -6438,7 +6438,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-65 w-12"/>
       <word id="13"
             form="πρίν"
@@ -6590,7 +6590,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-66 w-7"/>
       <word id="8"
             form="ἀντιπάλῳ"
@@ -6672,7 +6672,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-67 w-7"/>
       <word id="8"
             form="καὶ"
@@ -6742,7 +6742,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-67 w-17"/>
       <word id="18"
             form="παλτῷ"
@@ -6880,7 +6880,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-68 w-8"/>
       <word id="9"
             form="ὃς"
@@ -7004,7 +7004,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-69 w-6"/>
       <word id="7"
             form="ἄλλα"
@@ -7191,7 +7191,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-70 w-16"/>
       <word id="17"
             form="πλὴν"
@@ -7219,7 +7219,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Sophocles Antigone: s-70 w-20"/>
       <word id="21"
             form="ὣ"
@@ -7490,7 +7490,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Antigone: s-71 w-20"/>
       <word id="21"
             form="θεῶν"
@@ -7546,7 +7546,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Sophocles Antigone: s-71 w-28"/>
       <word id="29"
             form="ὁ"
@@ -7726,7 +7726,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-72 w-18"/>
       <word id="19"
             form="τίνα"
@@ -7761,7 +7761,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-72 w-23"/>
       <word id="24"
             form="ὅτι"
@@ -7810,7 +7810,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Sophocles Antigone: s-72 w-30"/>
       <word id="31"
             form="κοινῷ"
@@ -7857,7 +7857,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-73 w-2"/>
       <word id="3"
             form="τὰ"
@@ -8086,7 +8086,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Antigone: s-74 w-20"/>
       <word id="21"
             form="τοῦτ᾽"
@@ -8107,7 +8107,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-74 w-23"/>
       <word id="24"
             form="ἡνίκ᾽"
@@ -8163,7 +8163,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Sophocles Antigone: s-74 w-31"/>
       <word id="32"
             form="ἀμφὶ"
@@ -8366,7 +8366,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-75 w-18"/>
       <word id="19"
             form="ἐγὼ"
@@ -8546,7 +8546,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-76 w-12"/>
       <word id="13"
             form="πρὶν"
@@ -8880,7 +8880,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-78 w-10"/>
       <word id="11"
             form="τοῦτον"
@@ -8934,7 +8934,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-79 w-3"/>
       <word id="4"
             form="ἴστω"
@@ -8983,7 +8983,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-79 w-10"/>
       <word id="11"
             form="οὔ"
@@ -9074,7 +9074,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-79 w-23"/>
       <word id="24"
             form="οὔ"
@@ -9151,7 +9151,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Sophocles Antigone: s-79 w-34"/>
       <word id="35"
             form="τοῦτο"
@@ -9326,7 +9326,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-80 w-7"/>
       <word id="8"
             form="καὶ"
@@ -9443,7 +9443,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-81 w-3"/>
       <word id="4"
             form="ὃς"
@@ -9485,7 +9485,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-81 w-9"/>
       <word id="10"
             form="πάντ᾽"
@@ -9513,7 +9513,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-81 w-13"/>
       <word id="14"
             form="τάφῳ"
@@ -9667,7 +9667,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-82 w-6"/>
       <word id="7"
             form="Πολυνείκη"
@@ -9688,7 +9688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-82 w-9"/>
       <word id="10"
             form="ὃς"
@@ -9800,7 +9800,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Antigone: s-82 w-25"/>
       <word id="26"
             form="ἠθέλησε"
@@ -9842,7 +9842,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Sophocles Antigone: s-82 w-31"/>
       <word id="32"
             form="τοὺς"
@@ -9877,7 +9877,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Antigone: s-82 w-36"/>
       <word id="37"
             form="τοῦτον"
@@ -9954,7 +9954,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Sophocles Antigone: s-82 w-47"/>
       <word id="48"
             form="ἐᾶν"
@@ -10232,7 +10232,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-84 w-7"/>
       <word id="8"
             form="θανὼν"
@@ -10330,7 +10330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-85 w-4"/>
       <word id="5"
             form="παῖ"
@@ -10358,7 +10358,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-85 w-8"/>
       <word id="9"
             form="τὸν"
@@ -11046,7 +11046,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-95 w-2"/>
       <word id="3"
             form="ἐρῶ"
@@ -11177,7 +11177,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-96 w-6"/>
       <word id="7"
             form="ὁδοῖς"
@@ -11292,7 +11292,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-98 w-2"/>
       <word id="3"
             form="τί"
@@ -11360,7 +11360,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-99 w-2"/>
       <word id="3"
             form="μενεῖς"
@@ -11693,7 +11693,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-105 w-5"/>
       <word id="6"
             form="φράσω"
@@ -11768,7 +11768,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-106 w-6"/>
       <word id="7"
             form="τὸ"
@@ -12058,7 +12058,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-109 w-14"/>
       <word id="15"
             form="οὐ"
@@ -12339,7 +12339,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-113 w-4"/>
       <word id="5"
             form="εἶτ᾽"
@@ -12775,7 +12775,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-120 w-6"/>
       <word id="7"
             form="ἀρρὼξ"
@@ -12817,7 +12817,7 @@
             lemma="?????1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-120 w-12"/>
       <word id="13"
             form="ἀλλ᾽"
@@ -12929,7 +12929,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-121 w-8"/>
       <word id="9"
             form="πᾶσι"
@@ -13004,7 +13004,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-122 w-5"/>
       <word id="6"
             form="τυμβήρης"
@@ -13032,7 +13032,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-122 w-9"/>
       <word id="10"
             form="λεπτὴ"
@@ -13053,7 +13053,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-122 w-12"/>
       <word id="13"
             form="ἄγος"
@@ -13081,7 +13081,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-122 w-16"/>
       <word id="17"
             form="ἐπῆν"
@@ -13263,7 +13263,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-123 w-7"/>
       <word id="8"
             form="φύλαξ"
@@ -13291,7 +13291,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-123 w-11"/>
       <word id="12"
             form="κἂν"
@@ -13326,7 +13326,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Antigone: s-123 w-16"/>
       <word id="17"
             form="οὐ"
@@ -13443,7 +13443,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-124 w-10"/>
       <word id="11"
             form="ἀλλ᾽"
@@ -13590,7 +13590,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Antigone: s-125 w-14"/>
       <word id="15"
             form="τὸ"
@@ -13742,7 +13742,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-126 w-8"/>
       <word id="9"
             form="λέγει"
@@ -13770,7 +13770,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-126 w-12"/>
       <word id="13"
             form="ὃ"
@@ -14170,7 +14170,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-130 w-6"/>
       <word id="7"
             form="οἶδ᾽"
@@ -14264,7 +14264,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-132 w-2"/>
       <word id="3"
             form="ἐμοί"
@@ -14285,7 +14285,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-132 w-5"/>
       <word id="6"
             form="μή"
@@ -14390,7 +14390,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-133 w-2"/>
       <word id="3"
             form="πρὶν"
@@ -14446,7 +14446,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-133 w-10"/>
       <word id="11"
             form="μὴ"
@@ -14659,7 +14659,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-135 w-7"/>
       <word id="8"
             form="ὅστις"
@@ -14921,7 +14921,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-138 w-11"/>
       <word id="12"
             form="κρυφῇ"
@@ -14949,7 +14949,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-138 w-15"/>
       <word id="16"
             form="οὐ"
@@ -15005,7 +15005,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-138 w-23"/>
       <word id="24"
             form="ὡς"
@@ -15478,7 +15478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-144 w-6"/>
       <word id="7"
             form="χρόνῳ"
@@ -15595,7 +15595,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-145 w-9"/>
       <word id="10"
             form="εὖ"
@@ -15623,7 +15623,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-145 w-13"/>
       <word id="14"
             form="ὅρκιος"
@@ -15754,7 +15754,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-146 w-13"/>
       <word id="14"
             form="οὐχ"
@@ -15796,7 +15796,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-146 w-19"/>
       <word id="20"
             form="πρὶν"
@@ -15852,7 +15852,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Antigone: s-146 w-27"/>
       <word id="28"
             form="ἵν᾽"
@@ -15922,7 +15922,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Sophocles Antigone: s-146 w-37"/>
       <word id="38"
             form="καὶ"
@@ -16452,7 +16452,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-152 w-7"/>
       <word id="8"
             form="τὰ"
@@ -16910,7 +16910,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-159 w-9"/>
       <word id="10"
             form="ἐξερεῖθ᾽"
@@ -17431,7 +17431,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-164 w-9"/>
       <word id="10"
             form="περιβρυχίοισιν"
@@ -17527,7 +17527,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-165 w-8"/>
       <word id="9"
             form="ἀκαμάταν"
@@ -17541,7 +17541,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-165 w-10"/>
       <word id="11"
             form="ἀποτρύεται"
@@ -17735,7 +17735,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-166 w-17"/>
       <word id="18"
             form="περιφραδὴς"
@@ -17810,7 +17810,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-167 w-7"/>
       <word id="8"
             form="λασιαύχενά"
@@ -18255,7 +18255,7 @@
             lemma="μέν1"
             postag="d--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite="urn:cts:greekLit:tlg0011.tlg002:366 Sophocles Antigone: s-172 w-10"/>
       <word id="11"
             form="κακόν"
@@ -18304,7 +18304,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-172 w-17"/>
       <word id="18"
             form="νόμους"
@@ -18360,7 +18360,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Antigone: s-172 w-25"/>
       <word id="26"
             form="ὑψίπολις"
@@ -18711,7 +18711,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-177 w-7"/>
       <word id="8"
             form="τί"
@@ -19149,7 +19149,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-185 w-2"/>
       <word id="3"
             form="βροτοῖσιν"
@@ -19446,7 +19446,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-187 w-28"/>
       <word id="29"
             form="ἥκω"
@@ -19460,7 +19460,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Sophocles Antigone: s-187 w-30"/>
       <word id="31"
             form="δι᾽"
@@ -19502,7 +19502,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Sophocles Antigone: s-187 w-36"/>
       <word id="37"
             form="κόρην"
@@ -19530,7 +19530,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="42"
+            head="0"
             cite=" Sophocles Antigone: s-187 w-40"/>
       <word id="41"
             form="ἣ"
@@ -19605,7 +19605,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-188 w-5"/>
       <word id="6"
             form="ἀλλ᾽"
@@ -19661,7 +19661,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-188 w-13"/>
       <word id="14"
             form="τόδε"
@@ -19701,7 +19701,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-189 w-3"/>
       <word id="4"
             form="ἄναξ"
@@ -19715,7 +19715,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-189 w-5"/>
       <word id="6"
             form="τήνδ᾽"
@@ -19736,7 +19736,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-189 w-8"/>
       <word id="9"
             form="ὡς"
@@ -19757,7 +19757,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-189 w-11"/>
       <word id="12"
             form="λαβὼν"
@@ -20324,7 +20324,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-199 w-4"/>
       <word id="5"
             form="πρὸς"
@@ -20373,7 +20373,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Antigone: s-199 w-11"/>
       <word id="12"
             form="πᾶσαν"
@@ -20401,7 +20401,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-199 w-15"/>
       <word id="16"
             form="ἣ"
@@ -20436,7 +20436,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Antigone: s-199 w-20"/>
       <word id="21"
             form="μυδῶν"
@@ -20478,7 +20478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Antigone: s-199 w-26"/>
       <word id="27"
             form="καθήμεθ᾽"
@@ -20520,7 +20520,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Sophocles Antigone: s-199 w-32"/>
       <word id="33"
             form="ὀσμὴν"
@@ -20569,7 +20569,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="41"
+            head="0"
             cite=" Sophocles Antigone: s-199 w-39"/>
       <word id="40"
             form="ἐγερτὶ"
@@ -20618,7 +20618,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Sophocles Antigone: s-199 w-46"/>
       <word id="47"
             form="εἴ"
@@ -20709,7 +20709,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-200 w-5"/>
       <word id="6"
             form="ἔστ᾽"
@@ -20868,7 +20868,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-201 w-10"/>
       <word id="11"
             form="πίμπλησι"
@@ -20889,7 +20889,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-201 w-13"/>
       <word id="14"
             form="πᾶσαν"
@@ -20931,7 +20931,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Antigone: s-201 w-19"/>
       <word id="20"
             form="ἐν"
@@ -21083,7 +21083,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-203 w-7"/>
       <word id="8"
             form="ἡ"
@@ -21153,7 +21153,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-203 w-17"/>
       <word id="18"
             form="ὡς"
@@ -21249,7 +21249,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-204 w-4"/>
       <word id="5"
             form="ψιλὸν"
@@ -21284,7 +21284,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-204 w-9"/>
       <word id="10"
             form="γόοισιν"
@@ -21305,7 +21305,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-204 w-12"/>
       <word id="13"
             form="ἐκ"
@@ -21422,7 +21422,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-205 w-7"/>
       <word id="8"
             form="ἔκ"
@@ -21539,7 +21539,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-206 w-4"/>
       <word id="5"
             form="σὺν"
@@ -21595,7 +21595,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-206 w-12"/>
       <word id="13"
             form="καὶ"
@@ -21705,7 +21705,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-207 w-5"/>
       <word id="6"
             form="ἅμ᾽"
@@ -21824,7 +21824,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-208 w-9"/>
       <word id="10"
             form="ἐς"
@@ -22335,7 +22335,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-213 w-7"/>
       <word id="8"
             form="ἀλλὰ"
@@ -22619,7 +22619,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-218 w-10"/>
       <word id="11"
             form="οὐ"
@@ -22785,7 +22785,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-219 w-9"/>
       <word id="10"
             form="ὥστ᾽"
@@ -22918,7 +22918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-220 w-7"/>
       <word id="8"
             form="ἀλλ᾽"
@@ -23058,7 +23058,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-221 w-5"/>
       <word id="6"
             form="ἀνδρὸς"
@@ -23093,7 +23093,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-221 w-10"/>
       <word id="11"
             form="ἐν"
@@ -23168,7 +23168,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-222 w-4"/>
       <word id="5"
             form="τί"
@@ -23308,7 +23308,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-224 w-7"/>
       <word id="8"
             form="κέρδος"
@@ -23411,7 +23411,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-225 w-9"/>
       <word id="10"
             form="πῶς"
@@ -23579,7 +23579,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-227 w-3"/>
       <word id="4"
             form="εἰ"
@@ -23649,7 +23649,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-227 w-13"/>
       <word id="14"
             form="κείνοις"
@@ -23785,7 +23785,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-229 w-9"/>
       <word id="10"
             form="σχεδόν"
@@ -24024,7 +24024,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-232 w-10"/>
       <word id="11"
             form="καὶ"
@@ -24333,7 +24333,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-235 w-7"/>
       <word id="8"
             form="νόμους"
@@ -24394,7 +24394,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-236 w-3"/>
       <word id="4"
             form="ἐπεὶ"
@@ -24415,7 +24415,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-236 w-6"/>
       <word id="7"
             form="ἥδε"
@@ -24541,7 +24541,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-237 w-7"/>
       <word id="8"
             form="αὕτη"
@@ -24569,7 +24569,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-237 w-11"/>
       <word id="12"
             form="εἰ"
@@ -24725,7 +24725,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-238 w-12"/>
       <word id="13"
             form="αὐτή"
@@ -25703,7 +25703,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-251 w-7"/>
       <word id="8"
             form="εἰ"
@@ -25944,7 +25944,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-254 w-3"/>
       <word id="4"
             form="σοὶ"
@@ -26019,7 +26019,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-255 w-5"/>
       <word id="6"
             form="τῶνδε"
@@ -26468,7 +26468,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-262 w-5"/>
       <word id="6"
             form="ἀλλ᾽"
@@ -26835,7 +26835,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-268 w-4"/>
       <word id="5"
             form="οὐ"
@@ -26870,7 +26870,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-268 w-9"/>
       <word id="10"
             form="φίλος"
@@ -26919,7 +26919,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-269 w-3"/>
       <word id="4"
             form="ἀλλὰ"
@@ -26980,7 +26980,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-270 w-4"/>
       <word id="5"
             form="εἰ"
@@ -27001,7 +27001,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-270 w-7"/>
       <word id="8"
             form="φίλει"
@@ -27139,7 +27139,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-272 w-7"/>
       <word id="8"
             form="φιλάδελφα"
@@ -27244,7 +27244,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-273 w-8"/>
       <word id="9"
             form="τέγγουσ᾽"
@@ -27298,7 +27298,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-274 w-3"/>
       <word id="4"
             form="ἣ"
@@ -27368,7 +27368,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-274 w-13"/>
       <word id="14"
             form="οὐ"
@@ -27431,7 +27431,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-274 w-22"/>
       <word id="23"
             form="φέρ᾽"
@@ -27445,7 +27445,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-274 w-24"/>
       <word id="25"
             form="εἰπὲ"
@@ -27529,7 +27529,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Sophocles Antigone: s-274 w-36"/>
       <word id="37"
             form="ἢ"
@@ -27613,7 +27613,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-275 w-3"/>
       <word id="4"
             form="εἴπερ"
@@ -27751,7 +27751,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-276 w-9"/>
       <word id="10"
             form="ἐπεὶ"
@@ -27943,7 +27943,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-278 w-3"/>
       <word id="4"
             form="Ἅιδης"
@@ -28076,7 +28076,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-280 w-2"/>
       <word id="3"
             form="κασιγνήτη"
@@ -28090,7 +28090,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-280 w-4"/>
       <word id="5"
             form="μ᾽"
@@ -28509,7 +28509,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-286 w-5"/>
       <word id="6"
             form="οὐδὲν"
@@ -28772,7 +28772,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-291 w-3"/>
       <word id="4"
             form="κἀμπλάκω"
@@ -28854,7 +28854,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-292 w-6"/>
       <word id="7"
             form="ἐγὼ"
@@ -29008,7 +29008,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-294 w-5"/>
       <word id="6"
             form="τοῖς"
@@ -29186,7 +29186,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-297 w-4"/>
       <word id="5"
             form="ἡ"
@@ -29235,7 +29235,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-297 w-11"/>
       <word id="12"
             form="ὥστε"
@@ -29345,7 +29345,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-298 w-10"/>
       <word id="11"
             form="τὴν"
@@ -29452,7 +29452,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-299 w-4"/>
       <word id="5"
             form="ὦναξ"
@@ -29466,7 +29466,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-299 w-6"/>
       <word id="7"
             form="οὐ"
@@ -29543,7 +29543,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Antigone: s-299 w-17"/>
       <word id="18"
             form="ἀλλ᾽"
@@ -29590,7 +29590,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-300 w-3"/>
       <word id="4"
             form="ὅθ᾽"
@@ -30063,7 +30063,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-308 w-4"/>
       <word id="5"
             form="ὥς"
@@ -30314,7 +30314,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-312 w-2"/>
       <word id="3"
             form="ὡς"
@@ -30335,7 +30335,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-312 w-5"/>
       <word id="6"
             form="τήνδε"
@@ -30456,7 +30456,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-314 w-4"/>
       <word id="5"
             form="ἀλλά"
@@ -30643,7 +30643,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-316 w-6"/>
       <word id="7"
             form="ὅταν"
@@ -30825,7 +30825,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-318 w-7"/>
       <word id="8"
             form="ἄτας"
@@ -30970,7 +30970,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-319 w-12"/>
       <word id="13"
             form="κυλίνδει"
@@ -31005,7 +31005,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Antigone: s-319 w-17"/>
       <word id="18"
             form="καὶ"
@@ -31145,7 +31145,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-320 w-11"/>
       <word id="12"
             form="οὐ"
@@ -31187,7 +31187,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Antigone: s-320 w-17"/>
       <word id="18"
             form="ἀλλ᾽"
@@ -31222,7 +31222,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-320 w-22"/>
       <word id="23"
             form="οὐ"
@@ -31346,7 +31346,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-321 w-12"/>
       <word id="13"
             form="κατ᾽"
@@ -31477,7 +31477,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-322 w-2"/>
       <word id="3"
             form="Ζεῦ"
@@ -31491,7 +31491,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-322 w-4"/>
       <word id="5"
             form="δύνασιν"
@@ -31601,7 +31601,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-323 w-9"/>
       <word id="10"
             form="οὔ"
@@ -31643,7 +31643,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-323 w-15"/>
       <word id="16"
             form="ἀγήρῳ"
@@ -31940,7 +31940,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-325 w-10"/>
       <word id="11"
             form="πολλοῖς"
@@ -32040,7 +32040,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-326 w-5"/>
       <word id="6"
             form="πρὶν"
@@ -32454,7 +32454,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-331 w-7"/>
       <word id="8"
             form="ἀπάτης"
@@ -32548,7 +32548,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-333 w-3"/>
       <word id="4"
             form="τελείαν"
@@ -32714,7 +32714,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-335 w-2"/>
       <word id="3"
             form="σός"
@@ -32735,7 +32735,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-335 w-5"/>
       <word id="6"
             form="καὶ"
@@ -32791,7 +32791,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-335 w-13"/>
       <word id="14"
             form="αἷς"
@@ -32927,7 +32927,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-337 w-3"/>
       <word id="4"
             form="ὦ"
@@ -32948,7 +32948,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-337 w-6"/>
       <word id="7"
             form="χρὴ"
@@ -33259,7 +33259,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-339 w-6"/>
       <word id="7"
             form="τί"
@@ -33329,7 +33329,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Antigone: s-339 w-16"/>
       <word id="17"
             form="πολὺν"
@@ -33422,7 +33422,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-340 w-4"/>
       <word id="5"
             form="ὦ"
@@ -33443,7 +33443,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-340 w-7"/>
       <word id="8"
             form="τὰς"
@@ -33499,7 +33499,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-340 w-15"/>
       <word id="16"
             form="εἰδὼς"
@@ -33875,7 +33875,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-343 w-12"/>
       <word id="13"
             form="ψευδῆ"
@@ -33924,7 +33924,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-343 w-19"/>
       <word id="20"
             form="ἀλλὰ"
@@ -34067,7 +34067,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-345 w-10"/>
       <word id="11"
             form="κάρτα"
@@ -34172,7 +34172,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-346 w-9"/>
       <word id="10"
             form="φανεῖται"
@@ -34303,7 +34303,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-347 w-12"/>
       <word id="13"
             form="οὐκ"
@@ -34586,7 +34586,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-349 w-17"/>
       <word id="18"
             form="δορός"
@@ -34759,7 +34759,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-351 w-4"/>
       <word id="5"
             form="ἥδ᾽"
@@ -34958,7 +34958,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-353 w-6"/>
       <word id="7"
             form="κοὔτοι"
@@ -35028,7 +35028,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-354 w-3"/>
       <word id="4"
             form="εἴπερ"
@@ -35049,7 +35049,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-354 w-6"/>
       <word id="7"
             form="πρὸς"
@@ -35161,7 +35161,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-355 w-3"/>
       <word id="4"
             form="εἰ"
@@ -35203,7 +35203,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-355 w-9"/>
       <word id="10"
             form="λέγειν"
@@ -35271,7 +35271,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-356 w-2"/>
       <word id="3"
             form="θεοὶ"
@@ -35718,7 +35718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-360 w-11"/>
       <word id="12"
             form="οἷς"
@@ -36251,7 +36251,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-365 w-6"/>
       <word id="7"
             form="πάτερ"
@@ -36265,7 +36265,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-365 w-8"/>
       <word id="9"
             form="οὐκ"
@@ -36370,7 +36370,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-365 w-23"/>
       <word id="24"
             form="ἢ"
@@ -36636,7 +36636,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-367 w-8"/>
       <word id="9"
             form="ἢ"
@@ -36657,7 +36657,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-367 w-11"/>
       <word id="12"
             form="ἣν"
@@ -36685,7 +36685,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-367 w-15"/>
       <word id="16"
             form="ἢ"
@@ -36713,7 +36713,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-367 w-19"/>
       <word id="20"
             form="οὗτοι"
@@ -36783,7 +36783,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-368 w-3"/>
       <word id="4"
             form="κεἴ"
@@ -36818,7 +36818,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-368 w-8"/>
       <word id="9"
             form="τὸ"
@@ -36846,7 +36846,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-368 w-12"/>
       <word id="13"
             form="αἰσχρὸν"
@@ -36972,7 +36972,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-369 w-8"/>
       <word id="9"
             form="κλῶνας"
@@ -37000,7 +37000,7 @@
             lemma="?????1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-369 w-12"/>
       <word id="13"
             form="τὰ"
@@ -37117,7 +37117,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-370 w-10"/>
       <word id="11"
             form="ὑπτίοις"
@@ -37295,7 +37295,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-372 w-9"/>
       <word id="10"
             form="φήμ᾽"
@@ -37405,7 +37405,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-373 w-4"/>
       <word id="5"
             form="φιλεῖ"
@@ -37454,7 +37454,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-373 w-11"/>
       <word id="12"
             form="καὶ"
@@ -37538,7 +37538,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-374 w-2"/>
       <word id="3"
             form="σέ"
@@ -37566,7 +37566,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-374 w-6"/>
       <word id="7"
             form="εἴ"
@@ -37601,7 +37601,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-374 w-11"/>
       <word id="12"
             form="μαθεῖν"
@@ -37615,7 +37615,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-374 w-13"/>
       <word id="14"
             form="σέ"
@@ -37895,7 +37895,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-378 w-5"/>
       <word id="6"
             form="οὐ"
@@ -38619,7 +38619,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-389 w-2"/>
       <word id="3"
             form="ὡς"
@@ -38640,7 +38640,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-389 w-5"/>
       <word id="6"
             form="τῇ"
@@ -38776,7 +38776,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-392 w-3"/>
       <word id="4"
             form="διὰ"
@@ -39244,7 +39244,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-399 w-5"/>
       <word id="6"
             form="καὶ"
@@ -39565,7 +39565,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-404 w-3"/>
       <word id="4"
             form="ὢν"
@@ -39640,7 +39640,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-405 w-5"/>
       <word id="6"
             form="εἶπον"
@@ -39872,7 +39872,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-409 w-5"/>
       <word id="6"
             form="ἴσθ᾽"
@@ -39893,7 +39893,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-409 w-8"/>
       <word id="9"
             form="χαίρων"
@@ -40064,7 +40064,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-411 w-4"/>
       <word id="5"
             form="τοῦτο"
@@ -40099,7 +40099,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-411 w-9"/>
       <word id="10"
             form="οὔθ᾽"
@@ -40134,7 +40134,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-411 w-14"/>
       <word id="15"
             form="σύ"
@@ -40204,7 +40204,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-411 w-24"/>
       <word id="25"
             form="ὡς"
@@ -40279,7 +40279,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-412 w-2"/>
       <word id="3"
             form="ἄναξ"
@@ -40293,7 +40293,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-412 w-4"/>
       <word id="5"
             form="βέβηκεν"
@@ -40839,7 +40839,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-421 w-13"/>
       <word id="14"
             form="φορβῆς"
@@ -40888,7 +40888,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Antigone: s-421 w-20"/>
       <word id="21"
             form="ὅπως"
@@ -40972,7 +40972,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-422 w-4"/>
       <word id="5"
             form="ὃν"
@@ -41007,7 +41007,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-422 w-9"/>
       <word id="10"
             form="αἰτουμένη"
@@ -41056,7 +41056,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-422 w-16"/>
       <word id="17"
             form="ἢ"
@@ -41180,7 +41180,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-423 w-4"/>
       <word id="5"
             form="Ἔρως"
@@ -41194,7 +41194,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-423 w-6"/>
       <word id="7"
             form="ὃς"
@@ -41278,7 +41278,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-423 w-18"/>
       <word id="19"
             form="φοιτᾷς"
@@ -41583,7 +41583,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-426 w-9"/>
       <word id="10"
             form="σὺ"
@@ -41707,7 +41707,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-427 w-8"/>
       <word id="9"
             form="τῶν"
@@ -42023,7 +42023,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-430 w-3"/>
       <word id="4"
             form="ὦ"
@@ -42058,7 +42058,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-430 w-8"/>
       <word id="9"
             form="τὰν"
@@ -42093,7 +42093,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-430 w-13"/>
       <word id="14"
             form="νέατον"
@@ -42135,7 +42135,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-430 w-19"/>
       <word id="20"
             form="κοὔποτ᾽"
@@ -42247,7 +42247,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-431 w-11"/>
       <word id="12"
             form="οὔθ᾽"
@@ -42275,7 +42275,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-431 w-15"/>
       <word id="16"
             form="οὔ"
@@ -42338,7 +42338,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-431 w-24"/>
       <word id="25"
             form="ἀλλ᾽"
@@ -42448,7 +42448,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Antigone: s-432 w-11"/>
       <word id="12"
             form="οὔ"
@@ -42525,7 +42525,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-432 w-22"/>
       <word id="23"
             form="ἀλλ᾽"
@@ -42686,7 +42686,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-433 w-12"/>
       <word id="13"
             form="τὰν"
@@ -42742,7 +42742,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Sophocles Antigone: s-433 w-20"/>
       <word id="21"
             form="καί"
@@ -42777,7 +42777,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Antigone: s-433 w-25"/>
       <word id="26"
             form="ὡς"
@@ -42805,7 +42805,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Antigone: s-433 w-29"/>
       <word id="30"
             form="χιών"
@@ -42840,7 +42840,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Sophocles Antigone: s-433 w-34"/>
       <word id="35"
             form="τέγγει"
@@ -42992,7 +42992,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-435 w-6"/>
       <word id="7"
             form="ἡμεῖς"
@@ -43239,7 +43239,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-439 w-3"/>
       <word id="4"
             form="πρὸς"
@@ -43267,7 +43267,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-439 w-7"/>
       <word id="8"
             form="οὐκ"
@@ -43295,7 +43295,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-439 w-11"/>
       <word id="12"
             form="ἀλλ᾽"
@@ -43447,7 +43447,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-441 w-8"/>
       <word id="9"
             form="ἔμπας"
@@ -43482,7 +43482,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-441 w-13"/>
       <word id="14"
             form="οἵα"
@@ -43510,7 +43510,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-441 w-17"/>
       <word id="18"
             form="οἵοις"
@@ -43599,7 +43599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-442 w-3"/>
       <word id="4"
             form="βροτοῖς"
@@ -43767,7 +43767,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-443 w-10"/>
       <word id="11"
             form="ὦ"
@@ -43788,7 +43788,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-443 w-13"/>
       <word id="14"
             form="πολύ"
@@ -43889,7 +43889,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-445 w-5"/>
       <word id="6"
             form="πατρὸς"
@@ -43978,7 +43978,7 @@
             lemma="ἰώ1"
             postag="e--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite="urn:cts:greekLit:tlg0011.tlg002:861 Sophocles Antigone: s-446 w-1"/>
       <word id="2"
             form="ματρῷαι"
@@ -44055,7 +44055,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-446 w-12"/>
       <word id="13"
             form="οἵων"
@@ -44219,7 +44219,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-448 w-6"/>
       <word id="7"
             form="θανὼν"
@@ -44301,7 +44301,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-449 w-5"/>
       <word id="6"
             form="κράτος"
@@ -44439,7 +44439,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-451 w-2"/>
       <word id="3"
             form="ἄφιλος"
@@ -44680,7 +44680,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-454 w-3"/>
       <word id="4"
             form="ἀοιδὰς"
@@ -44778,7 +44778,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Antigone: s-454 w-17"/>
       <word id="18"
             form="εἰ"
@@ -44886,7 +44886,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-456 w-5"/>
       <word id="6"
             form="ὡς"
@@ -44914,7 +44914,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-456 w-9"/>
       <word id="10"
             form="ἄφετε"
@@ -44942,7 +44942,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-456 w-13"/>
       <word id="14"
             form="εἴτε"
@@ -45150,7 +45150,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-458 w-3"/>
       <word id="4"
             form="ὦ"
@@ -45206,7 +45206,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-458 w-11"/>
       <word id="12"
             form="οἷ"
@@ -45248,7 +45248,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-458 w-17"/>
       <word id="18"
             form="ὧν"
@@ -45386,7 +45386,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-459 w-10"/>
       <word id="11"
             form="πρίν"
@@ -45519,7 +45519,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-460 w-11"/>
       <word id="12"
             form="προσφιλὴς"
@@ -45547,7 +45547,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-460 w-15"/>
       <word id="16"
             form="μῆτερ"
@@ -45561,7 +45561,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-460 w-17"/>
       <word id="18"
             form="φίλη"
@@ -45589,7 +45589,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-460 w-21"/>
       <word id="22"
             form="κασίγνητον"
@@ -45752,7 +45752,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-462 w-4"/>
       <word id="5"
             form="τὸ"
@@ -45923,7 +45923,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-464 w-7"/>
       <word id="8"
             form="εἰ"
@@ -45958,7 +45958,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-464 w-12"/>
       <word id="13"
             form="οὔ"
@@ -46014,7 +46014,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-464 w-20"/>
       <word id="21"
             form="βίᾳ"
@@ -46185,7 +46185,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-466 w-8"/>
       <word id="9"
             form="καὶ"
@@ -46255,7 +46255,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-466 w-18"/>
       <word id="19"
             form="μητρὸς"
@@ -46472,7 +46472,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-467 w-14"/>
       <word id="15"
             form="ὦ"
@@ -46589,7 +46589,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Antigone: s-468 w-12"/>
       <word id="13"
             form="οὔ"
@@ -46666,7 +46666,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-468 w-23"/>
       <word id="24"
             form="ἀλλ᾽"
@@ -47068,7 +47068,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-473 w-10"/>
       <word id="11"
             form="παθόντες"
@@ -47143,7 +47143,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-474 w-5"/>
       <word id="6"
             form="μὴ"
@@ -47382,7 +47382,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-477 w-2"/>
       <word id="3"
             form="θανάτου"
@@ -47560,7 +47560,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-479 w-9"/>
       <word id="10"
             form="ἄγομαι"
@@ -47623,7 +47623,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-480 w-2"/>
       <word id="3"
             form="Θήβης"
@@ -47721,7 +47721,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-480 w-16"/>
       <word id="17"
             form="τὴν"
@@ -47925,7 +47925,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-483 w-5"/>
       <word id="6"
             form="ὦ"
@@ -47953,7 +47953,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-483 w-9"/>
       <word id="10"
             form="καὶ"
@@ -48135,7 +48135,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-485 w-9"/>
       <word id="10"
             form="οὐ"
@@ -48273,7 +48273,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-486 w-10"/>
       <word id="11"
             form="κερτομίοις"
@@ -48547,7 +48547,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-489 w-9"/>
       <word id="10"
             form="φιλαύλους"
@@ -48685,7 +48685,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-490 w-14"/>
       <word id="15"
             form="ἵν᾽"
@@ -48811,7 +48811,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Sophocles Antigone: s-490 w-32"/>
       <word id="33"
             form="ὑφ᾽"
@@ -48930,7 +48930,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-491 w-8"/>
       <word id="9"
             form="ματρὸς"
@@ -49026,7 +49026,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-492 w-8"/>
       <word id="9"
             form="τηλεπόροις"
@@ -49150,7 +49150,7 @@
             lemma="ἀλλά1"
             postag="c--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite="urn:cts:greekLit:tlg0011.tlg002:986 Sophocles Antigone: s-493 w-1"/>
       <word id="2"
             form="κἀπ᾽"
@@ -49192,7 +49192,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-493 w-7"/>
       <word id="8"
             form="ὦ"
@@ -49239,7 +49239,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-494 w-3"/>
       <word id="4"
             form="ἥκομεν"
@@ -49396,7 +49396,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-496 w-4"/>
       <word id="5"
             form="ὦ"
@@ -49424,7 +49424,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-496 w-8"/>
       <word id="9"
             form="νέον"
@@ -49464,7 +49464,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-497 w-3"/>
       <word id="4"
             form="καὶ"
@@ -49821,7 +49821,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-504 w-2"/>
       <word id="3"
             form="τέχνης"
@@ -49917,7 +49917,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-505 w-7"/>
       <word id="8"
             form="ἵν᾽"
@@ -49966,7 +49966,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-505 w-14"/>
       <word id="15"
             form="ἀγνῶτ᾽"
@@ -50001,7 +50001,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Antigone: s-505 w-19"/>
       <word id="20"
             form="κακῷ"
@@ -50343,7 +50343,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-509 w-17"/>
       <word id="18"
             form="καὶ"
@@ -50378,7 +50378,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-509 w-22"/>
       <word id="23"
             form="καὶ"
@@ -50483,7 +50483,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-510 w-6"/>
       <word id="7"
             form="φθίνοντ᾽"
@@ -50558,7 +50558,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-511 w-5"/>
       <word id="6"
             form="ἄλλοις"
@@ -50922,7 +50922,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-514 w-14"/>
       <word id="15"
             form="οὐ"
@@ -51025,7 +51025,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-515 w-3"/>
       <word id="4"
             form="τέκνον"
@@ -51039,7 +51039,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-515 w-5"/>
       <word id="6"
             form="φρόνησον"
@@ -51147,7 +51147,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-517 w-4"/>
       <word id="5"
             form="κεῖνος"
@@ -51210,7 +51210,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-517 w-13"/>
       <word id="14"
             form="ὅστις"
@@ -51545,7 +51545,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-522 w-7"/>
       <word id="8"
             form="εἰ"
@@ -51608,7 +51608,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-523 w-3"/>
       <word id="4"
             form="πάντες"
@@ -51839,7 +51839,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-525 w-7"/>
       <word id="8"
             form="εἰ"
@@ -51860,7 +51860,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-525 w-10"/>
       <word id="11"
             form="καὶ"
@@ -51942,7 +51942,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-526 w-6"/>
       <word id="7"
             form="οὐ"
@@ -52054,7 +52054,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-526 w-22"/>
       <word id="23"
             form="οὐ"
@@ -52239,7 +52239,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-528 w-3"/>
       <word id="4"
             form="ὦ"
@@ -52267,7 +52267,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-528 w-7"/>
       <word id="8"
             form="βροτῶν"
@@ -52316,7 +52316,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-528 w-14"/>
       <word id="15"
             form="ὅταν"
@@ -52611,7 +52611,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-534 w-2"/>
       <word id="3"
             form="οἶμαι"
@@ -52625,7 +52625,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-534 w-4"/>
       <word id="5"
             form="μὴ"
@@ -52817,7 +52817,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-537 w-4"/>
       <word id="5"
             form="ψευδῆ"
@@ -53143,7 +53143,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-543 w-4"/>
       <word id="5"
             form="ἀλλὰ"
@@ -53253,7 +53253,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-545 w-2"/>
       <word id="3"
             form="μόνον"
@@ -53550,7 +53550,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-548 w-13"/>
       <word id="14"
             form="ἐν"
@@ -53648,7 +53648,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Sophocles Antigone: s-548 w-27"/>
       <word id="28"
             form="ἀνθ᾽"
@@ -53753,7 +53753,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Sophocles Antigone: s-548 w-42"/>
       <word id="43"
             form="ἔχεις"
@@ -53816,7 +53816,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="50"
+            head="0"
             cite=" Sophocles Antigone: s-548 w-51"/>
       <word id="52"
             form="ἀκτέριστον"
@@ -53830,7 +53830,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="52"
+            head="0"
             cite=" Sophocles Antigone: s-548 w-53"/>
       <word id="54"
             form="ἀνόσιον"
@@ -53886,7 +53886,7 @@
             lemma="τε1"
             postag="d--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite="urn:cts:greekLit:tlg0011.tlg002:1072 Sophocles Antigone: s-549 w-3"/>
       <word id="4"
             form="σοὶ"
@@ -53942,7 +53942,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-549 w-11"/>
       <word id="12"
             form="ἀλλ᾽"
@@ -54059,7 +54059,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-550 w-10"/>
       <word id="11"
             form="ἐν"
@@ -54307,7 +54307,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-553 w-6"/>
       <word id="7"
             form="ὅσων"
@@ -54391,7 +54391,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-553 w-18"/>
       <word id="19"
             form="φέρων"
@@ -54466,7 +54466,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-554 w-3"/>
       <word id="4"
             form="λυπεῖς"
@@ -54487,7 +54487,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-554 w-6"/>
       <word id="7"
             form="ὥστε"
@@ -54550,7 +54550,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Antigone: s-554 w-15"/>
       <word id="16"
             form="τῶν"
@@ -54627,7 +54627,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-555 w-3"/>
       <word id="4"
             form="σὺ"
@@ -54676,7 +54676,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-555 w-10"/>
       <word id="11"
             form="ἵνα"
@@ -54732,7 +54732,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-555 w-18"/>
       <word id="19"
             form="καὶ"
@@ -54872,7 +54872,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-556 w-2"/>
       <word id="3"
             form="ἄναξ"
@@ -54886,7 +54886,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-556 w-4"/>
       <word id="5"
             form="βέβηκε"
@@ -54940,7 +54940,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-557 w-3"/>
       <word id="4"
             form="ἐξ"
@@ -55010,7 +55010,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-557 w-13"/>
       <word id="14"
             form="μή"
@@ -55167,7 +55167,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-559 w-6"/>
       <word id="7"
             form="ἀντιστάντα"
@@ -55265,7 +55265,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-560 w-3"/>
       <word id="4"
             form="παῖ"
@@ -55286,7 +55286,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-560 w-6"/>
       <word id="7"
             form="λαβεῖν"
@@ -55453,7 +55453,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-564 w-8"/>
       <word id="9"
             form="κτίσον"
@@ -55575,7 +55575,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-566 w-3"/>
       <word id="4"
             form="ἄναξ"
@@ -55589,7 +55589,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-566 w-5"/>
       <word id="6"
             form="τάχιστα"
@@ -55727,7 +55727,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-569 w-3"/>
       <word id="4"
             form="καρδίας"
@@ -55982,7 +55982,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-573 w-4"/>
       <word id="5"
             form="οἵ"
@@ -56113,7 +56113,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-574 w-3"/>
       <word id="4"
             form="ἐπειδὴ"
@@ -56148,7 +56148,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-574 w-8"/>
       <word id="9"
             form="αὐτός"
@@ -56312,7 +56312,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-576 w-2"/>
       <word id="3"
             form="Καδμείας"
@@ -56368,7 +56368,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-576 w-10"/>
       <word id="11"
             form="κλυτὰν"
@@ -56403,7 +56403,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-576 w-15"/>
       <word id="16"
             form="μέδεις"
@@ -56648,7 +56648,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-577 w-9"/>
       <word id="10"
             form="ἔνθα"
@@ -56690,7 +56690,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-577 w-15"/>
       <word id="16"
             form="Κασταλίας"
@@ -56807,7 +56807,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-578 w-12"/>
       <word id="13"
             form="ἀμβρότων"
@@ -56957,7 +56957,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-580 w-3"/>
       <word id="4"
             form="ὡς"
@@ -57013,7 +57013,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-580 w-11"/>
       <word id="12"
             form="μολεῖν"
@@ -57130,7 +57130,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-581 w-6"/>
       <word id="7"
             form="νυχίων"
@@ -57158,7 +57158,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-581 w-10"/>
       <word id="11"
             form="παῖ"
@@ -57207,7 +57207,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-581 w-17"/>
       <word id="18"
             form="σαῖς"
@@ -57242,7 +57242,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Antigone: s-581 w-22"/>
       <word id="23"
             form="αἵ"
@@ -57361,7 +57361,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-582 w-6"/>
       <word id="7"
             form="οὐκ"
@@ -57672,7 +57672,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-585 w-5"/>
       <word id="6"
             form="ὡς"
@@ -57693,7 +57693,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-585 w-8"/>
       <word id="9"
             form="ποτέ"
@@ -57707,7 +57707,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-585 w-10"/>
       <word id="11"
             form="σώσας"
@@ -57798,7 +57798,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-585 w-23"/>
       <word id="24"
             form="θάλλων"
@@ -57927,7 +57927,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-587 w-7"/>
       <word id="8"
             form="οὐ"
@@ -57969,7 +57969,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-587 w-13"/>
       <word id="14"
             form="ἀλλ᾽"
@@ -58051,7 +58051,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-588 w-6"/>
       <word id="7"
             form="εἰ"
@@ -58072,7 +58072,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-588 w-9"/>
       <word id="10"
             form="μέγα"
@@ -58175,7 +58175,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-589 w-7"/>
       <word id="8"
             form="τἄλλ᾽"
@@ -58658,7 +58658,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-599 w-4"/>
       <word id="5"
             form="πατρὶ"
@@ -58721,7 +58721,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-600 w-3"/>
       <word id="4"
             form="τοὔπος"
@@ -59000,7 +59000,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-604 w-4"/>
       <word id="5"
             form="τῶν"
@@ -59049,7 +59049,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-604 w-11"/>
       <word id="12"
             form="Παλλάδος"
@@ -59407,7 +59407,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-608 w-2"/>
       <word id="3"
             form="φίλη"
@@ -59428,7 +59428,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-608 w-5"/>
       <word id="6"
             form="καὶ"
@@ -59699,7 +59699,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-611 w-10"/>
       <word id="11"
             form="ἔνθ᾽"
@@ -59788,7 +59788,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Antigone: s-612 w-4"/>
       <word id="5"
             form="αἰτήσαντες"
@@ -59872,7 +59872,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-612 w-16"/>
       <word id="17"
             form="ἐν"
@@ -59928,7 +59928,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-612 w-24"/>
       <word id="25"
             form="καὶ"
@@ -60115,7 +60115,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-613 w-11"/>
       <word id="12"
             form="καὶ"
@@ -60232,7 +60232,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-614 w-10"/>
       <word id="11"
             form="οἰμώξας"
@@ -60307,7 +60307,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-615 w-4"/>
       <word id="5"
             form="ἆρ᾽"
@@ -60462,7 +60462,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-618 w-3"/>
       <word id="4"
             form="ἴτ᾽"
@@ -60518,7 +60518,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-618 w-11"/>
       <word id="12"
             form="ἁρμὸν"
@@ -60574,7 +60574,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Antigone: s-618 w-19"/>
       <word id="20"
             form="εἰ"
@@ -60766,7 +60766,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Antigone: s-620 w-10"/>
       <word id="11"
             form="βρόχῳ"
@@ -60801,7 +60801,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-620 w-15"/>
       <word id="16"
             form="τὸν"
@@ -60850,7 +60850,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Antigone: s-620 w-22"/>
       <word id="23"
             form="εὐνῆς"
@@ -60997,7 +60997,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-621 w-6"/>
       <word id="7"
             form="στυγνὸν"
@@ -61095,7 +61095,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-622 w-3"/>
       <word id="4"
             form="οἷον"
@@ -61215,7 +61215,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-625 w-2"/>
       <word id="3"
             form="τέκνον"
@@ -61318,7 +61318,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-626 w-8"/>
       <word id="9"
             form="πτύσας"
@@ -61353,7 +61353,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Antigone: s-626 w-13"/>
       <word id="14"
             form="ξίφους"
@@ -61498,7 +61498,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-628 w-6"/>
       <word id="7"
             form="ὥσπερ"
@@ -61519,7 +61519,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-628 w-9"/>
       <word id="10"
             form="ἐπενταθεὶς"
@@ -61561,7 +61561,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Antigone: s-628 w-15"/>
       <word id="16"
             form="ἐς"
@@ -61746,7 +61746,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-630 w-6"/>
       <word id="7"
             form="τὰ"
@@ -61809,7 +61809,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-630 w-15"/>
       <word id="16"
             form="δείξας"
@@ -61975,7 +61975,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-632 w-5"/>
       <word id="6"
             form="πρὶν"
@@ -62148,7 +62148,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-634 w-12"/>
       <word id="13"
             form="ἀλλ᾽"
@@ -62258,7 +62258,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Antigone: s-635 w-5"/>
       <word id="6"
             form="ὥσθ᾽"
@@ -62450,7 +62450,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-638 w-3"/>
       <word id="4"
             form="μή"
@@ -62513,7 +62513,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Antigone: s-638 w-12"/>
       <word id="13"
             form="δόμους"
@@ -62726,7 +62726,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Antigone: s-640 w-12"/>
       <word id="13"
             form="εἰ"
@@ -62754,7 +62754,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Antigone: s-640 w-16"/>
       <word id="17"
             form="οὐκ"
@@ -62782,7 +62782,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Antigone: s-640 w-20"/>
       <word id="21"
             form="ἀλλ᾽"
@@ -62873,7 +62873,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-641 w-7"/>
       <word id="8"
             form="ὦ"
@@ -63013,7 +63013,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-643 w-3"/>
       <word id="4"
             form="νέος"
@@ -63062,7 +63062,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-643 w-10"/>
       <word id="11"
             form="ἔθανες"
@@ -63205,7 +63205,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-645 w-2"/>
       <word id="3"
             form="ἔχω"
@@ -63336,7 +63336,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-646 w-14"/>
       <word id="15"
             form="ἐν"
@@ -63378,7 +63378,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Antigone: s-646 w-20"/>
       <word id="21"
             form="οἴμοι"
@@ -63392,7 +63392,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Antigone: s-646 w-22"/>
       <word id="23"
             form="λακπάτητον"
@@ -63446,7 +63446,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-647 w-3"/>
       <word id="4"
             form="ὦ"
@@ -63507,7 +63507,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-648 w-3"/>
       <word id="4"
             form="ὡς"
@@ -63806,7 +63806,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-650 w-7"/>
       <word id="8"
             form="δύστηνος"
@@ -63820,7 +63820,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-650 w-9"/>
       <word id="10"
             form="ἄρτι"
@@ -63907,7 +63907,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-652 w-5"/>
       <word id="6"
             form="τί"
@@ -64003,7 +64003,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-653 w-6"/>
       <word id="7"
             form="τίνα"
@@ -64050,7 +64050,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-654 w-2"/>
       <word id="3"
             form="ὀλωλότ᾽"
@@ -64104,7 +64104,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-655 w-3"/>
       <word id="4"
             form="παῖ"
@@ -64137,7 +64137,7 @@
             lemma="αὖ1"
             postag="d--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite="urn:cts:greekLit:tlg0011.tlg002:1289 Sophocles Antigone: s-656 w-2"/>
       <word id="3"
             form="λέγεις"
@@ -64165,7 +64165,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-656 w-6"/>
       <word id="7"
             form="αἰαῖ"
@@ -64186,7 +64186,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-656 w-9"/>
       <word id="10"
             form="σφάγιον"
@@ -64336,7 +64336,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-659 w-2"/>
       <word id="3"
             form="κακὸν"
@@ -64411,7 +64411,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Antigone: s-660 w-3"/>
       <word id="4"
             form="τίς"
@@ -64507,7 +64507,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-661 w-7"/>
       <word id="8"
             form="τάλας"
@@ -64521,7 +64521,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-661 w-9"/>
       <word id="10"
             form="τὸν"
@@ -64708,7 +64708,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-663 w-10"/>
       <word id="11"
             form="κωκύσασα"
@@ -64771,7 +64771,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Antigone: s-663 w-19"/>
       <word id="20"
             form="αὖθις"
@@ -64799,7 +64799,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Antigone: s-663 w-23"/>
       <word id="24"
             form="λοίσθιον"
@@ -64888,7 +64888,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-664 w-3"/>
       <word id="4"
             form="ἀνέπταν"
@@ -65003,7 +65003,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-666 w-3"/>
       <word id="4"
             form="αἰαῖ"
@@ -65017,7 +65017,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-666 w-5"/>
       <word id="6"
             form="δειλαίᾳ"
@@ -65260,7 +65260,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Antigone: s-669 w-6"/>
       <word id="7"
             form="ὅπως"
@@ -65344,7 +65344,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-670 w-3"/>
       <word id="4"
             form="τάδ᾽"
@@ -65468,7 +65468,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-671 w-6"/>
       <word id="7"
             form="ὢ"
@@ -65489,7 +65489,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-671 w-9"/>
       <word id="10"
             form="ἐγώ"
@@ -65503,7 +65503,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Antigone: s-671 w-11"/>
       <word id="12"
             form="φάμ᾽"
@@ -65550,7 +65550,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Antigone: s-672 w-3"/>
       <word id="4"
             form="ἄγετέ"
@@ -65697,7 +65697,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-673 w-3"/>
       <word id="4"
             form="εἴ"
@@ -65940,7 +65940,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Antigone: s-676 w-3"/>
       <word id="4"
             form="ὅπως"
@@ -66151,7 +66151,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Antigone: s-680 w-4"/>
       <word id="5"
             form="τοιαῦτα"
@@ -66329,7 +66329,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Antigone: s-683 w-6"/>
       <word id="7"
             form="ὅς"
@@ -66343,7 +66343,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-683 w-8"/>
       <word id="9"
             form="ὦ"
@@ -66364,7 +66364,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Antigone: s-683 w-11"/>
       <word id="12"
             form="σέ"
@@ -66434,7 +66434,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-683 w-21"/>
       <word id="22"
             form="ὤμοι"
@@ -66455,7 +66455,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Antigone: s-683 w-24"/>
       <word id="25"
             form="οὐ"
@@ -66558,7 +66558,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Antigone: s-684 w-6"/>
       <word id="7"
             form="τὰ"

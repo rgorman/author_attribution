@@ -110,7 +110,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-1 w-11"/>
       <word id="12"
             form="οὗ"
@@ -278,7 +278,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plutarch Lycurgus: s-1 w-35"/>
       <word id="36"
             form="ἥκιστα"
@@ -451,7 +451,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-2 w-13"/>
       <word id="14"
             form="ὧν"
@@ -680,7 +680,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-3 w-12"/>
       <word id="13"
             form="ὥσπερ"
@@ -715,7 +715,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-3 w-17"/>
       <word id="18"
             form="οὐκ"
@@ -820,7 +820,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-4 w-4"/>
       <word id="5"
             form="δυεῖν"
@@ -897,7 +897,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-4 w-15"/>
       <word id="16"
             form="τῷ"
@@ -1049,7 +1049,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-5 w-11"/>
       <word id="12"
             form="ἔνιοι"
@@ -1343,7 +1343,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-7 w-14"/>
       <word id="15"
             form="ὁ"
@@ -1502,7 +1502,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-8 w-9"/>
       <word id="10"
             form="πειρασόμεθα"
@@ -1717,7 +1717,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="78"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-12"/>
       <word id="13"
             form="ἀλλὰ"
@@ -1780,7 +1780,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-21"/>
       <word id="22"
             form="οἱ"
@@ -1836,7 +1836,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-29"/>
       <word id="30"
             form="ἀλλὰ"
@@ -1892,7 +1892,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-37"/>
       <word id="38"
             form="Σόου"
@@ -1920,7 +1920,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="81"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-41"/>
       <word id="42"
             form="τούτου"
@@ -1948,7 +1948,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="82"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-45"/>
       <word id="46"
             form="ἐκ"
@@ -1983,7 +1983,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="83"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-50"/>
       <word id="51"
             form="Εὐνόμου"
@@ -2032,7 +2032,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="84"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-57"/>
       <word id="58"
             form="Λυκοῦργον"
@@ -2074,7 +2074,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="64"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-63"/>
       <word id="64"
             form="ὡς"
@@ -2137,7 +2137,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="68"
+            head="0"
             cite=" Plutarch Lycurgus: s-9 w-72"/>
       <word id="73"
             form="ἑνδέκατον"
@@ -2312,7 +2312,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-10 w-9"/>
       <word id="10"
             form="ἐφ᾽"
@@ -2520,7 +2520,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-11 w-13"/>
       <word id="14"
             form="ὁμολογῆσαι"
@@ -2569,7 +2569,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-11 w-20"/>
       <word id="21"
             form="εἰ"
@@ -2819,7 +2819,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-13 w-4"/>
       <word id="5"
             form="ἀλλὰ"
@@ -2847,7 +2847,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-13 w-8"/>
       <word id="9"
             form="αὐτὸν"
@@ -2959,7 +2959,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-13 w-24"/>
       <word id="25"
             form="ὡς"
@@ -3092,7 +3092,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-14 w-12"/>
       <word id="13"
             form="ἀλλὰ"
@@ -3141,7 +3141,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-14 w-19"/>
       <word id="20"
             form="ὅτι"
@@ -3218,7 +3218,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Plutarch Lycurgus: s-14 w-30"/>
       <word id="31"
             form="δημαγωγῶν"
@@ -3335,7 +3335,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-15 w-10"/>
       <word id="11"
             form="τῶν"
@@ -3419,7 +3419,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-15 w-22"/>
       <word id="23"
             form="τὰ"
@@ -3482,7 +3482,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-15 w-31"/>
       <word id="32"
             form="ἀνομία"
@@ -3674,7 +3674,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-17 w-5"/>
       <word id="6"
             form="μαγειρικῇ"
@@ -3709,7 +3709,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-17 w-10"/>
       <word id="11"
             form="τῷ"
@@ -3840,7 +3840,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-18 w-10"/>
       <word id="11"
             form="ὡς"
@@ -3868,7 +3868,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-18 w-14"/>
       <word id="15"
             form="τὸν"
@@ -4025,7 +4025,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-20 w-6"/>
       <word id="7"
             form="τὴν"
@@ -4081,7 +4081,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-20 w-14"/>
       <word id="15"
             form="ἄνπερ"
@@ -4109,7 +4109,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-20 w-18"/>
       <word id="19"
             form="τὴν"
@@ -4324,7 +4324,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-22 w-10"/>
       <word id="11"
             form="βουλομένη"
@@ -4408,7 +4408,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-22 w-22"/>
       <word id="23"
             form="τὸ"
@@ -4450,7 +4450,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-22 w-28"/>
       <word id="29"
             form="πρὸς"
@@ -4506,7 +4506,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-22 w-36"/>
       <word id="37"
             form="ἀλλ᾽"
@@ -4548,7 +4548,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="41"
+            head="0"
             cite=" Plutarch Lycurgus: s-22 w-42"/>
       <word id="43"
             form="οὐκ"
@@ -4791,7 +4791,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-24 w-9"/>
       <word id="10"
             form="ὡς"
@@ -4819,7 +4819,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-24 w-13"/>
       <word id="14"
             form="εἰσέπεμψε"
@@ -4875,7 +4875,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-24 w-21"/>
       <word id="22"
             form="οἷς"
@@ -4903,7 +4903,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-24 w-25"/>
       <word id="26"
             form="ἐὰν"
@@ -4938,7 +4938,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-24 w-30"/>
       <word id="31"
             form="παραδοῦναι"
@@ -4966,7 +4966,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-24 w-34"/>
       <word id="35"
             form="ἐὰν"
@@ -4994,7 +4994,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Plutarch Lycurgus: s-24 w-38"/>
       <word id="39"
             form="κομίσαι"
@@ -5230,7 +5230,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-26 w-4"/>
       <word id="5"
             form="ὡς"
@@ -5251,7 +5251,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-26 w-7"/>
       <word id="8"
             form="καὶ"
@@ -5293,7 +5293,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-26 w-13"/>
       <word id="14"
             form="βασιλεὺς"
@@ -5321,7 +5321,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-26 w-17"/>
       <word id="18"
             form="ὦ"
@@ -5342,7 +5342,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-26 w-20"/>
       <word id="21"
             form="κατέκλινεν"
@@ -5447,7 +5447,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Plutarch Lycurgus: s-26 w-35"/>
       <word id="36"
             form="ἀγαμένους"
@@ -5625,7 +5625,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-28 w-9"/>
       <word id="10"
             form="καὶ"
@@ -5903,7 +5903,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-29 w-15"/>
       <word id="16"
             form="μάλιστα"
@@ -5994,7 +5994,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-29 w-28"/>
       <word id="29"
             form="ὁ"
@@ -6134,7 +6134,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="51"
+            head="0"
             cite=" Plutarch Lycurgus: s-29 w-48"/>
       <word id="49"
             form="ὑπόνοιαν"
@@ -6190,7 +6190,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="57"
+            head="0"
             cite=" Plutarch Lycurgus: s-29 w-56"/>
       <word id="57"
             form="εἴ"
@@ -6239,7 +6239,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="59"
+            head="0"
             cite=" Plutarch Lycurgus: s-29 w-63"/>
       <word id="64"
             form="ὡς"
@@ -6403,7 +6403,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-31 w-9"/>
       <word id="10"
             form="ἔγνω"
@@ -6445,7 +6445,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-31 w-15"/>
       <word id="16"
             form="καὶ"
@@ -6700,7 +6700,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-33 w-13"/>
       <word id="14"
             form="τὰ"
@@ -6756,7 +6756,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-33 w-21"/>
       <word id="22"
             form="ὡς"
@@ -6798,7 +6798,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-33 w-27"/>
       <word id="28"
             form="ἔστι"
@@ -6971,7 +6971,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-34 w-19"/>
       <word id="20"
             form="ποιητὴν"
@@ -7055,7 +7055,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-34 w-31"/>
       <word id="32"
             form="ἔργῳ"
@@ -7218,7 +7218,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-35 w-11"/>
       <word id="12"
             form="διὰ"
@@ -7302,7 +7302,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-35 w-23"/>
       <word id="24"
             form="ὧν"
@@ -7442,7 +7442,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Plutarch Lycurgus: s-35 w-43"/>
       <word id="44"
             form="ὥστε"
@@ -7594,7 +7594,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-36 w-10"/>
       <word id="11"
             form="βουλόμενος"
@@ -7608,7 +7608,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-36 w-12"/>
       <word id="13"
             form="ὡς"
@@ -7629,7 +7629,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-36 w-15"/>
       <word id="16"
             form="ταῖς"
@@ -7657,7 +7657,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-36 w-19"/>
       <word id="20"
             form="εὐτελέσιν"
@@ -7692,7 +7692,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-36 w-24"/>
       <word id="25"
             form="τὰς"
@@ -7734,7 +7734,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-36 w-30"/>
       <word id="31"
             form="ὥσπερ"
@@ -7790,7 +7790,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-36 w-38"/>
       <word id="39"
             form="παραβαλὼν"
@@ -7937,7 +7937,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-37 w-9"/>
       <word id="10"
             form="ὡς"
@@ -7958,7 +7958,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-37 w-12"/>
       <word id="13"
             form="παρὰ"
@@ -8007,7 +8007,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-37 w-19"/>
       <word id="20"
             form="καὶ"
@@ -8147,7 +8147,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-37 w-39"/>
       <word id="40"
             form="ἐγράψατο"
@@ -8292,7 +8292,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-38 w-12"/>
       <word id="13"
             form="ἐκέκτηντο"
@@ -8341,7 +8341,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-38 w-19"/>
       <word id="20"
             form="σποράδην"
@@ -8369,7 +8369,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-38 w-23"/>
       <word id="24"
             form="ὡς"
@@ -8390,7 +8390,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-38 w-26"/>
       <word id="27"
             form="διαφερομένης"
@@ -8547,7 +8547,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-40 w-10"/>
       <word id="11"
             form="καὶ"
@@ -8659,7 +8659,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plutarch Lycurgus: s-40 w-26"/>
       <word id="27"
             form="καὶ"
@@ -8977,7 +8977,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-42 w-18"/>
       <word id="19"
             form="οὐδένα"
@@ -9122,7 +9122,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-43 w-11"/>
       <word id="12"
             form="ὡς"
@@ -9178,7 +9178,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-43 w-19"/>
       <word id="20"
             form="ἄλλο"
@@ -9234,7 +9234,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-43 w-27"/>
       <word id="28"
             form="ἐν"
@@ -9400,7 +9400,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-44 w-12"/>
       <word id="13"
             form="ἀλλ᾽"
@@ -9580,7 +9580,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-45 w-15"/>
       <word id="16"
             form="ὡς"
@@ -9650,7 +9650,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-45 w-25"/>
       <word id="26"
             form="εἰ"
@@ -9998,7 +9998,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-47 w-13"/>
       <word id="14"
             form="ᾧ"
@@ -10089,7 +10089,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-47 w-26"/>
       <word id="27"
             form="εὐνομίας"
@@ -10301,7 +10301,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-48 w-10"/>
       <word id="11"
             form="κρύφα"
@@ -10343,7 +10343,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-48 w-16"/>
       <word id="17"
             form="εἶτα"
@@ -10474,7 +10474,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-49 w-6"/>
       <word id="7"
             form="τριάκοντα"
@@ -10902,7 +10902,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-52 w-16"/>
       <word id="17"
             form="κατέφυγε"
@@ -11019,7 +11019,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-53 w-11"/>
       <word id="12"
             form="φύσει"
@@ -11218,7 +11218,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-55 w-8"/>
       <word id="9"
             form="ὃς"
@@ -11377,7 +11377,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-56 w-15"/>
       <word id="16"
             form="ἥν"
@@ -12757,7 +12757,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-62 w-17"/>
       <word id="18"
             form="ἣν"
@@ -12879,7 +12879,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-64 w-8"/>
       <word id="9"
             form="φυλὰς"
@@ -12921,7 +12921,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-64 w-14"/>
       <word id="15"
             form="τριάκοντα"
@@ -12963,7 +12963,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-64 w-20"/>
       <word id="21"
             form="ὥρας"
@@ -13276,7 +13276,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-66 w-18"/>
       <word id="19"
             form="ὧν"
@@ -13311,7 +13311,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plutarch Lycurgus: s-66 w-23"/>
       <word id="24"
             form="τὰς"
@@ -13402,7 +13402,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-67 w-6"/>
       <word id="7"
             form="τὸ"
@@ -13582,7 +13582,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-69 w-5"/>
       <word id="6"
             form="καὶ"
@@ -13694,7 +13694,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-70 w-7"/>
       <word id="8"
             form="τὴν"
@@ -13817,7 +13817,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-71 w-8"/>
       <word id="9"
             form="οὔτε"
@@ -13934,7 +13934,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-72 w-8"/>
       <word id="9"
             form="μᾶλλον"
@@ -13962,7 +13962,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-72 w-12"/>
       <word id="13"
             form="φλυαρώδεις"
@@ -14039,7 +14039,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-72 w-23"/>
       <word id="24"
             form="ὅταν"
@@ -14240,7 +14240,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-73 w-12"/>
       <word id="13"
             form="τὴν"
@@ -14441,7 +14441,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-74 w-13"/>
       <word id="14"
             form="Πολύδωρος"
@@ -14565,7 +14565,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-75 w-7"/>
       <word id="8"
             form="τοὺς"
@@ -14614,7 +14614,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-75 w-14"/>
       <word id="15"
             form="τοῦτ᾽"
@@ -14649,7 +14649,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-75 w-19"/>
       <word id="20"
             form="ἀλλ᾽"
@@ -14705,7 +14705,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-75 w-27"/>
       <word id="28"
             form="ὡς"
@@ -14873,7 +14873,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-76 w-12"/>
       <word id="13"
             form="ὥς"
@@ -15058,7 +15058,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-78 w-6"/>
       <word id="7"
             form="οἷσι"
@@ -15100,7 +15100,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-78 w-12"/>
       <word id="13"
             form="πρεσβύτας"
@@ -15128,7 +15128,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-78 w-16"/>
       <word id="17"
             form="ἔπειτα"
@@ -15163,7 +15163,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-78 w-21"/>
       <word id="22"
             form="εὐθείαις"
@@ -15254,7 +15254,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-79 w-7"/>
       <word id="8"
             form="ὅμως"
@@ -15359,7 +15359,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-79 w-22"/>
       <word id="23"
             form="ὥς"
@@ -15394,7 +15394,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-79 w-27"/>
       <word id="28"
             form="οἷον"
@@ -15457,7 +15457,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-79 w-36"/>
       <word id="37"
             form="ἔτεσί"
@@ -15714,7 +15714,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Plutarch Lycurgus: s-80 w-18"/>
       <word id="19"
             form="μείζω"
@@ -15742,7 +15742,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-80 w-22"/>
       <word id="23"
             form="εἰπεῖν"
@@ -15756,7 +15756,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-80 w-24"/>
       <word id="25"
             form="ὅσῳ"
@@ -15882,7 +15882,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-81 w-13"/>
       <word id="14"
             form="ὥστε"
@@ -15973,7 +15973,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Plutarch Lycurgus: s-81 w-26"/>
       <word id="27"
             form="μηδὲν"
@@ -16167,7 +16167,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-82 w-16"/>
       <word id="17"
             form="συγγενῶν"
@@ -16251,7 +16251,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Plutarch Lycurgus: s-82 w-28"/>
       <word id="29"
             form="οἳ"
@@ -16300,7 +16300,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Plutarch Lycurgus: s-82 w-35"/>
       <word id="36"
             form="ἐν"
@@ -16370,7 +16370,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Plutarch Lycurgus: s-82 w-45"/>
       <word id="46"
             form="οὐκ"
@@ -16412,7 +16412,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="50"
+            head="0"
             cite=" Plutarch Lycurgus: s-82 w-51"/>
       <word id="52"
             form="ἀλλ᾽"
@@ -16454,7 +16454,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="53"
+            head="0"
             cite=" Plutarch Lycurgus: s-82 w-57"/>
       <word id="58"
             form="οὐκ"
@@ -16496,7 +16496,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="60"
+            head="0"
             cite=" Plutarch Lycurgus: s-82 w-63"/>
       <word id="64"
             form="τὰ"
@@ -16884,7 +16884,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-85 w-13"/>
       <word id="14"
             form="τοῦ"
@@ -16940,7 +16940,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-85 w-21"/>
       <word id="22"
             form="ὕβριν"
@@ -17087,7 +17087,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Plutarch Lycurgus: s-85 w-42"/>
       <word id="43"
             form="ἐξελαύνων"
@@ -17101,7 +17101,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="43"
+            head="0"
             cite=" Plutarch Lycurgus: s-85 w-44"/>
       <word id="45"
             form="συνέπεισε"
@@ -17178,7 +17178,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="54"
+            head="0"
             cite=" Plutarch Lycurgus: s-85 w-55"/>
       <word id="56"
             form="καὶ"
@@ -17262,7 +17262,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="66"
+            head="0"
             cite=" Plutarch Lycurgus: s-85 w-67"/>
       <word id="68"
             form="τὸ"
@@ -17304,7 +17304,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="74"
+            head="0"
             cite=" Plutarch Lycurgus: s-85 w-73"/>
       <word id="74"
             form="ὡς"
@@ -17381,7 +17381,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="85"
+            head="0"
             cite=" Plutarch Lycurgus: s-85 w-84"/>
       <word id="85"
             form="πλὴν"
@@ -17561,7 +17561,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-86 w-16"/>
       <word id="17"
             form="τὴν"
@@ -17755,7 +17755,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-88 w-9"/>
       <word id="10"
             form="τρισχιλίους"
@@ -17872,7 +17872,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-89 w-9"/>
       <word id="10"
             form="τοὺς"
@@ -18044,7 +18044,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-90 w-15"/>
       <word id="16"
             form="γυναικὶ"
@@ -18072,7 +18072,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-90 w-19"/>
       <word id="20"
             form="καὶ"
@@ -18193,7 +18193,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-91 w-6"/>
       <word id="7"
             form="τῆς"
@@ -18249,7 +18249,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-91 w-14"/>
       <word id="15"
             form="ἄλλου"
@@ -18387,7 +18387,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-92 w-14"/>
       <word id="15"
             form="ὁρῶντα"
@@ -18436,7 +18436,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-92 w-21"/>
       <word id="22"
             form="μειδιᾶσαι"
@@ -18450,7 +18450,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plutarch Lycurgus: s-92 w-23"/>
       <word id="24"
             form="καὶ"
@@ -18616,7 +18616,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-93 w-7"/>
       <word id="8"
             form="ὅπως"
@@ -18672,7 +18672,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-93 w-15"/>
       <word id="16"
             form="ἐπεὶ"
@@ -18728,7 +18728,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-93 w-23"/>
       <word id="24"
             form="ἑτέρᾳ"
@@ -18997,7 +18997,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-95 w-12"/>
       <word id="13"
             form="ὥστε"
@@ -19315,7 +19315,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-97 w-20"/>
       <word id="21"
             form="ἀλλὰ"
@@ -19376,7 +19376,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-98 w-3"/>
       <word id="4"
             form="ὡς"
@@ -19397,7 +19397,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-98 w-6"/>
       <word id="7"
             form="διαπύρου"
@@ -19488,7 +19488,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-98 w-19"/>
       <word id="20"
             form="ἀδρανοῦς"
@@ -19701,7 +19701,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-100 w-13"/>
       <word id="14"
             form="διάθεσιν"
@@ -19853,7 +19853,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-101 w-15"/>
       <word id="16"
             form="ὥστε"
@@ -19923,7 +19923,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-101 w-25"/>
       <word id="26"
             form="οὐδ᾽"
@@ -19979,7 +19979,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-101 w-33"/>
       <word id="34"
             form="οὐδὲ"
@@ -20035,7 +20035,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Plutarch Lycurgus: s-101 w-41"/>
       <word id="42"
             form="οὐ"
@@ -20063,7 +20063,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="43"
+            head="0"
             cite=" Plutarch Lycurgus: s-101 w-45"/>
       <word id="46"
             form="οὐχ"
@@ -20091,7 +20091,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Plutarch Lycurgus: s-101 w-49"/>
       <word id="50"
             form="οὐ"
@@ -20154,7 +20154,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="63"
+            head="0"
             cite=" Plutarch Lycurgus: s-101 w-58"/>
       <word id="59"
             form="ἅτε"
@@ -20374,7 +20374,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-103 w-8"/>
       <word id="9"
             form="ὁδὸν"
@@ -20430,7 +20430,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-103 w-16"/>
       <word id="17"
             form="ἀλλ᾽"
@@ -20582,7 +20582,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-104 w-16"/>
       <word id="17"
             form="βέλτιστα"
@@ -20617,7 +20617,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-104 w-21"/>
       <word id="22"
             form="καὶ"
@@ -20687,7 +20687,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Plutarch Lycurgus: s-104 w-31"/>
       <word id="32"
             form="ὥς"
@@ -20818,7 +20818,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-105 w-14"/>
       <word id="15"
             form="καὶ"
@@ -20888,7 +20888,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-105 w-24"/>
       <word id="25"
             form="καθαρώτερον"
@@ -21199,7 +21199,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-14"/>
       <word id="15"
             form="τὸ"
@@ -21283,7 +21283,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-26"/>
       <word id="27"
             form="ὥστε"
@@ -21374,7 +21374,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-39"/>
       <word id="40"
             form="οἴκοι"
@@ -21451,7 +21451,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="62"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-50"/>
       <word id="51"
             form="χερσὶ"
@@ -21500,7 +21500,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="58"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-57"/>
       <word id="58"
             form="ὥσπερ"
@@ -21528,7 +21528,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="58"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-61"/>
       <word id="62"
             form="πιαινομένους"
@@ -21542,7 +21542,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="62"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-63"/>
       <word id="64"
             form="καὶ"
@@ -21640,7 +21640,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="74"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-77"/>
       <word id="78"
             form="μακρῶν"
@@ -21668,7 +21668,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="80"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-81"/>
       <word id="82"
             form="θερμῶν"
@@ -21696,7 +21696,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="84"
+            head="0"
             cite=" Plutarch Lycurgus: s-108 w-85"/>
       <word id="86"
             form="πολλῆς"
@@ -21820,7 +21820,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-109 w-7"/>
       <word id="8"
             form="μεῖζον"
@@ -21869,7 +21869,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-109 w-14"/>
       <word id="15"
             form="ὥς"
@@ -21897,7 +21897,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-109 w-18"/>
       <word id="19"
             form="καὶ"
@@ -22114,7 +22114,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-110 w-15"/>
       <word id="16"
             form="ἐπὶ"
@@ -22485,7 +22485,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-112 w-11"/>
       <word id="12"
             form="ἀλλ᾽"
@@ -22749,7 +22749,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-113 w-15"/>
       <word id="16"
             form="καὶ"
@@ -22995,7 +22995,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-116 w-5"/>
       <word id="6"
             form="ἄλλως"
@@ -23030,7 +23030,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-116 w-10"/>
       <word id="11"
             form="ὀξὺς"
@@ -23079,7 +23079,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-116 w-17"/>
       <word id="18"
             form="ἐπικείμενος"
@@ -23238,7 +23238,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-117 w-10"/>
       <word id="11"
             form="ἀλλὰ"
@@ -23404,7 +23404,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-118 w-9"/>
       <word id="10"
             form="ὥστε"
@@ -23549,7 +23549,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-119 w-8"/>
       <word id="9"
             form="τὸν"
@@ -23640,7 +23640,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-119 w-21"/>
       <word id="22"
             form="ἀπαλλάξας"
@@ -23792,7 +23792,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-120 w-10"/>
       <word id="11"
             form="καὶ"
@@ -24009,7 +24009,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-120 w-41"/>
       <word id="42"
             form="αὐτός"
@@ -24065,7 +24065,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Plutarch Lycurgus: s-120 w-49"/>
       <word id="50"
             form="καὶ"
@@ -24170,7 +24170,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="60"
+            head="0"
             cite=" Plutarch Lycurgus: s-120 w-64"/>
       <word id="65"
             form="ἀλλὰ"
@@ -24308,7 +24308,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-121 w-10"/>
       <word id="11"
             form="ἐκ"
@@ -24460,7 +24460,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-122 w-10"/>
       <word id="11"
             form="ἣν"
@@ -24596,7 +24596,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-124 w-5"/>
       <word id="6"
             form="ὧν"
@@ -24666,7 +24666,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-124 w-15"/>
       <word id="16"
             form="πληγῆναι"
@@ -24694,7 +24694,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-124 w-19"/>
       <word id="20"
             form="οὐ"
@@ -24736,7 +24736,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plutarch Lycurgus: s-124 w-25"/>
       <word id="26"
             form="ἀλλὰ"
@@ -24963,7 +24963,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Plutarch Lycurgus: s-126 w-7"/>
       <word id="8"
             form="Λακεδαιμόνιοι"
@@ -24998,7 +24998,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-126 w-12"/>
       <word id="13"
             form="εἴτε"
@@ -25047,7 +25047,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-126 w-19"/>
       <word id="20"
             form="ἀντὶ"
@@ -25096,7 +25096,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-126 w-26"/>
       <word id="27"
             form="εἴτε"
@@ -25236,7 +25236,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-127 w-10"/>
       <word id="11"
             form="ὥσπερ"
@@ -25264,7 +25264,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-127 w-14"/>
       <word id="15"
             form="ἐδιτίων"
@@ -25484,7 +25484,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-129 w-10"/>
       <word id="11"
             form="οἴνου"
@@ -25512,7 +25512,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-129 w-14"/>
       <word id="15"
             form="τυροῦ"
@@ -25540,7 +25540,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-129 w-18"/>
       <word id="19"
             form="σύκων"
@@ -25568,7 +25568,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-129 w-22"/>
       <word id="23"
             form="πρὸς"
@@ -25823,7 +25823,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-131 w-11"/>
       <word id="12"
             form="τοὺς"
@@ -25973,7 +25973,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-133 w-5"/>
       <word id="6"
             form="ὡς"
@@ -26029,7 +26029,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-133 w-13"/>
       <word id="14"
             form="βουλομένου"
@@ -26099,7 +26099,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-133 w-23"/>
       <word id="24"
             form="οὐκ"
@@ -26134,7 +26134,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-133 w-28"/>
       <word id="29"
             form="τοῦ"
@@ -26218,7 +26218,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Plutarch Lycurgus: s-133 w-40"/>
       <word id="41"
             form="ἐζημίωσαν"
@@ -26300,7 +26300,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-134 w-8"/>
       <word id="9"
             form="ὥσπερ"
@@ -26342,7 +26342,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-134 w-14"/>
       <word id="15"
             form="καὶ"
@@ -26405,7 +26405,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-134 w-23"/>
       <word id="24"
             form="αὐτοί"
@@ -26625,7 +26625,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-136 w-6"/>
       <word id="7"
             form="καὶ"
@@ -26735,7 +26735,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-137 w-10"/>
       <word id="11"
             form="διὰ"
@@ -26756,7 +26756,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-137 w-13"/>
       <word id="14"
             form="φησίν"
@@ -26770,7 +26770,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-137 w-15"/>
       <word id="16"
             form="ἔξω"
@@ -26948,7 +26948,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-139 w-9"/>
       <word id="10"
             form="τοῦ"
@@ -27004,7 +27004,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-139 w-17"/>
       <word id="18"
             form="ἔβαλλε"
@@ -27074,7 +27074,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-139 w-27"/>
       <word id="28"
             form="ὁ"
@@ -27265,7 +27265,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-141 w-5"/>
       <word id="6"
             form="οὐ"
@@ -27300,7 +27300,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-141 w-10"/>
       <word id="11"
             form="βουλόμενοι"
@@ -27560,7 +27560,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-144 w-11"/>
       <word id="12"
             form="ὥστε"
@@ -27609,7 +27609,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-144 w-18"/>
       <word id="19"
             form="ἀλλὰ"
@@ -27644,7 +27644,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-144 w-23"/>
       <word id="24"
             form="αὐτοὺς"
@@ -27913,7 +27913,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Plutarch Lycurgus: s-148 w-3"/>
       <word id="4"
             form="τοῦτον"
@@ -28091,7 +28091,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-150 w-7"/>
       <word id="8"
             form="οὔτε"
@@ -28133,7 +28133,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-150 w-13"/>
       <word id="14"
             form="ὅπως"
@@ -28325,7 +28325,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-152 w-8"/>
       <word id="9"
             form="ἀλλὰ"
@@ -28470,7 +28470,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-153 w-12"/>
       <word id="13"
             form="ἐν"
@@ -28547,7 +28547,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-153 w-23"/>
       <word id="24"
             form="μένειν"
@@ -28582,7 +28582,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plutarch Lycurgus: s-153 w-28"/>
       <word id="29"
             form="ἔχοντα"
@@ -28638,7 +28638,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Plutarch Lycurgus: s-153 w-36"/>
       <word id="37"
             form="ἣν"
@@ -28687,7 +28687,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="46"
+            head="0"
             cite=" Plutarch Lycurgus: s-153 w-43"/>
       <word id="44"
             form="νομοθέτου"
@@ -28832,7 +28832,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-154 w-13"/>
       <word id="14"
             form="βέλτιον"
@@ -28902,7 +28902,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-154 w-23"/>
       <word id="24"
             form="ἀλλ᾽"
@@ -28944,7 +28944,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-154 w-29"/>
       <word id="30"
             form="προσθέσεις"
@@ -28979,7 +28979,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Plutarch Lycurgus: s-154 w-34"/>
       <word id="35"
             form="ἃς"
@@ -29171,7 +29171,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-156 w-7"/>
       <word id="8"
             form="ὥσπερ"
@@ -29192,7 +29192,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-156 w-10"/>
       <word id="11"
             form="μὴ"
@@ -29281,7 +29281,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-157 w-7"/>
       <word id="8"
             form="ὅπως"
@@ -29358,7 +29358,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-157 w-18"/>
       <word id="19"
             form="τὰς"
@@ -29598,7 +29598,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-158 w-19"/>
       <word id="20"
             form="τοῦτο"
@@ -29696,7 +29696,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plutarch Lycurgus: s-158 w-33"/>
       <word id="34"
             form="οὐδ᾽"
@@ -29892,7 +29892,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Plutarch Lycurgus: s-158 w-61"/>
       <word id="62"
             form="ἀλλ᾽"
@@ -29969,7 +29969,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="65"
+            head="0"
             cite=" Plutarch Lycurgus: s-158 w-72"/>
       <word id="73"
             form="τῇ"
@@ -30011,7 +30011,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="87"
+            head="0"
             cite=" Plutarch Lycurgus: s-158 w-78"/>
       <word id="79"
             form="ταύτῃ"
@@ -30197,7 +30197,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-159 w-14"/>
       <word id="15"
             form="καὶ"
@@ -30281,7 +30281,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-159 w-26"/>
       <word id="27"
             form="ἐρωτῆσαι"
@@ -30412,7 +30412,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-160 w-7"/>
       <word id="8"
             form="τὴν"
@@ -30475,7 +30475,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-160 w-16"/>
       <word id="17"
             form="ἵνα"
@@ -30786,7 +30786,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-162 w-7"/>
       <word id="8"
             form="καλά"
@@ -30800,7 +30800,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-162 w-9"/>
       <word id="10"
             form="ἔφη"
@@ -30814,7 +30814,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-162 w-11"/>
       <word id="12"
             form="τὰ"
@@ -30856,7 +30856,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-162 w-17"/>
       <word id="18"
             form="μὴ"
@@ -30973,7 +30973,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-163 w-8"/>
       <word id="9"
             form="ὡς"
@@ -31069,7 +31069,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-164 w-4"/>
       <word id="5"
             form="ἣν"
@@ -31139,7 +31139,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-164 w-14"/>
       <word id="15"
             form="πόρρωθεν"
@@ -31249,7 +31249,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-165 w-3"/>
       <word id="4"
             form="ὡς"
@@ -31277,7 +31277,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-165 w-7"/>
       <word id="8"
             form="ἐπιχειρήσας"
@@ -31312,7 +31312,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-165 w-12"/>
       <word id="13"
             form="ἐπαύσατο"
@@ -31417,7 +31417,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-165 w-27"/>
       <word id="28"
             form="ἐν"
@@ -31466,7 +31466,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-165 w-34"/>
       <word id="35"
             form="καὶ"
@@ -31728,7 +31728,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-167 w-16"/>
       <word id="17"
             form="ὡς"
@@ -31833,7 +31833,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plutarch Lycurgus: s-167 w-31"/>
       <word id="32"
             form="αὐταί"
@@ -32352,7 +32352,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-170 w-12"/>
       <word id="13"
             form="φιλοτιμίαν"
@@ -32642,7 +32642,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-172 w-15"/>
       <word id="16"
             form="ἅτε"
@@ -32829,7 +32829,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-173 w-9"/>
       <word id="10"
             form="αἰδοῦς"
@@ -32857,7 +32857,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-173 w-13"/>
       <word id="14"
             form="ἀκρασίας"
@@ -32885,7 +32885,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-173 w-17"/>
       <word id="18"
             form="ἀλλ᾽"
@@ -32941,7 +32941,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-173 w-25"/>
       <word id="26"
             form="καὶ"
@@ -32997,7 +32997,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="43"
+            head="0"
             cite=" Plutarch Lycurgus: s-173 w-33"/>
       <word id="34"
             form="ὡς"
@@ -33224,7 +33224,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-175 w-4"/>
       <word id="5"
             form="ὡς"
@@ -33245,7 +33245,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-175 w-7"/>
       <word id="8"
             form="ξένης"
@@ -33329,7 +33329,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-175 w-19"/>
       <word id="20"
             form="μόναι"
@@ -33350,7 +33350,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-175 w-22"/>
       <word id="23"
             form="ἔφη"
@@ -33364,7 +33364,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-175 w-24"/>
       <word id="25"
             form="τίκτομεν"
@@ -33577,7 +33577,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-177 w-17"/>
       <word id="18"
             form="ἀγομένων"
@@ -33605,7 +33605,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-177 w-21"/>
       <word id="22"
             form="ἀλλ᾽"
@@ -33626,7 +33626,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-177 w-24"/>
       <word id="25"
             form="ὥς"
@@ -33661,7 +33661,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-177 w-29"/>
       <word id="30"
             form="ἀνάγκαις"
@@ -33921,7 +33921,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-180 w-15"/>
       <word id="16"
             form="οἱ"
@@ -34019,7 +34019,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-180 w-29"/>
       <word id="30"
             form="ὅτι"
@@ -34122,7 +34122,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-181 w-9"/>
       <word id="10"
             form="ἐστέρηντο"
@@ -34204,7 +34204,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-182 w-9"/>
       <word id="10"
             form="καίπερ"
@@ -34314,7 +34314,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-183 w-10"/>
       <word id="11"
             form="εἰπών"
@@ -34328,7 +34328,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-183 w-12"/>
       <word id="13"
             form="οὐδὲ"
@@ -34424,7 +34424,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-184 w-5"/>
       <word id="6"
             form="οὐ"
@@ -34473,7 +34473,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-184 w-12"/>
       <word id="13"
             form="ἀλλὰ"
@@ -34576,7 +34576,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-185 w-8"/>
       <word id="9"
             form="τὴν"
@@ -34625,7 +34625,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-185 w-15"/>
       <word id="16"
             form="ἱματίῳ"
@@ -34777,7 +34777,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-186 w-8"/>
       <word id="9"
             form="ἀλλὰ"
@@ -34798,7 +34798,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-186 w-11"/>
       <word id="12"
             form="ὥσπερ"
@@ -34819,7 +34819,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-186 w-14"/>
       <word id="15"
             form="δεδειπνηκὼς"
@@ -34854,7 +34854,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-186 w-19"/>
       <word id="20"
             form="παρεισελθὼν"
@@ -35029,7 +35029,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-187 w-12"/>
       <word id="13"
             form="καθευδήσων"
@@ -35118,7 +35118,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-188 w-6"/>
       <word id="7"
             form="τοῖς"
@@ -35167,7 +35167,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-188 w-13"/>
       <word id="14"
             form="πρὸς"
@@ -35230,7 +35230,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-188 w-22"/>
       <word id="23"
             form="αἰσχυνόμενος"
@@ -35293,7 +35293,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-188 w-31"/>
       <word id="32"
             form="ἅμα"
@@ -35459,7 +35459,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-189 w-7"/>
       <word id="8"
             form="ἀλλ᾽"
@@ -35646,7 +35646,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-190 w-12"/>
       <word id="13"
             form="ἀλλὰ"
@@ -35765,7 +35765,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Plutarch Lycurgus: s-190 w-29"/>
       <word id="30"
             form="οὐ"
@@ -35821,7 +35821,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Plutarch Lycurgus: s-190 w-37"/>
       <word id="38"
             form="ἀλλ᾽"
@@ -35982,7 +35982,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-191 w-9"/>
       <word id="10"
             form="οὐδὲν"
@@ -36045,7 +36045,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-191 w-18"/>
       <word id="19"
             form="ἐν"
@@ -36136,7 +36136,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-191 w-31"/>
       <word id="32"
             form="παίδων"
@@ -36192,7 +36192,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Plutarch Lycurgus: s-191 w-39"/>
       <word id="40"
             form="καταγελῶντας"
@@ -36337,7 +36337,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-192 w-8"/>
       <word id="9"
             form="εἰ"
@@ -36421,7 +36421,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-192 w-20"/>
       <word id="21"
             form="εἰσαγαγεῖν"
@@ -36559,7 +36559,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-193 w-6"/>
       <word id="7"
             form="τῶν"
@@ -36629,7 +36629,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-193 w-16"/>
       <word id="17"
             form="πεῖσαι"
@@ -36664,7 +36664,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-193 w-21"/>
       <word id="22"
             form="ὥσπερ"
@@ -36692,7 +36692,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-193 w-25"/>
       <word id="26"
             form="καλλικάρπῳ"
@@ -36741,7 +36741,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Plutarch Lycurgus: s-193 w-32"/>
       <word id="33"
             form="ἀγαθῶν"
@@ -36865,7 +36865,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-194 w-11"/>
       <word id="12"
             form="ἀλλὰ"
@@ -36914,7 +36914,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-194 w-18"/>
       <word id="19"
             form="ὅθεν"
@@ -36956,7 +36956,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-194 w-24"/>
       <word id="25"
             form="ἀλλ᾽"
@@ -37122,7 +37122,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-13"/>
       <word id="14"
             form="οἳ"
@@ -37248,7 +37248,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-31"/>
       <word id="32"
             form="τὰς"
@@ -37290,7 +37290,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-37"/>
       <word id="38"
             form="ἐξ"
@@ -37332,7 +37332,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-43"/>
       <word id="44"
             form="κἂν"
@@ -37360,7 +37360,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-47"/>
       <word id="48"
             form="κἂν"
@@ -37381,7 +37381,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-50"/>
       <word id="51"
             form="κἂν"
@@ -37402,7 +37402,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="63"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-53"/>
       <word id="54"
             form="ὡς"
@@ -37486,7 +37486,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="63"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-65"/>
       <word id="66"
             form="ἐὰν"
@@ -37521,7 +37521,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="63"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-70"/>
       <word id="71"
             form="καὶ"
@@ -37549,7 +37549,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="75"
+            head="0"
             cite=" Plutarch Lycurgus: s-195 w-74"/>
       <word id="75"
             form="ἂν"
@@ -37887,7 +37887,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plutarch Lycurgus: s-197 w-10"/>
       <word id="11"
             form="ὃς"
@@ -37964,7 +37964,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-197 w-21"/>
       <word id="22"
             form="εἶπεν"
@@ -38004,7 +38004,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Plutarch Lycurgus: s-198 w-3"/>
       <word id="4"
             form="οὐδεὶς"
@@ -38079,7 +38079,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-199 w-4"/>
       <word id="5"
             form="ἐὰν"
@@ -38135,7 +38135,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-200 w-2"/>
       <word id="3"
             form="ἔφη"
@@ -38163,7 +38163,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-200 w-6"/>
       <word id="7"
             form="ἐκτίνει"
@@ -38184,7 +38184,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-200 w-9"/>
       <word id="10"
             form="ὃς"
@@ -38390,7 +38390,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-203 w-4"/>
       <word id="5"
             form="πῶς"
@@ -38418,7 +38418,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-203 w-8"/>
       <word id="9"
             form="ἔφη"
@@ -38432,7 +38432,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-203 w-10"/>
       <word id="11"
             form="ἐν"
@@ -38603,7 +38603,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-205 w-10"/>
       <word id="11"
             form="ἀλλ᾽"
@@ -38666,7 +38666,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-205 w-19"/>
       <word id="20"
             form="ἐν"
@@ -38743,7 +38743,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-205 w-30"/>
       <word id="31"
             form="εἰ"
@@ -38792,7 +38792,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-205 w-37"/>
       <word id="38"
             form="τρέφειν"
@@ -38813,7 +38813,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Plutarch Lycurgus: s-205 w-40"/>
       <word id="41"
             form="κλῆρον"
@@ -38902,7 +38902,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-206 w-6"/>
       <word id="7"
             form="ἀπέπεμπον"
@@ -38979,7 +38979,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-206 w-17"/>
       <word id="18"
             form="ὡς"
@@ -39191,7 +39191,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-207 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -39233,7 +39233,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-207 w-12"/>
       <word id="13"
             form="βάσανόν"
@@ -39371,7 +39371,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-208 w-12"/>
       <word id="13"
             form="τὰ"
@@ -39516,7 +39516,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-209 w-10"/>
       <word id="11"
             form="ὥστ᾽"
@@ -39614,7 +39614,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-209 w-24"/>
       <word id="25"
             form="ἔτι"
@@ -39958,7 +39958,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-212 w-3"/>
       <word id="4"
             form="ὡς"
@@ -39986,7 +39986,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-212 w-7"/>
       <word id="8"
             form="Ζώπυρον"
@@ -40021,7 +40021,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-212 w-12"/>
       <word id="13"
             form="οὐδέν"
@@ -40173,7 +40173,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-213 w-14"/>
       <word id="15"
             form="οὐδ᾽"
@@ -40250,7 +40250,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-213 w-25"/>
       <word id="26"
             form="ἀλλὰ"
@@ -40327,7 +40327,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Plutarch Lycurgus: s-213 w-36"/>
       <word id="37"
             form="καὶ"
@@ -40610,7 +40610,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-215 w-11"/>
       <word id="12"
             form="ὥστε"
@@ -40713,7 +40713,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-216 w-7"/>
       <word id="8"
             form="καὶ"
@@ -40783,7 +40783,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-216 w-17"/>
       <word id="18"
             form="οὐ"
@@ -41185,7 +41185,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-219 w-10"/>
       <word id="11"
             form="ἐν"
@@ -41360,7 +41360,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-220 w-8"/>
       <word id="9"
             form="ἓν"
@@ -41409,7 +41409,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-220 w-15"/>
       <word id="16"
             form="αὐχμηροὶ"
@@ -41629,7 +41629,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-222 w-10"/>
       <word id="11"
             form="ἃς"
@@ -41657,7 +41657,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-222 w-14"/>
       <word id="15"
             form="τοῦ"
@@ -41851,7 +41851,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-223 w-13"/>
       <word id="14"
             form="θερμαντικὸν"
@@ -42015,7 +42015,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-225 w-5"/>
       <word id="6"
             form="καὶ"
@@ -42064,7 +42064,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-225 w-12"/>
       <word id="13"
             form="καὶ"
@@ -42113,7 +42113,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-225 w-19"/>
       <word id="20"
             form="οὐ"
@@ -42134,7 +42134,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-225 w-22"/>
       <word id="23"
             form="ἀλλὰ"
@@ -42232,7 +42232,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-225 w-36"/>
       <word id="37"
             form="ὥστε"
@@ -42426,7 +42426,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-226 w-13"/>
       <word id="14"
             form="καὶ"
@@ -42606,7 +42606,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-227 w-11"/>
       <word id="12"
             form="μελλείρενας"
@@ -42704,7 +42704,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-228 w-5"/>
       <word id="6"
             form="εἴκοσι"
@@ -42732,7 +42732,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-228 w-9"/>
       <word id="10"
             form="ἄρχει"
@@ -42788,7 +42788,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-228 w-17"/>
       <word id="18"
             form="καὶ"
@@ -42912,7 +42912,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-229 w-8"/>
       <word id="9"
             form="τοῖς"
@@ -42989,7 +42989,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-230 w-4"/>
       <word id="5"
             form="οἱ"
@@ -43038,7 +43038,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-230 w-11"/>
       <word id="12"
             form="οἱ"
@@ -43169,7 +43169,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-231 w-4"/>
       <word id="5"
             form="πολλὰς"
@@ -43211,7 +43211,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-231 w-10"/>
       <word id="11"
             form="ῥᾳθύμως"
@@ -43328,7 +43328,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-232 w-10"/>
       <word id="11"
             form="μανθάνοντες"
@@ -43515,7 +43515,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-234 w-6"/>
       <word id="7"
             form="ὅπως"
@@ -43772,7 +43772,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-237 w-6"/>
       <word id="7"
             form="ὅταν"
@@ -43898,7 +43898,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-237 w-24"/>
       <word id="25"
             form="ἀλλ᾽"
@@ -43940,7 +43940,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Plutarch Lycurgus: s-237 w-30"/>
       <word id="31"
             form="τοῦ"
@@ -44146,7 +44146,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-239 w-12"/>
       <word id="13"
             form="αἱ"
@@ -44209,7 +44209,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plutarch Lycurgus: s-239 w-21"/>
       <word id="22"
             form="ὥσπερ"
@@ -44293,7 +44293,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-239 w-33"/>
       <word id="34"
             form="εὐειδῆ"
@@ -44349,7 +44349,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="42"
+            head="0"
             cite=" Plutarch Lycurgus: s-239 w-41"/>
       <word id="42"
             form="διὰ"
@@ -44578,7 +44578,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-241 w-7"/>
       <word id="8"
             form="ὥστε"
@@ -44662,7 +44662,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-241 w-19"/>
       <word id="20"
             form="σπαρασσόμενος"
@@ -44746,7 +44746,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-241 w-31"/>
       <word id="32"
             form="ὑπὲρ"
@@ -44870,7 +44870,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-242 w-11"/>
       <word id="12"
             form="ὧν"
@@ -45043,7 +45043,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-243 w-12"/>
       <word id="13"
             form="τῷ"
@@ -45167,7 +45167,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-244 w-8"/>
       <word id="9"
             form="ἢ"
@@ -45400,7 +45400,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-246 w-4"/>
       <word id="5"
             form="τίς"
@@ -45428,7 +45428,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-246 w-8"/>
       <word id="9"
             form="ἢ"
@@ -45463,7 +45463,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-246 w-13"/>
       <word id="14"
             form="ἀπορεῖν"
@@ -45491,7 +45491,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-246 w-17"/>
       <word id="18"
             form="νωθρᾶς"
@@ -45902,7 +45902,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-249 w-13"/>
       <word id="14"
             form="ἀπόδειξιν"
@@ -46019,7 +46019,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-250 w-6"/>
       <word id="7"
             form="τῶν"
@@ -46068,7 +46068,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-250 w-13"/>
       <word id="14"
             form="εἰ"
@@ -46412,7 +46412,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-253 w-8"/>
       <word id="9"
             form="ὥστε"
@@ -46489,7 +46489,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-253 w-19"/>
       <word id="20"
             form="τὸ"
@@ -46524,7 +46524,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-253 w-24"/>
       <word id="25"
             form="ἀλλὰ"
@@ -46608,7 +46608,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Plutarch Lycurgus: s-253 w-36"/>
       <word id="37"
             form="καὶ"
@@ -46919,7 +46919,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-255 w-15"/>
       <word id="16"
             form="ὡς"
@@ -46940,7 +46940,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-255 w-18"/>
       <word id="19"
             form="τὸ"
@@ -47066,7 +47066,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Plutarch Lycurgus: s-255 w-36"/>
       <word id="37"
             form="τῇ"
@@ -47281,7 +47281,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-256 w-17"/>
       <word id="18"
             form="οὕτως"
@@ -47419,7 +47419,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-257 w-6"/>
       <word id="7"
             form="σκώπτοντος"
@@ -47489,7 +47489,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-257 w-16"/>
       <word id="17"
             form="καὶ"
@@ -47573,7 +47573,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-257 w-28"/>
       <word id="29"
             form="καὶ"
@@ -47601,7 +47601,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plutarch Lycurgus: s-257 w-32"/>
       <word id="33"
             form="εἶπεν"
@@ -47615,7 +47615,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Plutarch Lycurgus: s-257 w-34"/>
       <word id="35"
             form="ἡμεῖς"
@@ -47760,7 +47760,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-258 w-13"/>
       <word id="14"
             form="μάλιστα"
@@ -47802,7 +47802,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-258 w-19"/>
       <word id="20"
             form="καὶ"
@@ -47940,7 +47940,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-259 w-12"/>
       <word id="13"
             form="εἰ"
@@ -48118,7 +48118,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-261 w-3"/>
       <word id="4"
             form="ἔφη"
@@ -48132,7 +48132,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-261 w-5"/>
       <word id="6"
             form="πρῶτος"
@@ -48298,7 +48298,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-262 w-15"/>
       <word id="16"
             form="ἵνα"
@@ -48326,7 +48326,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-262 w-19"/>
       <word id="20"
             form="ἔφη"
@@ -48340,7 +48340,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-262 w-21"/>
       <word id="22"
             form="τιμῶντες"
@@ -48415,7 +48415,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Plutarch Lycurgus: s-263 w-5"/>
       <word id="6"
             form="ταῦτα"
@@ -48850,7 +48850,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-268 w-8"/>
       <word id="9"
             form="καὶ"
@@ -49182,7 +49182,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-271 w-11"/>
       <word id="12"
             form="ὦ"
@@ -49203,7 +49203,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-271 w-14"/>
       <word id="15"
             form="εἶπεν"
@@ -49217,7 +49217,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-271 w-16"/>
       <word id="17"
             form="οὐκ"
@@ -49369,7 +49369,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-272 w-14"/>
       <word id="15"
             form="εἶπεν"
@@ -49563,7 +49563,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-273 w-15"/>
       <word id="16"
             form="ὁ"
@@ -49584,7 +49584,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-273 w-18"/>
       <word id="19"
             form="ἔφη"
@@ -49598,7 +49598,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-273 w-20"/>
       <word id="21"
             form="λόγον"
@@ -49708,7 +49708,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-274 w-10"/>
       <word id="11"
             form="τοιαῦτ᾽"
@@ -49944,7 +49944,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-277 w-3"/>
       <word id="4"
             form="ἐπαινούντων"
@@ -50028,7 +50028,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-277 w-15"/>
       <word id="16"
             form="καὶ"
@@ -50056,7 +50056,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-277 w-19"/>
       <word id="20"
             form="ἔφη"
@@ -50070,7 +50070,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-277 w-21"/>
       <word id="22"
             form="Ἠλεῖοι"
@@ -50201,7 +50201,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-278 w-7"/>
       <word id="8"
             form="καὶ"
@@ -50271,7 +50271,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-278 w-17"/>
       <word id="18"
             form="κάλλιον"
@@ -50299,7 +50299,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-278 w-21"/>
       <word id="22"
             form="εἶπεν"
@@ -50313,7 +50313,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-278 w-23"/>
       <word id="24"
             form="ὦ"
@@ -50334,7 +50334,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-278 w-26"/>
       <word id="27"
             form="φιλοπολίταν"
@@ -50395,7 +50395,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-279 w-5"/>
       <word id="6"
             form="ῥήτορος"
@@ -50444,7 +50444,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-279 w-12"/>
       <word id="13"
             form="ὀρθῶς"
@@ -50458,7 +50458,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-279 w-14"/>
       <word id="15"
             form="ἔφη"
@@ -50472,7 +50472,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-279 w-16"/>
       <word id="17"
             form="λέγεις"
@@ -50629,7 +50629,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-281 w-9"/>
       <word id="10"
             form="ἱκανοί"
@@ -50643,7 +50643,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-281 w-11"/>
       <word id="12"
             form="εἶπεν"
@@ -50657,7 +50657,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-281 w-13"/>
       <word id="14"
             form="ὦ"
@@ -50678,7 +50678,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-281 w-16"/>
       <word id="17"
             form="τοὺς"
@@ -50872,7 +50872,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-283 w-8"/>
       <word id="9"
             form="μηδὲ"
@@ -51045,7 +51045,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-284 w-10"/>
       <word id="11"
             form="αὐτᾶς"
@@ -51059,7 +51059,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-284 w-12"/>
       <word id="13"
             form="ἔφη"
@@ -51073,7 +51073,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-284 w-14"/>
       <word id="15"
             form="ἄκουκα"
@@ -51265,7 +51265,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-287 w-6"/>
       <word id="7"
             form="δικαίως"
@@ -51279,7 +51279,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-287 w-8"/>
       <word id="9"
             form="εἶπε"
@@ -51293,7 +51293,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-287 w-10"/>
       <word id="11"
             form="τεθνάκαντι"
@@ -51471,7 +51471,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-289 w-13"/>
       <word id="14"
             form="μὴ"
@@ -51499,7 +51499,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plutarch Lycurgus: s-289 w-17"/>
       <word id="18"
             form="εἶπεν"
@@ -51513,7 +51513,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-289 w-19"/>
       <word id="20"
             form="ἀλλὰ"
@@ -51676,7 +51676,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-290 w-11"/>
       <word id="12"
             form="μὴ"
@@ -51697,7 +51697,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-290 w-14"/>
       <word id="15"
             form="εἶπεν"
@@ -51711,7 +51711,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-290 w-16"/>
       <word id="17"
             form="ἐνταῦθα"
@@ -52094,7 +52094,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-292 w-20"/>
       <word id="21"
             form="ἀλλὰ"
@@ -52199,7 +52199,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-292 w-35"/>
       <word id="36"
             form="καὶ"
@@ -52386,7 +52386,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-293 w-13"/>
       <word id="14"
             form="καὶ"
@@ -52421,7 +52421,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-293 w-18"/>
       <word id="19"
             form="ὡς"
@@ -52470,7 +52470,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-293 w-25"/>
       <word id="26"
             form="ἐπαγγελία"
@@ -52704,7 +52704,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-295 w-12"/>
       <word id="13"
             form="ὁ"
@@ -52927,7 +52927,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-299 w-4"/>
       <word id="5"
             form="αὐγάσδεο"
@@ -53126,7 +53126,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-302 w-9"/>
       <word id="10"
             form="ὧν"
@@ -53175,7 +53175,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-302 w-16"/>
       <word id="17"
             form="καὶ"
@@ -53217,7 +53217,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-302 w-22"/>
       <word id="23"
             form="οἷς"
@@ -53280,7 +53280,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-302 w-31"/>
       <word id="32"
             form="οὐ"
@@ -53814,7 +53814,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-308 w-9"/>
       <word id="10"
             form="ὡς"
@@ -53938,7 +53938,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-309 w-11"/>
       <word id="12"
             form="ἀναμιμνήσκων"
@@ -53952,7 +53952,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-309 w-13"/>
       <word id="14"
             form="ὡς"
@@ -53973,7 +53973,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-309 w-16"/>
       <word id="17"
             form="τῆς"
@@ -54015,7 +54015,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-309 w-22"/>
       <word id="23"
             form="ἵνα"
@@ -54209,7 +54209,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-310 w-11"/>
       <word id="12"
             form="οὐκ"
@@ -54286,7 +54286,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-310 w-22"/>
       <word id="23"
             form="χαίροντες"
@@ -54300,7 +54300,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-310 w-24"/>
       <word id="25"
             form="ὥσπερ"
@@ -54321,7 +54321,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-310 w-27"/>
       <word id="28"
             form="γαυριῶσι"
@@ -54447,7 +54447,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Plutarch Lycurgus: s-311 w-9"/>
       <word id="10"
             form="μάλιστα"
@@ -54538,7 +54538,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-311 w-22"/>
       <word id="23"
             form="ἀπομνημονεύοντές"
@@ -54650,7 +54650,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Plutarch Lycurgus: s-311 w-38"/>
       <word id="39"
             form="τοὺς"
@@ -54762,7 +54762,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-312 w-9"/>
       <word id="10"
             form="καὶ"
@@ -54853,7 +54853,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-312 w-22"/>
       <word id="23"
             form="ὥστε"
@@ -55033,7 +55033,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-313 w-11"/>
       <word id="12"
             form="ὁ"
@@ -55220,7 +55220,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-314 w-6"/>
       <word id="7"
             form="ὥστε"
@@ -55283,7 +55283,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plutarch Lycurgus: s-314 w-15"/>
       <word id="16"
             form="ῥυθμῷ"
@@ -55409,7 +55409,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Plutarch Lycurgus: s-314 w-33"/>
       <word id="34"
             form="ἀλλὰ"
@@ -55589,7 +55589,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-315 w-13"/>
       <word id="14"
             form="ἀλλ᾽"
@@ -55645,7 +55645,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-315 w-21"/>
       <word id="22"
             form="ὡς"
@@ -55879,7 +55879,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-317 w-13"/>
       <word id="14"
             form="ἀλλὰ"
@@ -55928,7 +55928,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-317 w-20"/>
       <word id="21"
             form="ὥς"
@@ -55963,7 +55963,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plutarch Lycurgus: s-317 w-25"/>
       <word id="26"
             form="τί"
@@ -55991,7 +55991,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-317 w-29"/>
       <word id="30"
             form="ὦ"
@@ -56012,7 +56012,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-317 w-32"/>
       <word id="33"
             form="γέγονε"
@@ -56068,7 +56068,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-317 w-40"/>
       <word id="41"
             form="πρὸ"
@@ -56227,7 +56227,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-318 w-14"/>
       <word id="15"
             form="εἶτα"
@@ -56255,7 +56255,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-318 w-18"/>
       <word id="19"
             form="οὔτε"
@@ -56407,7 +56407,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-319 w-9"/>
       <word id="10"
             form="ἀλλὰ"
@@ -56517,7 +56517,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-320 w-11"/>
       <word id="12"
             form="φείδονται"
@@ -56552,7 +56552,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-320 w-16"/>
       <word id="17"
             form="τοῦ"
@@ -56727,7 +56727,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-321 w-16"/>
       <word id="17"
             form="Φιλοστέφανος"
@@ -56851,7 +56851,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-322 w-5"/>
       <word id="6"
             form="ὡς"
@@ -56879,7 +56879,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-322 w-9"/>
       <word id="10"
             form="ἱππέων"
@@ -56984,7 +56984,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-323 w-5"/>
       <word id="6"
             form="οὐδεμιᾶς"
@@ -57220,7 +57220,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-325 w-4"/>
       <word id="5"
             form="ὡς"
@@ -57248,7 +57248,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-325 w-8"/>
       <word id="9"
             form="τὸν"
@@ -57339,7 +57339,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-325 w-21"/>
       <word id="22"
             form="ἀλλὰ"
@@ -57610,7 +57610,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-327 w-9"/>
       <word id="10"
             form="θεῖον"
@@ -57631,7 +57631,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-327 w-12"/>
       <word id="13"
             form="οὕτω"
@@ -57869,7 +57869,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-329 w-8"/>
       <word id="9"
             form="ἀλλ᾽"
@@ -57981,7 +57981,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-329 w-24"/>
       <word id="25"
             form="καὶ"
@@ -58023,7 +58023,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plutarch Lycurgus: s-329 w-30"/>
       <word id="31"
             form="ἀλλὰ"
@@ -58065,7 +58065,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Plutarch Lycurgus: s-329 w-36"/>
       <word id="37"
             form="εἰ"
@@ -58121,7 +58121,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Plutarch Lycurgus: s-329 w-44"/>
       <word id="45"
             form="ἐπισκοποῦντες"
@@ -58149,7 +58149,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Plutarch Lycurgus: s-329 w-48"/>
       <word id="49"
             form="καὶ"
@@ -58394,7 +58394,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plutarch Lycurgus: s-330 w-21"/>
       <word id="22"
             form="οἷς"
@@ -58464,7 +58464,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-330 w-31"/>
       <word id="32"
             form="χρηματισμοῦ"
@@ -58541,7 +58541,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="43"
+            head="0"
             cite=" Plutarch Lycurgus: s-330 w-42"/>
       <word id="43"
             form="διὰ"
@@ -58672,7 +58672,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-331 w-8"/>
       <word id="9"
             form="ἀποφορὰν"
@@ -58761,7 +58761,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-332 w-7"/>
       <word id="8"
             form="καὶ"
@@ -58887,7 +58887,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-332 w-25"/>
       <word id="26"
             form="ἐδεῖτο"
@@ -59102,7 +59102,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-334 w-3"/>
       <word id="4"
             form="ὡς"
@@ -59123,7 +59123,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-334 w-6"/>
       <word id="7"
             form="ἐξέλιπον"
@@ -59158,7 +59158,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-334 w-11"/>
       <word id="12"
             form="μήτε"
@@ -59207,7 +59207,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-334 w-18"/>
       <word id="19"
             form="ἰσότητος"
@@ -59431,7 +59431,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-335 w-20"/>
       <word id="21"
             form="ὅτε"
@@ -59571,7 +59571,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-336 w-13"/>
       <word id="14"
             form="ἀλλὰ"
@@ -59737,7 +59737,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-337 w-11"/>
       <word id="12"
             form="ἀλλὰ"
@@ -59917,7 +59917,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-338 w-10"/>
       <word id="11"
             form="οὐδενὸς"
@@ -60083,7 +60083,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-339 w-13"/>
       <word id="14"
             form="ἢ"
@@ -60118,7 +60118,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-339 w-18"/>
       <word id="19"
             form="μετὰ"
@@ -60153,7 +60153,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-339 w-23"/>
       <word id="24"
             form="ἐλαφρῶς"
@@ -60361,7 +60361,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-341 w-11"/>
       <word id="12"
             form="τὴν"
@@ -60613,7 +60613,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-342 w-14"/>
       <word id="15"
             form="ἀλλ᾽"
@@ -60732,7 +60732,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Plutarch Lycurgus: s-342 w-31"/>
       <word id="32"
             form="μικροῦ"
@@ -60795,7 +60795,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Plutarch Lycurgus: s-342 w-40"/>
       <word id="41"
             form="ὅλους"
@@ -61001,7 +61001,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-344 w-13"/>
       <word id="14"
             form="ὥσπερ"
@@ -61153,7 +61153,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-345 w-11"/>
       <word id="12"
             form="ἐρομένων"
@@ -61216,7 +61216,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-345 w-20"/>
       <word id="21"
             form="εἶπεν"
@@ -61230,7 +61230,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-345 w-22"/>
       <word id="23"
             form="αἴκα"
@@ -61251,7 +61251,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Plutarch Lycurgus: s-345 w-25"/>
       <word id="26"
             form="δημοσίᾳ"
@@ -61286,7 +61286,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Plutarch Lycurgus: s-345 w-30"/>
       <word id="31"
             form="ἰδίᾳ"
@@ -61365,7 +61365,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-346 w-6"/>
       <word id="7"
             form="ὡς"
@@ -61449,7 +61449,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-346 w-18"/>
       <word id="19"
             form="ἠρώτησεν"
@@ -61671,7 +61671,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-348 w-3"/>
       <word id="4"
             form="εἶπεν"
@@ -61685,7 +61685,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-348 w-5"/>
       <word id="6"
             form="ὦ"
@@ -61774,7 +61774,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-349 w-9"/>
       <word id="10"
             form="πολλοὺς"
@@ -61877,7 +61877,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-350 w-6"/>
       <word id="7"
             form="ὡς"
@@ -61898,7 +61898,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-350 w-9"/>
       <word id="10"
             form="κατέστησε"
@@ -62249,7 +62249,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-353 w-10"/>
       <word id="11"
             form="ἀλλ᾽"
@@ -62382,7 +62382,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-353 w-29"/>
       <word id="30"
             form="ὡς"
@@ -62438,7 +62438,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Plutarch Lycurgus: s-353 w-37"/>
       <word id="38"
             form="κύριον"
@@ -62644,7 +62644,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-355 w-9"/>
       <word id="10"
             form="τὴν"
@@ -62700,7 +62700,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-355 w-17"/>
       <word id="18"
             form="τὴν"
@@ -62817,7 +62817,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-356 w-9"/>
       <word id="10"
             form="οὐχ"
@@ -62845,7 +62845,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-356 w-13"/>
       <word id="14"
             form="ἀλλ᾽"
@@ -62987,7 +62987,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-357 w-6"/>
       <word id="7"
             form="καθ᾽"
@@ -63043,7 +63043,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-357 w-14"/>
       <word id="15"
             form="οὐκ"
@@ -63078,7 +63078,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-357 w-19"/>
       <word id="20"
             form="πλὴν"
@@ -63223,7 +63223,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-358 w-7"/>
       <word id="8"
             form="τοῦτον"
@@ -63373,7 +63373,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-360 w-10"/>
       <word id="11"
             form="πολλαί"
@@ -63698,7 +63698,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-363 w-7"/>
       <word id="8"
             form="δευτέρας"
@@ -63857,7 +63857,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-364 w-14"/>
       <word id="15"
             form="ἣν"
@@ -63899,7 +63899,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-364 w-20"/>
       <word id="21"
             form="καὶ"
@@ -63990,7 +63990,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Plutarch Lycurgus: s-364 w-33"/>
       <word id="34"
             form="ὥστε"
@@ -64231,7 +64231,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-366 w-13"/>
       <word id="14"
             form="καὶ"
@@ -64301,7 +64301,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plutarch Lycurgus: s-366 w-23"/>
       <word id="24"
             form="συντρόφους"
@@ -64371,7 +64371,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plutarch Lycurgus: s-366 w-33"/>
       <word id="34"
             form="ὥστε"
@@ -64537,7 +64537,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-367 w-5"/>
       <word id="6"
             form="ἀλλὰ"
@@ -64682,7 +64682,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-368 w-9"/>
       <word id="10"
             form="πλὴν"
@@ -64949,7 +64949,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Plutarch Lycurgus: s-371 w-7"/>
       <word id="8"
             form="ἀλλὰ"
@@ -65087,7 +65087,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-372 w-7"/>
       <word id="8"
             form="οἷς"
@@ -65260,7 +65260,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-373 w-9"/>
       <word id="10"
             form="ξενικὰ"
@@ -65440,7 +65440,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-374 w-14"/>
       <word id="15"
             form="οὐχ"
@@ -65454,7 +65454,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-374 w-16"/>
       <word id="17"
             form="ὡς"
@@ -65482,7 +65482,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Plutarch Lycurgus: s-374 w-20"/>
       <word id="21"
             form="δεδιὼς"
@@ -65573,7 +65573,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-374 w-33"/>
       <word id="34"
             form="ἀλλὰ"
@@ -65870,7 +65870,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-377 w-14"/>
       <word id="15"
             form="ὥσπερ"
@@ -66131,7 +66131,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-379 w-11"/>
       <word id="12"
             form="ἣν"
@@ -66180,7 +66180,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-379 w-18"/>
       <word id="19"
             form="ὡς"
@@ -66222,7 +66222,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-379 w-24"/>
       <word id="25"
             form="ἐνδεῶς"
@@ -66320,7 +66320,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-380 w-7"/>
       <word id="8"
             form="εἴ"
@@ -66390,7 +66390,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-380 w-17"/>
       <word id="18"
             form="ὡς"
@@ -66418,7 +66418,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-380 w-21"/>
       <word id="22"
             form="ταύτην"
@@ -66680,7 +66680,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-382 w-17"/>
       <word id="18"
             form="ἔχοντας"
@@ -66722,7 +66722,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-382 w-23"/>
       <word id="24"
             form="ἄλλο"
@@ -66825,7 +66825,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-383 w-10"/>
       <word id="11"
             form="ἀπέκρυπτον"
@@ -66860,7 +66860,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-383 w-15"/>
       <word id="16"
             form="νύκτωρ"
@@ -67227,7 +67227,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-385 w-26"/>
       <word id="27"
             form="μικρὸν"
@@ -67276,7 +67276,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Plutarch Lycurgus: s-385 w-33"/>
       <word id="34"
             form="πλείονας"
@@ -67311,7 +67311,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Plutarch Lycurgus: s-385 w-38"/>
       <word id="39"
             form="ὡς"
@@ -67465,7 +67465,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-386 w-8"/>
       <word id="9"
             form="ὅταν"
@@ -67514,7 +67514,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-386 w-15"/>
       <word id="16"
             form="τοῖς"
@@ -67549,7 +67549,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-386 w-20"/>
       <word id="21"
             form="ὅπως"
@@ -67659,7 +67659,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-387 w-9"/>
       <word id="10"
             form="ὥστε"
@@ -67736,7 +67736,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-387 w-20"/>
       <word id="21"
             form="ἐπιδεικνύμενοι"
@@ -67874,7 +67874,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-388 w-11"/>
       <word id="12"
             form="ἀπέχεσθαι"
@@ -68096,7 +68096,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-389 w-26"/>
       <word id="27"
             form="φάσκοντας"
@@ -68171,7 +68171,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-390 w-4"/>
       <word id="5"
             form="ἐν"
@@ -68402,7 +68402,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-391 w-11"/>
       <word id="12"
             form="μάλιστά"
@@ -68444,7 +68444,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Plutarch Lycurgus: s-391 w-17"/>
       <word id="18"
             form="ᾧ"
@@ -68500,7 +68500,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-391 w-25"/>
       <word id="26"
             form="καὶ"
@@ -68750,7 +68750,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-392 w-22"/>
       <word id="23"
             form="ᾧ"
@@ -68867,7 +68867,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-393 w-10"/>
       <word id="11"
             form="καὶ"
@@ -68965,7 +68965,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-393 w-24"/>
       <word id="25"
             form="ὥσπερ"
@@ -69084,7 +69084,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-393 w-41"/>
       <word id="42"
             form="οὕτως"
@@ -69203,7 +69203,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="55"
+            head="0"
             cite=" Plutarch Lycurgus: s-393 w-58"/>
       <word id="59"
             form="ἐπεθύμησεν"
@@ -69217,7 +69217,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="61"
+            head="0"
             cite=" Plutarch Lycurgus: s-393 w-60"/>
       <word id="61"
             form="ὡς"
@@ -69259,7 +69259,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="69"
+            head="0"
             cite=" Plutarch Lycurgus: s-393 w-66"/>
       <word id="67"
             form="ἀθάνατον"
@@ -69378,7 +69378,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-394 w-6"/>
       <word id="7"
             form="τὰ"
@@ -69483,7 +69483,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-394 w-21"/>
       <word id="22"
             form="ὃ"
@@ -69880,7 +69880,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-397 w-7"/>
       <word id="8"
             form="ὅρκους"
@@ -69943,7 +69943,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-397 w-16"/>
       <word id="17"
             form="ἔπειτα"
@@ -70069,7 +70069,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Plutarch Lycurgus: s-397 w-34"/>
       <word id="35"
             form="ἀπῆρεν"
@@ -70172,7 +70172,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-398 w-10"/>
       <word id="11"
             form="ἠρώτησεν"
@@ -70415,7 +70415,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Plutarch Lycurgus: s-399 w-19"/>
       <word id="20"
             form="τὸ"
@@ -70567,7 +70567,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-400 w-14"/>
       <word id="15"
             form="ἔγνω"
@@ -70623,7 +70623,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Plutarch Lycurgus: s-400 w-22"/>
       <word id="23"
             form="αὐτοῦ"
@@ -70672,7 +70672,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-400 w-29"/>
       <word id="30"
             form="ἡλικίας"
@@ -70763,7 +70763,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-400 w-42"/>
       <word id="43"
             form="καὶ"
@@ -70866,7 +70866,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-401 w-4"/>
       <word id="5"
             form="ἡγούμενος"
@@ -70985,7 +70985,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-401 w-21"/>
       <word id="22"
             form="ἀλλ᾽"
@@ -71160,7 +71160,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="41"
+            head="0"
             cite=" Plutarch Lycurgus: s-402 w-15"/>
       <word id="16"
             form="καὶ"
@@ -71272,7 +71272,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Plutarch Lycurgus: s-402 w-31"/>
       <word id="32"
             form="ὀμωμοκόσι"
@@ -71461,7 +71461,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-404 w-8"/>
       <word id="9"
             form="καὶ"
@@ -71482,7 +71482,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Plutarch Lycurgus: s-404 w-11"/>
       <word id="12"
             form="χρόνον"
@@ -71538,7 +71538,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-404 w-19"/>
       <word id="20"
             form="οὓς"
@@ -71697,7 +71697,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Plutarch Lycurgus: s-405 w-9"/>
       <word id="10"
             form="ἀλλ᾽"
@@ -71732,7 +71732,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-405 w-14"/>
       <word id="15"
             form="καὶ"
@@ -71884,7 +71884,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-406 w-10"/>
       <word id="11"
             form="καὶ"
@@ -71968,7 +71968,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-406 w-22"/>
       <word id="23"
             form="ὃς"
@@ -72017,7 +72017,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-406 w-29"/>
       <word id="30"
             form="ἐνέπλησε"
@@ -72066,7 +72066,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Plutarch Lycurgus: s-406 w-36"/>
       <word id="37"
             form="χρυσὸν"
@@ -72225,7 +72225,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-9"/>
       <word id="10"
             form="ἀλλ᾽"
@@ -72281,7 +72281,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-17"/>
       <word id="18"
             form="μᾶλλον"
@@ -72302,7 +72302,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-20"/>
       <word id="21"
             form="ὥσπερ"
@@ -72400,7 +72400,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-34"/>
       <word id="35"
             form="κολάζοντα"
@@ -72554,7 +72554,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="50"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-56"/>
       <word id="57"
             form="κατέλυε"
@@ -72624,7 +72624,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="57"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-66"/>
       <word id="67"
             form="καὶ"
@@ -72673,7 +72673,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="77"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-73"/>
       <word id="74"
             form="πολλάκις"
@@ -72715,7 +72715,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="77"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-79"/>
       <word id="80"
             form="ἀλλ᾽"
@@ -72750,7 +72750,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="88"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-84"/>
       <word id="85"
             form="ᾧ"
@@ -72799,7 +72799,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="92"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-91"/>
       <word id="92"
             form="ὥσπερ"
@@ -72841,7 +72841,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="95"
+            head="0"
             cite=" Plutarch Lycurgus: s-407 w-97"/>
       <word id="98"
             form="συντρέχοντες"
@@ -73014,7 +73014,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-409 w-10"/>
       <word id="11"
             form="ἄρχειν"
@@ -73056,7 +73056,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Plutarch Lycurgus: s-409 w-16"/>
       <word id="17"
             form="καὶ"
@@ -73112,7 +73112,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Plutarch Lycurgus: s-409 w-24"/>
       <word id="25"
             form="ὅς"
@@ -73126,7 +73126,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-409 w-26"/>
       <word id="27"
             form="εἰπόντος"
@@ -73203,7 +73203,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Plutarch Lycurgus: s-409 w-37"/>
       <word id="38"
             form="μᾶλλον"
@@ -73217,7 +73217,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Plutarch Lycurgus: s-409 w-39"/>
       <word id="40"
             form="εἶπε"
@@ -73231,7 +73231,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Plutarch Lycurgus: s-409 w-41"/>
       <word id="42"
             form="διὰ"
@@ -73350,7 +73350,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-410 w-9"/>
       <word id="10"
             form="ἀλλ᾽"
@@ -73563,7 +73563,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Plutarch Lycurgus: s-412 w-11"/>
       <word id="12"
             form="οὕτω"
@@ -73668,7 +73668,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-413 w-5"/>
       <word id="6"
             form="ἀλλ᾽"
@@ -73834,7 +73834,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-414 w-12"/>
       <word id="13"
             form="ἀλλὰ"
@@ -73930,7 +73930,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-415 w-8"/>
       <word id="9"
             form="ὥσπερ"
@@ -73979,7 +73979,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Plutarch Lycurgus: s-415 w-15"/>
       <word id="16"
             form="Λυσάνδρῳ"
@@ -74070,7 +74070,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-415 w-28"/>
       <word id="29"
             form="τοὺς"
@@ -74161,7 +74161,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Plutarch Lycurgus: s-415 w-41"/>
       <word id="42"
             form="πρὸς"
@@ -74368,7 +74368,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Plutarch Lycurgus: s-416 w-7"/>
       <word id="8"
             form="μετὰ"
@@ -74445,7 +74445,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-416 w-18"/>
       <word id="19"
             form="Ἠλείους"
@@ -74473,7 +74473,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-416 w-22"/>
       <word id="23"
             form="ὡς"
@@ -74508,7 +74508,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-416 w-27"/>
       <word id="28"
             form="Λακεδαιμονίους"
@@ -74529,7 +74529,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-416 w-30"/>
       <word id="31"
             form="ἂν"
@@ -74557,7 +74557,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Plutarch Lycurgus: s-416 w-34"/>
       <word id="35"
             form="δέρεσθαι"
@@ -74742,7 +74742,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Plutarch Lycurgus: s-418 w-15"/>
       <word id="16"
             form="οὐδὲν"
@@ -75081,7 +75081,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-420 w-19"/>
       <word id="20"
             form="πρὸς"
@@ -75368,7 +75368,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Plutarch Lycurgus: s-421 w-21"/>
       <word id="22"
             form="γράμματα"
@@ -75464,7 +75464,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Plutarch Lycurgus: s-422 w-7"/>
       <word id="8"
             form="ἀλλ᾽"
@@ -75520,7 +75520,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-422 w-15"/>
       <word id="16"
             form="καὶ"
@@ -75639,7 +75639,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Plutarch Lycurgus: s-422 w-32"/>
       <word id="33"
             form="εἰκότως"
@@ -75833,7 +75833,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Plutarch Lycurgus: s-423 w-16"/>
       <word id="17"
             form="καίπερ"
@@ -75915,7 +75915,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Plutarch Lycurgus: s-424 w-6"/>
       <word id="7"
             form="καὶ"
@@ -76179,7 +76179,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Plutarch Lycurgus: s-426 w-13"/>
       <word id="14"
             form="τελευτήσαντι"
@@ -76501,7 +76501,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Plutarch Lycurgus: s-428 w-10"/>
       <word id="11"
             form="Ἀπολλόθεμις"
@@ -76543,7 +76543,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-428 w-16"/>
       <word id="17"
             form="Τίμαιος"
@@ -76972,7 +76972,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Plutarch Lycurgus: s-432 w-15"/>
       <word id="16"
             form="καὶ"
@@ -77201,7 +77201,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Plutarch Lycurgus: s-433 w-23"/>
       <word id="24"
             form="αὐτοῦ"
@@ -77292,7 +77292,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Plutarch Lycurgus: s-433 w-36"/>
       <word id="37"
             form="ὡς"
@@ -77348,7 +77348,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Plutarch Lycurgus: s-433 w-44"/>
       <word id="45"
             form="μεταβάλωσι"

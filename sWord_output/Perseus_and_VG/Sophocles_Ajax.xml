@@ -59,7 +59,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-1 w-7"/>
       <word id="8"
             form="δέδορκά"
@@ -183,7 +183,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-2 w-9"/>
       <word id="10"
             form="ἔνθα"
@@ -218,7 +218,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-2 w-14"/>
       <word id="15"
             form="πάλαι"
@@ -281,7 +281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Ajax: s-2 w-23"/>
       <word id="24"
             form="ὅπως"
@@ -484,7 +484,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-4 w-6"/>
       <word id="7"
             form="κάρα"
@@ -615,7 +615,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-5 w-11"/>
       <word id="12"
             form="ἐννέπειν"
@@ -671,7 +671,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Ajax: s-5 w-19"/>
       <word id="20"
             form="ὡς"
@@ -739,7 +739,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-6 w-4"/>
       <word id="5"
             form="φιλτάτης"
@@ -767,7 +767,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-6 w-8"/>
       <word id="9"
             form="ὡς"
@@ -795,7 +795,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-6 w-12"/>
       <word id="13"
             form="κἂν"
@@ -830,7 +830,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-6 w-17"/>
       <word id="18"
             form="φώνημ᾽"
@@ -1066,7 +1066,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-8 w-6"/>
       <word id="7"
             form="ἰχνεύω"
@@ -1155,7 +1155,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-9 w-9"/>
       <word id="10"
             form="εἴπερ"
@@ -1223,7 +1223,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-10 w-5"/>
       <word id="6"
             form="ἀλλ᾽"
@@ -1642,7 +1642,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-15 w-7"/>
       <word id="8"
             form="καὶ"
@@ -1677,7 +1677,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-15 w-12"/>
       <word id="13"
             form="τὰ"
@@ -1899,7 +1899,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-18 w-2"/>
       <word id="3"
             form="Ὀδυσσεῦ"
@@ -1913,7 +1913,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-18 w-4"/>
       <word id="5"
             form="καὶ"
@@ -2016,7 +2016,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-19 w-3"/>
       <word id="4"
             form="φίλη"
@@ -2037,7 +2037,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-19 w-6"/>
       <word id="7"
             form="πρὸς"
@@ -2470,7 +2470,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-26 w-3"/>
       <word id="4"
             form="εἰ"
@@ -2833,7 +2833,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-32 w-4"/>
       <word id="5"
             form="δυσφόρους"
@@ -2896,7 +2896,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-32 w-13"/>
       <word id="14"
             form="καὶ"
@@ -3310,7 +3310,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-36 w-6"/>
       <word id="7"
             form="τοὺς"
@@ -3401,7 +3401,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Ajax: s-36 w-19"/>
       <word id="20"
             form="ὡς"
@@ -3464,7 +3464,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Ajax: s-36 w-28"/>
       <word id="29"
             form="καὶ"
@@ -3583,7 +3583,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-37 w-8"/>
       <word id="9"
             form="ὡς"
@@ -3794,7 +3794,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-40 w-2"/>
       <word id="3"
             form="σὲ"
@@ -3949,7 +3949,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-43 w-3"/>
       <word id="4"
             form="Ἀθάνα"
@@ -4106,7 +4106,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-46 w-4"/>
       <word id="5"
             form="ἀλλ᾽"
@@ -4635,7 +4635,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-55 w-2"/>
       <word id="3"
             form="εἴπερ"
@@ -4975,7 +4975,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-61 w-5"/>
       <word id="6"
             form="δεύτερόν"
@@ -5090,7 +5090,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-63 w-4"/>
       <word id="5"
             form="χαῖρε"
@@ -5118,7 +5118,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-63 w-8"/>
       <word id="9"
             form="ὡς"
@@ -5294,7 +5294,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-66 w-5"/>
       <word id="6"
             form="ἔβαψας"
@@ -5549,7 +5549,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-70 w-3"/>
       <word id="4"
             form="ὡς"
@@ -5657,7 +5657,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-72 w-2"/>
       <word id="3"
             form="τί"
@@ -5956,7 +5956,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-77 w-2"/>
       <word id="3"
             form="ὦ"
@@ -5977,7 +5977,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-77 w-5"/>
       <word id="6"
             form="δεσμώτης"
@@ -6421,7 +6421,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-84 w-2"/>
       <word id="3"
             form="Ἀθάνα"
@@ -6435,7 +6435,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-84 w-4"/>
       <word id="5"
             form="τἄλλ᾽"
@@ -6573,7 +6573,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-86 w-4"/>
       <word id="5"
             form="ἐπειδὴ"
@@ -6622,7 +6622,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-86 w-11"/>
       <word id="12"
             form="χρῶ"
@@ -6839,7 +6839,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-89 w-2"/>
       <word id="3"
             form="Ὀδυσσεῦ"
@@ -6853,7 +6853,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-89 w-4"/>
       <word id="5"
             form="τὴν"
@@ -7096,7 +7096,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-92 w-6"/>
       <word id="7"
             form="καίπερ"
@@ -7124,7 +7124,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-92 w-10"/>
       <word id="11"
             form="ὁθούνεκ᾽"
@@ -7159,7 +7159,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Ajax: s-92 w-15"/>
       <word id="16"
             form="οὐδὲν"
@@ -7416,7 +7416,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-94 w-12"/>
       <word id="13"
             form="μη"
@@ -7458,7 +7458,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-94 w-18"/>
       <word id="19"
             form="εἴ"
@@ -7713,7 +7713,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-97 w-3"/>
       <word id="4"
             form="τῆς"
@@ -7762,7 +7762,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-97 w-10"/>
       <word id="11"
             form="σὲ"
@@ -7900,7 +7900,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-98 w-13"/>
       <word id="14"
             form="μέγαν"
@@ -8075,7 +8075,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-99 w-13"/>
       <word id="14"
             form="σὲ"
@@ -8152,7 +8152,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Ajax: s-99 w-24"/>
       <word id="25"
             form="ἥπερ"
@@ -8194,7 +8194,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Sophocles Ajax: s-99 w-30"/>
       <word id="31"
             form="κτείνοντ᾽"
@@ -8297,7 +8297,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-100 w-10"/>
       <word id="11"
             form="καὶ"
@@ -8379,7 +8379,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-101 w-7"/>
       <word id="8"
             form="καὶ"
@@ -9020,7 +9020,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-108 w-13"/>
       <word id="14"
             form="ἄναξ"
@@ -9111,7 +9111,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-109 w-9"/>
       <word id="10"
             form="παταγοῦσιν"
@@ -9216,7 +9216,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-110 w-8"/>
       <word id="9"
             form="εἰ"
@@ -9244,7 +9244,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-110 w-12"/>
       <word id="13"
             form="σιγῇ"
@@ -9431,7 +9431,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Ajax: s-111 w-22"/>
       <word id="23"
             form="ἦ"
@@ -9480,7 +9480,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Sophocles Ajax: s-111 w-29"/>
       <word id="30"
             form="ἤ"
@@ -9522,7 +9522,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Sophocles Ajax: s-111 w-35"/>
       <word id="36"
             form="ἀδώροις"
@@ -9536,7 +9536,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Sophocles Ajax: s-111 w-37"/>
       <word id="38"
             form="εἴτ᾽"
@@ -9721,7 +9721,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-113 w-8"/>
       <word id="9"
             form="παῖ"
@@ -9742,7 +9742,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-113 w-11"/>
       <word id="12"
             form="ἔβας"
@@ -9763,7 +9763,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-113 w-14"/>
       <word id="15"
             form="ἐν"
@@ -10016,7 +10016,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-116 w-14"/>
       <word id="15"
             form="μὴ"
@@ -10037,7 +10037,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-116 w-17"/>
       <word id="18"
             form="ἄναξ"
@@ -10051,7 +10051,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-116 w-19"/>
       <word id="20"
             form="ἔθ᾽"
@@ -10170,7 +10170,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-117 w-5"/>
       <word id="6"
             form="ὅπου"
@@ -10331,7 +10331,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-118 w-10"/>
       <word id="11"
             form="πάντων"
@@ -10446,7 +10446,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-120 w-5"/>
       <word id="6"
             form="γενεᾶς"
@@ -10481,7 +10481,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-120 w-10"/>
       <word id="11"
             form="ἔχομεν"
@@ -10750,7 +10750,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-123 w-5"/>
       <word id="6"
             form="λέγ᾽"
@@ -10764,7 +10764,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-123 w-7"/>
       <word id="8"
             form="ἐπεὶ"
@@ -11232,7 +11232,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-129 w-10"/>
       <word id="11"
             form="τῶν"
@@ -11274,7 +11274,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-129 w-16"/>
       <word id="17"
             form="τὰν"
@@ -11389,7 +11389,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-131 w-4"/>
       <word id="5"
             form="παραπλάκτῳ"
@@ -11616,7 +11616,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-134 w-8"/>
       <word id="9"
             form="τὰ"
@@ -11761,7 +11761,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-135 w-14"/>
       <word id="15"
             form="τὸν"
@@ -11866,7 +11866,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Sophocles Ajax: s-135 w-29"/>
       <word id="30"
             form="κακὰ"
@@ -11894,7 +11894,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Sophocles Ajax: s-135 w-33"/>
       <word id="34"
             form="ἃ"
@@ -12214,7 +12214,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-138 w-8"/>
       <word id="9"
             form="τὸν"
@@ -12352,7 +12352,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-140 w-10"/>
       <word id="11"
             form="καὶ"
@@ -12457,7 +12457,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-141 w-6"/>
       <word id="7"
             form="μηδενὸς"
@@ -12485,7 +12485,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-141 w-10"/>
       <word id="11"
             form="μεγάλας"
@@ -12546,7 +12546,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-142 w-4"/>
       <word id="5"
             form="κάρτ᾽"
@@ -12693,7 +12693,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-144 w-4"/>
       <word id="5"
             form="εἰ"
@@ -12728,7 +12728,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-144 w-9"/>
       <word id="10"
             form="λάβοις"
@@ -12742,7 +12742,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-144 w-11"/>
       <word id="12"
             form="φίλους"
@@ -12784,7 +12784,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-144 w-17"/>
       <word id="18"
             form="ἢ"
@@ -12866,7 +12866,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-145 w-4"/>
       <word id="5"
             form="ὦ"
@@ -12887,7 +12887,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-145 w-7"/>
       <word id="8"
             form="μεῖζον"
@@ -13070,7 +13070,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-149 w-3"/>
       <word id="4"
             form="ἡνίκ᾽"
@@ -13112,7 +13112,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-149 w-9"/>
       <word id="10"
             form="αὐτὸς"
@@ -13168,7 +13168,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-149 w-17"/>
       <word id="18"
             form="ἡμᾶς"
@@ -13278,7 +13278,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-150 w-8"/>
       <word id="9"
             form="κεῖνός"
@@ -13593,7 +13593,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-153 w-3"/>
       <word id="4"
             form="εἰ"
@@ -13937,7 +13937,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-158 w-5"/>
       <word id="6"
             form="ἡνίχ᾽"
@@ -13979,7 +13979,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-158 w-11"/>
       <word id="12"
             form="ἄμφηκες"
@@ -14115,7 +14115,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-160 w-4"/>
       <word id="5"
             form="Αἴας"
@@ -14347,7 +14347,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-163 w-7"/>
       <word id="8"
             form="ἀεὶ"
@@ -14403,7 +14403,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-164 w-2"/>
       <word id="3"
             form="γυναιξὶ"
@@ -14478,7 +14478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-165 w-4"/>
       <word id="5"
             form="ὁ"
@@ -14642,7 +14642,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-167 w-8"/>
       <word id="9"
             form="κύνας"
@@ -14663,7 +14663,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-167 w-11"/>
       <word id="12"
             form="εὔερόν"
@@ -14731,7 +14731,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-168 w-5"/>
       <word id="6"
             form="τοὺς"
@@ -14780,7 +14780,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-168 w-12"/>
       <word id="13"
             form="τοὺς"
@@ -14943,7 +14943,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-169 w-10"/>
       <word id="11"
             form="τοὺς"
@@ -14978,7 +14978,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-169 w-15"/>
       <word id="16"
             form="τοὺς"
@@ -15013,7 +15013,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-169 w-20"/>
       <word id="21"
             form="συντιθεὶς"
@@ -15041,7 +15041,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Sophocles Ajax: s-169 w-24"/>
       <word id="25"
             form="ὅσην"
@@ -15144,7 +15144,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-170 w-7"/>
       <word id="8"
             form="ἔμφρων"
@@ -15193,7 +15193,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-170 w-14"/>
       <word id="15"
             form="καὶ"
@@ -15242,7 +15242,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-170 w-21"/>
       <word id="22"
             form="παίσας"
@@ -15345,7 +15345,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-171 w-9"/>
       <word id="10"
             form="κόμην"
@@ -15502,7 +15502,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-173 w-7"/>
       <word id="8"
             form="εἰ"
@@ -15626,7 +15626,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-174 w-2"/>
       <word id="3"
             form="φίλοι"
@@ -15640,7 +15640,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-174 w-4"/>
       <word id="5"
             form="δείσασα"
@@ -15743,7 +15743,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-175 w-7"/>
       <word id="8"
             form="ἃς"
@@ -16047,7 +16047,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-178 w-10"/>
       <word id="11"
             form="ἄποτος"
@@ -16061,7 +16061,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-178 w-12"/>
       <word id="13"
             form="ἐν"
@@ -16260,7 +16260,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-181 w-2"/>
       <word id="3"
             form="ὦ"
@@ -16281,7 +16281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-181 w-5"/>
       <word id="6"
             form="τούτων"
@@ -16316,7 +16316,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-181 w-10"/>
       <word id="11"
             form="ἀρήξατ᾽"
@@ -16337,7 +16337,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-181 w-13"/>
       <word id="14"
             form="εἰ"
@@ -16438,7 +16438,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-183 w-2"/>
       <word id="3"
             form="δεινά"
@@ -16473,7 +16473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-183 w-7"/>
       <word id="8"
             form="λέγεις"
@@ -16590,7 +16590,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-185 w-2"/>
       <word id="3"
             form="ὡς"
@@ -16611,7 +16611,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-185 w-5"/>
       <word id="6"
             form="μᾶλλον"
@@ -16929,7 +16929,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-191 w-2"/>
       <word id="3"
             form="ἀμφὶ"
@@ -17166,7 +17166,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-197 w-6"/>
       <word id="7"
             form="ἐγὼ"
@@ -17340,7 +17340,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-201 w-2"/>
       <word id="3"
             form="διοίγω"
@@ -17511,7 +17511,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-203 w-8"/>
       <word id="9"
             form="μόνοι"
@@ -17553,7 +17553,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-203 w-14"/>
       <word id="15"
             form="ἴδεσθέ"
@@ -17785,7 +17785,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-206 w-6"/>
       <word id="7"
             form="ἅλιον"
@@ -17827,7 +17827,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-206 w-12"/>
       <word id="13"
             form="σέ"
@@ -17996,7 +17996,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-209 w-6"/>
       <word id="7"
             form="πλέον"
@@ -18078,7 +18078,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-210 w-4"/>
       <word id="5"
             form="τὸν"
@@ -18099,7 +18099,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-210 w-7"/>
       <word id="8"
             form="τὸν"
@@ -18216,7 +18216,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-211 w-3"/>
       <word id="4"
             form="οἷον"
@@ -18263,7 +18263,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-212 w-2"/>
       <word id="3"
             form="δέσποτ᾽"
@@ -18284,7 +18284,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-212 w-5"/>
       <word id="6"
             form="λίσσομαί"
@@ -18305,7 +18305,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-212 w-8"/>
       <word id="9"
             form="αὔδα"
@@ -18523,7 +18523,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-217 w-3"/>
       <word id="4"
             form="ὃς"
@@ -18572,7 +18572,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-217 w-10"/>
       <word id="11"
             form="ἐν"
@@ -18883,7 +18883,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-220 w-12"/>
       <word id="13"
             form="κακοπινέστατόν"
@@ -18918,7 +18918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-220 w-17"/>
       <word id="18"
             form="ἦ"
@@ -19077,7 +19077,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-222 w-4"/>
       <word id="5"
             form="καίπερ"
@@ -19274,7 +19274,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-226 w-6"/>
       <word id="7"
             form="πῶς"
@@ -19330,7 +19330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-226 w-14"/>
       <word id="15"
             form="τούς"
@@ -19426,7 +19426,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-227 w-4"/>
       <word id="5"
             form="ὁμοῦ"
@@ -19597,7 +19597,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-229 w-10"/>
       <word id="11"
             form="ὡς"
@@ -19618,7 +19618,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-229 w-13"/>
       <word id="14"
             form="ἕλεσθ᾽"
@@ -19653,7 +19653,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-229 w-18"/>
       <word id="19"
             form="ἕλεσθέ"
@@ -19974,7 +19974,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-234 w-5"/>
       <word id="6"
             form="φίλοι"
@@ -19988,7 +19988,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-234 w-7"/>
       <word id="8"
             form="τοιοῖσδ᾽"
@@ -20016,7 +20016,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-234 w-11"/>
       <word id="12"
             form="μώραις"
@@ -20051,7 +20051,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-234 w-16"/>
       <word id="17"
             form="πᾶς"
@@ -20140,7 +20140,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-235 w-3"/>
       <word id="4"
             form="τοιάδ᾽"
@@ -20175,7 +20175,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-235 w-8"/>
       <word id="9"
             form="ἃ"
@@ -20315,7 +20315,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-236 w-10"/>
       <word id="11"
             form="πολὺν"
@@ -20425,7 +20425,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-237 w-4"/>
       <word id="5"
             form="οὐκ"
@@ -20549,7 +20549,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-239 w-5"/>
       <word id="6"
             form="εὔφρονες"
@@ -20570,7 +20570,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-239 w-8"/>
       <word id="9"
             form="οὐκέτ᾽"
@@ -20612,7 +20612,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-239 w-14"/>
       <word id="15"
             form="ἔπος"
@@ -20640,7 +20640,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Ajax: s-239 w-18"/>
       <word id="19"
             form="οἷον"
@@ -20832,7 +20832,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-241 w-10"/>
       <word id="11"
             form="κακοῖς"
@@ -21284,7 +21284,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-247 w-6"/>
       <word id="7"
             form="τὸν"
@@ -21403,7 +21403,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-247 w-23"/>
       <word id="24"
             form="ἄτιμος"
@@ -21588,7 +21588,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-249 w-14"/>
       <word id="15"
             form="οὐκ"
@@ -21719,7 +21719,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-250 w-9"/>
       <word id="10"
             form="ἀνδρὸς"
@@ -21843,7 +21843,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-251 w-12"/>
       <word id="13"
             form="οὐκ"
@@ -22030,7 +22030,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-252 w-16"/>
       <word id="17"
             form="ἐμβαλοῦσα"
@@ -22058,7 +22058,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-252 w-20"/>
       <word id="21"
             form="ὥστ᾽"
@@ -22147,7 +22147,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-253 w-5"/>
       <word id="6"
             form="ἐμοῦ"
@@ -22238,7 +22238,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-254 w-6"/>
       <word id="7"
             form="φύγοι"
@@ -22374,7 +22374,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-256 w-5"/>
       <word id="6"
             form="μισεῖ"
@@ -22416,7 +22416,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-256 w-11"/>
       <word id="12"
             form="ἔχθει"
@@ -22505,7 +22505,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-257 w-4"/>
       <word id="5"
             form="ναυλόχους"
@@ -22554,7 +22554,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-257 w-11"/>
       <word id="12"
             form="πέλαγος"
@@ -22734,7 +22734,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-259 w-11"/>
       <word id="12"
             form="ὧν"
@@ -22877,7 +22877,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-261 w-7"/>
       <word id="8"
             form="ξυμπεσὼν"
@@ -22933,7 +22933,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-261 w-15"/>
       <word id="16"
             form="εἶτα"
@@ -23274,7 +23274,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-265 w-8"/>
       <word id="9"
             form="κακοῖσιν"
@@ -23674,7 +23674,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-270 w-7"/>
       <word id="8"
             form="Αἴας"
@@ -23688,7 +23688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-270 w-9"/>
       <word id="10"
             form="ἔλεξας"
@@ -23702,7 +23702,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-270 w-11"/>
       <word id="12"
             form="ἀλλὰ"
@@ -23848,7 +23848,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-271 w-10"/>
       <word id="11"
             form="τάσδε"
@@ -23909,7 +23909,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-272 w-4"/>
       <word id="5"
             form="τῆς"
@@ -24033,7 +24033,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-273 w-7"/>
       <word id="8"
             form="εἴπερ"
@@ -24216,7 +24216,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-276 w-2"/>
       <word id="3"
             form="ἐπεὶ"
@@ -24258,7 +24258,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-276 w-8"/>
       <word id="9"
             form="εὖ"
@@ -24293,7 +24293,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-276 w-13"/>
       <word id="14"
             form="καί"
@@ -24377,7 +24377,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Ajax: s-276 w-25"/>
       <word id="26"
             form="ᾗ"
@@ -24405,7 +24405,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Ajax: s-276 w-29"/>
       <word id="30"
             form="μή"
@@ -24482,7 +24482,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="42"
+            head="0"
             cite=" Sophocles Ajax: s-276 w-40"/>
       <word id="41"
             form="χειρίαν"
@@ -24580,7 +24580,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-277 w-8"/>
       <word id="9"
             form="ταύτῃ"
@@ -24814,7 +24814,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-279 w-5"/>
       <word id="6"
             form="ὃς"
@@ -24971,7 +24971,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-281 w-5"/>
       <word id="6"
             form="σοὶ"
@@ -25132,7 +25132,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-282 w-11"/>
       <word id="12"
             form="αἴδεσαι"
@@ -25181,7 +25181,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Ajax: s-282 w-18"/>
       <word id="19"
             form="ἥ"
@@ -25286,7 +25286,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-283 w-3"/>
       <word id="4"
             form="ὦναξ"
@@ -25300,7 +25300,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-283 w-5"/>
       <word id="6"
             form="παῖδα"
@@ -25412,7 +25412,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-283 w-21"/>
       <word id="22"
             form="ὅσον"
@@ -25461,7 +25461,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Ajax: s-283 w-28"/>
       <word id="29"
             form="ὅταν"
@@ -25482,7 +25482,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Ajax: s-283 w-31"/>
       <word id="32"
             form="νεμεῖς"
@@ -25641,7 +25641,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-285 w-7"/>
       <word id="8"
             form="καὶ"
@@ -25962,7 +25962,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-290 w-6"/>
       <word id="7"
             form="τερπνὸν"
@@ -26119,7 +26119,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-292 w-7"/>
       <word id="8"
             form="οὐκ"
@@ -26194,7 +26194,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-293 w-2"/>
       <word id="3"
             form="ἔχειν"
@@ -26388,7 +26388,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-295 w-8"/>
       <word id="9"
             form="ἐὰν"
@@ -26484,7 +26484,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-296 w-5"/>
       <word id="6"
             form="πάντ᾽"
@@ -26566,7 +26566,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-297 w-7"/>
       <word id="8"
             form="ὡς"
@@ -27269,7 +27269,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-309 w-3"/>
       <word id="4"
             form="πατὴρ"
@@ -27581,7 +27581,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-314 w-9"/>
       <word id="10"
             form="εἴπερ"
@@ -27754,7 +27754,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-316 w-3"/>
       <word id="4"
             form="γένοιο"
@@ -27782,7 +27782,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-316 w-7"/>
       <word id="8"
             form="τὰ"
@@ -27932,7 +27932,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-318 w-9"/>
       <word id="10"
             form="ὁθούνεκ᾽"
@@ -28035,7 +28035,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-319 w-8"/>
       <word id="9"
             form="[τὸ"
@@ -28205,7 +28205,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-320 w-6"/>
       <word id="7"
             form="δεῖ"
@@ -28261,7 +28261,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-320 w-14"/>
       <word id="15"
             form="οἷος"
@@ -28350,7 +28350,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-321 w-6"/>
       <word id="7"
             form="νέαν"
@@ -28439,7 +28439,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-322 w-4"/>
       <word id="5"
             form="οἶδα"
@@ -28453,7 +28453,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-322 w-6"/>
       <word id="7"
             form="μή"
@@ -28495,7 +28495,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-322 w-12"/>
       <word id="13"
             form="οὐ"
@@ -28626,7 +28626,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-323 w-12"/>
       <word id="13"
             form="κεἰ"
@@ -28661,7 +28661,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Ajax: s-323 w-17"/>
       <word id="18"
             form="δυσμενῶν"
@@ -28708,7 +28708,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-324 w-2"/>
       <word id="3"
             form="ἄνδρες"
@@ -28750,7 +28750,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-324 w-8"/>
       <word id="9"
             form="ὑμῖν"
@@ -28799,7 +28799,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-324 w-15"/>
       <word id="16"
             form="κείνῳ"
@@ -28841,7 +28841,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Ajax: s-324 w-21"/>
       <word id="22"
             form="ὅπως"
@@ -28932,7 +28932,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Sophocles Ajax: s-324 w-34"/>
       <word id="35"
             form="Ἐριβοίᾳ"
@@ -28953,7 +28953,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Sophocles Ajax: s-324 w-37"/>
       <word id="38"
             form="ὥς"
@@ -28995,7 +28995,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Sophocles Ajax: s-324 w-43"/>
       <word id="44"
             form="[μέχρις"
@@ -29051,7 +29051,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="47"
+            head="0"
             cite=" Sophocles Ajax: s-324 w-51"/>
       <word id="52"
             form="καὶ"
@@ -29182,7 +29182,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-325 w-5"/>
       <word id="6"
             form="παῖ"
@@ -29196,7 +29196,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-325 w-7"/>
       <word id="8"
             form="λαβὼν"
@@ -29217,7 +29217,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-325 w-10"/>
       <word id="11"
             form="Εὐρύσακες"
@@ -29231,7 +29231,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-325 w-12"/>
       <word id="13"
             form="ἴσχε"
@@ -29451,7 +29451,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-327 w-12"/>
       <word id="13"
             form="μη"
@@ -29793,7 +29793,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-333 w-4"/>
       <word id="5"
             form="τί"
@@ -30025,7 +30025,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-337 w-10"/>
       <word id="11"
             form="μὴ"
@@ -30340,7 +30340,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-344 w-3"/>
       <word id="4"
             form="ὦναξ"
@@ -30420,7 +30420,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-346 w-3"/>
       <word id="4"
             form="μαλάσσου"
@@ -30474,7 +30474,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-347 w-5"/>
       <word id="6"
             form="εἰ"
@@ -30556,7 +30556,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-348 w-4"/>
       <word id="5"
             form="σὺ"
@@ -30598,7 +30598,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-348 w-10"/>
       <word id="11"
             form="εὐδαίμων"
@@ -30612,7 +30612,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-348 w-12"/>
       <word id="13"
             form="πᾶσιν"
@@ -30778,7 +30778,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Ajax: s-349 w-19"/>
       <word id="20"
             form="κακὰν"
@@ -30925,7 +30925,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-350 w-7"/>
       <word id="8"
             form="ὤμοι"
@@ -30946,7 +30946,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-350 w-10"/>
       <word id="11"
             form="θείᾳ"
@@ -31288,7 +31288,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-354 w-7"/>
       <word id="8"
             form="λευκῷ"
@@ -31358,7 +31358,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-354 w-17"/>
       <word id="18"
             form="αἴλινον"
@@ -31435,7 +31435,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Sophocles Ajax: s-354 w-28"/>
       <word id="29"
             form="ἀλλ᾽"
@@ -31477,7 +31477,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Sophocles Ajax: s-354 w-34"/>
       <word id="35"
             form="χερόπλακτοι"
@@ -31633,7 +31633,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-355 w-8"/>
       <word id="9"
             form="ὃς"
@@ -31731,7 +31731,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Ajax: s-355 w-22"/>
       <word id="23"
             form="ἀλλ᾽"
@@ -31819,7 +31819,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-356 w-4"/>
       <word id="5"
             form="οἵαν"
@@ -31875,7 +31875,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-356 w-12"/>
       <word id="13"
             form="ἃν"
@@ -32076,7 +32076,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-358 w-5"/>
       <word id="6"
             form="ἀλλ᾽"
@@ -32174,7 +32174,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-359 w-3"/>
       <word id="4"
             form="ὃς"
@@ -32216,7 +32216,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-359 w-9"/>
       <word id="10"
             form="βαφῇ"
@@ -32445,7 +32445,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-361 w-9"/>
       <word id="10"
             form="ὡς"
@@ -32576,7 +32576,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-362 w-8"/>
       <word id="9"
             form="κρύψω"
@@ -32611,7 +32611,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-362 w-13"/>
       <word id="14"
             form="ἔχθιστον"
@@ -32632,7 +32632,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-362 w-16"/>
       <word id="17"
             form="γαίας"
@@ -32831,7 +32831,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-364 w-12"/>
       <word id="13"
             form="οὔπω"
@@ -32934,7 +32934,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-365 w-7"/>
       <word id="8"
             form="ἐχθρῶν"
@@ -33055,7 +33055,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-366 w-8"/>
       <word id="9"
             form="μαθησόμεσθα"
@@ -33116,7 +33116,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-367 w-3"/>
       <word id="4"
             form="ὥσθ᾽"
@@ -33512,7 +33512,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-373 w-8"/>
       <word id="9"
             form="οὐ"
@@ -33725,7 +33725,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-376 w-12"/>
       <word id="13"
             form="ὡς"
@@ -33760,7 +33760,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-376 w-17"/>
       <word id="18"
             form="ἔς"
@@ -33823,7 +33823,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Ajax: s-376 w-26"/>
       <word id="27"
             form="ὡς"
@@ -34041,7 +34041,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-379 w-8"/>
       <word id="9"
             form="γύναι"
@@ -34055,7 +34055,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-379 w-10"/>
       <word id="11"
             form="εὔχου"
@@ -34130,7 +34130,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-380 w-3"/>
       <word id="4"
             form="ἑταῖροι"
@@ -34144,7 +34144,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-380 w-5"/>
       <word id="6"
             form="ταὐτὰ"
@@ -34186,7 +34186,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-380 w-11"/>
       <word id="12"
             form="Τεύκρῳ"
@@ -34207,7 +34207,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-380 w-14"/>
       <word id="15"
             form="ἢν"
@@ -34228,7 +34228,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-380 w-17"/>
       <word id="18"
             form="σημήνατε"
@@ -34263,7 +34263,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Ajax: s-380 w-22"/>
       <word id="23"
             form="εὐνοεῖν"
@@ -34399,7 +34399,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-382 w-6"/>
       <word id="7"
             form="καὶ"
@@ -34448,7 +34448,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-382 w-13"/>
       <word id="14"
             form="κεἰ"
@@ -34476,7 +34476,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-382 w-17"/>
       <word id="18"
             form="σεσωσμένον"
@@ -34516,7 +34516,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-383 w-3"/>
       <word id="4"
             form="περιχαρὴς"
@@ -34619,7 +34619,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-384 w-10"/>
       <word id="11"
             form="Κυλλανίας"
@@ -34668,7 +34668,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-384 w-17"/>
       <word id="18"
             form="ὦ"
@@ -34703,7 +34703,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-384 w-22"/>
       <word id="23"
             form="ὅπως"
@@ -35010,7 +35010,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-388 w-3"/>
       <word id="4"
             form="νῦν"
@@ -35031,7 +35031,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-388 w-6"/>
       <word id="7"
             form="νῦν"
@@ -35045,7 +35045,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-388 w-8"/>
       <word id="9"
             form="ὦ"
@@ -35066,7 +35066,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-388 w-11"/>
       <word id="12"
             form="πάρα"
@@ -35129,7 +35129,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Ajax: s-388 w-20"/>
       <word id="21"
             form="ὅτ᾽"
@@ -35164,7 +35164,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Ajax: s-388 w-25"/>
       <word id="26"
             form="θεῶν"
@@ -35334,7 +35334,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-389 w-11"/>
       <word id="12"
             form="εὖτέ"
@@ -35451,7 +35451,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-390 w-3"/>
       <word id="4"
             form="τὸ"
@@ -35753,7 +35753,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Ajax: s-393 w-19"/>
       <word id="20"
             form="τὸν"
@@ -35809,7 +35809,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Ajax: s-393 w-27"/>
       <word id="28"
             form="ὡς"
@@ -36145,7 +36145,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-396 w-7"/>
       <word id="8"
             form="ὡς"
@@ -36260,7 +36260,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-398 w-3"/>
       <word id="4"
             form="ἀλλὰ"
@@ -36288,7 +36288,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-398 w-7"/>
       <word id="8"
             form="νέας"
@@ -36629,7 +36629,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-402 w-11"/>
       <word id="12"
             form="πρὶν"
@@ -36697,7 +36697,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-403 w-4"/>
       <word id="5"
             form="πρὸς"
@@ -36739,7 +36739,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-403 w-10"/>
       <word id="11"
             form="θεοῖσιν"
@@ -36828,7 +36828,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-404 w-7"/>
       <word id="8"
             form="εἴπερ"
@@ -37095,7 +37095,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-408 w-12"/>
       <word id="13"
             form="εἰς"
@@ -37158,7 +37158,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Sophocles Ajax: s-408 w-21"/>
       <word id="22"
             form="παντοίᾳ"
@@ -37277,7 +37277,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Sophocles Ajax: s-408 w-38"/>
       <word id="39"
             form="εἰ"
@@ -37410,7 +37410,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-409 w-10"/>
       <word id="11"
             form="ὡς"
@@ -37541,7 +37541,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Ajax: s-410 w-14"/>
       <word id="15"
             form="ὅστις"
@@ -37775,7 +37775,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-413 w-2"/>
       <word id="3"
             form="δόρει"
@@ -37810,7 +37810,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-413 w-7"/>
       <word id="8"
             form="σὺν"
@@ -37927,7 +37927,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-415 w-2"/>
       <word id="3"
             form="θεοῖς"
@@ -38145,7 +38145,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-418 w-5"/>
       <word id="6"
             form="ἡνίκ᾽"
@@ -38215,7 +38215,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-418 w-15"/>
       <word id="16"
             form="τότ᾽"
@@ -38283,7 +38283,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-419 w-2"/>
       <word id="3"
             form="τοῖς"
@@ -38325,7 +38325,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-419 w-8"/>
       <word id="9"
             form="καθ᾽"
@@ -38517,7 +38517,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-421 w-6"/>
       <word id="7"
             form="τάχ᾽"
@@ -38749,7 +38749,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-424 w-4"/>
       <word id="5"
             form="οὐκ"
@@ -38784,7 +38784,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-424 w-9"/>
       <word id="10"
             form="εἰ"
@@ -38875,7 +38875,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-425 w-7"/>
       <word id="8"
             form="ὅρα"
@@ -39041,7 +39041,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-427 w-5"/>
       <word id="6"
             form="ἀρτίως"
@@ -39076,7 +39076,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-427 w-10"/>
       <word id="11"
             form="ἐξ"
@@ -39137,7 +39137,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-428 w-4"/>
       <word id="5"
             form="ὡς"
@@ -39226,7 +39226,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-429 w-2"/>
       <word id="3"
             form="τί"
@@ -39247,7 +39247,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-429 w-5"/>
       <word id="6"
             form="ἄνθρωπε"
@@ -39334,7 +39334,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-431 w-6"/>
       <word id="7"
             form="Αἴαντος"
@@ -39362,7 +39362,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-431 w-10"/>
       <word id="11"
             form="θυραῖος"
@@ -39390,7 +39390,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-431 w-14"/>
       <word id="15"
             form="οὐ"
@@ -39460,7 +39460,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-432 w-4"/>
       <word id="5"
             form="ὥστε"
@@ -39797,7 +39797,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-437 w-3"/>
       <word id="4"
             form="τοῦ"
@@ -39874,7 +39874,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-438 w-4"/>
       <word id="5"
             form="καθ᾽"
@@ -39909,7 +39909,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-438 w-9"/>
       <word id="10"
             form="ὅτ᾽"
@@ -40000,7 +40000,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-439 w-4"/>
       <word id="5"
             form="φίλοι"
@@ -40014,7 +40014,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-439 w-6"/>
       <word id="7"
             form="πρόστητ᾽"
@@ -40042,7 +40042,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-439 w-10"/>
       <word id="11"
             form="καὶ"
@@ -40063,7 +40063,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-439 w-13"/>
       <word id="14"
             form="οἱ"
@@ -40112,7 +40112,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-439 w-20"/>
       <word id="21"
             form="οἱ"
@@ -40147,7 +40147,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Sophocles Ajax: s-439 w-25"/>
       <word id="26"
             form="οἱ"
@@ -40329,7 +40329,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-441 w-2"/>
       <word id="3"
             form="τί"
@@ -40350,7 +40350,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-441 w-5"/>
       <word id="6"
             form="τέκνον"
@@ -40769,7 +40769,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-447 w-9"/>
       <word id="10"
             form="εἴ"
@@ -40988,7 +40988,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-449 w-8"/>
       <word id="9"
             form="σιδηροβρῶτι"
@@ -41070,7 +41070,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-450 w-7"/>
       <word id="8"
             form="εὐνούστατον"
@@ -41206,7 +41206,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-452 w-7"/>
       <word id="8"
             form="ὦ"
@@ -41227,7 +41227,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-452 w-10"/>
       <word id="11"
             form="καὶ"
@@ -41255,7 +41255,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-452 w-14"/>
       <word id="15"
             form="ἄρκεσον"
@@ -41370,7 +41370,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-454 w-5"/>
       <word id="6"
             form="κακὴν"
@@ -41405,7 +41405,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-454 w-10"/>
       <word id="11"
             form="πρῶτος"
@@ -41475,7 +41475,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-454 w-20"/>
       <word id="21"
             form="καὶ"
@@ -41599,7 +41599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-455 w-3"/>
       <word id="4"
             form="ὦ"
@@ -41620,7 +41620,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-455 w-6"/>
       <word id="7"
             form="προστρέπω"
@@ -41634,7 +41634,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-455 w-8"/>
       <word id="9"
             form="καλῶ"
@@ -41704,7 +41704,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Ajax: s-455 w-18"/>
       <word id="19"
             form="ξὺν"
@@ -41912,7 +41912,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-456 w-19"/>
       <word id="20"
             form="μαθεῖν"
@@ -41975,7 +41975,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Sophocles Ajax: s-456 w-28"/>
       <word id="29"
             form="καί"
@@ -42073,7 +42073,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Sophocles Ajax: s-456 w-42"/>
       <word id="43"
             form="τὼς"
@@ -42164,7 +42164,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-457 w-3"/>
       <word id="4"
             form="ὦ"
@@ -42281,7 +42281,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-458 w-3"/>
       <word id="4"
             form="ὦ"
@@ -42330,7 +42330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-458 w-10"/>
       <word id="11"
             form="πατρῴαν"
@@ -42379,7 +42379,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-458 w-17"/>
       <word id="18"
             form="ἐπισχὼν"
@@ -42531,7 +42531,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-459 w-4"/>
       <word id="5"
             form="τήνδ᾽"
@@ -42566,7 +42566,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-459 w-9"/>
       <word id="10"
             form="ἥσει"
@@ -42669,7 +42669,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-460 w-7"/>
       <word id="8"
             form="ἀλλ᾽"
@@ -42767,7 +42767,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-461 w-4"/>
       <word id="5"
             form="νῦν"
@@ -42882,7 +42882,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-463 w-3"/>
       <word id="4"
             form="ὦ"
@@ -42931,7 +42931,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-463 w-10"/>
       <word id="11"
             form="καὶ"
@@ -42973,7 +42973,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-463 w-16"/>
       <word id="17"
             form="πανύστατον"
@@ -43050,7 +43050,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-464 w-3"/>
       <word id="4"
             form="ὦ"
@@ -43099,7 +43099,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-464 w-10"/>
       <word id="11"
             form="ὦ"
@@ -43218,7 +43218,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-464 w-27"/>
       <word id="28"
             form="καὶ"
@@ -43260,7 +43260,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Ajax: s-464 w-33"/>
       <word id="34"
             form="χαίρετ᾽"
@@ -43274,7 +43274,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="37"
+            head="0"
             cite=" Sophocles Ajax: s-464 w-35"/>
       <word id="36"
             form="ὦ"
@@ -43365,7 +43365,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-465 w-7"/>
       <word id="8"
             form="τὰ"
@@ -44030,7 +44030,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-476 w-5"/>
       <word id="6"
             form="τίς"
@@ -44086,7 +44086,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-476 w-13"/>
       <word id="14"
             form="ἢ"
@@ -44149,7 +44149,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-476 w-22"/>
       <word id="23"
             form="τὸν"
@@ -44301,7 +44301,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-477 w-13"/>
       <word id="14"
             form="ἀλλ᾽"
@@ -44537,7 +44537,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-481 w-7"/>
       <word id="8"
             form="οἴκτῳ"
@@ -44551,7 +44551,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-481 w-9"/>
       <word id="10"
             form="τῷδε"
@@ -44628,7 +44628,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-482 w-6"/>
       <word id="7"
             form="φίλοι"
@@ -44729,7 +44729,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-484 w-7"/>
       <word id="8"
             form="κρυφαίῳ"
@@ -44818,7 +44818,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-486 w-2"/>
       <word id="3"
             form="κατέπεφνες"
@@ -44832,7 +44832,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-486 w-4"/>
       <word id="5"
             form="ἄναξ"
@@ -44846,7 +44846,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-486 w-6"/>
       <word id="7"
             form="τόνδε"
@@ -44867,7 +44867,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-486 w-9"/>
       <word id="10"
             form="τάλας"
@@ -45052,7 +45052,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-489 w-4"/>
       <word id="5"
             form="δῆλον"
@@ -45201,7 +45201,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-491 w-4"/>
       <word id="5"
             form="οἶος"
@@ -45229,7 +45229,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-491 w-8"/>
       <word id="9"
             form="ἄφαρκτος"
@@ -45297,7 +45297,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-492 w-6"/>
       <word id="7"
             form="ὁ"
@@ -45325,7 +45325,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-492 w-10"/>
       <word id="11"
             form="κατημέλησα"
@@ -45494,7 +45494,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-495 w-8"/>
       <word id="9"
             form="ἐπεὶ"
@@ -45522,7 +45522,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-495 w-12"/>
       <word id="13"
             form="ὅστις"
@@ -45550,7 +45550,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-495 w-16"/>
       <word id="17"
             form="τλαίη"
@@ -45690,7 +45690,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-496 w-2"/>
       <word id="3"
             form="τί"
@@ -45819,7 +45819,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-499 w-4"/>
       <word id="5"
             form="εἰ"
@@ -45840,7 +45840,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-499 w-7"/>
       <word id="8"
             form="μόλοι"
@@ -45854,7 +45854,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-499 w-9"/>
       <word id="10"
             form="πεπτῶτ᾽"
@@ -45922,7 +45922,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-500 w-4"/>
       <word id="5"
             form="οἷος"
@@ -45957,7 +45957,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-500 w-9"/>
       <word id="10"
             form="ὡς"
@@ -46041,7 +46041,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-501 w-2"/>
       <word id="3"
             form="τάλας"
@@ -46055,7 +46055,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-501 w-4"/>
       <word id="5"
             form="ἔμελλες"
@@ -46282,7 +46282,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-503 w-8"/>
       <word id="9"
             form="ἦμος"
@@ -46445,7 +46445,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-506 w-4"/>
       <word id="5"
             form="οἶδα"
@@ -46459,7 +46459,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-506 w-6"/>
       <word id="7"
             form="γενναία"
@@ -46576,7 +46576,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-508 w-7"/>
       <word id="8"
             form="γύναι"
@@ -46590,7 +46590,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-508 w-9"/>
       <word id="10"
             form="τοιοῦδ᾽"
@@ -46672,7 +46672,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-509 w-6"/>
       <word id="7"
             form="ἐμοὶ"
@@ -46754,7 +46754,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-511 w-2"/>
       <word id="3"
             form="τέκνον"
@@ -46768,7 +46768,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-511 w-4"/>
       <word id="5"
             form="πρὸς"
@@ -46864,7 +46864,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-512 w-2"/>
       <word id="3"
             form="ἀναλγήτων"
@@ -47234,7 +47234,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-517 w-8"/>
       <word id="9"
             form="γελᾷ"
@@ -47290,7 +47290,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-517 w-16"/>
       <word id="17"
             form="φεῦ"
@@ -47311,7 +47311,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-517 w-19"/>
       <word id="20"
             form="ξύν"
@@ -47481,7 +47481,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-519 w-3"/>
       <word id="4"
             form="κεἰ"
@@ -47523,7 +47523,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-519 w-9"/>
       <word id="10"
             form="θανόντ᾽"
@@ -47647,7 +47647,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-520 w-10"/>
       <word id="11"
             form="πρίν"
@@ -47729,7 +47729,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-521 w-7"/>
       <word id="8"
             form="αὑτῷ"
@@ -47947,7 +47947,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-524 w-7"/>
       <word id="8"
             form="οὔ"
@@ -48062,7 +48062,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-526 w-6"/>
       <word id="7"
             form="ἀλλ᾽"
@@ -48329,7 +48329,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-530 w-9"/>
       <word id="10"
             form="ἆρ᾽"
@@ -48350,7 +48350,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-530 w-12"/>
       <word id="13"
             form="ὥσπερ"
@@ -48411,7 +48411,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-531 w-3"/>
       <word id="4"
             form="Τεῦκρε"
@@ -48425,7 +48425,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-531 w-5"/>
       <word id="6"
             form="τοῦτ᾽"
@@ -48563,7 +48563,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-533 w-7"/>
       <word id="8"
             form="τάλας"
@@ -48698,7 +48698,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-536 w-3"/>
       <word id="4"
             form="Τεῦκρε"
@@ -48964,7 +48964,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-540 w-8"/>
       <word id="9"
             form="μή"
@@ -49184,7 +49184,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-543 w-5"/>
       <word id="6"
             form="Τεῦκρε"
@@ -49198,7 +49198,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-543 w-7"/>
       <word id="8"
             form="τοῦδέ"
@@ -49247,7 +49247,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-543 w-14"/>
       <word id="15"
             form="ὥσπερ"
@@ -49364,7 +49364,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-544 w-12"/>
       <word id="13"
             form="ὁδός"
@@ -49434,7 +49434,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Sophocles Ajax: s-544 w-22"/>
       <word id="23"
             form="ἣν"
@@ -49511,7 +49511,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-545 w-4"/>
       <word id="5"
             form="τὸν"
@@ -49749,7 +49749,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-547 w-8"/>
       <word id="9"
             form="νῦν"
@@ -49831,7 +49831,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-549 w-2"/>
       <word id="3"
             form="ἐκκάλυψον"
@@ -49845,7 +49845,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-549 w-4"/>
       <word id="5"
             form="ὡς"
@@ -49941,7 +49941,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-550 w-7"/>
       <word id="8"
             form="ὅσας"
@@ -50058,7 +50058,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-551 w-10"/>
       <word id="11"
             form="τοῖς"
@@ -50198,7 +50198,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-552 w-11"/>
       <word id="12"
             form="δέξαιτ᾽"
@@ -50551,7 +50551,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Ajax: s-556 w-18"/>
       <word id="19"
             form="φίλτατ᾽"
@@ -50572,7 +50572,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Ajax: s-556 w-21"/>
       <word id="22"
             form="ἢ"
@@ -50593,7 +50593,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Sophocles Ajax: s-556 w-24"/>
       <word id="25"
             form="ὡς"
@@ -50696,7 +50696,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-557 w-4"/>
       <word id="5"
             form="ἐν"
@@ -50724,7 +50724,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-557 w-8"/>
       <word id="9"
             form="ἐρεῖ"
@@ -50738,7 +50738,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-557 w-10"/>
       <word id="11"
             form="πρὸς"
@@ -50827,7 +50827,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-558 w-6"/>
       <word id="7"
             form="δοῦλος"
@@ -50979,7 +50979,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-560 w-8"/>
       <word id="9"
             form="παῦρα"
@@ -51089,7 +51089,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-562 w-2"/>
       <word id="3"
             form="τί"
@@ -51183,7 +51183,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-564 w-4"/>
       <word id="5"
             form="ὦ"
@@ -51204,7 +51204,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-564 w-7"/>
       <word id="8"
             form="ὑφ᾽"
@@ -51349,7 +51349,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-566 w-2"/>
       <word id="3"
             form="πρὸς"
@@ -51370,7 +51370,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-566 w-5"/>
       <word id="6"
             form="τὴν"
@@ -51431,7 +51431,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-567 w-3"/>
       <word id="4"
             form="ᾧ"
@@ -51473,7 +51473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-567 w-9"/>
       <word id="10"
             form="ζωστῆρι"
@@ -51529,7 +51529,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-567 w-17"/>
       <word id="18"
             form="ἔστ᾽"
@@ -51931,7 +51931,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-571 w-9"/>
       <word id="10"
             form="κεῖνός"
@@ -52031,7 +52031,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-572 w-4"/>
       <word id="5"
             form="ἀλλ᾽"
@@ -52164,7 +52164,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-573 w-5"/>
       <word id="6"
             form="καὶ"
@@ -52330,7 +52330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-575 w-2"/>
       <word id="3"
             form="ᾧ"
@@ -52482,7 +52482,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-578 w-2"/>
       <word id="3"
             form="σὲ"
@@ -52545,7 +52545,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-578 w-11"/>
       <word id="12"
             form="ἀλλ᾽"
@@ -52653,7 +52653,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-580 w-3"/>
       <word id="4"
             form="δοκοῦντα"
@@ -52840,7 +52840,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-582 w-11"/>
       <word id="12"
             form="ἐξηύρομεν"
@@ -52954,7 +52954,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-583 w-8"/>
       <word id="9"
             form="ὡς"
@@ -53043,7 +53043,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-584 w-8"/>
       <word id="9"
             form="ἡμεῖς"
@@ -53141,7 +53141,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Ajax: s-584 w-22"/>
       <word id="23"
             form="οὗτος"
@@ -53368,7 +53368,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-586 w-13"/>
       <word id="14"
             form="ἀλλ᾽"
@@ -53562,7 +53562,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-588 w-8"/>
       <word id="9"
             form="πάντως"
@@ -53597,7 +53597,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-588 w-13"/>
       <word id="14"
             form="κἂν"
@@ -53625,7 +53625,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-588 w-17"/>
       <word id="18"
             form="χερσὶν"
@@ -53920,7 +53920,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-591 w-13"/>
       <word id="14"
             form="ἔνθα"
@@ -53955,7 +53955,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-591 w-18"/>
       <word id="19"
             form="οὔ"
@@ -54018,7 +54018,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Sophocles Ajax: s-591 w-27"/>
       <word id="28"
             form="μηδὲν"
@@ -54107,7 +54107,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-592 w-4"/>
       <word id="5"
             form="κἂν"
@@ -54142,7 +54142,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-592 w-9"/>
       <word id="10"
             form="δοκεῖν"
@@ -54268,7 +54268,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-593 w-8"/>
       <word id="9"
             form="σωτηρίαν"
@@ -54371,7 +54371,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-594 w-9"/>
       <word id="10"
             form="ταύτην"
@@ -54532,7 +54532,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-595 w-8"/>
       <word id="9"
             form="καὶ"
@@ -54696,7 +54696,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-597 w-6"/>
       <word id="7"
             form="νῦν"
@@ -54799,7 +54799,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-598 w-7"/>
       <word id="8"
             form="ὅπως"
@@ -54881,7 +54881,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-599 w-2"/>
       <word id="3"
             form="μὴ"
@@ -54991,7 +54991,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-600 w-4"/>
       <word id="5"
             form="ἄνδρες"
@@ -55005,7 +55005,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-600 w-6"/>
       <word id="7"
             form="ἄνδρα"
@@ -55033,7 +55033,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-600 w-10"/>
       <word id="11"
             form="ὃς"
@@ -55082,7 +55082,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Ajax: s-600 w-17"/>
       <word id="18"
             form="ὅθ᾽"
@@ -55732,7 +55732,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-607 w-9"/>
       <word id="10"
             form="ὥστ᾽"
@@ -55875,7 +55875,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-609 w-3"/>
       <word id="4"
             form="εἴτε"
@@ -55931,7 +55931,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-609 w-11"/>
       <word id="12"
             form="εἰς"
@@ -55973,7 +55973,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-609 w-17"/>
       <word id="18"
             form="οὐ"
@@ -56092,7 +56092,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-610 w-9"/>
       <word id="10"
             form="ὥσπερ"
@@ -56134,7 +56134,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-610 w-15"/>
       <word id="16"
             form="ἀλλ᾽"
@@ -56183,7 +56183,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-610 w-22"/>
       <word id="23"
             form="σοῦ"
@@ -56358,7 +56358,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-612 w-11"/>
       <word id="12"
             form="τοῦ"
@@ -56414,7 +56414,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Ajax: s-612 w-19"/>
       <word id="20"
             form="ἕως"
@@ -56571,7 +56571,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-614 w-5"/>
       <word id="6"
             form="κἂν"
@@ -56599,7 +56599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-614 w-9"/>
       <word id="10"
             form="δάκνει"
@@ -56761,7 +56761,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-617 w-5"/>
       <word id="6"
             form="ἀσπίδ᾽"
@@ -57105,7 +57105,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-623 w-4"/>
       <word id="5"
             form="εἰ"
@@ -57180,7 +57180,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-624 w-5"/>
       <word id="6"
             form="τῷδε"
@@ -57248,7 +57248,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-625 w-5"/>
       <word id="6"
             form="θεοῖς"
@@ -57719,7 +57719,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-634 w-7"/>
       <word id="8"
             form="τόδ᾽"
@@ -57881,7 +57881,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-637 w-3"/>
       <word id="4"
             form="ὡς"
@@ -57902,7 +57902,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-637 w-6"/>
       <word id="7"
             form="ἢ"
@@ -58148,7 +58148,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-641 w-13"/>
       <word id="14"
             form="ᾧ"
@@ -58197,7 +58197,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Ajax: s-641 w-20"/>
       <word id="21"
             form="ἡνίκ᾽"
@@ -58239,7 +58239,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Ajax: s-641 w-26"/>
       <word id="27"
             form="ἀλλ᾽"
@@ -58547,7 +58547,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-643 w-8"/>
       <word id="9"
             form="ὃς"
@@ -58718,7 +58718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-645 w-2"/>
       <word id="3"
             form="μὴ"
@@ -58793,7 +58793,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-646 w-4"/>
       <word id="5"
             form="ἴσθι"
@@ -58915,7 +58915,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-648 w-7"/>
       <word id="8"
             form="ὡς"
@@ -58943,7 +58943,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-648 w-11"/>
       <word id="12"
             form="οὐδείς"
@@ -59072,7 +59072,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-651 w-4"/>
       <word id="5"
             form="εἰ"
@@ -59343,7 +59343,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-655 w-4"/>
       <word id="5"
             form="Τεῦκρε"
@@ -59357,7 +59357,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-655 w-6"/>
       <word id="7"
             form="ταχύνας"
@@ -59413,7 +59413,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-655 w-14"/>
       <word id="15"
             form="ἔνθα"
@@ -59579,7 +59579,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-656 w-15"/>
       <word id="16"
             form="τάφον"
@@ -59649,7 +59649,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-657 w-3"/>
       <word id="4"
             form="πρόσελθε"
@@ -59712,7 +59712,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-657 w-12"/>
       <word id="13"
             form="ὅς"
@@ -59946,7 +59946,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-659 w-11"/>
       <word id="12"
             form="κακὸς"
@@ -59988,7 +59988,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-659 w-17"/>
       <word id="18"
             form="γένους"
@@ -60023,7 +60023,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-659 w-22"/>
       <word id="23"
             form="αὔτως"
@@ -60098,7 +60098,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-660 w-3"/>
       <word id="4"
             form="ὦ"
@@ -60119,7 +60119,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-660 w-6"/>
       <word id="7"
             form="καὶ"
@@ -60140,7 +60140,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-660 w-9"/>
       <word id="10"
             form="μη"
@@ -60182,7 +60182,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-660 w-15"/>
       <word id="16"
             form="ἀλλὰ"
@@ -60278,7 +60278,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-661 w-9"/>
       <word id="10"
             form="ἀλλ᾽"
@@ -60299,7 +60299,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-661 w-12"/>
       <word id="13"
             form="ἔστ᾽"
@@ -60348,7 +60348,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Ajax: s-661 w-19"/>
       <word id="20"
             form="κἂν"
@@ -60451,7 +60451,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-662 w-10"/>
       <word id="11"
             form="τὰν"
@@ -60542,7 +60542,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Ajax: s-662 w-23"/>
       <word id="24"
             form="δύστανον"
@@ -60659,7 +60659,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-663 w-12"/>
       <word id="13"
             form="ὃς"
@@ -60918,7 +60918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-666 w-13"/>
       <word id="14"
             form="οὔ"
@@ -60960,7 +60960,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Ajax: s-666 w-19"/>
       <word id="20"
             form="δύσμορος"
@@ -60974,7 +60974,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Sophocles Ajax: s-666 w-21"/>
       <word id="22"
             form="οὔ"
@@ -61056,7 +61056,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-667 w-5"/>
       <word id="6"
             form="ὤμοι"
@@ -61096,7 +61096,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-668 w-3"/>
       <word id="4"
             form="ἀμέριμνος"
@@ -61117,7 +61117,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-668 w-6"/>
       <word id="7"
             form="ἀεὶ"
@@ -61159,7 +61159,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Sophocles Ajax: s-668 w-12"/>
       <word id="13"
             form="λυγρᾶς"
@@ -61370,7 +61370,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-671 w-3"/>
       <word id="4"
             form="τίς"
@@ -61473,7 +61473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-672 w-8"/>
       <word id="9"
             form="ἄκραν"
@@ -61508,7 +61508,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Sophocles Ajax: s-672 w-13"/>
       <word id="14"
             form="τὰς"
@@ -61831,7 +61831,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-676 w-3"/>
       <word id="4"
             form="τὸν"
@@ -61873,7 +61873,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-676 w-9"/>
       <word id="10"
             form="ἦ"
@@ -61964,7 +61964,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Ajax: s-676 w-22"/>
       <word id="23"
             form="ὅτ᾽"
@@ -62132,7 +62132,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Sophocles Ajax: s-676 w-46"/>
       <word id="47"
             form="ὡς"
@@ -62160,7 +62160,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Sophocles Ajax: s-676 w-50"/>
       <word id="51"
             form="Αἴας"
@@ -62529,7 +62529,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-681 w-10"/>
       <word id="11"
             form="εἰ"
@@ -62676,7 +62676,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Sophocles Ajax: s-681 w-31"/>
       <word id="32"
             form="ἀλλ᾽"
@@ -62877,7 +62877,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-682 w-14"/>
       <word id="15"
             form="εἰ"
@@ -63083,7 +63083,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-684 w-10"/>
       <word id="11"
             form="ἀλλ᾽"
@@ -63312,7 +63312,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-686 w-10"/>
       <word id="11"
             form="εἰ"
@@ -63394,7 +63394,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-687 w-5"/>
       <word id="6"
             form="ἀλλ᾽"
@@ -63422,7 +63422,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-687 w-9"/>
       <word id="10"
             form="θαρσῶν"
@@ -63583,7 +63583,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Sophocles Ajax: s-689 w-12"/>
       <word id="13"
             form="ὅστις"
@@ -63993,7 +63993,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-695 w-12"/>
       <word id="13"
             form="εἰ"
@@ -64070,7 +64070,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Ajax: s-695 w-23"/>
       <word id="24"
             form="Αἴας"
@@ -64084,7 +64084,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Sophocles Ajax: s-695 w-25"/>
       <word id="26"
             form="ἔτ᾽"
@@ -64112,7 +64112,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Sophocles Ajax: s-695 w-29"/>
       <word id="30"
             form="οὗ"
@@ -64290,7 +64290,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-697 w-7"/>
       <word id="8"
             form="οὐ"
@@ -64325,7 +64325,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Ajax: s-697 w-12"/>
       <word id="13"
             form="ἡνίκα"
@@ -64374,7 +64374,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Ajax: s-697 w-19"/>
       <word id="20"
             form="ἤδη"
@@ -64409,7 +64409,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Sophocles Ajax: s-697 w-24"/>
       <word id="25"
             form="ἐν"
@@ -64458,7 +64458,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="43"
+            head="0"
             cite=" Sophocles Ajax: s-697 w-31"/>
       <word id="32"
             form="ἀμφὶ"
@@ -64528,7 +64528,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="43"
+            head="0"
             cite=" Sophocles Ajax: s-697 w-41"/>
       <word id="42"
             form="εἰς"
@@ -64694,7 +64694,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-699 w-7"/>
       <word id="8"
             form="ὃν"
@@ -64722,7 +64722,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-699 w-11"/>
       <word id="12"
             form="οὗ"
@@ -64750,7 +64750,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-699 w-15"/>
       <word id="16"
             form="βῆναι"
@@ -64923,14 +64923,14 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-701 w-12"/>
       <word id="13"
             form="οὐ"
             lemma="οὐ1"
             postag="d--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite="urn:cts:greekLit:tlg0011.tlg003:1285 Sophocles Ajax: s-701 w-13"/>
       <word id="14"
             form="δραπέτην"
@@ -65007,7 +65007,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-701 w-24"/>
       <word id="25"
             form="ἀλλ᾽"
@@ -65126,7 +65126,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-702 w-6"/>
       <word id="7"
             form="σὺν"
@@ -65252,7 +65252,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-703 w-2"/>
       <word id="3"
             form="ποῖ"
@@ -65430,7 +65430,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-705 w-3"/>
       <word id="4"
             form="ὃς"
@@ -65472,7 +65472,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-705 w-9"/>
       <word id="10"
             form="προθέντ᾽"
@@ -65570,7 +65570,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-706 w-6"/>
       <word id="7"
             form="ἐφ᾽"
@@ -65778,7 +65778,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-708 w-8"/>
       <word id="9"
             form="ὅστις"
@@ -65848,7 +65848,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Sophocles Ajax: s-708 w-18"/>
       <word id="19"
             form="ἣ"
@@ -65890,7 +65890,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Sophocles Ajax: s-708 w-24"/>
       <word id="25"
             form="Λαομέδοντος"
@@ -66084,7 +66084,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-710 w-13"/>
       <word id="14"
             form="οὓς"
@@ -66154,7 +66154,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Sophocles Ajax: s-710 w-23"/>
       <word id="24"
             form="οὐ"
@@ -66229,7 +66229,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Sophocles Ajax: s-711 w-5"/>
       <word id="6"
             form="τοῦτον"
@@ -66264,7 +66264,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-711 w-10"/>
       <word id="11"
             form="βαλεῖτε"
@@ -66409,7 +66409,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-712 w-14"/>
       <word id="15"
             form="ἢ"
@@ -66541,7 +66541,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-713 w-6"/>
       <word id="7"
             form="ἀλλὰ"
@@ -66623,7 +66623,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-714 w-6"/>
       <word id="7"
             form="βουλήσει"
@@ -66749,7 +66749,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-715 w-4"/>
       <word id="5"
             form="καιρὸν"
@@ -66777,7 +66777,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-715 w-8"/>
       <word id="9"
             form="εἰ"
@@ -66805,7 +66805,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-715 w-12"/>
       <word id="13"
             form="ἀλλὰ"
@@ -66866,7 +66866,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-716 w-4"/>
       <word id="5"
             form="ἄνδρες"
@@ -67009,7 +67009,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-718 w-7"/>
       <word id="8"
             form="ἄναξ"
@@ -67030,7 +67030,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-718 w-10"/>
       <word id="11"
             form="τοῦδ᾽"
@@ -67297,7 +67297,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-723 w-5"/>
       <word id="6"
             form="ὥστε"
@@ -67400,7 +67400,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-724 w-9"/>
       <word id="10"
             form="ἀλλὰ"
@@ -67620,7 +67620,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-727 w-8"/>
       <word id="9"
             form="ἐπεὶ"
@@ -67955,7 +67955,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-731 w-8"/>
       <word id="9"
             form="ἐξ"
@@ -68011,7 +68011,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-731 w-16"/>
       <word id="17"
             form="ἀλλ᾽"
@@ -68088,7 +68088,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Ajax: s-731 w-27"/>
       <word id="28"
             form="ὥστε"
@@ -68151,7 +68151,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Sophocles Ajax: s-731 w-36"/>
       <word id="37"
             form="ὅσοι"
@@ -68179,7 +68179,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Sophocles Ajax: s-731 w-40"/>
       <word id="41"
             form="πλὴν"
@@ -68310,7 +68310,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-733 w-5"/>
       <word id="6"
             form="ἀλλὰ"
@@ -68399,7 +68399,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-734 w-5"/>
       <word id="6"
             form="εἰ"
@@ -68420,7 +68420,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-734 w-8"/>
       <word id="9"
             form="βλάπτειν"
@@ -68448,7 +68448,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Sophocles Ajax: s-734 w-12"/>
       <word id="13"
             form="οὐ"
@@ -68525,7 +68525,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-735 w-3"/>
       <word id="4"
             form="Ὀδυσσεῦ"
@@ -68539,7 +68539,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-735 w-5"/>
       <word id="6"
             form="τοῦδ᾽"
@@ -68621,7 +68621,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Sophocles Ajax: s-737 w-3"/>
       <word id="4"
             form="ἡνίκ᾽"
@@ -68743,7 +68743,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-739 w-3"/>
       <word id="4"
             form="Ἀτρείδη"
@@ -68757,7 +68757,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-739 w-5"/>
       <word id="6"
             form="κέρδεσιν"
@@ -69146,7 +69146,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-746 w-4"/>
       <word id="5"
             form="ἀλλὰ"
@@ -70059,7 +70059,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Sophocles Ajax: s-762 w-4"/>
       <word id="5"
             form="πανταχῇ"
@@ -70218,7 +70218,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-763 w-17"/>
       <word id="18"
             form="οὗτος"
@@ -70377,7 +70377,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-765 w-3"/>
       <word id="4"
             form="Ὀδυσσεῦ"
@@ -70391,7 +70391,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Sophocles Ajax: s-765 w-5"/>
       <word id="6"
             form="μὴ"
@@ -70433,7 +70433,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-765 w-11"/>
       <word id="12"
             form="τοιοῦτον"
@@ -70454,7 +70454,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Sophocles Ajax: s-765 w-14"/>
       <word id="15"
             form="μῶρός"
@@ -70543,7 +70543,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-766 w-8"/>
       <word id="9"
             form="ὅσον"
@@ -70578,7 +70578,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-766 w-13"/>
       <word id="14"
             form="τοσόνδ᾽"
@@ -70770,7 +70770,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Sophocles Ajax: s-768 w-3"/>
       <word id="4"
             form="πάντ᾽"
@@ -70812,7 +70812,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-768 w-9"/>
       <word id="10"
             form="καί"
@@ -70929,7 +70929,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Sophocles Ajax: s-769 w-10"/>
       <word id="11"
             form="οὐ"
@@ -70999,7 +70999,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Sophocles Ajax: s-769 w-20"/>
       <word id="21"
             form="ὡς"
@@ -71235,7 +71235,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Sophocles Ajax: s-770 w-17"/>
       <word id="18"
             form="ὥσπερ"
@@ -71317,7 +71317,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-771 w-3"/>
       <word id="4"
             form="ὦ"
@@ -71359,7 +71359,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Sophocles Ajax: s-771 w-9"/>
       <word id="10"
             form="τάφου"
@@ -71408,7 +71408,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-771 w-16"/>
       <word id="17"
             form="μὴ"
@@ -71555,7 +71555,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Sophocles Ajax: s-772 w-12"/>
       <word id="13"
             form="οὐδὲν"
@@ -71813,7 +71813,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-776 w-11"/>
       <word id="12"
             form="εἶμ᾽"
@@ -71984,7 +71984,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Sophocles Ajax: s-779 w-8"/>
       <word id="9"
             form="τοὶ"
@@ -72155,7 +72155,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Sophocles Ajax: s-781 w-2"/>
       <word id="3"
             form="σὺ"
@@ -72190,7 +72190,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-781 w-7"/>
       <word id="8"
             form="ὅσον"
@@ -72211,7 +72211,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Sophocles Ajax: s-781 w-10"/>
       <word id="11"
             form="φιλότητι"
@@ -72368,7 +72368,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-783 w-4"/>
       <word id="5"
             form="φίλος"
@@ -72410,7 +72410,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Sophocles Ajax: s-783 w-10"/>
       <word id="11"
             form="σούσθω"
@@ -72438,7 +72438,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Sophocles Ajax: s-783 w-14"/>
       <word id="15"
             form="τῷδ᾽"
@@ -72522,7 +72522,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Ajax: s-783 w-26"/>
       <word id="27"
             form="ὅτ᾽"
@@ -72543,7 +72543,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Sophocles Ajax: s-783 w-29"/>
       <word id="30"
             form="τότε"

@@ -29,7 +29,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-1 w-3"/>
       <word id="4"
             form="χρὴ"
@@ -120,7 +120,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Seven: s-1 w-16"/>
       <word id="17"
             form="βλέφαρα"
@@ -202,7 +202,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-2 w-6"/>
       <word id="7"
             form="αἰτία"
@@ -265,7 +265,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-3 w-4"/>
       <word id="5"
             form="ὃ"
@@ -293,7 +293,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-3 w-8"/>
       <word id="9"
             form="συμφορὰ"
@@ -314,7 +314,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-3 w-11"/>
       <word id="12"
             form="Ἐτεοκλέης"
@@ -412,7 +412,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Seven: s-3 w-25"/>
       <word id="26"
             form="ὧν"
@@ -508,7 +508,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Seven: s-4 w-5"/>
       <word id="6"
             form="καὶ"
@@ -585,7 +585,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Seven: s-4 w-16"/>
       <word id="17"
             form="βλαστημὸν"
@@ -620,7 +620,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Seven: s-4 w-21"/>
       <word id="22"
             form="ὥραν"
@@ -669,7 +669,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-4 w-28"/>
       <word id="29"
             form="πόλει"
@@ -725,7 +725,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Aeschylus Seven: s-4 w-36"/>
       <word id="37"
             form="τιμὰς"
@@ -802,7 +802,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-5 w-3"/>
       <word id="4"
             form="Γῇ"
@@ -914,7 +914,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-6 w-7"/>
       <word id="8"
             form="ἅπαντα"
@@ -949,7 +949,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-6 w-12"/>
       <word id="13"
             form="ἐθρέψατ᾽"
@@ -1265,7 +1265,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-9 w-10"/>
       <word id="11"
             form="ἐν"
@@ -1307,7 +1307,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Seven: s-9 w-16"/>
       <word id="17"
             form="πυρὸς"
@@ -1328,7 +1328,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Seven: s-9 w-19"/>
       <word id="20"
             form="χρηστηρίους"
@@ -1545,7 +1545,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Seven: s-11 w-10"/>
       <word id="11"
             form="σοῦσθε"
@@ -1573,7 +1573,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Seven: s-11 w-14"/>
       <word id="15"
             form="πληροῦτε"
@@ -1594,7 +1594,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Seven: s-11 w-17"/>
       <word id="18"
             form="κἀπὶ"
@@ -1629,7 +1629,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Seven: s-11 w-22"/>
       <word id="23"
             form="καὶ"
@@ -1685,7 +1685,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Seven: s-11 w-30"/>
       <word id="31"
             form="μη"
@@ -1828,7 +1828,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-13 w-8"/>
       <word id="9"
             form="τοὺς"
@@ -1985,7 +1985,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-15 w-6"/>
       <word id="7"
             form="ἥκω"
@@ -2034,7 +2034,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Seven: s-15 w-13"/>
       <word id="14"
             form="αὐτὸς"
@@ -2144,7 +2144,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-16 w-7"/>
       <word id="8"
             form="ταυροσφαγοῦντες"
@@ -2214,7 +2214,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Seven: s-16 w-17"/>
       <word id="18"
             form="Ἄρη"
@@ -2235,7 +2235,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Seven: s-16 w-20"/>
       <word id="21"
             form="Ἐνυώ"
@@ -2249,7 +2249,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Seven: s-16 w-22"/>
       <word id="23"
             form="καὶ"
@@ -2340,7 +2340,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Aeschylus Seven: s-16 w-35"/>
       <word id="36"
             form="ἢ"
@@ -2485,7 +2485,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-17 w-13"/>
       <word id="14"
             form="δάκρυ"
@@ -2614,7 +2614,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-19 w-7"/>
       <word id="8"
             form="λεόντων"
@@ -2754,7 +2754,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-21 w-4"/>
       <word id="5"
             form="ὡς"
@@ -2974,7 +2974,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-23 w-8"/>
       <word id="9"
             form="κονίει"
@@ -2988,7 +2988,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-23 w-10"/>
       <word id="11"
             form="πεδία"
@@ -3126,7 +3126,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-24 w-9"/>
       <word id="10"
             form="πρὶν"
@@ -3341,7 +3341,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-27 w-8"/>
       <word id="9"
             form="καὶ"
@@ -3479,7 +3479,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-28 w-9"/>
       <word id="10"
             form="Ἀρά"
@@ -3528,7 +3528,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-28 w-16"/>
       <word id="17"
             form="μή"
@@ -3591,7 +3591,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Aeschylus Seven: s-28 w-25"/>
       <word id="26"
             form="Ἑλλάδος"
@@ -3619,7 +3619,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Seven: s-28 w-29"/>
       <word id="30"
             form="καὶ"
@@ -4187,7 +4187,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-38 w-2"/>
       <word id="3"
             form="βρέμει"
@@ -4951,7 +4951,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-50 w-2"/>
       <word id="3"
             form="παλαίχθων"
@@ -4972,7 +4972,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-50 w-5"/>
       <word id="6"
             form="τὰν"
@@ -5291,7 +5291,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-55 w-2"/>
       <word id="3"
             form="ὦ"
@@ -5333,7 +5333,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-55 w-8"/>
       <word id="9"
             form="πάντως"
@@ -5462,7 +5462,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-57 w-6"/>
       <word id="7"
             form="διὰ"
@@ -5647,7 +5647,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-59 w-3"/>
       <word id="4"
             form="ὦ"
@@ -5682,7 +5682,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-59 w-8"/>
       <word id="9"
             form="ῥυσίπολις"
@@ -5717,7 +5717,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-59 w-13"/>
       <word id="14"
             form="ὅ"
@@ -5780,7 +5780,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-59 w-22"/>
       <word id="23"
             form="ἐπίλυσιν"
@@ -5862,7 +5862,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-60 w-5"/>
       <word id="6"
             form="φεῦ"
@@ -5876,7 +5876,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-60 w-7"/>
       <word id="8"
             form="φεῦ"
@@ -5890,7 +5890,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-60 w-9"/>
       <word id="10"
             form="πόλιν"
@@ -5972,7 +5972,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-61 w-3"/>
       <word id="4"
             form="ἅτ᾽"
@@ -6007,7 +6007,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-61 w-8"/>
       <word id="9"
             form="ἄλευσον"
@@ -6162,7 +6162,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-64 w-6"/>
       <word id="7"
             form="Λύκειος"
@@ -6288,7 +6288,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-65 w-9"/>
       <word id="10"
             form="τόξον"
@@ -6349,7 +6349,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-66 w-3"/>
       <word id="4"
             form="ἒ"
@@ -6384,7 +6384,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-66 w-8"/>
       <word id="9"
             form="δοριτίνακτος"
@@ -6574,7 +6574,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-69 w-5"/>
       <word id="6"
             form="ἀκροβόλων"
@@ -6705,7 +6705,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-71 w-6"/>
       <word id="7"
             form="παῖ"
@@ -6726,7 +6726,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-71 w-9"/>
       <word id="10"
             form="ὅθεν"
@@ -6838,7 +6838,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-72 w-7"/>
       <word id="8"
             form="πρὸ"
@@ -6969,7 +6969,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-73 w-12"/>
       <word id="13"
             form="πόλιν"
@@ -7105,7 +7105,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-75 w-4"/>
       <word id="5"
             form="λυτήριοί"
@@ -7140,7 +7140,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-75 w-9"/>
       <word id="10"
             form="δείξαθ᾽"
@@ -7168,7 +7168,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-75 w-13"/>
       <word id="14"
             form="μέλεσθέ"
@@ -7203,7 +7203,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-75 w-18"/>
       <word id="19"
             form="μελόμενοι"
@@ -7334,7 +7334,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-77 w-3"/>
       <word id="4"
             form="θρέμματ᾽"
@@ -7362,7 +7362,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-77 w-7"/>
       <word id="8"
             form="ἦ"
@@ -7411,7 +7411,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Seven: s-77 w-14"/>
       <word id="15"
             form="στρατῷ"
@@ -7516,7 +7516,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Seven: s-77 w-29"/>
       <word id="30"
             form="σωφρόνων"
@@ -7696,7 +7696,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-79 w-7"/>
       <word id="8"
             form="δείσασα"
@@ -7913,7 +7913,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-81 w-8"/>
       <word id="9"
             form="αὐτοὶ"
@@ -8126,7 +8126,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-83 w-16"/>
       <word id="17"
             form="ψῆφος"
@@ -8168,7 +8168,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Seven: s-83 w-22"/>
       <word id="23"
             form="λευστῆρα"
@@ -8273,7 +8273,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-84 w-4"/>
       <word id="5"
             form="μὴ"
@@ -8301,7 +8301,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-84 w-8"/>
       <word id="9"
             form="τἄξωθεν"
@@ -8409,7 +8409,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-86 w-5"/>
       <word id="6"
             form="ἢ"
@@ -8477,7 +8477,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-87 w-5"/>
       <word id="6"
             form="ἔδεισ᾽"
@@ -8540,7 +8540,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Seven: s-87 w-14"/>
       <word id="15"
             form="ὅτε"
@@ -8582,7 +8582,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Seven: s-87 w-20"/>
       <word id="21"
             form="ἱππικῶν"
@@ -8785,7 +8785,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-89 w-13"/>
       <word id="14"
             form="νεὼς"
@@ -8902,7 +8902,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-90 w-10"/>
       <word id="11"
             form="θεοῖσι"
@@ -8923,7 +8923,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-90 w-13"/>
       <word id="14"
             form="νιφάδος"
@@ -9049,7 +9049,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-91 w-8"/>
       <word id="9"
             form="πόλεως"
@@ -9330,7 +9330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-95 w-9"/>
       <word id="10"
             form="μη"
@@ -9981,7 +9981,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-104 w-6"/>
       <word id="7"
             form="δυσμενέων"
@@ -10171,7 +10171,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-107 w-7"/>
       <word id="8"
             form="εὔκηλος"
@@ -10316,7 +10316,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-108 w-13"/>
       <word id="14"
             form="ἱκόμαν"
@@ -10356,7 +10356,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-109 w-3"/>
       <word id="4"
             form="ἐὰν"
@@ -10398,7 +10398,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-109 w-9"/>
       <word id="10"
             form="κωκυτοῖσιν"
@@ -10621,7 +10621,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-113 w-4"/>
       <word id="5"
             form="ὡς"
@@ -10715,7 +10715,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-115 w-2"/>
       <word id="3"
             form="ἀραγμὸς"
@@ -10844,7 +10844,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-117 w-3"/>
       <word id="4"
             form="μὴ"
@@ -10952,7 +10952,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-119 w-3"/>
       <word id="4"
             form="μή"
@@ -11081,7 +11081,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-121 w-4"/>
       <word id="5"
             form="τρέψον"
@@ -11142,7 +11142,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-122 w-3"/>
       <word id="4"
             form="γυναικῶν"
@@ -11446,7 +11446,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-127 w-5"/>
       <word id="6"
             form="καὶ"
@@ -11493,7 +11493,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-128 w-2"/>
       <word id="3"
             form="ὦ"
@@ -11702,7 +11702,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-132 w-5"/>
       <word id="6"
             form="ἐκτὸς"
@@ -11730,7 +11730,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-132 w-9"/>
       <word id="10"
             form="εὔχου"
@@ -11819,7 +11819,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-133 w-4"/>
       <word id="5"
             form="ἔπειτα"
@@ -11868,7 +11868,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Seven: s-133 w-11"/>
       <word id="12"
             form="Ἑλληνικὸν"
@@ -11924,7 +11924,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-133 w-19"/>
       <word id="20"
             form="λύουσα"
@@ -12006,7 +12006,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-134 w-7"/>
       <word id="8"
             form="πεδιονόμοις"
@@ -12041,7 +12041,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Seven: s-134 w-12"/>
       <word id="13"
             form="Δίρκης"
@@ -12069,7 +12069,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Seven: s-134 w-16"/>
       <word id="17"
             form="ὕδατί"
@@ -12139,7 +12139,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Seven: s-134 w-26"/>
       <word id="27"
             form="μήλοισιν"
@@ -12174,7 +12174,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Seven: s-134 w-31"/>
       <word id="32"
             form="[ταυροκτονοῦντας"
@@ -12195,7 +12195,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Aeschylus Seven: s-134 w-34"/>
       <word id="35"
             form="ὧδ᾽"
@@ -12230,7 +12230,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="41"
+            head="0"
             cite=" Aeschylus Seven: s-134 w-39"/>
       <word id="40"
             form="δαΐων"
@@ -12333,7 +12333,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-135 w-4"/>
       <word id="5"
             form="πολεμίων"
@@ -12431,7 +12431,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-136 w-8"/>
       <word id="9"
             form="μη"
@@ -12695,7 +12695,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-138 w-19"/>
       <word id="20"
             form="πρὶν"
@@ -12805,7 +12805,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-139 w-2"/>
       <word id="3"
             form="φόβῳ"
@@ -12922,7 +12922,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-140 w-10"/>
       <word id="11"
             form="δράκοντας"
@@ -13180,7 +13180,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-144 w-3"/>
       <word id="4"
             form="Διογενεῖς"
@@ -13201,7 +13201,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-144 w-6"/>
       <word id="7"
             form="πόλιν"
@@ -13346,7 +13346,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Seven: s-145 w-14"/>
       <word id="15"
             form="ὕδωρ"
@@ -13374,7 +13374,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-145 w-18"/>
       <word id="19"
             form="εὐ"
@@ -13505,7 +13505,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-146 w-3"/>
       <word id="4"
             form="ὦ"
@@ -13533,7 +13533,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-146 w-7"/>
       <word id="8"
             form="τοῖσι"
@@ -13603,7 +13603,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-146 w-17"/>
       <word id="18"
             form="ἐμβαλόντες"
@@ -13781,7 +13781,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-148 w-8"/>
       <word id="9"
             form="δορὸς"
@@ -13865,7 +13865,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Seven: s-148 w-20"/>
       <word id="21"
             form="τὰς"
@@ -13921,7 +13921,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Seven: s-148 w-28"/>
       <word id="29"
             form="νέας"
@@ -13970,7 +13970,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="38"
+            head="0"
             cite=" Aeschylus Seven: s-148 w-35"/>
       <word id="36"
             form="περιρ"
@@ -14054,7 +14054,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-149 w-5"/>
       <word id="6"
             form="λαΐδος"
@@ -14328,7 +14328,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-154 w-3"/>
       <word id="4"
             form="εὖτε"
@@ -14356,7 +14356,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-154 w-7"/>
       <word id="8"
             form="ἒ"
@@ -14377,7 +14377,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-154 w-10"/>
       <word id="11"
             form="δυστυχῆ"
@@ -14445,7 +14445,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-155 w-5"/>
       <word id="6"
             form="φονεύ"
@@ -14473,7 +14473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-155 w-9"/>
       <word id="10"
             form="τὰ"
@@ -14649,7 +14649,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-158 w-5"/>
       <word id="6"
             form="προτὶ"
@@ -14913,7 +14913,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-162 w-4"/>
       <word id="5"
             form="καὶ"
@@ -14948,7 +14948,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-162 w-9"/>
       <word id="10"
             form="ξύννομον"
@@ -14976,7 +14976,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Seven: s-162 w-13"/>
       <word id="14"
             form="οὔ"
@@ -15495,7 +15495,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-169 w-4"/>
       <word id="5"
             form="ὡς"
@@ -15523,7 +15523,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-169 w-8"/>
       <word id="9"
             form="στρατοῦ"
@@ -15558,7 +15558,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-169 w-13"/>
       <word id="14"
             form="ὦ"
@@ -15579,7 +15579,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-169 w-16"/>
       <word id="17"
             form="νέαν"
@@ -15600,7 +15600,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-169 w-19"/>
       <word id="20"
             form="σπουδῇ"
@@ -15878,7 +15878,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-172 w-8"/>
       <word id="9"
             form="ὥς"
@@ -15995,7 +15995,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-173 w-8"/>
       <word id="9"
             form="πόρον"
@@ -16257,7 +16257,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-176 w-7"/>
       <word id="8"
             form="σαίνειν"
@@ -16381,7 +16381,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-177 w-10"/>
       <word id="11"
             form="ὑπ᾽"
@@ -16601,7 +16601,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-179 w-7"/>
       <word id="8"
             form="πρέσβιστον"
@@ -16643,7 +16643,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-179 w-13"/>
       <word id="14"
             form="πρέπει"
@@ -16732,7 +16732,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-180 w-10"/>
       <word id="11"
             form="μάχης"
@@ -16753,7 +16753,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-180 w-13"/>
       <word id="14"
             form="ἵππος"
@@ -16795,7 +16795,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Seven: s-180 w-19"/>
       <word id="20"
             form="ὅστις"
@@ -17010,7 +17010,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-183 w-8"/>
       <word id="9"
             form="οὐ"
@@ -17342,7 +17342,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-186 w-8"/>
       <word id="9"
             form="τῷ"
@@ -17433,7 +17433,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Seven: s-186 w-21"/>
       <word id="22"
             form="καὐτὸς"
@@ -17564,7 +17564,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-187 w-11"/>
       <word id="12"
             form="μάλ᾽"
@@ -17688,7 +17688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-188 w-4"/>
       <word id="5"
             form="μὴ"
@@ -17779,7 +17779,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-189 w-5"/>
       <word id="6"
             form="ὧν"
@@ -17807,7 +17807,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-189 w-9"/>
       <word id="10"
             form="ῥίζωμ᾽"
@@ -17828,7 +17828,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-189 w-12"/>
       <word id="13"
             form="κάρτα"
@@ -17863,7 +17863,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Seven: s-189 w-17"/>
       <word id="18"
             form="Μελάνιππος"
@@ -18081,7 +18081,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-192 w-8"/>
       <word id="9"
             form="ὡς"
@@ -18313,7 +18313,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Seven: s-195 w-7"/>
       <word id="8"
             form="γίγας"
@@ -18369,7 +18369,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Seven: s-195 w-15"/>
       <word id="16"
             form="ὁ"
@@ -18425,7 +18425,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Seven: s-195 w-23"/>
       <word id="24"
             form="πύργοις"
@@ -18460,7 +18460,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Seven: s-195 w-28"/>
       <word id="29"
             form="ἃ"
@@ -18586,7 +18586,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-196 w-11"/>
       <word id="12"
             form="οὐ"
@@ -18792,7 +18792,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-198 w-7"/>
       <word id="8"
             form="φλέγει"
@@ -19174,7 +19174,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-203 w-4"/>
       <word id="5"
             form="δρᾶν"
@@ -19195,7 +19195,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-203 w-7"/>
       <word id="8"
             form="θεοὺς"
@@ -19389,7 +19389,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-204 w-10"/>
       <word id="11"
             form="οὐδὲν"
@@ -19478,7 +19478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-205 w-5"/>
       <word id="6"
             form="κεἰ"
@@ -19513,7 +19513,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-205 w-10"/>
       <word id="11"
             form="αἴθων"
@@ -19541,7 +19541,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Seven: s-205 w-14"/>
       <word id="15"
             form="Πολυφόντου"
@@ -19583,7 +19583,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Seven: s-205 w-20"/>
       <word id="21"
             form="προστατηρίας"
@@ -19740,7 +19740,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-207 w-6"/>
       <word id="7"
             form="κεραυνοῦ"
@@ -19782,7 +19782,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-207 w-12"/>
       <word id="13"
             form="πρὶν"
@@ -19817,7 +19817,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Seven: s-207 w-17"/>
       <word id="18"
             form="πωλικῶν"
@@ -20030,7 +20030,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-209 w-12"/>
       <word id="13"
             form="πύλαισι"
@@ -20119,7 +20119,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-210 w-7"/>
       <word id="8"
             form="θελούσας"
@@ -20201,7 +20201,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-211 w-6"/>
       <word id="7"
             form="μυκτηροκόμποις"
@@ -20351,7 +20351,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-213 w-9"/>
       <word id="10"
             form="ἐκπέρσαι"
@@ -20426,7 +20426,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-214 w-7"/>
       <word id="8"
             form="ὡς"
@@ -20618,7 +20618,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-216 w-5"/>
       <word id="6"
             form="σὺν"
@@ -20723,7 +20723,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-217 w-8"/>
       <word id="9"
             form="Μεγαρεύς"
@@ -20779,7 +20779,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-217 w-16"/>
       <word id="17"
             form="ὃς"
@@ -20856,7 +20856,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Aeschylus Seven: s-217 w-27"/>
       <word id="28"
             form="ἀλλ᾽"
@@ -20905,7 +20905,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="35"
+            head="0"
             cite=" Aeschylus Seven: s-217 w-34"/>
       <word id="35"
             form="ἢ"
@@ -21036,7 +21036,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-218 w-4"/>
       <word id="5"
             form="μη"
@@ -21118,7 +21118,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-219 w-5"/>
       <word id="6"
             form="ἰὼ"
@@ -21153,7 +21153,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-219 w-10"/>
       <word id="11"
             form="τοῖσι"
@@ -21258,7 +21258,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-220 w-9"/>
       <word id="10"
             form="τώς"
@@ -21333,7 +21333,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-221 w-3"/>
       <word id="4"
             form="γείτονας"
@@ -21375,7 +21375,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-221 w-9"/>
       <word id="10"
             form="ξὺν"
@@ -21478,7 +21478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-222 w-4"/>
       <word id="5"
             form="ἀσπίδος"
@@ -21506,7 +21506,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-222 w-8"/>
       <word id="9"
             form="ἔφριξα"
@@ -21855,7 +21855,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-226 w-4"/>
       <word id="5"
             form="ἔνθεος"
@@ -22091,7 +22091,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Seven: s-229 w-5"/>
       <word id="6"
             form="ἥτ᾽"
@@ -22112,7 +22112,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-229 w-8"/>
       <word id="9"
             form="πύλαισι"
@@ -22161,7 +22161,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Seven: s-229 w-15"/>
       <word id="16"
             form="εἴρξει"
@@ -22275,7 +22275,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-230 w-7"/>
       <word id="8"
             form="ἀνὴρ"
@@ -22317,7 +22317,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-230 w-13"/>
       <word id="14"
             form="θέλων"
@@ -22450,7 +22450,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Aeschylus Seven: s-230 w-32"/>
       <word id="33"
             form="Ἑρμῆς"
@@ -22539,7 +22539,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-231 w-7"/>
       <word id="8"
             form="ξυνοίσετον"
@@ -22651,7 +22651,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-232 w-7"/>
       <word id="8"
             form="Ὑπερβίῳ"
@@ -22714,7 +22714,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-232 w-16"/>
       <word id="17"
             form="διὰ"
@@ -22899,7 +22899,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-235 w-6"/>
       <word id="7"
             form="οἱ"
@@ -22927,7 +22927,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-235 w-10"/>
       <word id="11"
             form="εἰ"
@@ -23048,7 +23048,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-236 w-7"/>
       <word id="8"
             form="Ὑπερβίῳ"
@@ -23314,7 +23314,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-237 w-22"/>
       <word id="23"
             form="πρόσθε"
@@ -23422,7 +23422,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-239 w-6"/>
       <word id="7"
             form="πέμπταισι"
@@ -23457,7 +23457,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-239 w-11"/>
       <word id="12"
             form="τύμβον"
@@ -23595,7 +23595,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Seven: s-240 w-13"/>
       <word id="14"
             form="ἦ"
@@ -23787,7 +23787,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-242 w-7"/>
       <word id="8"
             form="ὥρας"
@@ -23897,7 +23897,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-243 w-8"/>
       <word id="9"
             form="φρόνημα"
@@ -23911,7 +23911,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-243 w-10"/>
       <word id="11"
             form="γοργὸν"
@@ -23946,7 +23946,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-243 w-15"/>
       <word id="16"
             form="προσίσταται"
@@ -24103,7 +24103,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Seven: s-245 w-12"/>
       <word id="13"
             form="Σφίγγ᾽"
@@ -24173,7 +24173,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Seven: s-245 w-22"/>
       <word id="23"
             form="φέρει"
@@ -24229,7 +24229,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Seven: s-245 w-30"/>
       <word id="31"
             form="ὡς"
@@ -24339,7 +24339,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-246 w-7"/>
       <word id="8"
             form="μακρᾶς"
@@ -24388,7 +24388,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-246 w-14"/>
       <word id="15"
             form="Παρθενοπαῖος"
@@ -24456,7 +24456,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-247 w-6"/>
       <word id="7"
             form="Ἄργει"
@@ -24498,7 +24498,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-247 w-12"/>
       <word id="13"
             form="πύργοις"
@@ -24624,7 +24624,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-248 w-8"/>
       <word id="9"
             form="αὐτοῖς"
@@ -24788,7 +24788,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-250 w-10"/>
       <word id="11"
             form="ἀνὴρ"
@@ -24809,7 +24809,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Seven: s-250 w-13"/>
       <word id="14"
             form="χεὶρ"
@@ -24982,7 +24982,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-251 w-12"/>
       <word id="13"
             form="οὐ"
@@ -25136,7 +25136,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-252 w-8"/>
       <word id="9"
             form="πυκνοῦ"
@@ -25265,7 +25265,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-254 w-5"/>
       <word id="6"
             form="τριχὸς"
@@ -25307,7 +25307,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-254 w-11"/>
       <word id="12"
             form="μεγάλα"
@@ -25457,7 +25457,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-256 w-6"/>
       <word id="7"
             form="ἀλκήν"
@@ -25621,7 +25621,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-258 w-3"/>
       <word id="4"
             form="τὸν"
@@ -25649,7 +25649,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-258 w-7"/>
       <word id="8"
             form="μέγιστον"
@@ -25691,7 +25691,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-258 w-13"/>
       <word id="14"
             form="Ἐρινύος"
@@ -25712,7 +25712,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-258 w-16"/>
       <word id="17"
             form="πρόσπολον"
@@ -25733,7 +25733,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-258 w-19"/>
       <word id="20"
             form="κακῶν"
@@ -25859,7 +25859,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-259 w-10"/>
       <word id="11"
             form="Πολυνείκους"
@@ -25880,7 +25880,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-259 w-13"/>
       <word id="14"
             form="δίς"
@@ -25929,7 +25929,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-259 w-20"/>
       <word id="21"
             form="καλεῖ"
@@ -26051,7 +26051,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-261 w-8"/>
       <word id="9"
             form="καλόν"
@@ -26100,7 +26100,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-261 w-15"/>
       <word id="16"
             form="πόλιν"
@@ -26156,7 +26156,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Seven: s-261 w-23"/>
       <word id="24"
             form="στράτευμ᾽"
@@ -26397,7 +26397,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-264 w-7"/>
       <word id="8"
             form="μάντις"
@@ -26648,7 +26648,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-268 w-5"/>
       <word id="6"
             form="ἀλλ᾽"
@@ -26676,7 +26676,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-268 w-9"/>
       <word id="10"
             form="βαθεῖαν"
@@ -26718,7 +26718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-268 w-15"/>
       <word id="16"
             form="ἐξ"
@@ -27246,7 +27246,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Seven: s-274 w-17"/>
       <word id="18"
             form="ἢ"
@@ -27330,7 +27330,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Seven: s-274 w-29"/>
       <word id="30"
             form="ταὐτοῦ"
@@ -27365,7 +27365,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Seven: s-274 w-34"/>
       <word id="35"
             form="πληγεὶς"
@@ -27454,7 +27454,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-275 w-5"/>
       <word id="6"
             form="υἱὸν"
@@ -27482,7 +27482,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-275 w-9"/>
       <word id="10"
             form="σώφρων"
@@ -27545,7 +27545,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-275 w-18"/>
       <word id="19"
             form="ἀνοσίοισι"
@@ -27594,7 +27594,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Seven: s-275 w-25"/>
       <word id="26"
             form="τείνουσι"
@@ -27643,7 +27643,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Seven: s-275 w-32"/>
       <word id="33"
             form="Διὸς"
@@ -27797,7 +27797,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Seven: s-276 w-16"/>
       <word id="17"
             form="ἀλλ᾽"
@@ -27853,7 +27853,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Seven: s-276 w-24"/>
       <word id="25"
             form="εἰ"
@@ -28033,7 +28033,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-278 w-9"/>
       <word id="10"
             form="ἐχθρόξενον"
@@ -28061,7 +28061,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-278 w-13"/>
       <word id="14"
             form="γέροντα"
@@ -28089,7 +28089,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Seven: s-278 w-17"/>
       <word id="18"
             form="σάρκα"
@@ -28145,7 +28145,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Seven: s-278 w-25"/>
       <word id="26"
             form="χεῖρα"
@@ -28323,7 +28323,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-280 w-7"/>
       <word id="8"
             form="ὡς"
@@ -28351,7 +28351,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-280 w-11"/>
       <word id="12"
             form="δορίπονα"
@@ -28688,7 +28688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-283 w-9"/>
       <word id="10"
             form="σοὶ"
@@ -28737,7 +28737,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Seven: s-283 w-16"/>
       <word id="17"
             form="ἢ"
@@ -29158,7 +29158,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-287 w-6"/>
       <word id="7"
             form="ὡς"
@@ -29439,7 +29439,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-290 w-8"/>
       <word id="9"
             form="σὺ"
@@ -29628,7 +29628,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-292 w-2"/>
       <word id="3"
             form="πατρὸς"
@@ -29747,7 +29747,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-293 w-9"/>
       <word id="10"
             form="μὴ"
@@ -29822,7 +29822,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-294 w-4"/>
       <word id="5"
             form="Πολυνείκει"
@@ -29843,7 +29843,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-294 w-7"/>
       <word id="8"
             form="τάχ᾽"
@@ -30074,7 +30074,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-295 w-13"/>
       <word id="14"
             form="τάχ᾽"
@@ -30179,7 +30179,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-296 w-8"/>
       <word id="9"
             form="οὔ"
@@ -30214,7 +30214,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-296 w-13"/>
       <word id="14"
             form="οὔ"
@@ -30249,7 +30249,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-296 w-18"/>
       <word id="19"
             form="οὔ"
@@ -30298,7 +30298,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-296 w-25"/>
       <word id="26"
             form="Δίκη"
@@ -30497,7 +30497,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-298 w-8"/>
       <word id="9"
             form="ξυνοῦσα"
@@ -30836,7 +30836,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-303 w-2"/>
       <word id="3"
             form="φίλτατ᾽"
@@ -30878,7 +30878,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-303 w-8"/>
       <word id="9"
             form="γένῃ"
@@ -31198,7 +31198,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-307 w-5"/>
       <word id="6"
             form="αἰσχύνης"
@@ -31371,7 +31371,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-310 w-3"/>
       <word id="4"
             form="τέκνον"
@@ -31844,7 +31844,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-315 w-12"/>
       <word id="13"
             form="λέγουσα"
@@ -32048,7 +32048,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-318 w-6"/>
       <word id="7"
             form="ὅταν"
@@ -32144,7 +32144,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-319 w-6"/>
       <word id="7"
             form="χάρις"
@@ -32610,7 +32610,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-326 w-3"/>
       <word id="4"
             form="καίπερ"
@@ -33142,7 +33142,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-335 w-5"/>
       <word id="6"
             form="οὐ"
@@ -33341,7 +33341,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-337 w-5"/>
       <word id="6"
             form="Χάλυβος"
@@ -33369,7 +33369,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-337 w-9"/>
       <word id="10"
             form="κτεάνων"
@@ -33418,7 +33418,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Seven: s-337 w-16"/>
       <word id="17"
             form="χθόνα"
@@ -33446,7 +33446,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Seven: s-337 w-20"/>
       <word id="21"
             form="ὁπόσαν"
@@ -33481,7 +33481,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Seven: s-337 w-25"/>
       <word id="26"
             form="τῶν"
@@ -33579,7 +33579,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-338 w-7"/>
       <word id="8"
             form="καὶ"
@@ -33923,7 +33923,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-342 w-5"/>
       <word id="6"
             form="τρὶς"
@@ -34021,7 +34021,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-342 w-19"/>
       <word id="20"
             form="[0]"
@@ -34135,7 +34135,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Seven: s-343 w-13"/>
       <word id="14"
             form="ὅστε"
@@ -34177,7 +34177,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-343 w-19"/>
       <word id="20"
             form="ἵν᾽"
@@ -34380,7 +34380,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-346 w-4"/>
       <word id="5"
             form="ἄλλο"
@@ -34415,7 +34415,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Seven: s-346 w-9"/>
       <word id="10"
             form="ὃ"
@@ -34932,7 +34932,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Seven: s-352 w-15"/>
       <word id="16"
             form="ὅσον"
@@ -34967,7 +34967,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Seven: s-352 w-20"/>
       <word id="21"
             form="τὰν"
@@ -35070,7 +35070,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-353 w-8"/>
       <word id="9"
             form="ἐπ᾽"
@@ -35166,7 +35166,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-354 w-4"/>
       <word id="5"
             form="κρεισσοτέκνων"
@@ -35248,7 +35248,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-355 w-7"/>
       <word id="8"
             form="αἰαῖ"
@@ -35262,7 +35262,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-355 w-9"/>
       <word id="10"
             form="πικρογλώσσους"
@@ -35283,7 +35283,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Seven: s-355 w-12"/>
       <word id="13"
             form="καί"
@@ -35426,7 +35426,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-357 w-2"/>
       <word id="3"
             form="παῖδες"
@@ -35670,7 +35670,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-361 w-4"/>
       <word id="5"
             form="καὶ"
@@ -35759,7 +35759,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-362 w-5"/>
       <word id="6"
             form="ἐν"
@@ -35862,7 +35862,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-363 w-10"/>
       <word id="11"
             form="Οἰδίπου"
@@ -36214,7 +36214,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-370 w-8"/>
       <word id="9"
             form="μάντις"
@@ -36678,7 +36678,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-378 w-5"/>
       <word id="6"
             form="οἱ"
@@ -36727,7 +36727,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-378 w-12"/>
       <word id="13"
             form="διέλαχον"
@@ -36846,7 +36846,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-379 w-8"/>
       <word id="9"
             form="πατρὸς"
@@ -37043,7 +37043,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-382 w-7"/>
       <word id="8"
             form="οἳ"
@@ -37092,7 +37092,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-382 w-14"/>
       <word id="15"
             form="πότερον"
@@ -37134,7 +37134,7 @@
             lemma="punc1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-382 w-20"/>
       <word id="21"
             form="σωτῆρι"
@@ -37148,7 +37148,7 @@
             lemma="υνκνοων1"
             postag="---------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite="urn:cts:greekLit:tlg0085.tlg004:826 Aeschylus Seven: s-382 w-22"/>
       <word id="23"
             form="[0]"
@@ -37375,7 +37375,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-385 w-9"/>
       <word id="10"
             form="κακόν"
@@ -37588,7 +37588,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-388 w-2"/>
       <word id="3"
             form="οὐ"
@@ -37778,7 +37778,7 @@
             lemma="ἰώ1"
             postag="e--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite="urn:cts:greekLit:tlg0085.tlg004:845 Aeschylus Seven: s-392 w-1"/>
       <word id="2"
             form="πολύστονοι"
@@ -37792,7 +37792,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-392 w-3"/>
       <word id="4"
             form="τόδ᾽"
@@ -38007,7 +38007,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-395 w-4"/>
       <word id="5"
             form="διδυμάνορα"
@@ -38238,7 +38238,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-398 w-3"/>
       <word id="4"
             form="ὦ"
@@ -38259,7 +38259,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-398 w-6"/>
       <word id="7"
             form="κατ᾽"
@@ -38322,7 +38322,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-398 w-15"/>
       <word id="16"
             form="ὃς"
@@ -38399,7 +38399,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Seven: s-398 w-26"/>
       <word id="27"
             form="τὰν"
@@ -38427,7 +38427,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="31"
+            head="0"
             cite=" Aeschylus Seven: s-398 w-30"/>
       <word id="31"
             form="τὰν"
@@ -38843,7 +38843,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-402 w-2"/>
       <word id="3"
             form="δυσαδελφόταται"
@@ -38892,7 +38892,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-402 w-9"/>
       <word id="10"
             form="κλαίω"
@@ -38906,7 +38906,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-402 w-11"/>
       <word id="12"
             form="στένομαι"
@@ -38920,7 +38920,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-402 w-13"/>
       <word id="14"
             form="καὶ"
@@ -39039,7 +39039,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-403 w-4"/>
       <word id="5"
             form="φίλων"
@@ -39305,7 +39305,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-405 w-9"/>
       <word id="10"
             form="ἤδη"
@@ -39455,7 +39455,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-407 w-4"/>
       <word id="5"
             form="τετυμμένοι"
@@ -39476,7 +39476,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-407 w-7"/>
       <word id="8"
             form="ὁμοσπλάγχνων"
@@ -39518,7 +39518,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-407 w-13"/>
       <word id="14"
             form="αἰαῖ"
@@ -39639,7 +39639,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-408 w-8"/>
       <word id="9"
             form="[ἐννέπω]"
@@ -39763,7 +39763,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-409 w-6"/>
       <word id="7"
             form="στένουσι"
@@ -39852,7 +39852,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-410 w-5"/>
       <word id="6"
             form="δι᾽"
@@ -39985,7 +39985,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-411 w-5"/>
       <word id="6"
             form="ὥστ᾽"
@@ -40060,7 +40060,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-412 w-6"/>
       <word id="7"
             form="οὐ"
@@ -40153,7 +40153,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-413 w-5"/>
       <word id="6"
             form="σιδαρόπλακτοι"
@@ -40188,7 +40188,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-413 w-10"/>
       <word id="11"
             form="τάχ᾽"
@@ -40223,7 +40223,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Seven: s-413 w-15"/>
       <word id="16"
             form="τίνες"
@@ -40377,7 +40377,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Seven: s-415 w-12"/>
       <word id="13"
             form="αὐτοπήμων"
@@ -40391,7 +40391,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Seven: s-415 w-14"/>
       <word id="15"
             form="δαϊόφρων"
@@ -40405,14 +40405,14 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Seven: s-415 w-16"/>
       <word id="17"
             form="οὐ"
             lemma="οὐ1"
             postag="d--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite="urn:cts:greekLit:tlg0085.tlg004:918 Aeschylus Seven: s-415 w-17"/>
       <word id="18"
             form="φιλογαθής"
@@ -40461,7 +40461,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Aeschylus Seven: s-415 w-24"/>
       <word id="25"
             form="ἃ"
@@ -40599,7 +40599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-416 w-11"/>
       <word id="12"
             form="ξένων"
@@ -40814,7 +40814,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-418 w-9"/>
       <word id="10"
             form="οἱ"
@@ -40931,7 +40931,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-419 w-5"/>
       <word id="6"
             form="διατομαῖς"
@@ -40959,7 +40959,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-419 w-9"/>
       <word id="10"
             form="ἔριδι"
@@ -41050,7 +41050,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-420 w-4"/>
       <word id="5"
             form="ἐν"
@@ -41599,7 +41599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-427 w-8"/>
       <word id="9"
             form="τετραμμένου"
@@ -41688,7 +41688,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-428 w-7"/>
       <word id="8"
             form="ἐν"
@@ -41716,7 +41716,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Seven: s-428 w-11"/>
       <word id="12"
             form="καὶ"
@@ -41871,7 +41871,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-431 w-4"/>
       <word id="5"
             form="δορὶ"
@@ -41899,7 +41899,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-431 w-8"/>
       <word id="9"
             form="μελεοπόνος"
@@ -42012,7 +42012,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-435 w-2"/>
       <word id="3"
             form="κατακτάς"
@@ -42352,7 +42352,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-444 w-3"/>
       <word id="4"
             form="διπλᾶ"
@@ -42380,7 +42380,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-444 w-7"/>
       <word id="8"
             form="ἄχθεα"
@@ -42515,7 +42515,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-446 w-5"/>
       <word id="6"
             form="πότνιά"
@@ -42571,7 +42571,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-446 w-13"/>
       <word id="14"
             form="ἦ"
@@ -42688,7 +42688,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-449 w-3"/>
       <word id="4"
             form="ἔδειξεν"
@@ -43000,7 +43000,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-457 w-1"/>
       <word id="2"
             form="δίυγρα"
@@ -43077,7 +43077,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-458 w-5"/>
       <word id="6"
             form="πότνιά"
@@ -43215,7 +43215,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Seven: s-459 w-6"/>
       <word id="7"
             form="σὺ"
@@ -43257,7 +43257,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Seven: s-459 w-12"/>
       <word id="13"
             form="ἐπεὶ"
@@ -43292,7 +43292,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-459 w-17"/>
       <word id="18"
             form="δορός"
@@ -43460,7 +43460,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-462 w-6"/>
       <word id="7"
             form="δώμασι"
@@ -43633,7 +43633,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-465 w-5"/>
       <word id="6"
             form="ἄναξ"
@@ -43773,7 +43773,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-468 w-3"/>
       <word id="4"
             form="ποῦ"
@@ -43827,7 +43827,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-469 w-2"/>
       <word id="3"
             form="ὅπου"
@@ -43897,7 +43897,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Seven: s-470 w-3"/>
       <word id="4"
             form="πῆμα"
@@ -44423,7 +44423,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Seven: s-475 w-13"/>
       <word id="14"
             form="ὡς"
@@ -44465,7 +44465,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Seven: s-475 w-19"/>
       <word id="20"
             form="εἰ"
@@ -44605,7 +44605,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Seven: s-476 w-8"/>
       <word id="9"
             form="οὓς"
@@ -44750,7 +44750,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Seven: s-477 w-11"/>
       <word id="12"
             form="καὶ"
@@ -44820,7 +44820,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Seven: s-477 w-21"/>
       <word id="22"
             form="ἄτιμον"
@@ -45031,7 +45031,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Seven: s-480 w-8"/>
       <word id="9"
             form="ἐγώ"
@@ -45108,7 +45108,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Seven: s-480 w-19"/>
       <word id="20"
             form="οὐ"
@@ -45211,7 +45211,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Seven: s-481 w-5"/>
       <word id="6"
             form="οὗ"
@@ -45337,7 +45337,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Seven: s-482 w-7"/>
       <word id="8"
             form="θανόντι"
@@ -45527,7 +45527,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-485 w-7"/>
       <word id="8"
             form="γυνή"
@@ -45555,7 +45555,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Seven: s-485 w-11"/>
       <word id="12"
             form="τῷδε"
@@ -45576,7 +45576,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Seven: s-485 w-14"/>
       <word id="15"
             form="κόλπῳ"
@@ -45637,7 +45637,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Seven: s-486 w-3"/>
       <word id="4"
             form="μη"
@@ -46003,7 +46003,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Seven: s-493 w-5"/>
       <word id="6"
             form="σὺ"
@@ -46104,7 +46104,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Seven: s-495 w-2"/>
       <word id="3"
             form="πρίν"
@@ -46416,7 +46416,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-501 w-4"/>
       <word id="5"
             form="ἀπεννέπω"
@@ -46524,7 +46524,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-503 w-7"/>
       <word id="8"
             form="αἵτ᾽"
@@ -46573,7 +46573,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Seven: s-503 w-14"/>
       <word id="15"
             form="τί"
@@ -47269,7 +47269,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Seven: s-514 w-5"/>
       <word id="6"
             form="ὥσπερ"

@@ -87,7 +87,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-1 w-11"/>
       <word id="12"
             form="καὶ"
@@ -143,7 +143,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Aeschylus Persians: s-1 w-19"/>
       <word id="20"
             form="κατὰ"
@@ -384,7 +384,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-3 w-6"/>
       <word id="7"
             form="νέον"
@@ -419,7 +419,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-3 w-11"/>
       <word id="12"
             form="κοὔτε"
@@ -599,7 +599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-4 w-13"/>
       <word id="14"
             form="τοὶ"
@@ -669,7 +669,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-4 w-23"/>
       <word id="24"
             form="πεζοί"
@@ -825,7 +825,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Persians: s-5 w-12"/>
       <word id="13"
             form="βασιλῆς"
@@ -860,7 +860,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Persians: s-5 w-17"/>
       <word id="18"
             form="σοῦνται"
@@ -874,7 +874,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Persians: s-5 w-19"/>
       <word id="20"
             form="στρατιᾶς"
@@ -902,7 +902,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Persians: s-5 w-23"/>
       <word id="24"
             form="τοξοδάμαντές"
@@ -916,7 +916,7 @@
             lemma="τε1"
             postag="d--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite="urn:cts:greekLit:tlg0085.tlg002:26 Aeschylus Persians: s-5 w-25"/>
       <word id="26"
             form="ἠδ᾽"
@@ -937,7 +937,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Aeschylus Persians: s-5 w-28"/>
       <word id="29"
             form="φοβεροὶ"
@@ -965,7 +965,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Aeschylus Persians: s-5 w-32"/>
       <word id="33"
             form="δεινοὶ"
@@ -1061,7 +1061,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-6 w-6"/>
       <word id="7"
             form="ὅ"
@@ -1103,7 +1103,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-6 w-12"/>
       <word id="13"
             form="Φαρανδάκης"
@@ -1124,7 +1124,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-6 w-15"/>
       <word id="16"
             form="ἵππων"
@@ -1255,7 +1255,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Persians: s-8 w-2"/>
       <word id="3"
             form="Πηγασταγὼν"
@@ -1276,7 +1276,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Persians: s-8 w-5"/>
       <word id="6"
             form="ὅ"
@@ -1339,7 +1339,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Persians: s-8 w-14"/>
       <word id="15"
             form="τάς"
@@ -1353,7 +1353,7 @@
             lemma="τε1"
             postag="d--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite="urn:cts:greekLit:tlg0085.tlg002:37 Aeschylus Persians: s-8 w-16"/>
       <word id="17"
             form="ὠγυγίους"
@@ -1388,7 +1388,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Persians: s-8 w-21"/>
       <word id="22"
             form="καὶ"
@@ -1507,7 +1507,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-9 w-6"/>
       <word id="7"
             form="οἵ"
@@ -1556,7 +1556,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-9 w-13"/>
       <word id="14"
             form="τοὺς"
@@ -1619,7 +1619,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Persians: s-9 w-22"/>
       <word id="23"
             form="καὶ"
@@ -1675,7 +1675,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="36"
+            head="0"
             cite=" Aeschylus Persians: s-9 w-30"/>
       <word id="31"
             form="δίρρυμά"
@@ -1820,7 +1820,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-10 w-10"/>
       <word id="11"
             form="Μάρδων"
@@ -1869,7 +1869,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-10 w-17"/>
       <word id="18"
             form="καὶ"
@@ -1965,7 +1965,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-11 w-9"/>
       <word id="10"
             form="ναῶν"
@@ -2171,7 +2171,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-13 w-7"/>
       <word id="8"
             form="οὓς"
@@ -2407,7 +2407,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Persians: s-14 w-14"/>
       <word id="15"
             form="λινοδέσμῳ"
@@ -2470,7 +2470,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Persians: s-14 w-23"/>
       <word id="24"
             form="πολύγομφον"
@@ -2671,7 +2671,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Persians: s-15 w-21"/>
       <word id="22"
             form="ἐχυροῖσι"
@@ -3199,7 +3199,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-19 w-10"/>
       <word id="11"
             form="ἐπέσκηψε"
@@ -3386,7 +3386,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-20 w-13"/>
       <word id="14"
             form="πίσυνοι"
@@ -3662,7 +3662,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-23 w-8"/>
       <word id="9"
             form="τόθεν"
@@ -3772,7 +3772,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-24 w-7"/>
       <word id="8"
             form="ὀᾶ"
@@ -3786,7 +3786,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-24 w-9"/>
       <word id="10"
             form="Περσικοῦ"
@@ -3814,7 +3814,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-24 w-13"/>
       <word id="14"
             form="μὴ"
@@ -3931,7 +3931,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-25 w-7"/>
       <word id="8"
             form="ὀᾶ"
@@ -4001,7 +4001,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-25 w-17"/>
       <word id="18"
             form="βυσσίνοις"
@@ -4176,7 +4176,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Persians: s-26 w-16"/>
       <word id="17"
             form="τὸν"
@@ -4468,7 +4468,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-29 w-3"/>
       <word id="4"
             form="Πέρσαι"
@@ -4482,7 +4482,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-29 w-5"/>
       <word id="6"
             form="τόδ᾽"
@@ -4517,7 +4517,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-29 w-10"/>
       <word id="11"
             form="φροντίδα"
@@ -4587,7 +4587,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-29 w-20"/>
       <word id="21"
             form="πῶς"
@@ -4844,7 +4844,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-31 w-10"/>
       <word id="11"
             form="βασίλεια"
@@ -5015,7 +5015,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-34 w-6"/>
       <word id="7"
             form="μῆτερ"
@@ -5050,7 +5050,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-34 w-11"/>
       <word id="12"
             form="χαῖρε"
@@ -5125,7 +5125,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-35 w-5"/>
       <word id="6"
             form="θεοῦ"
@@ -5167,7 +5167,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-35 w-11"/>
       <word id="12"
             form="εἴ"
@@ -5448,7 +5448,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-38 w-10"/>
       <word id="11"
             form="φίλοι"
@@ -5462,7 +5462,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-38 w-12"/>
       <word id="13"
             form="μὴ"
@@ -5525,7 +5525,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Persians: s-38 w-21"/>
       <word id="22"
             form="ὃν"
@@ -5810,7 +5810,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-40 w-6"/>
       <word id="7"
             form="ἀμφὶ"
@@ -5962,7 +5962,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-42 w-7"/>
       <word id="8"
             form="σύμβουλοι"
@@ -6004,7 +6004,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-42 w-13"/>
       <word id="14"
             form="Πέρσαι"
@@ -6388,7 +6388,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-46 w-7"/>
       <word id="8"
             form="ἀφ᾽"
@@ -6685,7 +6685,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-49 w-12"/>
       <word id="13"
             form="ἡ"
@@ -6720,7 +6720,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-49 w-17"/>
       <word id="18"
             form="εἰς"
@@ -6748,7 +6748,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Aeschylus Persians: s-49 w-21"/>
       <word id="22"
             form="μεγέθει"
@@ -6797,7 +6797,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Aeschylus Persians: s-49 w-28"/>
       <word id="29"
             form="κάλλει"
@@ -6944,7 +6944,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-50 w-10"/>
       <word id="11"
             form="ἡ"
@@ -7023,7 +7023,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-51 w-4"/>
       <word id="5"
             form="ὡς"
@@ -7065,7 +7065,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-51 w-10"/>
       <word id="11"
             form="τεύχειν"
@@ -7147,7 +7147,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-52 w-7"/>
       <word id="8"
             form="ἅρμασιν"
@@ -7313,7 +7313,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-53 w-12"/>
       <word id="13"
             form="ἡ"
@@ -7341,7 +7341,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Persians: s-53 w-16"/>
       <word id="17"
             form="καὶ"
@@ -7582,7 +7582,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-55 w-6"/>
       <word id="7"
             form="πέπλους"
@@ -7746,7 +7746,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-57 w-9"/>
       <word id="10"
             form="σὺν"
@@ -7788,7 +7788,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-57 w-15"/>
       <word id="16"
             form="ἀποτρόποισι"
@@ -7830,7 +7830,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-57 w-21"/>
       <word id="22"
             form="ὧν"
@@ -7968,7 +7968,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-59 w-5"/>
       <word id="6"
             form="φίλοι"
@@ -8195,7 +8195,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-62 w-5"/>
       <word id="6"
             form="ὑμῖν"
@@ -8335,7 +8335,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Persians: s-63 w-14"/>
       <word id="15"
             form="κακῶς"
@@ -8363,7 +8363,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-63 w-18"/>
       <word id="19"
             form="οὐχ"
@@ -8391,7 +8391,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Persians: s-63 w-22"/>
       <word id="23"
             form="σωθεὶς"
@@ -8482,7 +8482,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-64 w-4"/>
       <word id="5"
             form="μῆτερ"
@@ -8496,7 +8496,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-64 w-6"/>
       <word id="7"
             form="οὔ"
@@ -8599,7 +8599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-65 w-5"/>
       <word id="6"
             form="εἴ"
@@ -8634,7 +8634,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-65 w-10"/>
       <word id="11"
             form="αἰτοῦ"
@@ -8924,7 +8924,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-67 w-9"/>
       <word id="10"
             form="ὅνπερ"
@@ -8966,7 +8966,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-67 w-15"/>
       <word id="16"
             form="ἐσθλά"
@@ -9404,7 +9404,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-72 w-3"/>
       <word id="4"
             form="ὡς"
@@ -9425,7 +9425,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-72 w-6"/>
       <word id="7"
             form="πάντα"
@@ -9488,7 +9488,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-72 w-15"/>
       <word id="16"
             form="εὖτ᾽"
@@ -9570,7 +9570,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-73 w-5"/>
       <word id="6"
             form="ὦ"
@@ -9919,7 +9919,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-78 w-4"/>
       <word id="5"
             form="ἔρξας"
@@ -10913,7 +10913,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-92 w-14"/>
       <word id="15"
             form="ὡς"
@@ -10969,7 +10969,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-92 w-22"/>
       <word id="23"
             form="τὸ"
@@ -11037,7 +11037,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-93 w-2"/>
       <word id="3"
             form="κακὸν"
@@ -11142,7 +11142,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-94 w-7"/>
       <word id="8"
             form="Πέρσαι"
@@ -11294,7 +11294,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-97 w-2"/>
       <word id="3"
             form="διαίνεσθε"
@@ -11308,7 +11308,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-97 w-4"/>
       <word id="5"
             form="Πέρσαι"
@@ -11322,7 +11322,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-97 w-6"/>
       <word id="7"
             form="τόδ᾽"
@@ -11535,7 +11535,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-100 w-9"/>
       <word id="10"
             form="ἀκούειν"
@@ -11638,7 +11638,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-101 w-9"/>
       <word id="10"
             form="Πέρσαι"
@@ -11652,7 +11652,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-101 w-11"/>
       <word id="12"
             form="φράσαιμ᾽"
@@ -11713,7 +11713,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-102 w-2"/>
       <word id="3"
             form="μάταν"
@@ -11926,7 +11926,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-104 w-2"/>
       <word id="3"
             form="φίλων"
@@ -12160,7 +12160,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-106 w-7"/>
       <word id="8"
             form="ὡς"
@@ -12328,7 +12328,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-109 w-2"/>
       <word id="3"
             form="τῶν"
@@ -12768,7 +12768,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-115 w-7"/>
       <word id="8"
             form="κεἰ"
@@ -12836,7 +12836,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-116 w-4"/>
       <word id="5"
             form="τίνα"
@@ -12885,7 +12885,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-116 w-11"/>
       <word id="12"
             form="ὅστ᾽"
@@ -13388,7 +13388,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-122 w-2"/>
       <word id="3"
             form="Ἀρσάμης"
@@ -13720,7 +13720,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-124 w-10"/>
       <word id="11"
             form="πυρρὰν"
@@ -13762,7 +13762,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-124 w-16"/>
       <word id="17"
             form="ἀμείβων"
@@ -13830,7 +13830,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-125 w-4"/>
       <word id="5"
             form="Ἀρτάβης"
@@ -13858,7 +13858,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-125 w-8"/>
       <word id="9"
             form="σκληρᾶς"
@@ -13886,7 +13886,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-125 w-12"/>
       <word id="13"
             form="ἐκεῖ"
@@ -13961,7 +13961,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-126 w-7"/>
       <word id="8"
             form="ὅ"
@@ -14052,7 +14052,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Persians: s-126 w-20"/>
       <word id="21"
             form="Θάρυβίς"
@@ -14101,7 +14101,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Persians: s-126 w-27"/>
       <word id="28"
             form="γένος"
@@ -14143,7 +14143,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Persians: s-126 w-33"/>
       <word id="34"
             form="κεῖται"
@@ -14248,7 +14248,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-127 w-6"/>
       <word id="7"
             form="Κιλίκων"
@@ -14452,7 +14452,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-130 w-2"/>
       <word id="3"
             form="κακῶν"
@@ -14651,7 +14651,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-132 w-7"/>
       <word id="8"
             form="ὥστ᾽"
@@ -14885,7 +14885,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-134 w-13"/>
       <word id="14"
             form="δεκὰς"
@@ -14960,7 +14960,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-135 w-3"/>
       <word id="4"
             form="καὶ"
@@ -14988,7 +14988,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-135 w-7"/>
       <word id="8"
             form="χιλιὰς"
@@ -15037,7 +15037,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-135 w-14"/>
       <word id="15"
             form="αἱ"
@@ -15248,7 +15248,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-138 w-7"/>
       <word id="8"
             form="τάλαντα"
@@ -15499,7 +15499,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-142 w-7"/>
       <word id="8"
             form="φράσον"
@@ -15560,7 +15560,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-143 w-6"/>
       <word id="7"
             form="μάχης"
@@ -15574,7 +15574,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-143 w-8"/>
       <word id="9"
             form="ἢ"
@@ -15602,7 +15602,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-143 w-12"/>
       <word id="13"
             form="πλήθει"
@@ -15901,7 +15901,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-145 w-20"/>
       <word id="21"
             form="Ἕλληνες"
@@ -15929,7 +15929,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-145 w-24"/>
       <word id="25"
             form="ἀλλὰ"
@@ -16053,7 +16053,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-146 w-6"/>
       <word id="7"
             form="οὐ"
@@ -16130,7 +16130,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-146 w-17"/>
       <word id="18"
             form="πᾶσιν"
@@ -16228,7 +16228,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Aeschylus Persians: s-146 w-31"/>
       <word id="32"
             form="κνέφας"
@@ -16270,7 +16270,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Persians: s-146 w-37"/>
       <word id="38"
             form="τάξαι"
@@ -16361,7 +16361,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="52"
+            head="0"
             cite=" Aeschylus Persians: s-146 w-50"/>
       <word id="51"
             form="ἄλλας"
@@ -16473,7 +16473,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-147 w-7"/>
       <word id="8"
             form="ναυσὶν"
@@ -16515,7 +16515,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-147 w-13"/>
       <word id="14"
             form="πᾶσιν"
@@ -16712,7 +16712,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-150 w-5"/>
       <word id="6"
             form="ἀλλὰ"
@@ -16761,7 +16761,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-150 w-12"/>
       <word id="13"
             form="ναυβάτης"
@@ -16892,7 +16892,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-151 w-9"/>
       <word id="10"
             form="πᾶς"
@@ -17084,7 +17084,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-153 w-7"/>
       <word id="8"
             form="καὶ"
@@ -17194,7 +17194,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-154 w-4"/>
       <word id="5"
             form="κοὐ"
@@ -17339,7 +17339,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-155 w-11"/>
       <word id="12"
             form="πρῶτον"
@@ -17402,7 +17402,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Persians: s-155 w-20"/>
       <word id="21"
             form="ὄρθιον"
@@ -17594,7 +17594,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-157 w-10"/>
       <word id="11"
             form="ἀλλ᾽"
@@ -17779,7 +17779,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-159 w-11"/>
       <word id="12"
             form="θοῶς"
@@ -17896,7 +17896,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-160 w-9"/>
       <word id="10"
             form="δεύτερον"
@@ -17945,7 +17945,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-160 w-16"/>
       <word id="17"
             form="καὶ"
@@ -18036,7 +18036,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Aeschylus Persians: s-160 w-29"/>
       <word id="30"
             form="ἐλευθεροῦτε"
@@ -18057,7 +18057,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Aeschylus Persians: s-160 w-32"/>
       <word id="33"
             form="ἐλευθεροῦτε"
@@ -18085,7 +18085,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Aeschylus Persians: s-160 w-36"/>
       <word id="37"
             form="γυναῖκας"
@@ -18099,7 +18099,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Aeschylus Persians: s-160 w-38"/>
       <word id="39"
             form="θεῶν"
@@ -18134,7 +18134,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="45"
+            head="0"
             cite=" Aeschylus Persians: s-160 w-43"/>
       <word id="44"
             form="θήκας"
@@ -18279,7 +18279,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-162 w-9"/>
       <word id="10"
             form="κοὐκέτ᾽"
@@ -18429,7 +18429,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-164 w-6"/>
       <word id="7"
             form="κἀποθραύει"
@@ -18471,7 +18471,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-164 w-12"/>
       <word id="13"
             form="ἐπ᾽"
@@ -18684,7 +18684,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-166 w-13"/>
       <word id="14"
             form="αὐτοὶ"
@@ -18740,7 +18740,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-166 w-21"/>
       <word id="22"
             form="ἔθραυον"
@@ -18775,7 +18775,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="42"
+            head="0"
             cite=" Aeschylus Persians: s-166 w-26"/>
       <word id="27"
             form="Ἑλληνικαί"
@@ -18838,7 +18838,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="42"
+            head="0"
             cite=" Aeschylus Persians: s-166 w-35"/>
       <word id="36"
             form="ὑπτιοῦτο"
@@ -18873,7 +18873,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="44"
+            head="0"
             cite=" Aeschylus Persians: s-166 w-40"/>
       <word id="41"
             form="θάλασσα"
@@ -18915,7 +18915,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="48"
+            head="0"
             cite=" Aeschylus Persians: s-166 w-46"/>
       <word id="47"
             form="ναυαγίων"
@@ -19011,7 +19011,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-167 w-7"/>
       <word id="8"
             form="φυγῇ"
@@ -19060,7 +19060,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-167 w-14"/>
       <word id="15"
             form="ὅσαιπερ"
@@ -19289,7 +19289,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-169 w-8"/>
       <word id="9"
             form="ἕως"
@@ -19364,7 +19364,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-170 w-4"/>
       <word id="5"
             form="οὐ"
@@ -19420,7 +19420,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-170 w-12"/>
       <word id="13"
             form="οὐκ"
@@ -19570,7 +19570,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-172 w-2"/>
       <word id="3"
             form="κακῶν"
@@ -20036,7 +20036,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-177 w-6"/>
       <word id="7"
             form="ψυχήν"
@@ -20078,7 +20078,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-177 w-12"/>
       <word id="13"
             form="αὐτῷ"
@@ -20134,7 +20134,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-177 w-20"/>
       <word id="21"
             form="τεθνᾶσιν"
@@ -20232,7 +20232,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-178 w-7"/>
       <word id="8"
             form="φίλοι"
@@ -20363,7 +20363,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-180 w-7"/>
       <word id="8"
             form="βαιά"
@@ -20377,7 +20377,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-180 w-9"/>
       <word id="10"
             form="δύσορμος"
@@ -20398,7 +20398,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-180 w-12"/>
       <word id="13"
             form="ἣν"
@@ -20501,7 +20501,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-181 w-4"/>
       <word id="5"
             form="ὅπως"
@@ -20515,7 +20515,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-181 w-6"/>
       <word id="7"
             form="ὅταν"
@@ -20564,7 +20564,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-181 w-13"/>
       <word id="14"
             form="κτείνοιεν"
@@ -20599,7 +20599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Persians: s-181 w-18"/>
       <word id="19"
             form="φίλους"
@@ -20641,7 +20641,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="28"
+            head="0"
             cite=" Aeschylus Persians: s-181 w-24"/>
       <word id="25"
             form="κακῶς"
@@ -20744,7 +20744,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-182 w-9"/>
       <word id="10"
             form="αὐθημερὸν"
@@ -20847,7 +20847,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-183 w-6"/>
       <word id="7"
             form="ὥστ᾽"
@@ -20943,7 +20943,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-184 w-8"/>
       <word id="9"
             form="τοξικῆς"
@@ -21088,7 +21088,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-185 w-12"/>
       <word id="13"
             form="ἕως"
@@ -21320,7 +21320,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-188 w-6"/>
       <word id="7"
             form="πεζῷ"
@@ -21355,7 +21355,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-188 w-11"/>
       <word id="12"
             form="ἵησ᾽"
@@ -21500,7 +21500,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-190 w-4"/>
       <word id="5"
             form="ὡς"
@@ -21610,7 +21610,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-191 w-9"/>
       <word id="10"
             form="κοὐκ"
@@ -21781,7 +21781,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-193 w-4"/>
       <word id="5"
             form="ναῶν"
@@ -21816,7 +21816,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-193 w-9"/>
       <word id="10"
             form="ποῦ"
@@ -22048,7 +22048,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Persians: s-196 w-10"/>
       <word id="11"
             form="οἱ"
@@ -22104,7 +22104,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Persians: s-196 w-18"/>
       <word id="19"
             form="οἱ"
@@ -22202,7 +22202,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Aeschylus Persians: s-196 w-32"/>
       <word id="33"
             form="Μηλιᾶ"
@@ -22230,7 +22230,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="39"
+            head="0"
             cite=" Aeschylus Persians: s-196 w-36"/>
       <word id="37"
             form="οὗ"
@@ -22588,7 +22588,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Persians: s-200 w-13"/>
       <word id="14"
             form="Βόλβης"
@@ -22623,7 +22623,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Persians: s-200 w-18"/>
       <word id="19"
             form="Πάγγαιόν"
@@ -22740,7 +22740,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-201 w-9"/>
       <word id="10"
             form="πήγνυσιν"
@@ -22871,7 +22871,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-202 w-11"/>
       <word id="12"
             form="γαῖαν"
@@ -22960,7 +22960,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-203 w-7"/>
       <word id="8"
             form="περᾷ"
@@ -23063,7 +23063,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-204 w-9"/>
       <word id="10"
             form="σεσωσμένος"
@@ -23159,7 +23159,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-205 w-10"/>
       <word id="11"
             form="θερμαίνων"
@@ -23335,7 +23335,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-208 w-6"/>
       <word id="7"
             form="Θρῄκην"
@@ -23377,7 +23377,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-208 w-12"/>
       <word id="13"
             form="ἥκουσιν"
@@ -23398,7 +23398,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-208 w-15"/>
       <word id="16"
             form="οὐ"
@@ -23426,7 +23426,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-208 w-19"/>
       <word id="20"
             form="ἐφ᾽"
@@ -23494,7 +23494,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-209 w-5"/>
       <word id="6"
             form="ποθοῦσαν"
@@ -23679,7 +23679,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-212 w-4"/>
       <word id="5"
             form="ὡς"
@@ -23852,7 +23852,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-214 w-6"/>
       <word id="7"
             form="ὡς"
@@ -23981,7 +23981,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-216 w-3"/>
       <word id="4"
             form="ἐπειδὴ"
@@ -24023,7 +24023,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-216 w-9"/>
       <word id="10"
             form="θεοῖς"
@@ -24161,7 +24161,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-217 w-13"/>
       <word id="14"
             form="-"
@@ -24210,7 +24210,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Persians: s-217 w-20"/>
       <word id="21"
             form="ἀλλ᾽"
@@ -24411,7 +24411,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-219 w-3"/>
       <word id="4"
             form="ἐάν"
@@ -24460,7 +24460,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-219 w-10"/>
       <word id="11"
             form="παρηγορεῖτε"
@@ -24509,7 +24509,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-219 w-17"/>
       <word id="18"
             form="μὴ"
@@ -24598,7 +24598,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Persians: s-220 w-4"/>
       <word id="5"
             form="νῦν"
@@ -24815,7 +24815,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-221 w-11"/>
       <word id="12"
             form="ἄλγους"
@@ -24904,7 +24904,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-222 w-9"/>
       <word id="10"
             form="λέκτρων"
@@ -24960,7 +24960,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-222 w-17"/>
       <word id="18"
             form="ἀφεῖσαι"
@@ -24974,7 +24974,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-222 w-19"/>
       <word id="20"
             form="πενθοῦσι"
@@ -25178,7 +25178,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-225 w-4"/>
       <word id="5"
             form="ποποῖ"
@@ -25192,7 +25192,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-225 w-6"/>
       <word id="7"
             form="Ξέρξης"
@@ -25220,7 +25220,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-225 w-10"/>
       <word id="11"
             form="τοτοῖ"
@@ -25234,7 +25234,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-225 w-12"/>
       <word id="13"
             form="Ξέρξης"
@@ -25489,7 +25489,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-227 w-11"/>
       <word id="12"
             form="ποποῖ"
@@ -25503,7 +25503,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-227 w-13"/>
       <word id="14"
             form="νᾶες"
@@ -25531,7 +25531,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-227 w-17"/>
       <word id="18"
             form="τοτοῖ"
@@ -25545,7 +25545,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-227 w-19"/>
       <word id="20"
             form="νᾶες"
@@ -25573,7 +25573,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-227 w-23"/>
       <word id="24"
             form="αἵ"
@@ -25744,7 +25744,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-229 w-5"/>
       <word id="6"
             form="φεῦ"
@@ -25758,7 +25758,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-229 w-7"/>
       <word id="8"
             form="λειφθέντες"
@@ -25786,7 +25786,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-229 w-11"/>
       <word id="12"
             form="ἠέ"
@@ -25800,7 +25800,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-229 w-13"/>
       <word id="14"
             form="ἀκτὰς"
@@ -25828,7 +25828,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-229 w-17"/>
       <word id="18"
             form="ὀᾶ"
@@ -25842,7 +25842,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-229 w-19"/>
       <word id="20"
             form="σύρονται"
@@ -25903,7 +25903,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-230 w-6"/>
       <word id="7"
             form="βαρὺ"
@@ -25945,7 +25945,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-230 w-12"/>
       <word id="13"
             form="ὀᾶ"
@@ -26046,7 +26046,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-232 w-4"/>
       <word id="5"
             form="φεῦ"
@@ -26060,7 +26060,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-232 w-6"/>
       <word id="7"
             form="σκύλλονται"
@@ -26088,7 +26088,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-232 w-10"/>
       <word id="11"
             form="ἠέ"
@@ -26102,7 +26102,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-232 w-12"/>
       <word id="13"
             form="παίδων"
@@ -26130,7 +26130,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-232 w-16"/>
       <word id="17"
             form="ὀᾶ"
@@ -26240,7 +26240,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-233 w-13"/>
       <word id="14"
             form="ὀᾶ"
@@ -26254,7 +26254,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-233 w-15"/>
       <word id="16"
             form="δυρόμενοι"
@@ -26378,7 +26378,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-234 w-9"/>
       <word id="10"
             form="οὐ"
@@ -26427,7 +26427,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-234 w-16"/>
       <word id="17"
             form="οὐ"
@@ -26633,7 +26633,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-237 w-6"/>
       <word id="7"
             form="ὡς"
@@ -26762,7 +26762,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-239 w-2"/>
       <word id="3"
             form="κακῶν"
@@ -26804,7 +26804,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-239 w-8"/>
       <word id="9"
             form="ἐπίσταται"
@@ -26928,7 +26928,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-240 w-6"/>
       <word id="7"
             form="πεποιθέναι"
@@ -27302,7 +27302,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="20"
+            head="0"
             cite=" Aeschylus Persians: s-243 w-15"/>
       <word id="16"
             form="παιδὸς"
@@ -27344,7 +27344,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="22"
+            head="0"
             cite=" Aeschylus Persians: s-243 w-21"/>
       <word id="22"
             form="ἅπερ"
@@ -27428,7 +27428,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Aeschylus Persians: s-243 w-33"/>
       <word id="34"
             form="τῆς"
@@ -27484,7 +27484,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="49"
+            head="0"
             cite=" Aeschylus Persians: s-243 w-41"/>
       <word id="42"
             form="λιβάσιν"
@@ -27526,7 +27526,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="46"
+            head="0"
             cite=" Aeschylus Persians: s-243 w-47"/>
       <word id="48"
             form="ἀκήρατόν"
@@ -27708,7 +27708,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-244 w-13"/>
       <word id="14"
             form="ἄνθη"
@@ -27778,7 +27778,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-244 w-23"/>
       <word id="24"
             form="ὦ"
@@ -27799,7 +27799,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-244 w-26"/>
       <word id="27"
             form="χοαῖσι"
@@ -27841,7 +27841,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="34"
+            head="0"
             cite=" Aeschylus Persians: s-244 w-32"/>
       <word id="33"
             form="τόν"
@@ -27883,7 +27883,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="40"
+            head="0"
             cite=" Aeschylus Persians: s-244 w-38"/>
       <word id="39"
             form="γαπότους"
@@ -27993,7 +27993,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-245 w-6"/>
       <word id="7"
             form="σύ"
@@ -28049,7 +28049,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-245 w-14"/>
       <word id="15"
             form="ἡμεῖς"
@@ -28145,7 +28145,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-246 w-2"/>
       <word id="3"
             form="χθόνιοι"
@@ -28208,7 +28208,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-246 w-11"/>
       <word id="12"
             form="βασιλεῦ"
@@ -28236,7 +28236,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-246 w-15"/>
       <word id="16"
             form="πέμψατ᾽"
@@ -28339,7 +28339,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-247 w-8"/>
       <word id="9"
             form="μόνος"
@@ -28512,7 +28512,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Persians: s-248 w-18"/>
       <word id="19"
             form="ἢ"
@@ -28966,7 +28966,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-254 w-7"/>
       <word id="8"
             form="Ἀιδωνεύς"
@@ -28980,7 +28980,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-254 w-9"/>
       <word id="10"
             form="θεῖον"
@@ -29104,7 +29104,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-256 w-9"/>
       <word id="10"
             form="θεομήστωρ"
@@ -29153,7 +29153,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-256 w-16"/>
       <word id="17"
             form="θεομήστωρ"
@@ -29181,7 +29181,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Persians: s-256 w-20"/>
       <word id="21"
             form="ἐπεὶ"
@@ -29263,7 +29263,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-258 w-2"/>
       <word id="3"
             form="ἀρχαῖος"
@@ -29284,7 +29284,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-258 w-5"/>
       <word id="6"
             form="ἴθι"
@@ -29359,7 +29359,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-259 w-6"/>
       <word id="7"
             form="κροκόβαπτον"
@@ -29394,7 +29394,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-259 w-11"/>
       <word id="12"
             form="βασιλείου"
@@ -29469,7 +29469,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-260 w-5"/>
       <word id="6"
             form="οἶ"
@@ -29537,7 +29537,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-261 w-7"/>
       <word id="8"
             form="δέσποτα"
@@ -29713,7 +29713,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-264 w-5"/>
       <word id="6"
             form="οἶ"
@@ -29802,7 +29802,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Persians: s-266 w-5"/>
       <word id="6"
             form="?"
@@ -30052,7 +30052,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-268 w-10"/>
       <word id="11"
             form="τίνα"
@@ -30106,7 +30106,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-269 w-2"/>
       <word id="3"
             form="κέκοπται"
@@ -30120,7 +30120,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-269 w-4"/>
       <word id="5"
             form="καὶ"
@@ -30216,7 +30216,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-270 w-9"/>
       <word id="10"
             form="χοὰς"
@@ -30394,7 +30394,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-272 w-5"/>
       <word id="6"
             form="ἄλλως"
@@ -30689,7 +30689,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-276 w-4"/>
       <word id="5"
             form="σέβομαι"
@@ -30813,7 +30813,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Persians: s-277 w-8"/>
       <word id="9"
             form="μή"
@@ -30848,7 +30848,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-277 w-13"/>
       <word id="14"
             form="ἀλλὰ"
@@ -30904,7 +30904,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-277 w-21"/>
       <word id="22"
             form="τὴν"
@@ -30972,7 +30972,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-278 w-4"/>
       <word id="5"
             form="δίεμαι"
@@ -31007,7 +31007,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-278 w-9"/>
       <word id="10"
             form="λέξας"
@@ -31096,7 +31096,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Persians: s-279 w-8"/>
       <word id="9"
             form="τῶν"
@@ -31337,7 +31337,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-281 w-6"/>
       <word id="7"
             form="πολλὰ"
@@ -31393,7 +31393,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-281 w-14"/>
       <word id="15"
             form="ὁ"
@@ -31626,7 +31626,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Persians: s-282 w-22"/>
       <word id="23"
             form="νῦν"
@@ -31668,7 +31668,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="29"
+            head="0"
             cite=" Aeschylus Persians: s-282 w-28"/>
       <word id="29"
             form="πρὶν"
@@ -31729,7 +31729,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-283 w-3"/>
       <word id="4"
             form="Δαρεῖ᾽"
@@ -31818,7 +31818,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-284 w-5"/>
       <word id="6"
             form="ὡς"
@@ -32123,7 +32123,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-291 w-3"/>
       <word id="4"
             form="κενώσας"
@@ -32418,7 +32418,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-296 w-5"/>
       <word id="6"
             form="ὥστ᾽"
@@ -32479,7 +32479,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-297 w-4"/>
       <word id="5"
             form="ὥστε"
@@ -32613,7 +32613,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-300 w-2"/>
       <word id="3"
             form="μέγας"
@@ -33123,7 +33123,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-307 w-6"/>
       <word id="7"
             form="οὐ"
@@ -33193,7 +33193,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Persians: s-308 w-3"/>
       <word id="4"
             form="οἵαν"
@@ -33590,7 +33590,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-314 w-6"/>
       <word id="7"
             form="οὐ"
@@ -33644,7 +33644,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-315 w-2"/>
       <word id="3"
             form="ταχεῖά"
@@ -33686,7 +33686,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-315 w-8"/>
       <word id="9"
             form="ἐς"
@@ -33878,7 +33878,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Persians: s-317 w-6"/>
       <word id="7"
             form="χὠ"
@@ -34117,7 +34117,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-320 w-10"/>
       <word id="11"
             form="Βόσπορον"
@@ -34187,7 +34187,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-321 w-4"/>
       <word id="5"
             form="καὶ"
@@ -34306,14 +34306,14 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Persians: s-321 w-21"/>
       <word id="22"
             form="οὐκ"
             lemma="οὐ1"
             postag="d--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite="urn:cts:greekLit:tlg0085.tlg002:749 Aeschylus Persians: s-321 w-22"/>
       <word id="23"
             form="εὐβουλίᾳ"
@@ -34327,7 +34327,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Persians: s-321 w-24"/>
       <word id="25"
             form="καὶ"
@@ -34669,7 +34669,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-325 w-12"/>
       <word id="13"
             form="τὸν"
@@ -34718,7 +34718,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="21"
+            head="0"
             cite=" Aeschylus Persians: s-325 w-19"/>
       <word id="20"
             form="πατρῷον"
@@ -34924,7 +34924,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-327 w-7"/>
       <word id="8"
             form="ἀείμνηστον"
@@ -34994,7 +34994,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="24"
+            head="0"
             cite=" Aeschylus Persians: s-327 w-17"/>
       <word id="18"
             form="ἐξ"
@@ -35099,7 +35099,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="33"
+            head="0"
             cite=" Aeschylus Persians: s-327 w-32"/>
       <word id="33"
             form="ἔχοντα"
@@ -35364,7 +35364,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-331 w-9"/>
       <word id="10"
             form="ἄρξας"
@@ -35460,7 +35460,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-332 w-7"/>
       <word id="8"
             form="Ἰωνίαν"
@@ -35551,7 +35551,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-333 w-5"/>
       <word id="6"
             form="ὡς"
@@ -35790,7 +35790,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-336 w-10"/>
       <word id="11"
             form="ξὺν"
@@ -35818,7 +35818,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-336 w-14"/>
       <word id="15"
             form="οἷς"
@@ -35886,7 +35886,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-337 w-4"/>
       <word id="5"
             form="ἕβδομος"
@@ -36120,7 +36120,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-340 w-9"/>
       <word id="10"
             form="κοὐ"
@@ -36209,7 +36209,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-341 w-6"/>
       <word id="7"
             form="ἐμοὶ"
@@ -36251,7 +36251,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-341 w-12"/>
       <word id="13"
             form="οἳ"
@@ -36286,7 +36286,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-341 w-17"/>
       <word id="18"
             form="οὐκ"
@@ -36361,7 +36361,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-342 w-3"/>
       <word id="4"
             form="ἄναξ"
@@ -36569,7 +36569,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-344 w-8"/>
       <word id="9"
             form="μη"
@@ -36728,7 +36728,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="7"
+            head="0"
             cite=" Aeschylus Persians: s-346 w-4"/>
       <word id="5"
             form="τίνι"
@@ -37124,7 +37124,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-352 w-4"/>
       <word id="5"
             form="εἴ"
@@ -37173,7 +37173,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-352 w-11"/>
       <word id="12"
             form="ἐς"
@@ -37271,7 +37271,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-353 w-6"/>
       <word id="7"
             form="τὰ"
@@ -37332,7 +37332,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-354 w-4"/>
       <word id="5"
             form="πλῆθος"
@@ -37709,7 +37709,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-358 w-4"/>
       <word id="5"
             form="δαιμόνων"
@@ -37828,7 +37828,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-359 w-7"/>
       <word id="8"
             form="τὰ"
@@ -37856,7 +37856,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-359 w-11"/>
       <word id="12"
             form="κοὐδέπω"
@@ -38195,7 +38195,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-362 w-7"/>
       <word id="8"
             form="ὅθεν"
@@ -38298,7 +38298,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="11"
+            head="0"
             cite=" Aeschylus Persians: s-363 w-9"/>
       <word id="10"
             form="μη"
@@ -38511,7 +38511,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-365 w-4"/>
       <word id="5"
             form="σωφρονεῖν"
@@ -38532,7 +38532,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-365 w-7"/>
       <word id="8"
             form="πινύσκετ᾽"
@@ -38560,7 +38560,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="8"
+            head="0"
             cite=" Aeschylus Persians: s-365 w-11"/>
       <word id="12"
             form="λῆξαι"
@@ -38670,7 +38670,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-366 w-10"/>
       <word id="11"
             form="ἐλθοῦσ᾽"
@@ -38918,7 +38918,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-369 w-3"/>
       <word id="4"
             form="οἶδα"
@@ -38932,7 +38932,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-369 w-5"/>
       <word id="6"
             form="σοῦ"
@@ -39061,7 +39061,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-371 w-5"/>
       <word id="6"
             form="χαίρετ᾽"
@@ -39075,7 +39075,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-371 w-7"/>
       <word id="8"
             form="ἐν"
@@ -39302,7 +39302,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="2"
+            head="0"
             cite=" Aeschylus Persians: s-373 w-3"/>
       <word id="4"
             form="ὥς"
@@ -39393,7 +39393,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Persians: s-373 w-16"/>
       <word id="17"
             form="ἀτιμίαν"
@@ -39449,7 +39449,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Persians: s-373 w-24"/>
       <word id="25"
             form="ἥ"
@@ -39503,7 +39503,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-374 w-3"/>
       <word id="4"
             form="καὶ"
@@ -39723,7 +39723,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-376 w-12"/>
       <word id="13"
             form="εὖθ᾽"
@@ -39868,7 +39868,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-377 w-8"/>
       <word id="9"
             form="ἠδὲ"
@@ -39910,7 +39910,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="16"
+            head="0"
             cite=" Aeschylus Persians: s-377 w-14"/>
       <word id="15"
             form="νόστοι"
@@ -40069,7 +40069,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-378 w-10"/>
       <word id="11"
             form="οὐ"
@@ -40111,7 +40111,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="23"
+            head="0"
             cite=" Aeschylus Persians: s-378 w-16"/>
       <word id="17"
             form="οἷαι"
@@ -40284,7 +40284,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-379 w-13"/>
       <word id="14"
             form="Ἕλλας"
@@ -40333,7 +40333,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-379 w-20"/>
       <word id="21"
             form="μυχία"
@@ -40361,7 +40361,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-379 w-24"/>
       <word id="25"
             form="καὶ"
@@ -40529,7 +40529,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Persians: s-380 w-18"/>
       <word id="19"
             form="Χίος"
@@ -40557,7 +40557,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Persians: s-380 w-22"/>
       <word id="23"
             form="Νάξος"
@@ -40571,7 +40571,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Persians: s-380 w-24"/>
       <word id="25"
             form="Μύκο"
@@ -40599,7 +40599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="30"
+            head="0"
             cite=" Aeschylus Persians: s-380 w-28"/>
       <word id="29"
             form="Τήνῳ"
@@ -40711,7 +40711,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-381 w-8"/>
       <word id="9"
             form="Ἰκάρου"
@@ -40739,7 +40739,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="18"
+            head="0"
             cite=" Aeschylus Persians: s-381 w-12"/>
       <word id="13"
             form="καὶ"
@@ -40809,7 +40809,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Persians: s-381 w-22"/>
       <word id="23"
             form="ἠδὲ"
@@ -40830,7 +40830,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="27"
+            head="0"
             cite=" Aeschylus Persians: s-381 w-25"/>
       <word id="26"
             form="Σαλαμῖνά"
@@ -41195,7 +41195,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-385 w-2"/>
       <word id="3"
             form="δύστηνος"
@@ -41251,7 +41251,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-385 w-10"/>
       <word id="11"
             form="ὡς"
@@ -41434,7 +41434,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-388 w-3"/>
       <word id="4"
             form="Ζεῦ"
@@ -41448,7 +41448,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-388 w-5"/>
       <word id="6"
             form="κἀμὲ"
@@ -41537,7 +41537,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-389 w-2"/>
       <word id="3"
             form="βασιλεῦ"
@@ -41551,7 +41551,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-389 w-4"/>
       <word id="5"
             form="στρατιᾶς"
@@ -41600,7 +41600,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="13"
+            head="0"
             cite=" Aeschylus Persians: s-389 w-11"/>
       <word id="12"
             form="κόσμου"
@@ -41628,7 +41628,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="19"
+            head="0"
             cite=" Aeschylus Persians: s-389 w-15"/>
       <word id="16"
             form="οὓς"
@@ -41801,7 +41801,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-391 w-5"/>
       <word id="6"
             form="χώρας"
@@ -41822,7 +41822,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-391 w-8"/>
       <word id="9"
             form="τοξοδάμαντες"
@@ -41878,7 +41878,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="17"
+            head="0"
             cite=" Aeschylus Persians: s-391 w-16"/>
       <word id="17"
             form="ἐξέφθινται"
@@ -41974,7 +41974,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-393 w-4"/>
       <word id="5"
             form="βασιλεῦ"
@@ -41995,7 +41995,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-393 w-7"/>
       <word id="8"
             form="αἰνῶς"
@@ -42063,7 +42063,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-394 w-3"/>
       <word id="4"
             form="οἰοῖ"
@@ -42077,7 +42077,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-394 w-5"/>
       <word id="6"
             form="αἰακτὸς"
@@ -42201,7 +42201,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-395 w-7"/>
       <word id="8"
             form="κακομέλετον"
@@ -42435,7 +42435,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-398 w-5"/>
       <word id="6"
             form="σὰ"
@@ -42491,7 +42491,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-398 w-13"/>
       <word id="14"
             form="πόλεως"
@@ -42599,7 +42599,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-400 w-4"/>
       <word id="5"
             form="Ἰάνων"
@@ -42777,7 +42777,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-402 w-7"/>
       <word id="8"
             form="ποῦ"
@@ -42812,7 +42812,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="14"
+            head="0"
             cite=" Aeschylus Persians: s-402 w-12"/>
       <word id="13"
             form="οἷος"
@@ -42840,7 +42840,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Persians: s-402 w-16"/>
       <word id="17"
             form="Σούσας"
@@ -42854,7 +42854,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Persians: s-402 w-18"/>
       <word id="19"
             form="Πελάγων"
@@ -42868,7 +42868,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Persians: s-402 w-20"/>
       <word id="21"
             form="[καὶ]"
@@ -42889,7 +42889,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Persians: s-402 w-23"/>
       <word id="24"
             form="ἠδ᾽"
@@ -42924,7 +42924,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Persians: s-402 w-28"/>
       <word id="29"
             form="Ψάμμις"
@@ -42938,7 +42938,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="32"
+            head="0"
             cite=" Aeschylus Persians: s-402 w-30"/>
       <word id="31"
             form="Σουσισκάνης"
@@ -43104,7 +43104,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="1"
+            head="0"
             cite=" Aeschylus Persians: s-404 w-2"/>
       <word id="3"
             form="βόα"
@@ -43172,7 +43172,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-405 w-7"/>
       <word id="8"
             form="ποῦ"
@@ -43207,7 +43207,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Persians: s-405 w-12"/>
       <word id="13"
             form="ἢ"
@@ -43235,7 +43235,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Persians: s-405 w-16"/>
       <word id="17"
             form="Μέμφις"
@@ -43249,7 +43249,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Persians: s-405 w-18"/>
       <word id="19"
             form="Θάρυβις"
@@ -43263,7 +43263,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Persians: s-405 w-20"/>
       <word id="21"
             form="καὶ"
@@ -43284,7 +43284,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="26"
+            head="0"
             cite=" Aeschylus Persians: s-405 w-23"/>
       <word id="24"
             form="Ἀρτεμβάρης"
@@ -43457,7 +43457,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-407 w-13"/>
       <word id="14"
             form="ἐὴ"
@@ -43478,7 +43478,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="15"
+            head="0"
             cite=" Aeschylus Persians: s-407 w-16"/>
       <word id="17"
             form="τλάμονες"
@@ -43658,7 +43658,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-408 w-21"/>
       <word id="22"
             form="Πάρθον"
@@ -44070,7 +44070,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-413 w-14"/>
       <word id="15"
             form="Δίαιξίν"
@@ -44112,7 +44112,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="25"
+            head="0"
             cite=" Aeschylus Persians: s-413 w-20"/>
       <word id="21"
             form="Κηγδαδάταν"
@@ -44194,7 +44194,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="9"
+            head="0"
             cite=" Aeschylus Persians: s-414 w-3"/>
       <word id="4"
             form="οὐκ"
@@ -44318,7 +44318,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-416 w-2"/>
       <word id="3"
             form="οἴ"
@@ -44332,7 +44332,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="3"
+            head="0"
             cite=" Aeschylus Persians: s-416 w-4"/>
       <word id="5"
             form="νώνυμοι"
@@ -44428,7 +44428,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-418 w-3"/>
       <word id="4"
             form="δαίμονες"
@@ -44442,7 +44442,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-418 w-5"/>
       <word id="6"
             form="ἔθεθ᾽"
@@ -44477,7 +44477,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="12"
+            head="0"
             cite=" Aeschylus Persians: s-418 w-10"/>
       <word id="11"
             form="οἷον"
@@ -45601,7 +45601,7 @@
             lemma="οτηερ"
             postag="---------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-443 w-6"/>
       <word id="7"
             form="λυπρά"
@@ -45615,7 +45615,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="10"
+            head="0"
             cite=" Aeschylus Persians: s-443 w-8"/>
       <word id="9"
             form="χάρματα"
@@ -46297,7 +46297,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="4"
+            head="0"
             cite=" Aeschylus Persians: s-458 w-3"/>
       <word id="4"
             form="δέσποτα"
@@ -46405,7 +46405,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-461 w-4"/>
       <word id="5"
             form="οἴ"
@@ -46419,7 +46419,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="5"
+            head="0"
             cite=" Aeschylus Persians: s-461 w-6"/>
       <word id="7"
             form="στονόεσσα"
@@ -47223,7 +47223,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-479 w-4"/>
       <word id="5"
             form="ἰὴ"
@@ -47244,7 +47244,7 @@
             lemma="comma1"
             postag="u--------"
             relation="AuxX"
-            head="6"
+            head="0"
             cite=" Aeschylus Persians: s-479 w-7"/>
       <word id="8"
             form="βάρισιν"
