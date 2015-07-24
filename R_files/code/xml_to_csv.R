@@ -57,16 +57,4 @@ for (i in 1:length(files.v)) {
 }
 
 
-# a short test
-i <- 1
-doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
-swords <-getNodeSet(doc.object, "//sWord", )
-sword.content <- paste(sapply(swords, xmlValue), collapes = " ")
-sword.content.lower <- tolower(sword.content)
 
-book.freqs.t <-table(sword.content.lower)
-book.freqs.rel.t <- 100*(book.freqs.t/sum(book.freqs.t))
-csv_ready.t <-t(book.freqs.rel.t)
-row.names(csv_ready.t) <-  names_for_files.v[i]
-output_path <- paste(output_dir.v, names_for_output.v[i], sep="", collapse="NULL")
-write.csv(csv_ready.t, file=output_path)
