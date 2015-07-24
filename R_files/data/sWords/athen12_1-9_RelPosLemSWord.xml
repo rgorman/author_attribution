@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SWordDocument>
+    
+    <treebankSource>
+        <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+            <date>Mon Oct 20 15:58:55 +0000 2014</date>
+            <annotator>
+                <short/>
+                <name/>
+                <address/>
+                <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+            </annotator>
+            <annotator>
+                <short>Vanessa Gorman</short>
+                <name>Vanessa Gorman</name>
+                <address>vbgorman@gmail.com</address>
+                <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
+            </annotator>
+            <annotator>
+                <short>arethusa</short>
+                <name>arethusa</name>
+                <address/>
+                <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+            </annotator>
+            <annotator>
+                <short>Vanessa Gorman</short>
+                <name>Vanessa Gorman</name>
+                <address>vbgorman@gmail.com</address>
+                <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
+            </annotator>
+        </treebank>      
+        
+    </treebankSource>
+ <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PNOM;n;̓́Ανθρωπος*OBJ;v;εἰμί*PRED;v;δοκέω#</sword>
+   <sword>OBJ;v;εἰμί*PRED;v;δοκέω#</sword>
+   <sword>OBJ;p;ἐγώ*PRED;v;δοκέω#</sword>
+   <sword>ATR;a;Κυρηναῖος*PNOM;n;̓́Ανθρωπος*OBJ;v;εἰμί*PRED;v;δοκέω#</sword>
+   <sword>PRED;v;δοκέω#</sword>
+   <sword>AuxX;u;punc1*AuxP;r;κατά*PRED;v;δοκέω#</sword>
+   <sword>AuxP;r;κατά*PRED;v;δοκέω#</sword>
+   <sword>ATR;l;ὁ*ADV;n;Τυνδάρεως*AuxP;r;κατά*PRED;v;δοκέω#</sword>
+   <sword>ATR;n;Ἄλεξις*ADV;n;Τυνδάρεως*AuxP;r;κατά*PRED;v;δοκέω#</sword>
+   <sword>ADV;n;Τυνδάρεως*AuxP;r;κατά*PRED;v;δοκέω#</sword>
+   <sword>AuxX;u;punc1*AuxP;r;κατά*PRED;v;δοκέω#</sword>
+   <sword>ATR;n;ἑταῖρος*ExD;n;Τιμοκράτης*PRED;v;δοκέω#</sword>
+   <sword>ExD;n;Τιμοκράτης*PRED;v;δοκέω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="2" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ADV;d;ἐκεῖ*ADV;v;καλέω*AuxC;c;ἄν2*PRED;v;πάρειμι1#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;πάρειμι1#</sword>
+   <sword>AuxC;c;ἄν2*PRED;v;πάρειμι1#</sword>
+   <sword>SBJ;p;τις*ADV;v;καλέω*AuxC;c;ἄν2*PRED;v;πάρειμι1#</sword>
+   <sword>AuxC;r;ἐπί*ADV;v;καλέω*AuxC;c;ἄν2*PRED;v;πάρειμι1#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;δεῖπνον*AuxC;r;ἐπί*ADV;v;καλέω*AuxC;c;ἄν2*PRED;v;πάρειμι1#</sword>
+   <sword>OBJ;n;δεῖπνον*AuxC;r;ἐπί*ADV;v;καλέω*AuxC;c;ἄν2*PRED;v;πάρειμι1#</sword>
+   <sword>OBJ;n;εἷς*ADV;v;καλέω*AuxC;c;ἄν2*PRED;v;πάρειμι1#</sword>
+   <sword>ADV;v;καλέω*AuxC;c;ἄν2*PRED;v;πάρειμι1#</sword>
+   <sword>AuxX;u;punc1*ADV;v;καλέω*AuxC;c;ἄν2*PRED;v;πάρειμι1#</sword>
+   <sword>PRED;v;πάρειμι1#</sword>
+   <sword>ATR;a;ὀκτωκαίδεκα*SBJ_CO;p;ἄλλος*COORD;c;τε*PRED;v;πάρειμι1#</sword>
+   <sword>SBJ_CO;p;ἄλλος*COORD;c;τε*PRED;v;πάρειμι1#</sword>
+   <sword>AuxY;d;καί*COORD;c;τε*PRED;v;πάρειμι1#</sword>
+   <sword>ATR;a;δέκα*SBJ_CO;n;ἅρμα*COORD;c;τε*PRED;v;πάρειμι1#</sword>
+   <sword>SBJ_CO;n;ἅρμα*COORD;c;τε*PRED;v;πάρειμι1#</sword>
+   <sword>SBJ_CO;n;συνωρίς*COORD;c;τε*PRED;v;πάρειμι1#</sword>
+   <sword>COORD;c;τε*PRED;v;πάρειμι1#</sword>
+   <sword>ATR;a;πεντεκαίδεκα*SBJ_CO;n;συνωρίς*COORD;c;τε*PRED;v;πάρειμι1#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="3" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>OBJ;p;οὗτος*SBJ;v;ἐμβάλλω*PRED;v;δέω2#</sword>
+   <sword>AuxY;d;δέ*PRED;v;δέω2#</sword>
+   <sword>PRED;v;δέω2#</sword>
+   <sword>SBJ;p;σύ*SBJ;v;ἐμβάλλω*PRED;v;δέω2#</sword>
+   <sword>OBJ;a;ἐπιτήδειος*SBJ;v;ἐμβάλλω*PRED;v;δέω2#</sword>
+   <sword>SBJ;v;ἐμβάλλω*PRED;v;δέω2#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὥστε*PRED;v;δέω2#</sword>
+   <sword>AuxC;c;ὥστε*PRED;v;δέω2#</sword>
+   <sword>ADV;v;εἰμί*AuxC;c;ὥστε*PRED;v;δέω2#</sword>
+   <sword>PNOM;a;κράτιστος*ADV;v;εἰμί*AuxC;c;ὥστε*PRED;v;δέω2#</sword>
+   <sword>AuxZ;d;μηδέ*SBJ;v;καλέω*ADV;v;εἰμί*AuxC;c;ὥστε*PRED;v;δέω2#</sword>
+   <sword>SBJ;v;καλέω*ADV;v;εἰμί*AuxC;c;ὥστε*PRED;v;δέω2#</sword>
+   <sword>OBJ;p;μηδείς*SBJ;v;καλέω*ADV;v;εἰμί*AuxC;c;ὥστε*PRED;v;δέω2#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="4" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ADV;n;ἐγώ*PNOM;a;κράτιστος*PRED;v;είμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;είμί#</sword>
+   <sword>PRED;v;είμί#</sword>
+   <sword>PNOM;a;κράτιστος*PRED;v;είμί#</sword>
+   <sword>SBJ_CO;v;σιωπάω*COORD;c;καί*PRED;v;είμί#</sword>
+   <sword>COORD;c;καί*PRED;v;είμί#</sword>
+   <sword>AuxZ;d;μή*SBJ_CO;v;προστίθημι*COORD;c;καί*PRED;v;είμί#</sword>
+   <sword>AuxP;r;ἐπί*SBJ_CO;v;προστίθημι*COORD;c;καί*PRED;v;είμί#</sword>
+   <sword>OBJ;p;τοσοῦτος*AuxP;r;ἐπί*SBJ_CO;v;προστίθημι*COORD;c;καί*PRED;v;είμί#</sword>
+   <sword>ATR;v;προερέω*OBJ;p;τοσοῦτος*AuxP;r;ἐπί*SBJ_CO;v;προστίθημι*COORD;c;καί*PRED;v;είμί#</sword>
+   <sword>OBJ;a;ἕτερος*SBJ_CO;v;προστίθημι*COORD;c;καί*PRED;v;είμί#</sword>
+   <sword>SBJ_CO;v;προστίθημι*COORD;c;καί*PRED;v;είμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="5" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;ἀλλά*PRED;;#</sword>
+   <sword>AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>AuxZ;d;πάνυ*ADV;d;λιπαρής*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>ADV;d;λιπαρής*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>OBJ;p;ἐγώ*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>AuxY;d;καί*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>AuxP;r;περί*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>SBJ;l;ὁ*ATR_CO;v;γίγνομαι*AuxP;r;περί*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>AuxP;r;ἐπί*PNOM;a;διαβόητος*ATR_CO;v;γίγνομαι*AuxP;r;περί*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>ADV;n;τρυφή*AuxP;r;ἐπί*PNOM;a;διαβόητος*ATR_CO;v;γίγνομαι*AuxP;r;περί*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>PNOM;a;διαβόητος*ATR_CO;v;γίγνομαι*AuxP;r;περί*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>ATR_CO;v;γίγνομαι*AuxP;r;περί*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*ATR_CO;n;ἡδυπάθεια*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>ATR;p;οὗτος*ATR_CO;n;ἡδυπάθεια*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>ATR_CO;n;ἡδυπάθεια*COORD;c;καί*OBJ;n;λόγος*ADV;v;ἀπαιτέω*AuxC;c;ἐπεί*PRED;;#</sword>
+   <sword>AuxK;-;#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="6" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;n;ἀπόλαυσις*COORD;c;ἔπειτα#</sword>
+   <sword>AuxY;d;γάρ*COORD;c;ἔπειτα#</sword>
+   <sword>SBJ;n;ἀπόλαυσις*COORD;c;ἔπειτα#</sword>
+   <sword>AuxZ;d;δήπου*PRED_CO;;*COORD;c;ἔπειτα#</sword>
+   <sword>AuxP;r;μετά*PRED_CO;;*COORD;c;ἔπειτα#</sword>
+   <sword>PNOM;n;ἐπιθυμία*AuxP;r;μετά*PRED_CO;;*COORD;c;ἔπειτα#</sword>
+   <sword>ADV;a;πρῶτος*PRED_CO;;*COORD;c;ἔπειτα#</sword>
+   <sword>COORD;u;punc1*PRED_CO;;*COORD;c;ἔπειτα#</sword>
+   <sword>COORD;c;ἔπειτα#</sword>
+   <sword>AuxP;r;μετά*PRED_CO;;*COORD;c;ἔπειτα#</sword>
+   <sword>PNOM;n;ἡδονά*AuxP;r;μετά*PRED_CO;;*COORD;c;ἔπειτα#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED_CO;;*COORD;c;ἔπειτα#</sword>
+   <sword>PRED_CO;;*COORD;c;ἔπειτα#</sword>
+</sentence>
+<sentence id="7" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καίτοι*PRED;v;τίθημι#</sword>
+   <sword>SBJ;n;Σοφοκλῆς*PRED;v;τίθημι#</sword>
+   <sword>AuxZ;d;γε*SBJ;n;Σοφοκλῆς*PRED;v;τίθημι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Σοφοκλῆς*PRED;v;τίθημι#</sword>
+   <sword>ATR;n;ποιητής*SBJ;n;Σοφοκλῆς*PRED;v;τίθημι#</sword>
+   <sword>AuxX;u;punc1*ATR;v;εἰμί*SBJ;n;Σοφοκλῆς*PRED;v;τίθημι#</sword>
+   <sword>ATR;l;ὁ*ATR;a;ἀπολαυστικός*PNOM;n;εἷς*ATR;v;εἰμί*SBJ;n;Σοφοκλῆς*PRED;v;τίθημι#</sword>
+   <sword>ATR;a;ἀπολαυστικός*PNOM;n;εἷς*ATR;v;εἰμί*SBJ;n;Σοφοκλῆς*PRED;v;τίθημι#</sword>
+   <sword>PNOM;n;εἷς*ATR;v;εἰμί*SBJ;n;Σοφοκλῆς*PRED;v;τίθημι#</sword>
+   <sword>ATR;v;εἰμί*SBJ;n;Σοφοκλῆς*PRED;v;τίθημι#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ἵνα*PRED;v;τίθημι#</sword>
+   <sword>AuxC;c;ἵνα*PRED;v;τίθημι#</sword>
+   <sword>AuxZ;d;μή*ADV;v;κατηγορέω*AuxC;c;ἵνα*PRED;v;τίθημι#</sword>
+   <sword>ADV;v;κατηγορέω*AuxC;c;ἵνα*PRED;v;τίθημι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;γῆρας*ADV;v;κατηγορέω*AuxC;c;ἵνα*PRED;v;τίθημι#</sword>
+   <sword>OBJ;n;γῆρας*ADV;v;κατηγορέω*AuxC;c;ἵνα*PRED;v;τίθημι#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ἵνα*PRED;v;τίθημι#</sword>
+   <sword>AuxP;r;εἰς*PRED;v;τίθημι#</sword>
+   <sword>OBJ;n;σωφροσύνη*AuxP;r;εἰς*PRED;v;τίθημι#</sword>
+   <sword>PRED;v;τίθημι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;ἀσθένεια*PRED;v;τίθημι#</sword>
+   <sword>OBJ;n;ἀσθένεια*PRED;v;τίθημι#</sword>
+   <sword>ATR;p;αὐτός*OBJ;n;ἀσθένεια*PRED;v;τίθημι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;ἀσθένεια*PRED;v;τίθημι#</sword>
+   <sword>AuxP;r;περί*OBJ;n;ἀσθένεια*PRED;v;τίθημι#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἀπόλαυσις*AuxP;r;περί*OBJ;n;ἀσθένεια*PRED;v;τίθημι#</sword>
+   <sword>ATR;l;ὁ*ATR;a;Ἀφροδίσιος*ATR;n;ἀπόλαυσις*AuxP;r;περί*OBJ;n;ἀσθένεια*PRED;v;τίθημι#</sword>
+   <sword>ATR;a;Ἀφροδίσιος*ATR;n;ἀπόλαυσις*AuxP;r;περί*OBJ;n;ἀσθένεια*PRED;v;τίθημι#</sword>
+   <sword>ATR;n;ἀπόλαυσις*AuxP;r;περί*OBJ;n;ἀσθένεια*PRED;v;τίθημι#</sword>
+   <sword>AuxX;u;punc1*ADV;v;φημί*PRED;v;τίθημι#</sword>
+   <sword>ADV;v;φημί*PRED;v;τίθημι#</sword>
+   <sword>ADV;d;ἄσμενος*OBJ;v;ἀπαλλαξείω*ADV;v;φημί*PRED;v;τίθημι#</sword>
+   <sword>OBJ;v;ἀπαλλαξείω*ADV;v;φημί*PRED;v;τίθημι#</sword>
+   <sword>OBJ;p;αὐτός*OBJ;v;ἀπαλλαξείω*ADV;v;φημί*PRED;v;τίθημι#</sword>
+   <sword>AuxC;c;ὥσπερ*OBJ;v;ἀπαλλαξείω*ADV;v;φημί*PRED;v;τίθημι#</sword>
+   <sword>ATR;a;τις*OBJ;n;δεσπότης*ADV;;*AuxC;c;ὥσπερ*OBJ;v;ἀπαλλαξείω*ADV;v;φημί*PRED;v;τίθημι#</sword>
+   <sword>ATR;a;ἀγρίος*OBJ;n;δεσπότης*ADV;;*AuxC;c;ὥσπερ*OBJ;v;ἀπαλλαξείω*ADV;v;φημί*PRED;v;τίθημι#</sword>
+   <sword>OBJ;n;δεσπότης*ADV;;*AuxC;c;ὥσπερ*OBJ;v;ἀπαλλαξείω*ADV;v;φημί*PRED;v;τίθημι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;;*AuxC;c;ὥσπερ*OBJ;v;ἀπαλλαξείω*ADV;v;φημί*PRED;v;τίθημι#</sword>
+</sentence>
+<sentence id="8" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;p;ἐγώ*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxZ;d;καί*SBJ;n;κρίσις*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;κρίσις*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Πάρις*SBJ;n;κρίσις*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>ATR;n;Πάρις*SBJ;n;κρίσις*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>SBJ;n;κρίσις*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ὑπό*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*OBJ;a;παλαιός*AuxP;r;ὑπό*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>OBJ;a;παλαιός*AuxP;r;ὑπό*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>ATR;n;ἡδονά*PNOM;n;σύγκρισις*PNOM;v;εἰμί*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>AuxP;r;πρός*PNOM;n;σύγκρισις*PNOM;v;εἰμί*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>ATR;n;ἀρετή*AuxP;r;πρός*PNOM;n;σύγκρισις*PNOM;v;εἰμί*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>PNOM;v;εἰμί*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>PNOM;n;σύγκρισις*PNOM;v;εἰμί*OBJ;v;ποιέω*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="9" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ADV;v;προκρίνω*PRED_CO;v;συνταράσσω*COORD;c;δέ#</sword>
+   <sword>AuxY;d;γοῦν*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Ἀφροδίτη*ADV;v;προκρίνω*PRED_CO;v;συνταράσσω*COORD;c;δέ#</sword>
+   <sword>SBJ;n;Ἀφροδίτη*ADV;v;προκρίνω*PRED_CO;v;συνταράσσω*COORD;c;δέ#</sword>
+   <sword>AuxG;u;punc1*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>SBJ;p;οὗτος*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*PNOM;n;ἡδονά*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>PNOM;n;ἡδονά*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxG;u;punc1*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>SBJ;a;πᾶς*PRED_CO;v;συνταράσσω*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;συνταράσσω*COORD;c;δέ#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="10" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καί*PRED;v;δοκέω#</sword>
+   <sword>OBJ;p;ἐγώ*PRED;v;δοκέω#</sword>
+   <sword>PRED;v;δοκέω#</sword>
+   <sword>AuxZ;d;καί*SBJ;n;Ξενοφῶν*PRED;v;δοκέω#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Ξενοφῶν*PRED;v;δοκέω#</sword>
+   <sword>ATR;a;καλός*SBJ;n;Ξενοφῶν*PRED;v;δοκέω#</sword>
+   <sword>ATR;p;ἐγώ*SBJ;n;Ξενοφῶν*PRED;v;δοκέω#</sword>
+   <sword>SBJ;n;Ξενοφῶν*PRED;v;δοκέω#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;μῦθος*OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>AuxP;r;περί*OBJ;n;μῦθος*OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>ATR;l;ὁ*ATR_CO;n;Ἡρακλῆς*COORD;c;καί*AuxP;r;περί*OBJ;n;μῦθος*OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>ATR_CO;n;Ἡρακλῆς*COORD;c;καί*AuxP;r;περί*OBJ;n;μῦθος*OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>COORD;c;καί*AuxP;r;περί*OBJ;n;μῦθος*OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>ATR;l;ὁ*ATR_CO;n;Ἀρετή*COORD;c;καί*AuxP;r;περί*OBJ;n;μῦθος*OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>ATR_CO;n;Ἀρετή*COORD;c;καί*AuxP;r;περί*OBJ;n;μῦθος*OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>OBJ;n;μῦθος*OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>ADV;d;ἐντεῦθεν*OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>OBJ;v;πλάσσω*PRED;v;δοκέω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="11" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxP;r;κατά*PRED;;#</sword>
+   <sword>AuxY;d;γάρ*PRED;;#</sword>
+   <sword>ATR;l;ὁ*ADV;n;Ἐμπεδοκλῆς*AuxP;r;κατά*PRED;;#</sword>
+   <sword>ADV;n;Ἐμπεδοκλῆς*AuxP;r;κατά*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="12" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;οὐδέ*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>ATR;a;τις*PNOM;n;θεός*PRED;v;είμί#</sword>
+   <sword>PRED;v;είμί#</sword>
+   <sword>ATR;p;ἐκεῖνος*PNOM;n;θεός*PRED;v;είμί#</sword>
+   <sword>SBJ_CO;n;Ἄρης*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>PNOM;n;θεός*PRED;v;είμί#</sword>
+   <sword>AuxY;d;οὐδέ*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>SBJ_CO;n;Κυδοιμός*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>AuxY;d;οὐδέ*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>SBJ_CO;n;Ζεύς*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>ATR;n;βασιλεύς*SBJ_CO;n;Ζεύς*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>AuxY;d;οὐδέ*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>SBJ_CO;n;κρόνος*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>SBJ_CO;n;Ποσειδῶν*COORD;c;οὐδέ*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>AuxX;u;punc1*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>SBJ_CO;n;Κύπρις*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>ATR;a;βασίλειος*SBJ_CO;n;Κύπρις*COORD;c;ἀλλά*PRED;v;είμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="13" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>OBJ;p;ὁ*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>SBJ;l;ὁ*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>AuxZ;d;γε*SBJ;l;ὁ*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ATR;a;εὐσεβής*ADV_AP_CO;n;ἄγαλμα*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ADV_AP_CO;n;ἄγαλμα*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ATR;a;γραπτός*ADV_AP_CO;n;ζώιον*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>AuxY;d;τε*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ADV_AP_CO;n;ζώιον*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ADV_AP_CO;n;μύρον*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>AuxY;d;τε*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ATR;a;δαιδαλέοδμος*ADV_AP_CO;n;μύρον*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ATR_CO;n;σμύρνα*COORD;c;τε*ADV_AP_CO;n;θυσία*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ATR;a;ἄκρατος*ATR_CO;n;σμύρνα*COORD;c;τε*ADV_AP_CO;n;θυσία*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ADV_AP_CO;n;θυσία*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ATR_CO;n;λίβανος*COORD;c;τε*ADV_AP_CO;n;θυσία*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>COORD;c;τε*ADV_AP_CO;n;θυσία*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ATR;a;θυώδης*ATR_CO;n;λίβανος*COORD;c;τε*ADV_AP_CO;n;θυσία*COORD;c;τε*APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>AuxX;u;punc1*ADV_CO;v;ῥίπτω*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ATR;a;ξάνθη*OBJ;n;μέλι*OBJ;n;σπονδή*ADV_CO;v;ῥίπτω*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>OBJ;n;σπονδή*ADV_CO;v;ῥίπτω*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>OBJ;n;μέλι*OBJ;n;σπονδή*ADV_CO;v;ῥίπτω*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>ADV_CO;v;ῥίπτω*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>AuxP;r;εἰς*ADV_CO;v;ῥίπτω*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>OBJ;n;οὖδας*AuxP;r;εἰς*ADV_CO;v;ῥίπτω*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>APOS;;*COORD;c;τε*PRED_CO;v;ἱλάομαι#</sword>
+</sentence>
+<sentence id="14" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*SBJ;n;μένανδρος*PRED;v;φημί#</sword>
+   <sword>SBJ;n;μένανδρος*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*ADV;v;λέγω2*PRED;v;φημί#</sword>
+   <sword>ADV;n;κιθαριστής*AuxP;r;ἐν*ADV;v;λέγω2*PRED;v;φημί#</sword>
+   <sword>AuxP;r;περί*ADV;v;λέγω2*PRED;v;φημί#</sword>
+   <sword>ADV;p;τις*AuxP;r;περί*ADV;v;λέγω2*PRED;v;φημί#</sword>
+   <sword>ATR;v;μουσικεύομαι*ADV;p;τις*AuxP;r;περί*ADV;v;λέγω2*PRED;v;φημί#</sword>
+   <sword>ADV;v;λέγω2*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="15" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PNOM;a;φιλόμουσος*OBJ_CO;v;εἰμί*COORD;c;τε*PRED;;#</sword>
+   <sword>OBJ_CO;v;εἰμί*COORD;c;τε*PRED;;#</sword>
+   <sword>SBJ;p;αὐτός*OBJ_CO;v;εἰμί*COORD;c;τε*PRED;;#</sword>
+   <sword>AuxZ;d;πάνυ*OBJ_CO;v;παιδεύω*COORD;c;τε*PRED;;#</sword>
+   <sword>OBJ;n;ἄκουσμα*OBJ_CO;v;παιδεύω*COORD;c;τε*PRED;;#</sword>
+   <sword>AuxP;r;εἰς*OBJ_CO;v;παιδεύω*COORD;c;τε*PRED;;#</sword>
+   <sword>ADV;n;τρυφή*AuxP;r;εἰς*OBJ_CO;v;παιδεύω*COORD;c;τε*PRED;;#</sword>
+   <sword>COORD;c;τε*PRED;;#</sword>
+   <sword>OBJ_CO;v;παιδεύω*COORD;c;τε*PRED;;#</sword>
+   <sword>ADV;d;ἀεί*OBJ_CO;v;παιδεύω*COORD;c;τε*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="16" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καίτοι*PRED;v;φημί#</sword>
+   <sword>SBJ;p;τις*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxP;r;κατά*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PNOM;n;φύσις*AuxP;r;κατά*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;ἡδονή*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;ἡδονή*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐκ*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;v;δουλόω*AuxP;r;ἐκ*PRED;v;φημί#</sword>
+   <sword>ATR;a;πᾶς*SBJ;n;ζῷον*ADV;v;δουλόω*AuxP;r;ἐκ*PRED;v;φημί#</sword>
+   <sword>SBJ;n;ζῷον*ADV;v;δουλόω*AuxP;r;ἐκ*PRED;v;φημί#</sword>
+   <sword>ADV;v;δουλόω*AuxP;r;ἐκ*PRED;v;φημί#</sword>
+   <sword>OBJ;p;οὗτος*ADV;v;δουλόω*AuxP;r;ἐκ*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>AuxZ;d;οὐ*ADV_CO;v;εἰμί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>AuxY;d;καί*COORD;c;καί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>SBJ_CO;n;δειλία*COORD;c;καί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>AuxY;d;καί*COORD;c;καί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>SBJ_CO;n;φόβος*COORD;c;καί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;n;πάθημα*COORD;c;καί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>ATR;p;ἄλλος*SBJ_CO;n;πάθημα*COORD;c;καί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>SBJ_CO;n;πάθημα*COORD;c;καί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>ADV;d;κοινός*ADV_CO;v;εἰμί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*ADV_CO;v;εἰμί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>PNOM;a;ἅπας*AuxP;r;ἐν*ADV_CO;v;εἰμί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>ADV_CO;v;εἰμί*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>AuxP;r;παρά*ADV_CO;v;ἀποδοκιμάζω*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*OBJ;v;χράω2*AuxP;r;παρά*ADV_CO;v;ἀποδοκιμάζω*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>OBJ;n;λογισμός*OBJ;v;χράω2*AuxP;r;παρά*ADV_CO;v;ἀποδοκιμάζω*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>OBJ;v;χράω2*AuxP;r;παρά*ADV_CO;v;ἀποδοκιμάζω*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>ADV_CO;v;ἀποδοκιμάζω*COORD;c;δέ*ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;;*AuxC;c;ὥσπερ*PRED;v;φημί#</sword>
+</sentence>
+<sentence id="17" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;v;διώκω*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;οὖν*PRED;v;εἰμί#</sword>
+   <sword>OBJ;n;ἡδονά*SBJ;v;διώκω*PRED;v;εἰμί#</sword>
+   <sword>SBJ;v;διώκω*PRED;v;εἰμί#</sword>
+   <sword>ADV;d;προπετής*SBJ;v;διώκω*PRED;v;εἰμί#</sword>
+   <sword>OBJ;n;λύπη*PNOM;v;θηρεύω*PRED;v;εἰμί#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>PNOM;v;θηρεύω*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="18" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;διόπερ*PRED;v;φημί#</sword>
+   <sword>SBJ;n;Ὅμηρος*PRED;v;φημί#</sword>
+   <sword>OCOMP;a;ἐπονείδιστος*OBJ;v;ποιέω*ADV;v;βούλομαι*PRED;v;φημί#</sword>
+   <sword>ADV;v;βούλομαι*PRED;v;φημί#</sword>
+   <sword>OBJ;v;ποιέω*ADV;v;βούλομαι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;ἡδονή*OBJ;v;ποιέω*ADV;v;βούλομαι*PRED;v;φημί#</sword>
+   <sword>OBJ;n;ἡδονή*OBJ;v;ποιέω*ADV;v;βούλομαι*PRED;v;φημί#</sword>
+   <sword>AuxZ;d;καί*SBJ;a;μέγας*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;θεά*SBJ;a;μέγας*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;n;θεά*SBJ;a;μέγας*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;a;μέγας*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>SBJ;a;μέγας*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxZ;p;οὐδείς*OBJ_CO;v;ὠφελέω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ὑπό*OBJ_CO;v;ὠφελέω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;δύναμις*AuxP;r;ὑπό*OBJ_CO;v;ὠφελέω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;a;σφέτερος*OBJ;n;δύναμις*AuxP;r;ὑπό*OBJ_CO;v;ὠφελέω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;v;ὠφελέω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>OBJ;n;δύναμις*AuxP;r;ὑπό*OBJ_CO;v;ὠφελέω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;a;μέγας*OBJ_CO;v;βλάπτω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ADV;a;μέγας*OBJ_CO;v;βλάπτω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;v;βλάπτω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ADV;v;παραφέρω*OBJ_CO;v;βλάπτω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ὑπό*ADV;v;παραφέρω*OBJ_CO;v;βλάπτω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>OBJ;p;αὐτός*AuxP;r;ὑπό*ADV;v;παραφέρω*OBJ_CO;v;βλάπτω*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="19" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>OBJ;a;ὅσος*ATR;v;φροντίζω*OBJ;p;οὗτος*PRED;v;ἀπόλλυμι#</sword>
+   <sword>AuxY;d;μέν*PRED;v;ἀπόλλυμι#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;ἀπόλλυμι#</sword>
+   <sword>ATR;v;ἀγρυπνέω*SBJ;n;Ζεύς*ATR;v;φροντίζω*OBJ;p;οὗτος*PRED;v;ἀπόλλυμι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Ζεύς*ATR;v;φροντίζω*OBJ;p;οὗτος*PRED;v;ἀπόλλυμι#</sword>
+   <sword>SBJ;n;Ζεύς*ATR;v;φροντίζω*OBJ;p;οὗτος*PRED;v;ἀπόλλυμι#</sword>
+   <sword>ATR;v;φροντίζω*OBJ;p;οὗτος*PRED;v;ἀπόλλυμι#</sword>
+   <sword>AuxP;r;ὑπέρ*ATR;v;φροντίζω*OBJ;p;οὗτος*PRED;v;ἀπόλλυμι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;Τρώς*AuxP;r;ὑπέρ*ATR;v;φροντίζω*OBJ;p;οὗτος*PRED;v;ἀπόλλυμι#</sword>
+   <sword>OBJ;n;Τρώς*AuxP;r;ὑπέρ*ATR;v;φροντίζω*OBJ;p;οὗτος*PRED;v;ἀπόλλυμι#</sword>
+   <sword>AuxX;u;punc1*PRED;v;ἀπόλλυμι#</sword>
+   <sword>OBJ;p;οὗτος*PRED;v;ἀπόλλυμι#</sword>
+   <sword>PRED;v;ἀπόλλυμι#</sword>
+   <sword>AuxP;r;μετά*PRED;v;ἀπόλλυμι#</sword>
+   <sword>ADV;n;ἡμέρα*AuxP;r;μετά*PRED;v;ἀπόλλυμι#</sword>
+   <sword>AuxP;r;ὑπό*ADV;v;κρατέω*PRED;v;ἀπόλλυμι#</sword>
+   <sword>OBJ;n;ἡδονά*AuxP;r;ὑπό*ADV;v;κρατέω*PRED;v;ἀπόλλυμι#</sword>
+   <sword>ADV;v;κρατέω*PRED;v;ἀπόλλυμι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="20" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*SBJ;n;Ἄρης*COORD;c;καί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Ἄρης*COORD;c;καί#</sword>
+   <sword>SBJ;n;Ἄρης*COORD;c;καί#</sword>
+   <sword>PNOM;a;ἄλκιμος*ADV;v;εἰμί*COORD;c;καί#</sword>
+   <sword>ADV;v;εἰμί*COORD;c;καί#</sword>
+   <sword>AuxP;r;ὑπό*PRED_CO;v;συμποδίζω*COORD;c;καί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;Ἥφαιστος*AuxP;r;ὑπό*PRED_CO;v;συμποδίζω*COORD;c;καί#</sword>
+   <sword>ATR;a;ἀσθενής*OBJ;n;Ἥφαιστος*AuxP;r;ὑπό*PRED_CO;v;συμποδίζω*COORD;c;καί#</sword>
+   <sword>OBJ;n;Ἥφαιστος*AuxP;r;ὑπό*PRED_CO;v;συμποδίζω*COORD;c;καί#</sword>
+   <sword>PRED_CO;v;συμποδίζω*COORD;c;καί#</sword>
+   <sword>COORD;c;καί#</sword>
+   <sword>PRED_CO;v;ὀφλισκάνω*COORD;c;καί#</sword>
+   <sword>OBJ_CO;n;αἰσχύνη*COORD;c;καί*PRED_CO;v;ὀφλισκάνω*COORD;c;καί#</sword>
+   <sword>COORD;c;καί*PRED_CO;v;ὀφλισκάνω*COORD;c;καί#</sword>
+   <sword>OBJ_CO;n;ζημία*COORD;c;καί*PRED_CO;v;ὀφλισκάνω*COORD;c;καί#</sword>
+   <sword>ADV;v;ἐκδίδωμι*PRED_CO;v;ὀφλισκάνω*COORD;c;καί#</sword>
+   <sword>OBJ;p;ἑαυτοῦ*ADV;v;ἐκδίδωμι*PRED_CO;v;ὀφλισκάνω*COORD;c;καί#</sword>
+   <sword>OBJ;n;ἔρως*ADV;v;ἐκδίδωμι*PRED_CO;v;ὀφλισκάνω*COORD;c;καί#</sword>
+   <sword>ATR;a;ἀλόγιστος*OBJ;n;ἔρως*ADV;v;ἐκδίδωμι*PRED_CO;v;ὀφλισκάνω*COORD;c;καί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="21" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxY;d;γοῦν*PRED;v;φημί#</sword>
+   <sword>AuxP;r;πρός*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;θεός*AuxP;r;πρός*PRED;v;φημί#</sword>
+   <sword>ADV;n;θεός*AuxP;r;πρός*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὅτι*PRED;v;φημί#</sword>
+   <sword>AuxC;c;ὅτι*PRED;v;φημί#</sword>
+   <sword>ADV;v;ἔρχομαι*AuxC;c;ὅτι*PRED;v;φημί#</sword>
+   <sword>OBJ;p;αὐτός*ADV;v;θεάομαι*ADV;v;ἔρχομαι*AuxC;c;ὅτι*PRED;v;φημί#</sword>
+   <sword>ADV;v;θεάομαι*ADV;v;ἔρχομαι*AuxC;c;ὅτι*PRED;v;φημί#</sword>
+   <sword>ATR;v;δέω1*OBJ;p;αὐτός*ADV;v;θεάομαι*ADV;v;ἔρχομαι*AuxC;c;ὅτι*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="22" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;οὐ*PRED;v;ἀρετάω#</sword>
+   <sword>PRED;v;ἀρετάω#</sword>
+   <sword>ATR;a;κακός*SBJ;n;ἔργον*PRED;v;ἀρετάω#</sword>
+   <sword>SBJ;n;ἔργον*PRED;v;ἀρετάω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="23" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;κιχάνω#</sword>
+   <sword>AuxY;d;τοι*PRED;v;κιχάνω#</sword>
+   <sword>SBJ;a;βραδύς*PRED;v;κιχάνω#</sword>
+   <sword>OBJ;a;ὠκύς*PRED;v;κιχάνω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>AuxZ;d;καί*AuxY;d;νῦν*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>AuxY;d;νῦν*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>SBJ;n;Ἥφαιστος*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>ADV;v;εἰμί*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>PNOM;a;βραδύς*ADV;v;εἰμί*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>OBJ;n;Ἄρευς*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>PNOM;a;ὠκύς*ATR;v;εἰμί*OBJ;n;Ἄρευς*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>AuxZ;d;πέρ*ATR;v;εἰμί*OBJ;n;Ἄρευς*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>ATR;v;εἰμί*OBJ;n;Ἄρευς*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>ADV;n;θεά*PNOM;a;ὠκύς*ATR;v;εἰμί*OBJ;n;Ἄρευς*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>SBJ;p;ὅς*ATR;v;ἔχω*ADV;n;θεά*PNOM;a;ὠκύς*ATR;v;εἰμί*OBJ;n;Ἄρευς*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>OBJ;n;Ὄλυμπος*ATR;v;ἔχω*ADV;n;θεά*PNOM;a;ὠκύς*ATR;v;εἰμί*OBJ;n;Ἄρευς*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>ATR;v;ἔχω*ADV;n;θεά*PNOM;a;ὠκύς*ATR;v;εἰμί*OBJ;n;Ἄρευς*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>AuxX;u;punc1*ADV;v;εἰμί*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>PNOM;a;χωλός*ADV;v;εἰμί*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>ADV;v;εἰμί*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>AuxX;u;punc1*ADV;v;εἰμί*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>ADV;n;τέχνη*ADV;v;αἱρέω*AuxC;c;ὡς*PRED;v;κιχάνω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="24" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;l;ὁ*AuxZ;d;καί*PRED;v;ὀφέλλω#</sword>
+   <sword>AuxZ;d;καί*PRED;v;ὀφέλλω#</sword>
+   <sword>OBJ;n;ζωάγρια*PRED;v;ὀφέλλω#</sword>
+   <sword>PRED;v;ὀφέλλω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="25" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;p;οὐδείς*PRED_CO;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>AuxY;d;δέ*COORD;c;ἀλλά#</sword>
+   <sword>PRED_CO;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;βίος*PRED_CO;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>ATR;n;Ἀριστείδης*SBJ;n;βίος*PRED_CO;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>SBJ;n;βίος*PRED_CO;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>PNOM;a;ἡδύς*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>AuxX;u;punc1*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>COORD;c;ἀλλά#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;βίος*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>ATR_CO;n;Σμινδυρίδης*COORD;c;καί*SBJ;n;βίος*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>ATR;l;ὁ*ATR_CO;n;Σμινδυρίδης*COORD;c;καί*SBJ;n;βίος*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>ATR;n;Συβαρίτης*ATR_CO;n;Σμινδυρίδης*COORD;c;καί*SBJ;n;βίος*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>COORD;c;καί*SBJ;n;βίος*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;βίος*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>ATR_CO;n;Σαρδανάπαλλος*COORD;c;καί*SBJ;n;βίος*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>SBJ;n;βίος*OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>OBJ;v;εἰμί*PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+   <sword>PRED;v;λέγω2*COORD;c;ἀλλά#</sword>
+</sentence>
+<sentence id="26" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καίτοι*PRED;v;φημί#</sword>
+   <sword>AuxP;r;κατά*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxZ;d;γε*ADV;n;δόξα*AuxP;r;κατά*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;δόξα*AuxP;r;κατά*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;n;δόξα*AuxP;r;κατά*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxG;u;punc1*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ADV;l;ὁ*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>AuxP;r;περί*ADV;l;ὁ*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ATR;n;ἡδονή*AuxP;r;περί*ADV;l;ὁ*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>SBJ;n;Θεόφραστος*PRED;v;φημί#</sword>
+   <sword>AuxG;u;punc1*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxZ;d;οὐ*ADV;d;ὅμοιος*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;d;ὅμοιος*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PNOM;a;λαμπρός*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="27" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;ἀλλά*PRED;v;τρυφάω#</sword>
+   <sword>AuxZ;d;οὐ*PRED;v;τρυφάω#</sword>
+   <sword>PRED;v;τρυφάω#</sword>
+   <sword>AuxC;c;ὥσπερ*PRED;v;τρυφάω#</sword>
+   <sword>SBJ;p;ἐκεῖνος*ADV;;*AuxC;c;ὥσπερ*PRED;v;τρυφάω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;;*AuxC;c;ὥσπερ*PRED;v;τρυφάω#</sword>
+</sentence>
+<sentence id="28" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;οὐδέ*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;n;Ἀγησίλαος*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Ἀγησίλαος*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;n;Λακεδαιμόνιος*ATR;n;βασιλεύς*ATR;n;Ἀγησίλαος*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;n;βασιλεύς*ATR;n;Ἀγησίλαος*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxX;u;punc1*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxZ;d;μᾶλλον*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxG;u;punc1*AuxC;c;εἰ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxC;c;εἰ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ADV;v;τυγχάνω*AuxC;c;εἰ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxG;u;punc1*AuxC;c;εἰ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;n;̓Ανάνις*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxZ;d;οὕτως*PNOM;a;ἀόρατος*ATR;v;εἰμί*ATR;n;̓Ανάνις*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>PNOM;a;ἀόρατος*ATR;v;εἰμί*ATR;n;̓Ανάνις*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxP;r;κατά*PNOM;a;ἀόρατος*ATR;v;εἰμί*ATR;n;̓Ανάνις*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ADV;n;δόξα*AuxP;r;κατά*PNOM;a;ἀόρατος*ATR;v;εἰμί*ATR;n;̓Ανάνις*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;v;εἰμί*ATR;n;̓Ανάνις*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>COORD;u;punc1#</sword>
+   <sword>AuxZ;d;οὐδέ*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἡμίθεος*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;n;ἡμίθεος*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἡμίθεος*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxP;r;ἐπί*ATR;n;ἡμίθεος*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;n;Τροία*AuxP;r;ἐπί*ATR;n;ἡμίθεος*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxX;u;punc1*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ADV;a;πολύς*ADV;d;μᾶλλον*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ADV;d;μᾶλλον*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;d;νῦν*ATR;l;ὁ*SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>SBJ_CO;l;ὁ*COORD;c;ἀλλά*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>PRED;;#</sword>
+   <sword>OBJ;v;εἰμί*PRED;;#</sword>
+</sentence>
+<sentence id="29" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καί*PRED;;#</sword>
+   <sword>SBJ;p;οὗτος*PRED;;#</sword>
+   <sword>PNOM;d;εἰκότως*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="30" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;l;ὁ*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ#</sword>
+   <sword>AuxY;d;γάρ*COORD;c;δέ#</sword>
+   <sword>PNOM_CO;a;ἀκατάσκευος*COORD;c;καί*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>COORD;c;καί*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ADV;d;καθά*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>PNOM_CO;a;ἀνεύρετος*COORD;c;καί*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxX;u;punc1*COORD;c;οὔτε*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxY;d;οὔτε*COORD;c;οὔτε*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>SBJ;n;ἐπιμιξία*ADV_CO;v;εἰμί*COORD;c;οὔτε*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ADV_CO;v;εἰμί*COORD;c;οὔτε*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>COORD;c;οὔτε*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;τεχνή*ADV_CO;v;διακριβόω*COORD;c;οὔτε*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>SBJ;n;τεχνή*ADV_CO;v;διακριβόω*COORD;c;οὔτε*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ADV_CO;v;διακριβόω*COORD;c;οὔτε*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxX;u;punc1*COORD;c;οὔτε*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>SBJ;l;ὁ*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>COORD;c;δέ#</sword>
+   <sword>ADV;n;πᾶσις*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxP;r;πρός*COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ADV_CO;n;ῥᾳστώνη*AuxP;r;πρός*COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxY;d;καί*COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxP;r;πρός*COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ADV_CO;n;ἀπόλαυσις*AuxP;r;πρός*COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxP;r;πρός*COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*ADV_CO;n;διαγωγή*AuxP;r;πρός*COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ATR;p;ἄλλος*ADV_CO;n;διαγωγή*AuxP;r;πρός*COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>ADV_CO;n;διαγωγή*AuxP;r;πρός*COORD;c;καί*PNOM;v;ἐξαρτύω*PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED_CO;v;εἰμί*COORD;c;δέ#</sword>
+</sentence>
+<sentence id="31" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;n;Πλάτων*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;Φίληβος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ADV;n;Φίληβος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="32" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;n;ἡδονή*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;μέν*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;ἅπας*PNOM;a;ἀλαζών*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;ἀλαζών*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+</sentence>
+<sentence id="33" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>AuxY;d;δέ*ADV;v;κτέομαι*AuxC;c;καθάπερ*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>SBJ;n;λόγος*ADV;v;κτέομαι*AuxC;c;καθάπερ*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>AuxZ;d;καί*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>ATR;l;ὁ*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>ATR;l;ὁ*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>AuxP;r;περί*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>ATR;l;ὁ*ATR;a;Ἀφροδίσιος*AuxP;r;περί*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>ATR;a;Ἀφροδίσιος*AuxP;r;περί*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>AuxX;u;punc1*ATR;v;δοκέω*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>SBJ;p;ὅς*ATR;v;δοκέω*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>AuxY;d;δή*ATR;v;δοκέω*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>PNOM;a;μέγας*OBJ;v;εἰμί*ATR;v;δοκέω*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>ATR;v;δοκέω*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>OBJ;v;εἰμί*ATR;v;δοκέω*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>AuxX;u;punc1*ATR;v;δοκέω*ADV;n;ἡδονή*AuxP;r;ἐν*PRED;v;λαμβάνω#</sword>
+   <sword>AuxZ;d;καί*SBJ;v;ἐπιορκέω*PRED;v;λαμβάνω#</sword>
+   <sword>ATR;l;ὁ*SBJ;v;ἐπιορκέω*PRED;v;λαμβάνω#</sword>
+   <sword>SBJ;v;ἐπιορκέω*PRED;v;λαμβάνω#</sword>
+   <sword>OBJ;n;συγγνώμη*PRED;v;λαμβάνω#</sword>
+   <sword>PRED;v;λαμβάνω#</sword>
+   <sword>AuxP;r;παρά*PRED;v;λαμβάνω#</sword>
+   <sword>OBJ;n;θεός*AuxP;r;παρά*PRED;v;λαμβάνω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>AuxC;c;καθάπερ*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>SBJ;n;παῖς*ADV;v;κτέομαι*AuxC;c;καθάπερ*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;ἡδονή*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>SBJ;n;ἡδονή*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>OBJ;n;νόος*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>AuxZ;d;οὐδέ*ATR;a;ὀλίγιστος*OBJ;n;νόος*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;νόος*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>ATR;a;ὀλίγιστος*OBJ;n;νόος*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;v;κτέομαι*AuxC;c;καθάπερ*ADV;v;κτάομαι*AuxC;c;ὡς*PRED;v;λαμβάνω#</sword>
+</sentence>
+<sentence id="34" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxP;r;ἐν*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxY;d;δέ*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATR;l;ὁ*ADV;a;ὄγδοος*AuxP;r;ἐν*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ADV;a;ὄγδοος*AuxP;r;ἐν*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Πολιτεία*ADV;a;ὄγδοος*AuxP;r;ἐν*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATR;n;Πολιτεία*ADV;a;ὄγδοος*AuxP;r;ἐν*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Πλάτων*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATR;a;αὐτός*SBJ;n;Πλάτων*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>SBJ;n;Πλάτων*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATV;a;πρότερος*SBJ;n;Πλάτων*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATR;l;ὁ*OBJ_AP;v;θρυλέω*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxP;r;ὑπό*OBJ_AP;v;θρυλέω*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;Ἐπικούρειος*AuxP;r;ὑπό*OBJ_AP;v;θρυλέω*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>OBJ;n;Ἐπικούρειος*AuxP;r;ὑπό*OBJ_AP;v;θρυλέω*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>OBJ_AP;v;θρυλέω*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἐπιθυμία*SBJ;l;ὁ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ATR;n;ἐπιθυμία*SBJ;l;ὁ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>SBJ;l;ὁ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>PNOM_CO;a;φυσικός*COORD;c;καί*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>COORD;c;καί*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>PNOM_CO;a;ἀναγκαῖος*COORD;c;καί*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxX_ExD0_OBJ_AP_CO;u;punc1*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>SBJ;l;ὁ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxY;d;δέ*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>PNOM_CO;a;φυσικός*COORD;c;δέ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxX;u;punc1*COORD;c;δέ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxZ;d;οὐ*PNOM_CO;a;ἀναγκαῖος*COORD;c;δέ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>PNOM_CO;a;ἀναγκαῖος*COORD;c;δέ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>COORD;c;δέ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxX;u;punc1*COORD;c;δέ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>SBJ;l;ὁ*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxY;d;οὔτε*COORD;c;οὔτε*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>PNOM_CO;a;φυσικός*COORD;c;οὔτε*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>COORD;c;οὔτε*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>PNOM_CO;a;ἀναγκαῖος*COORD;c;οὔτε*OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxX;u;punc1*ADV;v;γράφω*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ADV;v;γράφω*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>ADV;d;οὕτως*ADV;v;γράφω*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+   <sword>OBJ_AP_CO;v;εἰμί*COORD;c;δέ*AuxC;c;ὅτι1*APOS;u;punc1*PRED;v;ὑποδείκνυμι#</sword>
+</sentence>
+<sentence id="35" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;ἆρα*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;οὖν*PRED;v;εἰμί#</sword>
+   <sword>AuxZ;d;οὐ*PRED;v;εἰμί#</sword>
+   <sword>SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*ATR_CO;v;ἐσθίω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR_CO;v;ἐσθίω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;μέχρι*ATR_CO;v;ἐσθίω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ADV_CO;n;ὑγίεια*COORD;c;καί*AuxP;r;μέχρι*ATR_CO;v;ἐσθίω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*AuxP;r;μέχρι*ATR_CO;v;ἐσθίω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ADV_CO;n;εὐεξία*COORD;c;καί*AuxP;r;μέχρι*ATR_CO;v;ἐσθίω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;αὐτός*ATR_CO;n;σῖτος*COORD;c;καί*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR_CO;n;σῖτος*COORD;c;καί*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR_CO;n;ὄψον*COORD;c;καί*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;ἀναγκαῖος*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;ἄν1*PRED;v;εἰμί#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="36" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;μέν*ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;γε*ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;πού*ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;σῖτος*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR;n;σῖτος*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;κατά*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>ADV_AP;a;ἀμφότερος*AuxP;r;κατά*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>ADV;p;ὅς*ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;τε*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;ὠφέλιμος*ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>ADV;p;ὅς*ADV;v;παύω*PNOM;a;δυνατός*ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>ADV;v;παύω*PNOM;a;δυνατός*ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>OBJ;v;ζάω*ADV;v;παύω*PNOM;a;δυνατός*ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;δυνατός*ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>ADV_AP_CO;v;εἰμί*COORD;c;τε*APOS;u;punc1*PNOM;a;ἀναγκαῖον*PRED;v;εἰμί#</sword>
+</sentence>
+<sentence id="37" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxX;u;punc1#</sword>
+   <sword>AuxY_ExD0_PRED;d;ναί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="38" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;l;ὁ*PRED;u;undefined#</sword>
+   <sword>AuxY;d;δέ*PRED;u;undefined#</sword>
+   <sword>ATR;n;ὄψον*SBJ;l;ὁ*PRED;u;undefined#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;εἰ*PRED;u;undefined#</sword>
+   <sword>AuxC;c;εἰ*PRED;u;undefined#</sword>
+   <sword>AuxZ;d;πη*ADV;v;παρέχω*AuxC;c;εἰ*PRED;u;undefined#</sword>
+   <sword>ATR;a;τις*OBJ;n;ὠφέλεια*ADV;v;παρέχω*AuxC;c;εἰ*PRED;u;undefined#</sword>
+   <sword>OBJ;n;ὠφέλεια*ADV;v;παρέχω*AuxC;c;εἰ*PRED;u;undefined#</sword>
+   <sword>AuxP;r;πρός*OBJ;n;ὠφέλεια*ADV;v;παρέχω*AuxC;c;εἰ*PRED;u;undefined#</sword>
+   <sword>ATR;n;εὐεξία*AuxP;r;πρός*OBJ;n;ὠφέλεια*ADV;v;παρέχω*AuxC;c;εἰ*PRED;u;undefined#</sword>
+   <sword>ADV;v;παρέχω*AuxC;c;εἰ*PRED;u;undefined#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;u;undefined#</sword>
+</sentence>
+<sentence id="39" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ExD;d;πάνυ*PRED;;#</sword>
+   <sword>AuxY;d;μέν*PRED;;#</sword>
+   <sword>AuxY;d;οὖν*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="40" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PNOM;p;τίς*PRED;;#</sword>
+   <sword>AuxY;d;δαί*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="41" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ATR_CO;d;πέρα*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ATR_CO;p;οὗτος*COORD;c;καί*ADV;n;ἔδεσμα*ATR_CO;d;πέρα*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>COORD;c;καί*ADV;n;ἔδεσμα*ATR_CO;d;πέρα*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ATR_CO;a;ἀλλοῖος*COORD;c;καί*ADV;n;ἔδεσμα*ATR_CO;d;πέρα*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ADV;n;ἔδεσμα*ATR_CO;d;πέρα*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxC;c;ἤ1*ATR_CO;a;ἀλλοῖος*COORD;c;καί*ADV;n;ἔδεσμα*ATR_CO;d;πέρα*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ADV;p;τοιοῦτος*ADV;;*AuxC;c;ἤ1*ATR_CO;a;ἀλλοῖος*COORD;c;καί*ADV;n;ἔδεσμα*ATR_CO;d;πέρα*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxX;u;punc1#</sword>
+   <sword>ATR_CO;a;δυνατός*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxY;d;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ADV;v;κολάζω*ATR_CO;a;δυνατός*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxP;r;ἐκ*ADV;v;κολάζω*ATR_CO;a;δυνατός*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ADV;n;νέος*AuxP;r;ἐκ*ADV;v;κολάζω*ATR_CO;a;δυνατός*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>OBJ;a;πολύς*ADV;v;ἀπαλλάσσω*ATR_CO;a;δυνατός*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ADV;v;ἀπαλλάσσω*ATR_CO;a;δυνατός*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxX;u;punc1*ATR_CO;a;δυνατός*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ADV;n;σῶμα*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxX;u;punc1*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ADV;n;ψυχή*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxP;r;πρός*COORD;c;καί*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxY;d;τε*COORD;c;καί*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ADV_CO;n;φρόνις*AuxP;r;πρός*COORD;c;καί*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>COORD;c;καί*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxP;r;πρός*COORD;c;καί*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ATR;l;ὁ*ADV_CO;v;σωφρονέω*AuxP;r;πρός*COORD;c;καί*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>ADV_CO;v;σωφρονέω*AuxP;r;πρός*COORD;c;καί*ATR_CO;a;βλαβερός*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxX;u;punc1*COORD;c;δέ*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+   <sword>AuxY;d;ἆρα*PRED;v;καλέω#</sword>
+   <sword>AuxZ;d;γε*PRED;v;καλέω#</sword>
+   <sword>ADV;d;ὀρθός*PRED;v;καλέω#</sword>
+   <sword>AuxZ;d;οὐ*PRED;v;καλέω#</sword>
+   <sword>PNOM;a;ἀναγκαῖον*PRED;v;καλέω#</sword>
+   <sword>AuxY;d;ἄν1*PRED;v;καλέω#</sword>
+   <sword>PRED;v;καλέω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;;*AuxC;c;ἤ1*ATR_CO;a;ἀλλοῖος*COORD;c;καί*ADV;n;ἔδεσμα*ATR_CO;d;πέρα*COORD;c;καί*SBJ;n;ἐπιθυμία*PRED;v;καλέω#</sword>
+</sentence>
+<sentence id="42" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ADV;a;ὀρθός*PRED;;#</sword>
+   <sword>AuxY;d;μέν*PRED;;#</sword>
+   <sword>AuxY;d;οὖν*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="43" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;n;Ἡρακλείδης*PRED;v;λέγω2#</sword>
+   <sword>AuxY;d;δέ*PRED;v;λέγω2#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Ἡρακλείδης*PRED;v;λέγω2#</sword>
+   <sword>ATR;a;Ποντικός*SBJ;n;Ἡρακλείδης*PRED;v;λέγω2#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;λέγω2#</sword>
+   <sword>ADV;l;ὁ*AuxP;r;ἐν*PRED;v;λέγω2#</sword>
+   <sword>AuxP;r;περί*ADV;l;ὁ*AuxP;r;ἐν*PRED;v;λέγω2#</sword>
+   <sword>ADV;n;ἡδονή*AuxP;r;περί*ADV;l;ὁ*AuxP;r;ἐν*PRED;v;λέγω2#</sword>
+   <sword>OBJ;p;ὅδε*PRED;v;λέγω2#</sword>
+   <sword>PRED;v;λέγω2#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="44" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ_CO;n;τύραννος*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>SBJ_CO;n;τύραννος*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;n;βασιλεύς*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>SBJ_CO;n;βασιλεύς*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>ATR;l;ὁ*ATR;a;ἀγαθός*PNOM;n;κύριος*ADV_CO;v;εἰμί*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>ATR;a;ἀγαθός*PNOM;n;κύριος*ADV_CO;v;εἰμί*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>ADV_CO;v;εἰμί*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>PNOM;n;κύριος*ADV_CO;v;εἰμί*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>ATR;a;πᾶς*OBJ;n;πεῖρα*ADV_CO;v;λαμβάνω*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>ADV_CO;v;λαμβάνω*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>OBJ;n;πεῖρα*ADV_CO;v;λαμβάνω*COORD;c;καί*PRED;v;προκρίνω#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;ἡδονά*PRED;v;προκρίνω#</sword>
+   <sword>OBJ;n;ἡδονά*PRED;v;προκρίνω#</sword>
+   <sword>PRED;v;προκρίνω#</sword>
+   <sword>AuxX;u;punc1*ADV;v;ποιόω*PRED;v;προκρίνω#</sword>
+   <sword>OCOMP;a;μεγαλόψυχος*ADV;v;ποιόω*PRED;v;προκρίνω#</sword>
+   <sword>ADV;v;ποιόω*PRED;v;προκρίνω#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;ἡδονά*ADV;v;ποιόω*PRED;v;προκρίνω#</sword>
+   <sword>SBJ;n;ἡδονά*ADV;v;ποιόω*PRED;v;προκρίνω#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;φύσις*ADV;v;ποιόω*PRED;v;προκρίνω#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἄνθρωπος*OBJ;n;φύσις*ADV;v;ποιόω*PRED;v;προκρίνω#</sword>
+   <sword>ATR;n;ἄνθρωπος*OBJ;n;φύσις*ADV;v;ποιόω*PRED;v;προκρίνω#</sword>
+   <sword>OBJ;n;φύσις*ADV;v;ποιόω*PRED;v;προκρίνω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="45" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATV;a;ἅπας*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;γοῦν*PRED;v;εἰμί#</sword>
+   <sword>SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;ἡδονή*ATR_CO;v;τιμάω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>OBJ;n;ἡδονή*ATR_CO;v;τιμάω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR_CO;v;τιμάω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>OBJ;v;τρυφάω*ATR_CO;v;προαιρέω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR_CO;v;προαιρέω*COORD;c;καί*SBJ;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>PNOM_CO;a;μεγαλόψυχος*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>PNOM_CO;a;μεγαλοπρεπής*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*PRED;v;εἰμί#</sword>
+   <sword>AuxC;c;ὡς*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;Πέρσης*COORD_ExD0_ADV;c;καί*ADV;v;εἰμί*AuxC;c;ὡς*PRED;v;εἰμί#</sword>
+   <sword>COORD_ExD0_ADV;c;καί*ADV;v;εἰμί*AuxC;c;ὡς*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;Μῆδος*COORD_ExD0_ADV;c;καί*ADV;v;εἰμί*AuxC;c;ὡς*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;v;εἰμί*AuxC;c;ὡς*PRED;v;εἰμί#</sword>
+</sentence>
+<sentence id="46" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;μάλιστα*SBJ;p;οὗτος*PRED;v;τιμάω#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;τιμάω#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἄνθρωπος*SBJ;p;οὗτος*PRED;v;τιμάω#</sword>
+   <sword>ATR;p;ἄλλος*ATR;n;ἄνθρωπος*SBJ;p;οὗτος*PRED;v;τιμάω#</sword>
+   <sword>ATR;n;ἄνθρωπος*SBJ;p;οὗτος*PRED;v;τιμάω#</sword>
+   <sword>ATR;l;ὁ*OBJ_CO;n;ἡδονή*COORD;c;καί*PRED;v;τιμάω#</sword>
+   <sword>OBJ_CO;n;ἡδονή*COORD;c;καί*PRED;v;τιμάω#</sword>
+   <sword>SBJ;p;οὗτος*PRED;v;τιμάω#</sword>
+   <sword>COORD;c;καί*PRED;v;τιμάω#</sword>
+   <sword>ATR;l;ὁ*OBJ_CO;n;τρυφή*COORD;c;καί*PRED;v;τιμάω#</sword>
+   <sword>OBJ_CO;n;τρυφή*COORD;c;καί*PRED;v;τιμάω#</sword>
+   <sword>PRED;v;τιμάω#</sword>
+   <sword>AuxX;u;punc1*ADV;v;εἰμί*PRED;v;τιμάω#</sword>
+   <sword>PNOM_CO;a;ἀνδρεῖος*COORD;c;καί*ADV;v;εἰμί*PRED;v;τιμάω#</sword>
+   <sword>COORD;c;καί*ADV;v;εἰμί*PRED;v;τιμάω#</sword>
+   <sword>PNOM_CO;a;μεγαλόψυχος*COORD;c;καί*ADV;v;εἰμί*PRED;v;τιμάω#</sword>
+   <sword>ATR;l;ὁ*ADV;a;βάρβαρος*COORD;c;καί*ADV;v;εἰμί*PRED;v;τιμάω#</sword>
+   <sword>ADV;a;βάρβαρος*COORD;c;καί*ADV;v;εἰμί*PRED;v;τιμάω#</sword>
+   <sword>ADV;v;εἰμί*PRED;v;τιμάω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="47" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;γάρ#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;v;ἥδομαι*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;μέν*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;v;ἥδομαι*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;v;τρυφάω*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;v;τρυφάω*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;ἐλεύθερος*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="48" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED_CO;v;ἀνίημι*COORD;c;καί#</sword>
+   <sword>AuxY;d;γάρ*COORD;c;καί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;ψυχή*COORD;c;καί#</sword>
+   <sword>OBJ;n;ψυχή*COORD;c;καί#</sword>
+   <sword>COORD;c;καί#</sword>
+   <sword>PRED_CO;v;αὐξάνω*COORD;c;καί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="49" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;v;πονέω*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;εἰμί#</sword>
+   <sword>SBJ;v;πονέω*PRED;v;εἰμί#</sword>
+   <sword>PNOM_CO;n;δοῦλος*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>PNOM_CO;a;ταπεινός*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+</sentence>
+<sentence id="50" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;διό*PRED;v;συστέλλω#</sword>
+   <sword>AuxZ;d;καί*PRED;v;συστέλλω#</sword>
+   <sword>PRED;v;συστέλλω#</sword>
+   <sword>SBJ;p;οὗτος*PRED;v;συστέλλω#</sword>
+   <sword>AuxZ;d;καί*OBJ;n;φύσις*PRED;v;συστέλλω#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;φύσις*PRED;v;συστέλλω#</sword>
+   <sword>OBJ;n;φύσις*PRED;v;συστέλλω#</sword>
+   <sword>AuxX;u;punc1#</sword>
+</sentence>
+<sentence id="51" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ADV;d;καί*COORD;c;καί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;πόλις*COORD;c;καί#</sword>
+   <sword>ATR;n;Ἀθήναιος*SBJ;n;πόλις*COORD;c;καί#</sword>
+   <sword>SBJ;n;πόλις*COORD;c;καί#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ἕως*COORD;c;καί#</sword>
+   <sword>AuxC;c;ἕως*COORD;c;καί#</sword>
+   <sword>ADV;v;τρυφάω*AuxC;c;ἕως*COORD;c;καί#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ἕως*COORD;c;καί#</sword>
+   <sword>PNOM;a;μέγας*PRED_CO;v;εἰμί*COORD;c;καί#</sword>
+   <sword>AuxY;d;τε*COORD;c;καί#</sword>
+   <sword>PRED_CO;v;εἰμί*COORD;c;καί#</sword>
+   <sword>COORD;c;καί#</sword>
+   <sword>ADV;a;μεγαλόψυχος*OBJ;n;ἀνήρ*PRED_CO;v;τρέφω*COORD;c;καί#</sword>
+   <sword>PRED_CO;v;τρέφω*COORD;c;καί#</sword>
+   <sword>OBJ;n;ἀνήρ*PRED_CO;v;τρέφω*COORD;c;καί#</sword>
+</sentence>
+<sentence id="52" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;a;ἁλουργής*OBJ;n;ἱμάτιον*PRED_CO;v;ἀμφί-ἴσχω*COORD;c;δέ#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ#</sword>
+   <sword>AuxY;d;γάρ*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;ἀμφί-ἴσχω*COORD;c;δέ#</sword>
+   <sword>OBJ;n;ἱμάτιον*PRED_CO;v;ἀμφί-ἴσχω*COORD;c;δέ#</sword>
+   <sword>AuxX;u;punc1*PRED_CO;v;ἀμφί-ἴσχω*COORD;c;δέ#</sword>
+   <sword>ATR;a;ποικίλος*OBJ;n;χιτών*PRED_CO;v;ὑποδύομαι*COORD;c;δέ#</sword>
+   <sword>AuxY;d;δέ*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;ὑποδύομαι*COORD;c;δέ#</sword>
+   <sword>OBJ;n;χιτών*PRED_CO;v;ὑποδύομαι*COORD;c;δέ#</sword>
+   <sword>AuxX;u;punc1*PRED_CO;v;ὑποδύομαι*COORD;c;δέ#</sword>
+   <sword>OBJ;n;κόρυμβος*ADV;v;ἀναδέω*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>COORD;c;δέ#</sword>
+   <sword>ADV;v;ἀναδέω*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*ATR;n;θρίξ*OBJ;n;κόρυμβος*ADV;v;ἀναδέω*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>ATR;n;θρίξ*OBJ;n;κόρυμβος*ADV;v;ἀναδέω*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>ATR;a;χρύσεος*OBJ;n;τέττιξ*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>OBJ;n;τέττιξ*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>AuxP;r;περί*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*ADV_CO;n;μέτωπον*COORD;c;καί*AuxP;r;περί*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>ADV_CO;n;μέτωπον*COORD;c;καί*AuxP;r;περί*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>COORD;c;καί*AuxP;r;περί*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*ADV_CO;n;κόρση*COORD;c;καί*AuxP;r;περί*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>ADV_CO;n;κόρση*COORD;c;καί*AuxP;r;περί*PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;φορέω*COORD;c;δέ#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="53" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;n;ὀκλαδία*OBJ;n;δίφρος*PRED;v;φέρω#</sword>
+   <sword>AuxY;d;τε*PRED;v;φέρω#</sword>
+   <sword>OBJ;p;αὐτός*PRED;v;φέρω#</sword>
+   <sword>OBJ;n;δίφρος*PRED;v;φέρω#</sword>
+   <sword>PRED;v;φέρω#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;παῖς*PRED;v;φέρω#</sword>
+   <sword>SBJ;n;παῖς*PRED;v;φέρω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ἵνα*PRED;v;φέρω#</sword>
+   <sword>AuxC;c;ἵνα*PRED;v;φέρω#</sword>
+   <sword>AuxZ;d;μή*ADV;v;καθίζω*AuxC;c;ἵνα*PRED;v;φέρω#</sword>
+   <sword>ADV;v;καθίζω*AuxC;c;ἵνα*PRED;v;φέρω#</sword>
+   <sword>AuxC;c;ὡς*ADV;v;καθίζω*AuxC;c;ἵνα*PRED;v;φέρω#</sword>
+   <sword>ADV;v;τυγχάνω*AuxC;c;ὡς*ADV;v;καθίζω*AuxC;c;ἵνα*PRED;v;φέρω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="54" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καί*PRED;v;εἰμί#</sword>
+   <sword>SBJ;p;τοιοῦτος*PRED;v;εἰμί#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;μάχη*ATR_CO;v;νικάω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;ἐν*ATR_CO;v;νικάω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ADV;n;Μαραθών*AuxP;r;ἐν*ATR_CO;v;νικάω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR_CO;v;νικάω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>OBJ;n;μάχη*ATR_CO;v;νικάω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>AtvV;a;μόνος*ATR_CO;v;χειρόω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;δύναμις*ATR_CO;v;χειρόω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Ἀσία*OBJ;n;δύναμις*ATR_CO;v;χειρόω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR;n;Ἀσία*OBJ;n;δύναμις*ATR_CO;v;χειρόω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;ἅπας*ATR;n;Ἀσία*OBJ;n;δύναμις*ATR_CO;v;χειρόω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>OBJ;n;δύναμις*ATR_CO;v;χειρόω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>ATR_CO;v;χειρόω*COORD;c;καί*PNOM;l;ὁ*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="55" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*ATR_CO;a;φρόνιμος*COORD;c;καί*SBJ;l;ὁ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>SBJ;l;ὁ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>ATR_CO;a;φρόνιμος*COORD;c;καί*SBJ;l;ὁ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*SBJ;l;ὁ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>ATR;a;μέγας*OBJ;n;δόξα*ATR_CO;v;ἔχω*COORD;c;καί*SBJ;l;ὁ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>OBJ;n;δόξα*ATR_CO;v;ἔχω*COORD;c;καί*SBJ;l;ὁ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐπί*OBJ;n;δόξα*ATR_CO;v;ἔχω*COORD;c;καί*SBJ;l;ὁ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>ATR;n;σοφία*AuxP;r;ἐπί*OBJ;n;δόξα*ATR_CO;v;ἔχω*COORD;c;καί*SBJ;l;ὁ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>ATR_CO;v;ἔχω*COORD;c;καί*SBJ;l;ὁ*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>ATR;a;μέγας*PNOM;a;ἀγαθός*OBJ;v;εἰμί*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>PNOM;a;ἀγαθός*OBJ;v;εἰμί*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;ἡδονή*OBJ;v;εἰμί*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>SBJ;n;ἡδονή*OBJ;v;εἰμί*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>OBJ;v;εἰμί*OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;v;νομίζω*PRED;v;φημί#</sword>
+   <sword>COORD;u;punc1*PRED;v;φημί#</sword>
+   <sword>SBJ;n;Σιμωνίδης*PRED;v;φημί#</sword>
+   <sword>AuxY;d;μέν*ADV;v;λέγω2*PRED;v;φημί#</sword>
+   <sword>ADV;d;οὑτωσί*ADV;v;λέγω2*PRED;v;φημί#</sword>
+   <sword>ADV;v;λέγω2*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="56" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;a;τις*SBJ_CO;n;βίος*COORD;c;ἤ*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;εἰμί#</sword>
+   <sword>ATR;n;ἡδονή*AuxP;r;ἄτερ*COORD;c;ἤ*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;ἄτερ*COORD;c;ἤ*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;θνητός*SBJ_CO;n;βίος*COORD;c;ἤ*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;βίος*COORD;c;ἤ*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;ποθεινός*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;ἤ*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;ποῖος*SBJ_CO;n;τυραννίς*COORD;c;ἤ*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;τυραννίς*COORD;c;ἤ*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+</sentence>
+<sentence id="57" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;p;ὅδε*AuxP;r;ἄτερ*SBJ;n;αἰών*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;ἄτερ*SBJ;n;αἰών*PRED;v;εἰμί#</sword>
+   <sword>AuxZ;d;οὐδέ*PRED;v;εἰμί#</sword>
+   <sword>ATR;n;θεά*SBJ;n;αἰών*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;ζηλωτός*PRED;v;εἰμί#</sword>
+   <sword>SBJ;n;αἰών*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+</sentence>
+<sentence id="58" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;n;Πίνδαρος*PRED;;#</sword>
+   <sword>AuxY;d;δέ*PRED;;#</sword>
+   <sword>ADV;v;παραινέω*PRED;;#</sword>
+   <sword>OBJ;n;Ἱέρων*ADV;v;παραινέω*PRED;;#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἄρχων*OBJ;n;Ἱέρων*ADV;v;παραινέω*PRED;;#</sword>
+   <sword>ATR;n;Συρακούσιος*ATR;n;ἄρχων*OBJ;n;Ἱέρων*ADV;v;παραινέω*PRED;;#</sword>
+   <sword>ATR;n;ἄρχων*OBJ;n;Ἱέρων*ADV;v;παραινέω*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="59" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;μηδέ*OBJ;v;ἀμαυρόω*PRED;v;φημί#</sword>
+   <sword>OBJ;v;ἀμαυρόω*PRED;v;φημί#</sword>
+   <sword>AuxG;u;punc1*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxG;u;punc1*PRED;v;φημί#</sword>
+   <sword>OBJ;n;τέρψις*OBJ;v;ἀμαυρόω*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*OBJ;v;ἀμαυρόω*PRED;v;φημί#</sword>
+   <sword>ADV;n;βίος*AuxP;r;ἐν*OBJ;v;ἀμαυρόω*PRED;v;φημί#</sword>
+   <sword>AuxK;-;#</sword>
+</sentence>
+<sentence id="60" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;πολύς*PNOM;a;φέριστος*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;τοι*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;φέριστος*PRED;v;εἰμί#</sword>
+   <sword>ADV;n;ἀνήρ*PNOM;a;φέριστος*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;τερπνός*SBJ;n;αἰών*PRED;v;εἰμί#</sword>
+   <sword>SBJ;n;αἰών*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+</sentence>
+<sentence id="61" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*SBJ;n;ὅμηρος*PRED;v;φημί#</sword>
+   <sword>SBJ;n;ὅμηρος*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;n;εὐφροσύνη*COORD;c;καί*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ_CO;n;εὐφροσύνη*COORD;c;καί*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;v;εὐφραίνω*COORD;c;καί*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ_CO;v;εὐφραίνω*COORD;c;καί*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PNOM;n;τέλος*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ATR;a;χαρίεις*PNOM;n;τέλος*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;δαιτυμών*ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>OBJ;n;ἀοιδός1*ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*COORD;c;δέ*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;d;παρά*ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>COORD;c;δέ*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;τράπεζα*ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="62" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;n;θεός*OBJ_CO_ExD1_nil;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>SBJ;n;θεός*OBJ_CO_ExD1_nil;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>OBJ_CO_ExD1_nil;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;d;ῥεῖα*PNOM;v;ζώω*OBJ_CO_ExD1_nil;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PNOM;v;ζώω*OBJ_CO_ExD1_nil;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxG;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*SBJ;d;ῥεῖα*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;εἰμί#</sword>
+   <sword>SBJ;d;ῥεῖα*PRED;v;εἰμί#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>PNOM;d;ἄπονος*PRED;v;εἰμί#</sword>
+   <sword>AuxG;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>AuxZ;d;ὥσπερ*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>PNOM;a;μέγας*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ATR;a;κακός*PNOM;a;μέγας*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>ATR;a;κακός*PNOM;a;μέγας*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;n;ταλαιπωρία*COORD;c;καί*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>AuxP;r;περί*COORD;c;καί*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ATR;v;ζάω*AuxP;r;περί*COORD;c;καί*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>ATR;v;ζάω*AuxP;r;περί*COORD;c;καί*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>SBJ_CO;n;ταλαιπωρία*COORD;c;καί*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;n;πόνος*COORD;c;καί*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>SBJ_CO;n;πόνος*COORD;c;καί*OBJ;v;εἰμί*AuxC;c;ὅτι1*ADV;v;ἐνδείκνυμι*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="63" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;διόπερ*PRED;v;ἐπιτιμάω#</sword>
+   <sword>AuxZ;d;καί*SBJ;n;Μεγακλείδης*PRED;v;ἐπιτιμάω#</sword>
+   <sword>SBJ;n;Μεγακλείδης*PRED;v;ἐπιτιμάω#</sword>
+   <sword>PRED;v;ἐπιτιμάω#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>AuxP;r;μετά*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>ATR_CO;n;ὅμηρος*COORD;c;καί*AuxP;r;μετά*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>COORD;c;καί*AuxP;r;μετά*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>ATR_CO;n;Ἡσίοδος*COORD;c;καί*AuxP;r;μετά*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>SBJ;a;ὅσος*ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>AuxP;r;περί*ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>ADV;n;Ἡρακλῆς*AuxP;r;περί*ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>AuxC;c;ὡς*ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>OBJ;n;στρατόπεδον*OBJ_CO;v;ἡγέομαι*COORD;c;καί*AuxC;c;ὡς*ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>OBJ_CO;v;ἡγέομαι*COORD;c;καί*AuxC;c;ὡς*ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>COORD;c;καί*AuxC;c;ὡς*ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>OBJ;n;πόλις*OBJ_CO;v;αἱρέω*COORD;c;καί*AuxC;c;ὡς*ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>OBJ_CO;v;αἱρέω*COORD;c;καί*AuxC;c;ὡς*ATR;v;ἐρῶ*OBJ;n;ποιητής*PRED;v;ἐπιτιμάω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="64" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;p;ὅς*PRED;v;διατελέω#</sword>
+   <sword>AuxP;r;μετά*PRED;v;διατελέω#</sword>
+   <sword>ADV;n;ἡδονά*AuxP;r;μετά*PRED;v;διατελέω#</sword>
+   <sword>ATR;a;πλεῖστος*ADV;n;ἡδονά*AuxP;r;μετά*PRED;v;διατελέω#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;βίος*PRED;v;διατελέω#</sword>
+   <sword>AuxP;r;μετά*OBJ;n;βίος*PRED;v;διατελέω#</sword>
+   <sword>ATR;n;ἄνθρωπος*AuxP;r;μετά*OBJ;n;βίος*PRED;v;διατελέω#</sword>
+   <sword>OBJ;n;βίος*PRED;v;διατελέω#</sword>
+   <sword>PRED;v;διατελέω#</sword>
+   <sword>AuxX;u;punc1*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>ATR;a;πλεῖστος*OBJ;n;γυνή*ADV;v;γαμέω*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>OBJ;n;γυνή*ADV;v;γαμέω*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>ADV;v;γαμέω*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>AuxX;u;punc1*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>AuxP;r;ἐκ*ADV;v;παιδοποιέω*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>ATR;a;πλεῖστος*OBJ;n;παρθένος*AuxP;r;ἐκ*ADV;v;παιδοποιέω*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>ADV;d;λάθρῃ*ADV;v;παιδοποιέω*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>OBJ;n;παρθένος*AuxP;r;ἐκ*ADV;v;παιδοποιέω*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>ADV;v;παιδοποιέω*COORD;c;δέ*PRED;v;διατελέω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="65" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;εἶπον#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;εἶπον#</sword>
+   <sword>AuxY;d;ἄν1*PRED;v;εἶπον#</sword>
+   <sword>SBJ;p;τις*PRED;v;εἶπον#</sword>
+   <sword>AuxP;r;πρός*PRED;v;εἶπον#</sword>
+   <sword>ATR;l;ὁ*OBJ;v;παραδέχομαι*AuxP;r;πρός*PRED;v;εἶπον#</sword>
+   <sword>AuxZ;d;οὐκ*OBJ;v;παραδέχομαι*AuxP;r;πρός*PRED;v;εἶπον#</sword>
+   <sword>OBJ;p;οὗτος*OBJ;v;παραδέχομαι*AuxP;r;πρός*PRED;v;εἶπον#</sword>
+   <sword>OBJ;v;παραδέχομαι*AuxP;r;πρός*PRED;v;εἶπον#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="66" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ADV;d;πόθεν*PRED_CO;v;ἀνατίθημι*COORD;c;ἤ1#</sword>
+   <sword>AuxX;u;punc1*ExD;p;οὗτος*COORD;c;ἤ1#</sword>
+   <sword>AuxZ;i;ὦ*ExD;p;οὗτος*COORD;c;ἤ1#</sword>
+   <sword>ExD;p;οὗτος*COORD;c;ἤ1#</sword>
+   <sword>AuxX;u;punc1*ExD;p;οὗτος*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;σπουδή*PRED_CO;v;ἀνατίθημι*COORD;c;ἤ1#</sword>
+   <sword>AuxP;r;περί*OBJ;n;σπουδή*PRED_CO;v;ἀνατίθημι*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἐδωδή*AuxP;r;περί*OBJ;n;σπουδή*PRED_CO;v;ἀνατίθημι*COORD;c;ἤ1#</sword>
+   <sword>ATR;n;ἐδωδή*AuxP;r;περί*OBJ;n;σπουδή*PRED_CO;v;ἀνατίθημι*COORD;c;ἤ1#</sword>
+   <sword>OBJ;p;αὐτός*OBJ;n;σπουδή*PRED_CO;v;ἀνατίθημι*COORD;c;ἤ1#</sword>
+   <sword>OBJ;n;σπουδή*PRED_CO;v;ἀνατίθημι*COORD;c;ἤ1#</sword>
+   <sword>PRED_CO;v;ἀνατίθημι*COORD;c;ἤ1#</sword>
+   <sword>AuxX;u;punc1*PRED_CO;v;ἀνατίθημι*COORD;c;ἤ1#</sword>
+   <sword>AuxY;d;ἤ1*COORD;c;ἤ1#</sword>
+   <sword>ADV;d;πόθεν*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>AuxP;r;εἰς*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>ATV;l;ὁ*ADV;n;ἄνθρωπος*AuxP;r;εἰς*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>ADV;n;ἄνθρωπος*AuxP;r;εἰς*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*SBJ;v;ὑπολείπω*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*ATR;n;κύλιξ*SBJ;v;ὑπολείπω*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>ATR;a;λοιβαῖος*ATR;n;κύλιξ*SBJ;v;ὑπολείπω*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>ATR;n;κύλιξ*SBJ;v;ὑπολείπω*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>OBJ;p;μηδείς*SBJ;v;ὑπολείπω*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>SBJ;v;ὑπολείπω*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;εἰ*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>AuxC;c;εἰ*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>AuxZ;d;μή*ADV;v;δοκιμάζω*AuxC;c;εἰ*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>OBJ;l;ὁ*ADV;v;δοκιμάζω*AuxC;c;εἰ*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>AuxP;r;περί*OBJ;l;ὁ*ADV;v;δοκιμάζω*AuxC;c;εἰ*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἡδονή*AuxP;r;περί*OBJ;l;ὁ*ADV;v;δοκιμάζω*AuxC;c;εἰ*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>ATR;n;ἡδονή*AuxP;r;περί*OBJ;l;ὁ*ADV;v;δοκιμάζω*AuxC;c;εἰ*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>ADV;v;δοκιμάζω*AuxC;c;εἰ*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;εἰ*PRED_CO;v;παρέρχομαι*COORD;c;ἤ1#</sword>
+   <sword>AuxY;d;ἤ1*COORD;c;ἤ1#</sword>
+   <sword>AuxP;r;διά*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>ADV;x;τίς*AuxP;r;διά*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;λουτρόν*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>ATR;a;θερμός*SBJ;n;λουτρόν*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>SBJ;n;λουτρόν*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*ATR;v;φαίνω*SBJ;n;λουτρόν*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>ATR;v;φαίνω*SBJ;n;λουτρόν*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>AuxP;r;ἐκ*ATR;v;φαίνω*SBJ;n;λουτρόν*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*ADV;n;γῆ*AuxP;r;ἐκ*ATR;v;φαίνω*SBJ;n;λουτρόν*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>ADV;n;γῆ*AuxP;r;ἐκ*ATR;v;φαίνω*SBJ;n;λουτρόν*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>SBJ;a;πᾶς*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>ATR;n;Ἡρακλῆς*PNOM;a;ἱερός*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>PNOM;a;ἱερός*OBJ;v;εἰμί*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>AuxX;u;punc1*PRED_CO;v;φημί*COORD;c;ἤ1#</sword>
+   <sword>COORD;c;ἤ1#</sword>
+   <sword>AuxP;r;διά*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>ADV;x;τίς*AuxP;r;διά*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;στρωμνή*OBJ;v;καλέω*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>ATR;a;μαλακός*OBJ;n;στρωμνή*OBJ;v;καλέω*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>OBJ;n;στρωμνή*OBJ;v;καλέω*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>ATR;n;Ἡρακλῆς*OCOMP;n;κοίτη*OBJ;v;καλέω*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>OCOMP;n;κοίτη*OBJ;v;καλέω*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>OBJ;v;καλέω*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;εἰ*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>AuxC;c;εἰ*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>ADV;v;καταφρονέω*AuxC;c;εἰ*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>ATR;l;ὁ*OBJ;v;ζάω*ADV;v;καταφρονέω*AuxC;c;εἰ*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>ADV;d;ἡδέως*OBJ;v;ζάω*ADV;v;καταφρονέω*AuxC;c;εἰ*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>OBJ;v;ζάω*ADV;v;καταφρονέω*AuxC;c;εἰ*PRED_CO;v;ἔθω*COORD;c;ἤ1#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="67" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>AuxY;d;οὖν*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;ποιητής*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>ATR;a;νέος*SBJ;n;ποιητής*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>SBJ;n;ποιητής*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>ATR;n;ληιστής*ATV;n;σχῆμα*AuxP;r;ἐν*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>ATV;n;σχῆμα*AuxP;r;ἐν*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>AtvV;a;μόνος*ATR;v;περιπορεύομαι*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>ATR;v;περιπορεύομαι*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>COORD;u;punc1*ATR;v;περιπορεύομαι*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;n;ξύλον*COORD;c;καί*ATR;v;ἔχω*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>ATR;v;ἔχω*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>AuxY;d;καί*COORD;c;καί*ATR;v;ἔχω*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;n;λεοντέη*COORD;c;καί*ATR;v;ἔχω*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*ATR;v;ἔχω*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;n;τόξον*COORD;c;καί*ATR;v;ἔχω*OBJ;p;οὗτος*OBJ;v;κατασκευάζω*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="68" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καί*PRED;;#</sword>
+   <sword>OBJ;p;οὗτος*OBJ;v;πλάσσω*PRED;;#</sword>
+   <sword>OBJ;v;πλάσσω*PRED;;#</sword>
+   <sword>AtvV;a;πρῶτος*OBJ;v;πλάσσω*PRED;;#</sword>
+   <sword>SBJ;n;στησίχορος*OBJ;v;πλάσσω*PRED;;#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;στησίχορος*OBJ;v;πλάσσω*PRED;;#</sword>
+   <sword>ATR;a;Ἱμεραῖος*SBJ;n;στησίχορος*OBJ;v;πλάσσω*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="69" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>AuxY;d;δέ*PRED;v;περιτίθημι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>ATR;n;μελοποιός*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>AuxX;u;punc1*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>PNOM;a;πρέσβυς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>ADV;n;Στησίχορος*PNOM;a;πρέσβυς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>AuxZ;d;καί*ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>ATV;a;αὐτός*SBJ;n;Στησίχορος*ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Στησίχορος*ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>SBJ;n;Στησίχορος*ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>AuxC;c;ὡς*ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>ADV;v;φημί*AuxC;c;ὡς*ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Μεγακλείδης*ADV;v;φημί*AuxC;c;ὡς*ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>SBJ;n;Μεγακλείδης*ADV;v;φημί*AuxC;c;ὡς*ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*ADV;v;μαρτυρέω*AuxC;c;ὡς*ATR;v;εἰμί*SBJ;n;Ξάνθος*PRED;v;περιτίθημι#</sword>
+   <sword>AuxZ;d;οὐ*ATR_CO;a;οὗτος*COORD;c;ἀλλά*OBJ;n;στολή*PRED;v;περιτίθημι#</sword>
+   <sword>ATR_CO;a;οὗτος*COORD;c;ἀλλά*OBJ;n;στολή*PRED;v;περιτίθημι#</sword>
+   <sword>OBJ;p;αὐτός*PRED;v;περιτίθημι#</sword>
+   <sword>PRED;v;περιτίθημι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;στολή*PRED;v;περιτίθημι#</sword>
+   <sword>OBJ;n;στολή*PRED;v;περιτίθημι#</sword>
+   <sword>AuxX;u;punc1*COORD;c;ἀλλά*OBJ;n;στολή*PRED;v;περιτίθημι#</sword>
+   <sword>COORD;c;ἀλλά*OBJ;n;στολή*PRED;v;περιτίθημι#</sword>
+   <sword>ATR_CO;l;ὁ*COORD;c;ἀλλά*OBJ;n;στολή*PRED;v;περιτίθημι#</sword>
+   <sword>ATR;a;Ὁμηρικός*ATR_CO;l;ὁ*COORD;c;ἀλλά*OBJ;n;στολή*PRED;v;περιτίθημι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="70" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>OBJ_CO;a;πολύς*PRED;v;παραποιέω#</sword>
+   <sword>AuxY;d;δέ*PRED;v;παραποιέω#</sword>
+   <sword>ATR;l;ὁ*OBJ_CO;a;πολύς*PRED;v;παραποιέω#</sword>
+   <sword>ATR;n;Ξάνθος*ATR;l;ὁ*OBJ_CO;a;πολύς*PRED;v;παραποιέω#</sword>
+   <sword>PRED;v;παραποιέω#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Στησίχορος*PRED;v;παραποιέω#</sword>
+   <sword>SBJ;n;Στησίχορος*PRED;v;παραποιέω#</sword>
+   <sword>COORD;u;punc1*AuxC;d;ὥσπερ*PRED;v;παραποιέω#</sword>
+   <sword>AuxC;d;ὥσπερ*PRED;v;παραποιέω#</sword>
+   <sword>AuxZ;d;καί*OBJ;v;καλέω*ADV;v;παραποιέω*AuxC;d;ὥσπερ*PRED;v;παραποιέω#</sword>
+   <sword>ATR;l;ὁ*OBJ;v;καλέω*ADV;v;παραποιέω*AuxC;d;ὥσπερ*PRED;v;παραποιέω#</sword>
+   <sword>PNOM;n;Ὀρέστεια*OBJ;v;καλέω*ADV;v;παραποιέω*AuxC;d;ὥσπερ*PRED;v;παραποιέω#</sword>
+   <sword>OBJ;v;καλέω*ADV;v;παραποιέω*AuxC;d;ὥσπερ*PRED;v;παραποιέω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;v;παραποιέω*AuxC;d;ὥσπερ*PRED;v;παραποιέω#</sword>
+</sentence>
+<sentence id="71" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;n;Ἀντισθένης*PRED;v;προστίθημι#</sword>
+   <sword>AuxY;d;δέ*PRED;v;προστίθημι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;ἡδονή*OBJ;v;εἰμί*ADV;v;φάσκω*PRED;v;προστίθημι#</sword>
+   <sword>SBJ;n;ἡδονή*OBJ;v;εἰμί*ADV;v;φάσκω*PRED;v;προστίθημι#</sword>
+   <sword>PNOM;a;ἀγαθός*OBJ;v;εἰμί*ADV;v;φάσκω*PRED;v;προστίθημι#</sword>
+   <sword>OBJ;v;εἰμί*ADV;v;φάσκω*PRED;v;προστίθημι#</sword>
+   <sword>ADV;v;φάσκω*PRED;v;προστίθημι#</sword>
+   <sword>PRED;v;προστίθημι#</sword>
+   <sword>OBJ;l;ὁ*OBJ;a;ἀμεταμέλητος*PRED;v;προστίθημι#</sword>
+   <sword>OBJ;a;ἀμεταμέλητος*PRED;v;προστίθημι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="72" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;n;Ὀδυσσεύς*PRED;v;δοκέω#</sword>
+   <sword>AuxY;d;δέ*PRED;v;δοκέω#</sword>
+   <sword>AuxP;r;παρά*SBJ;n;Ὀδυσσεύς*PRED;v;δοκέω#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Ὅμηρος*AuxP;r;παρά*SBJ;n;Ὀδυσσεύς*PRED;v;δοκέω#</sword>
+   <sword>ATR;n;Ὅμηρος*AuxP;r;παρά*SBJ;n;Ὀδυσσεύς*PRED;v;δοκέω#</sword>
+   <sword>SBJ;n;Ὀδυσσεύς*PRED;v;δοκέω#</sword>
+   <sword>PNOM;n;ἡγεμών*OBJ;v;γίγνομαι*PRED;v;δοκέω#</sword>
+   <sword>PRED;v;δοκέω#</sword>
+   <sword>OBJ;v;γίγνομαι*PRED;v;δοκέω#</sword>
+   <sword>ATR;n;Ἐπίκουρος*PNOM;n;ἡγεμών*OBJ;v;γίγνομαι*PRED;v;δοκέω#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἡδονά*PNOM;n;ἡγεμών*OBJ;v;γίγνομαι*PRED;v;δοκέω#</sword>
+   <sword>ATR;a;πολυθρύλητος*ATR;n;ἡδονά*PNOM;n;ἡγεμών*OBJ;v;γίγνομαι*PRED;v;δοκέω#</sword>
+   <sword>ATR;n;ἡδονά*PNOM;n;ἡγεμών*OBJ;v;γίγνομαι*PRED;v;δοκέω#</sword>
+   <sword>AuxX;u;punc1*ATR;v;φημί*SBJ;n;Ὀδυσσεύς*PRED;v;δοκέω#</sword>
+   <sword>SBJ;p;ὅς*ATR;v;φημί*SBJ;n;Ὀδυσσεύς*PRED;v;δοκέω#</sword>
+   <sword>ATR;v;φημί*SBJ;n;Ὀδυσσεύς*PRED;v;δοκέω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="73" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;οὐ*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;φημί#</sword>
+   <sword>SBJ;p;ἐγώ*PRED;v;φημί#</sword>
+   <sword>ATR;p;τις*SBJ;n;τέλος*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>SBJ;n;τέλος*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;εὐφροσύνη*ADV_CO;v;ἔχω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV_CO;v;ἔχω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxP;r;κατά*ADV_CO;v;ἔχω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;n;δῆμος*AuxP;r;κατά*ADV_CO;v;ἔχω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ATR;a;ἅπας*ADV;n;δῆμος*AuxP;r;κατά*ADV_CO;v;ἔχω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;δαιτυμών*ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἀνά*ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;n;δῶμα*AuxP;r;ἀνά*ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>OBJ;n;ἀοιδός1*ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ATR;t;ἧμαι*SBJ;n;δαιτυμών*ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;d;ἑξῆς*ATR;t;ἧμαι*SBJ;n;δαιτυμών*ADV_CO;v;ἀκουάζομαι*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;d;παρά*ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;τράπεζα*ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;n;σῖτος*COORD;c;καί*ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;n;κρέας*COORD;c;καί*ADV_CO;v;πλήθω*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>OBJ;n;μέθυ*COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐκ*ADV;v;ἀφύσσω*COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;n;κρατήρ*AuxP;r;ἐκ*ADV;v;ἀφύσσω*COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;v;ἀφύσσω*COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;οἰνοχόος*COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV_CO;v;παρέχω*COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV_CO;v;ἐγχύνω*COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>OBJ;n;δέπας*ADV_CO;v;ἐγχύνω*COORD;c;καί*COORD;c;δέ*AuxC;c;ὅταν*ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;;*AuxC;c;ἤ*PNOM;a;χαρίεις*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+</sentence>
+<sentence id="74" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;p;οὗτος*PRED;v;εἴδομαι#</sword>
+   <sword>AuxZ;p;τίς*PRED;v;εἴδομαι#</sword>
+   <sword>ATR;p;ἐγώ*ADV;n;φρήν*AuxP;r;ἐν*PRED;v;εἴδομαι#</sword>
+   <sword>PNOM;a;καλός*OBJ;v;εἰμί*PRED;v;εἴδομαι#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;εἴδομαι#</sword>
+   <sword>ADV;n;φρήν*AuxP;r;ἐν*PRED;v;εἴδομαι#</sword>
+   <sword>PRED;v;εἴδομαι#</sword>
+   <sword>OBJ;v;εἰμί*PRED;v;εἴδομαι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="75" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;n;Μεγακλείδης*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>SBJ;n;Μεγακλείδης*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Ὀδυσσεύς*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>SBJ;n;Ὀδυσσεύς*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ADV;v;καθομιλέω*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;καιρός*ADV;v;καθομιλέω*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>OBJ;n;καιρός*ADV;v;καθομιλέω*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ὑπέρ*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;v;δοκέω*AuxP;r;ὑπέρ*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ADV;v;δοκέω*AuxP;r;ὑπέρ*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>PNOM;a;ὁμοήθης*OBJ;v;εἰμί*ADV;v;δοκέω*AuxP;r;ὑπέρ*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;φαίαξ*PNOM;a;ὁμοήθης*OBJ;v;εἰμί*ADV;v;δοκέω*AuxP;r;ὑπέρ*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ADV;n;φαίαξ*PNOM;a;ὁμοήθης*OBJ;v;εἰμί*ADV;v;δοκέω*AuxP;r;ὑπέρ*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>OBJ;v;εἰμί*ADV;v;δοκέω*AuxP;r;ὑπέρ*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*OBJ;a;ἁβροδίαιτος*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>OBJ;a;ἁβροδίαιτος*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ATR;p;αὐτός*OBJ;a;ἁβροδίαιτος*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*ADV;v;προπυνθάνομαι*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ADV;v;προπυνθάνομαι*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;Ἀλκίνοος*ADV;v;προπυνθάνομαι*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>OBJ;n;Ἀλκίνοος*ADV;v;προπυνθάνομαι*OBJ;v;ἀσπάζομαι*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="76" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ADV;d;ἀεί*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;εἰμί#</sword>
+   <sword>ADV;p;ἐγώ*PNOM;n;φῖλος*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;δαίς1*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;τε*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>PNOM;n;φῖλος*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;κίθαρις*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;τε*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;χορός*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;τε*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;εἷμα*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;τε*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;ἐξημοιβός*SBJ_CO;n;εἷμα*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;λουτρόν*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;τε*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;θερμός*SBJ_CO;n;λουτρόν*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>SBJ_CO;n;εὐνή*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+</sentence>
+<sentence id="77" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;μόνως*ADV;d;οὕτως*PRED;v;οἴομαι#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;οἴομαι#</sword>
+   <sword>ADV;d;οὕτως*PRED;v;οἴομαι#</sword>
+   <sword>PRED;v;οἴομαι#</sword>
+   <sword>OBJ;p;ὅς*OBJ;v;ἐλπίζω*OBJ;v;διαμαρτάνω*PRED;v;οἴομαι#</sword>
+   <sword>OBJ;v;ἐλπίζω*OBJ;v;διαμαρτάνω*PRED;v;οἴομαι#</sword>
+   <sword>AuxZ;d;μή*OBJ;v;διαμαρτάνω*PRED;v;οἴομαι#</sword>
+   <sword>OBJ;v;διαμαρτάνω*PRED;v;οἴομαι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="78" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PNOM;p;τοιοῦτος*PRED;v;εἰμί#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>AuxZ;d;καί*SBJ;v;παραινέω*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*SBJ;v;παραινέω*PRED;v;εἰμί#</sword>
+   <sword>SBJ;v;παραινέω*PRED;v;εἰμί#</sword>
+   <sword>ATR;n;Ἀμφίλοχος*OBJ;n;παῖς*SBJ;v;παραινέω*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;παῖς*SBJ;v;παραινέω*PRED;v;εἰμί#</sword>
+   <sword>OBJ;n;παῖς*SBJ;v;παραινέω*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="79" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;i;ὦ*ExD;n;τέκνον*PRED;v;ὁμιλέω#</sword>
+   <sword>ExD;n;τέκνον*PRED;v;ὁμιλέω#</sword>
+   <sword>AuxX;u;punc1*ExD;n;τέκνον*PRED;v;ὁμιλέω#</sword>
+   <sword>ATR;a;πόντιος*ATR;n;θήρ*OBJ;n;χρώς*ADV;v;προσφέρω*PRED;v;ὁμιλέω#</sword>
+   <sword>ATR;n;θήρ*OBJ;n;χρώς*ADV;v;προσφέρω*PRED;v;ὁμιλέω#</sword>
+   <sword>ATR;a;πετραῖος*ATR;n;θήρ*OBJ;n;χρώς*ADV;v;προσφέρω*PRED;v;ὁμιλέω#</sword>
+   <sword>OBJ;n;χρώς*ADV;v;προσφέρω*PRED;v;ὁμιλέω#</sword>
+   <sword>AuxZ;d;μάλιστα*ADV;v;προσφέρω*PRED;v;ὁμιλέω#</sword>
+   <sword>OBJ;n;νόος*ADV;v;προσφέρω*PRED;v;ὁμιλέω#</sword>
+   <sword>ADV;v;προσφέρω*PRED;v;ὁμιλέω#</sword>
+   <sword>ATR;a;πᾶς*OBJ;n;πόλις*PRED;v;ὁμιλέω#</sword>
+   <sword>OBJ;n;πόλις*PRED;v;ὁμιλέω#</sword>
+   <sword>PRED;v;ὁμιλέω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="80" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*OBJ;v;πάρειμι1*ADV;v;ἐπαινέω*PRED;v;φρονέω#</sword>
+   <sword>OBJ;v;πάρειμι1*ADV;v;ἐπαινέω*PRED;v;φρονέω#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φρονέω#</sword>
+   <sword>ADV;v;ἐπαινέω*PRED;v;φρονέω#</sword>
+   <sword>ATV;a;ἑκών*PRED;v;φρονέω#</sword>
+   <sword>ADV;d;ἄλλοτε*PRED;v;φρονέω#</sword>
+   <sword>OBJ;a;ἀλλοῖος*PRED;v;φρονέω#</sword>
+   <sword>PRED;v;φρονέω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="81" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ADV;d;ὅμοιος*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxZ;d;καί*SBJ;n;Σοφοκλῆς*PRED;v;φημί#</sword>
+   <sword>SBJ;n;Σοφοκλῆς*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ADV;n;Ἰφιγενεία*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="82" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;νοέω#</sword>
+   <sword>AuxP;r;πρός*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>OBJ;n;ἀνήρ*AuxP;r;πρός*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὅπως*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>OBJ;n;σῶμα*ADV;;*AuxC;c;ὅπως*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>SBJ;n;πολύπους2*ADV;;*AuxC;c;ὅπως*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>AuxC;c;ὅπως*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>OBJ;n;πέτρα*ADV;;*AuxC;c;ὅπως*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὅπως*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>ATR;a;γνήσιος*ATR;n;φρόνημα*OBJ;n;ἀνήρ*AuxP;r;πρός*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>ATR;n;φρόνημα*OBJ;n;ἀνήρ*AuxP;r;πρός*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+   <sword>AuxX;u;punc1#</sword>
+   <sword>ADV;;*AuxC;c;ὅπως*OBJ;v;τρέπω*PRED;v;νοέω#</sword>
+</sentence>
+<sentence id="83" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Θέογνις*PRED;;#</sword>
+   <sword>SBJ;n;Θέογνις*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="84" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;n;πολύπους2*OBJ;n;ὀργή*PRED;v;ἴσχω#</sword>
+   <sword>OBJ;n;ὀργή*PRED;v;ἴσχω#</sword>
+   <sword>PRED;v;ἴσχω#</sword>
+   <sword>ATR;a;πολύπλοκος*ATR;n;πολύπους2*OBJ;n;ὀργή*PRED;v;ἴσχω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="85" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;εἰμί#</sword>
+   <sword>SBJ;p;ὅς*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;οὗτος*PNOM;n;γνώμη*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*PNOM;n;γνώμη*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>PNOM;n;γνώμη*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;ὅμηρος*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>SBJ;n;ὅμηρος*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1*ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;βίος*ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;σπουδαῖος*OBJ;n;βίος*ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>OBJ;n;βίος*ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>AuxZ;d;πολλάκις*ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>OBJ;l;ὁ*ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;κατά*OBJ;l;ὁ*ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>ATR;n;ἡδονά*AuxP;r;κατά*OBJ;l;ὁ*ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1*ADV;v;προτάσσω*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>ADV;v;λέγω2*OBJ;v;εἰμί*SBJ;v;φημί*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="86" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;n;θεός*PRED_CO;v;ἀγοράομαι*COORD;c;δέ#</sword>
+   <sword>AuxY;d;δέ*COORD;c;δέ#</sword>
+   <sword>SBJ;n;θεός*PRED_CO;v;ἀγοράομαι*COORD;c;δέ#</sword>
+   <sword>AuxP;r;παρά*ADV;v;κάθημαι*PRED_CO;v;ἀγοράομαι*COORD;c;δέ#</sword>
+   <sword>ADV;n;Ζεύς*AuxP;r;παρά*ADV;v;κάθημαι*PRED_CO;v;ἀγοράομαι*COORD;c;δέ#</sword>
+   <sword>ADV;v;κάθημαι*PRED_CO;v;ἀγοράομαι*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;ἀγοράομαι*COORD;c;δέ#</sword>
+   <sword>ATR;a;χρύσεος*ADV;n;δάπεδον*AuxP;r;ἐν*ADV;v;κάθημαι*PRED_CO;v;ἀγοράομαι*COORD;c;δέ#</sword>
+   <sword>AuxP;r;ἐν*ADV;v;κάθημαι*PRED_CO;v;ἀγοράομαι*COORD;c;δέ#</sword>
+   <sword>ADV;n;δάπεδον*AuxP;r;ἐν*ADV;v;κάθημαι*PRED_CO;v;ἀγοράομαι*COORD;c;δέ#</sword>
+   <sword>AuxX;u;punc1*PRED_CO;v;οἰνοχοέω*COORD;c;δέ#</sword>
+   <sword>AuxP;r;μετά*PRED_CO;v;οἰνοχοέω*COORD;c;δέ#</sword>
+   <sword>AuxY;d;δέ*COORD;c;δέ#</sword>
+   <sword>ADV;p;σφεῖς*AuxP;r;μετά*PRED_CO;v;οἰνοχοέω*COORD;c;δέ#</sword>
+   <sword>ATR;n;πότνια*SBJ;n;Ἥβη*PRED_CO;v;οἰνοχοέω*COORD;c;δέ#</sword>
+   <sword>SBJ;n;Ἥβη*PRED_CO;v;οἰνοχοέω*COORD;c;δέ#</sword>
+   <sword>OBJ;n;νέκταρ*PRED_CO;v;οἰνοχοέω*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;οἰνοχοέω*COORD;c;δέ#</sword>
+   <sword>AuxX;u;punc1*PRED_CO;v;οἰνοχοέω*COORD;c;δέ#</sword>
+   <sword>SBJ;l;ὁ*PRED_CO;v;δέχομαι*COORD;c;δέ#</sword>
+   <sword>COORD;c;δέ#</sword>
+   <sword>ATR;a;χρύσεος*ADV;n;δέπας*PRED_CO;v;δέχομαι*COORD;c;δέ#</sword>
+   <sword>ADV;n;δέπας*PRED_CO;v;δέχομαι*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;δέχομαι*COORD;c;δέ#</sword>
+   <sword>OBJ;p;ἀλλήλων*PRED_CO;v;δέχομαι*COORD;c;δέ#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="87" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*SBJ;n;Μενέλαος*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Μενέλαος*PRED;v;φημί#</sword>
+   <sword>SBJ;n;Μενέλαος*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>AuxP;r;παρά*PRED;v;φημί#</sword>
+   <sword>ADV;p;αὐτός*AuxP;r;παρά*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="88" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;οὐδέ*PRED;v;διακρίνω#</sword>
+   <sword>AuxY;d;ἄν1*PRED;v;διακρίνω#</sword>
+   <sword>OBJ;p;ἐγώ*PRED;v;διακρίνω#</sword>
+   <sword>SBJ;p;ἄλλος*PRED;v;διακρίνω#</sword>
+   <sword>PRED;v;διακρίνω#</sword>
+   <sword>ADV_CO;v;φιλέω*COORD;c;τε*OBJ;p;ἐγώ*PRED;v;διακρίνω#</sword>
+   <sword>AuxY;d;τε*COORD;c;τε*OBJ;p;ἐγώ*PRED;v;διακρίνω#</sword>
+   <sword>ADV_CO;v;τέρπω*COORD;c;τε*OBJ;p;ἐγώ*PRED;v;διακρίνω#</sword>
+   <sword>COORD;c;τε*OBJ;p;ἐγώ*PRED;v;διακρίνω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="89" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY_ExD0_PRED;d;καί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="90" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;κάθημαι#</sword>
+   <sword>ADV;v;δαίνυμι*PRED;v;κάθημαι#</sword>
+   <sword>OBJ_CO;n;κρέας*COORD;c;καί*ADV;v;δαίνυμι*PRED;v;κάθημαι#</sword>
+   <sword>AuxY;d;τε*COORD;c;καί*ADV;v;δαίνυμι*PRED;v;κάθημαι#</sword>
+   <sword>ATR;a;ἄσπετος*OBJ_CO;n;κρέας*COORD;c;καί*ADV;v;δαίνυμι*PRED;v;κάθημαι#</sword>
+   <sword>COORD;c;καί*ADV;v;δαίνυμι*PRED;v;κάθημαι#</sword>
+   <sword>OBJ_CO;n;μέθυ*COORD;c;καί*ADV;v;δαίνυμι*PRED;v;κάθημαι#</sword>
+   <sword>ATR;a;ἡδύς*OBJ_CO;n;μέθυ*COORD;c;καί*ADV;v;δαίνυμι*PRED;v;κάθημαι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="91" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;διόπερ*PRED;v;τίθημι#</sword>
+   <sword>AuxZ;d;καί*SBJ;n;Ὀδυσσεύς*PRED;v;τίθημι#</sword>
+   <sword>SBJ;n;Ὀδυσσεύς*PRED;v;τίθημι#</sword>
+   <sword>OBJ_CO;n;τρυφή*COORD;c;καί*PRED;v;τίθημι#</sword>
+   <sword>COORD;c;καί*PRED;v;τίθημι#</sword>
+   <sword>OBJ_CO;n;λαγνεία*COORD;c;καί*PRED;v;τίθημι#</sword>
+   <sword>OCOMP;n;τέλος*PRED;v;τίθημι#</sword>
+   <sword>ATR;l;ὁ*ATR;n;βίος*OCOMP;n;τέλος*PRED;v;τίθημι#</sword>
+   <sword>ATR;n;βίος*OCOMP;n;τέλος*PRED;v;τίθημι#</sword>
+   <sword>AuxP;r;παρά*PRED;v;τίθημι#</sword>
+   <sword>ATR;l;ὁ*ADV;n;Ἀλκίνοος*AuxP;r;παρά*PRED;v;τίθημι#</sword>
+   <sword>ADV;n;Ἀλκίνοος*AuxP;r;παρά*PRED;v;τίθημι#</sword>
+   <sword>PRED;v;τίθημι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="92" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PNOM;a;διαβόητος*PRED;v;γίγνομαι#</sword>
+   <sword>AuxY;d;δέ*PRED;v;γίγνομαι#</sword>
+   <sword>AuxP;r;ἐπί*PNOM;a;διαβόητος*PRED;v;γίγνομαι#</sword>
+   <sword>ADV;n;τρυφή*AuxP;r;ἐπί*PNOM;a;διαβόητος*PRED;v;γίγνομαι#</sword>
+   <sword>PRED;v;γίγνομαι#</sword>
+   <sword>ATV;a;πρῶτος*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>ATR;a;πᾶς*ATR;n;ἄνθρωπος*ATV;a;πρῶτος*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>ATR;n;ἄνθρωπος*ATV;a;πρῶτος*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>AuxX;u;punc1*ATR_CO;v;χειμάζω*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>ATR;p;ὅς*SBJ;n;βασιλεύς*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>AuxZ;d;καί*SBJ;n;βασιλεύς*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;βασιλεύς*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>SBJ;n;βασιλεύς*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>ATR_CO;v;χειμάζω*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>AuxP;r;ἐν*ATR_CO;v;χειμάζω*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>ADV;n;Σοῦσα*AuxP;r;ἐν*ATR_CO;v;χειμάζω*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>AuxX;u;punc1*ATR_CO;v;θερίζω*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>ATR_CO;v;θερίζω*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>AuxP;r;ἐν*ATR_CO;v;θερίζω*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>ADV;n;Ἐκβάτανα*AuxP;r;ἐν*ATR_CO;v;θερίζω*COORD;c;δέ*SBJ;n;Πέρσης*PRED;v;γίγνομαι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="93" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>OBJ;v;καλέω*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Σοῦσα*OBJ;v;καλέω*PRED;v;φημί#</sword>
+   <sword>SBJ;n;Σοῦσα*OBJ;v;καλέω*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>SBJ_CO;n;Ἀριστόβουλος*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>SBJ_CO;n;Χάρης*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>AuxP;r;διά*OBJ;v;καλέω*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;ὡραιότης*AuxP;r;διά*OBJ;v;καλέω*PRED;v;φημί#</sword>
+   <sword>ADV;n;ὡραιότης*AuxP;r;διά*OBJ;v;καλέω*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;τόπος*ADV;n;ὡραιότης*AuxP;r;διά*OBJ;v;καλέω*PRED;v;φημί#</sword>
+   <sword>ATR;n;τόπος*ADV;n;ὡραιότης*AuxP;r;διά*OBJ;v;καλέω*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="94" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;n;σοῦσον*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxY;d;γάρ*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*ADV;n;φωνή*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;n;Ἕλλην*ADV;n;φωνή*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ADV;n;φωνή*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*PNOM;n;κρίνον*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>PNOM;n;κρίνον*OBJ;v;εἰμί*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="95" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxP;r;ἐν*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>ADV;n;Περσέπολις*AuxP;r;ἐν*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>AuxY;d;δέ*COORD;c;καί#</sword>
+   <sword>PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>OBJ;n;φθινόπωρον*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>COORD;c;καί#</sword>
+   <sword>AuxP;r;ἐν*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>ADV;n;Βαβυλών*AuxP;r;ἐν*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;μέρος*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>ATR;v;λείπω*OBJ;n;μέρος*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἐνιαυτός*OBJ;n;μέρος*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>ATR;n;ἐνιαυτός*OBJ;n;μέρος*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>OBJ;n;μέρος*PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED_CO;v;διατρίβω*COORD;c;καί#</sword>
+</sentence>
+<sentence id="96" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*ATR;n;Πάρθοι*SBJ;n;βασιλεύς*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;βασιλεύς*COORD;c;δέ#</sword>
+   <sword>ATR;n;Πάρθοι*SBJ;n;βασιλεύς*COORD;c;δέ#</sword>
+   <sword>AuxY;d;δέ*COORD;c;δέ#</sword>
+   <sword>SBJ;n;βασιλεύς*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;ἐαρίζω*COORD;c;δέ#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ#</sword>
+   <sword>AuxP;r;ἐν*PRED_CO;v;ἐαρίζω*COORD;c;δέ#</sword>
+   <sword>OBJ;n;Ῥάγα*AuxP;r;ἐν*PRED_CO;v;ἐαρίζω*COORD;c;δέ#</sword>
+   <sword>AuxX;u;punc1*PRED_CO;v;ἐαρίζω*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;χειμάζω*COORD;c;δέ#</sword>
+   <sword>COORD;c;δέ#</sword>
+   <sword>AuxP;r;ἐν*PRED_CO;v;χειμάζω*COORD;c;δέ#</sword>
+   <sword>OBJ;n;Βαβυλών*AuxP;r;ἐν*PRED_CO;v;χειμάζω*COORD;c;δέ#</sword>
+   <sword>AuxX;u;punc1#</sword>
+   <sword>AuxX;u;punc1*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*ExD;v;λείπω*AuxX;u;punc1*COORD;c;δέ#</sword>
+   <sword>ExD;v;λείπω*AuxX;u;punc1*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἐνιαυτός*ExD;v;λείπω*AuxX;u;punc1*COORD;c;δέ#</sword>
+   <sword>ATR;n;ἐνιαυτός*ExD;v;λείπω*AuxX;u;punc1*COORD;c;δέ#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="97" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>AuxY;d;δέ*PRED;v;ἀρνέομαι#</sword>
+   <sword>OBJ;p;ὅς*ATR;v;ἐπιτίθημι*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;v;ἐπιτίθημι*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;κεφαλή*ATR;v;ἐπιτίθημι*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>OBJ;n;κεφαλή*ATR;v;ἐπιτίθημι*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;βασιλεύς*ATR;v;ἐπιτίθημι*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Πέρσης*SBJ;n;βασιλεύς*ATR;v;ἐπιτίθημι*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;n;Πέρσης*SBJ;n;βασιλεύς*ATR;v;ἐπιτίθημι*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>SBJ;n;βασιλεύς*ATR;v;ἐπιτίθημι*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>AuxZ;d;οὐδέ*PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;a;αὐτός*SBJ;n;παράσημον*PRED;v;ἀρνέομαι#</sword>
+   <sword>PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;ἀπόλαυσις*PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;l;ὁ*ATR;n;ἡδυπάθεια*OBJ;n;ἀπόλαυσις*PRED;v;ἀρνέομαι#</sword>
+   <sword>ATR;n;ἡδυπάθεια*OBJ;n;ἀπόλαυσις*PRED;v;ἀρνέομαι#</sword>
+   <sword>OBJ;n;ἀπόλαυσις*PRED;v;ἀρνέομαι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="98" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;κατασκευάζω#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;κατασκευάζω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*PRED;v;κατασκευάζω#</sword>
+   <sword>AuxC;c;ὡς*PRED;v;κατασκευάζω#</sword>
+   <sword>ADV;v;φημί*AuxC;c;ὡς*PRED;v;κατασκευάζω#</sword>
+   <sword>SBJ;n;Δίνων*ADV;v;φημί*AuxC;c;ὡς*PRED;v;κατασκευάζω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*PRED;v;κατασκευάζω#</sword>
+   <sword>AuxP;r;ἐκ*PRED;v;κατασκευάζω#</sword>
+   <sword>OBJ_CO;n;σμύρνα*COORD;c;καί*AuxP;r;ἐκ*PRED;v;κατασκευάζω#</sword>
+   <sword>COORD;c;καί*AuxP;r;ἐκ*PRED;v;κατασκευάζω#</sword>
+   <sword>ATR;l;ὁ*OBJ_CO;v;καλέω*COORD;c;καί*AuxP;r;ἐκ*PRED;v;κατασκευάζω#</sword>
+   <sword>OBJ_CO;v;καλέω*COORD;c;καί*AuxP;r;ἐκ*PRED;v;κατασκευάζω#</sword>
+   <sword>PNOM;n;λάβυζος*OBJ_CO;v;καλέω*COORD;c;καί*AuxP;r;ἐκ*PRED;v;κατασκευάζω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="99" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PNOM_CO;a;εὐώδης*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;εἰμί#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;λάβυζος*PRED;v;εἰμί#</sword>
+   <sword>SBJ;n;λάβυζος*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>PNOM_CO;a;πολύτιμος*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;σμύρνα*PNOM_CO;a;πολύτιμος*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>ADV;n;σμύρνα*PNOM_CO;a;πολύτιμος*COORD;c;καί*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="100" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxC;c;ὁπότε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>AuxZ;d;καί*ADV;n;ἅρμα*AuxP;r;ἀπό*ADV;v;κάτειμι*AuxC;c;ὁπότε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἀπό*ADV;v;κάτειμι*AuxC;c;ὁπότε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;ἅρμα*AuxP;r;ἀπό*ADV;v;κάτειμι*AuxC;c;ὁπότε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ADV;n;ἅρμα*AuxP;r;ἀπό*ADV;v;κάτειμι*AuxC;c;ὁπότε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ADV;v;κάτειμι*AuxC;c;ὁπότε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*PRED;v;φημί#</sword>
+   <sword>SBJ;n;βασιλεύς*ADV;v;κάτειμι*AuxC;c;ὁπότε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*OBJ_CO;v;καθάλλομαι*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxY;d;οὔτε*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;v;καθάλλομαι*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>PNOM;a;ὀλίγος*ADV;v;εἰμί*OBJ_CO;v;καθάλλομαι*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ADV;v;εἰμί*OBJ_CO;v;καθάλλομαι*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐπί*SBJ;n;ὕψος*ADV;v;εἰμί*OBJ_CO;v;καθάλλομαι*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Γαῖα*AuxP;r;ἐπί*SBJ;n;ὕψος*ADV;v;εἰμί*OBJ_CO;v;καθάλλομαι*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;n;Γαῖα*AuxP;r;ἐπί*SBJ;n;ὕψος*ADV;v;εἰμί*OBJ_CO;v;καθάλλομαι*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;ὕψος*ADV;v;εἰμί*OBJ_CO;v;καθάλλομαι*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>SBJ;n;ὕψος*ADV;v;εἰμί*OBJ_CO;v;καθάλλομαι*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxP;r;διά*ADV;t;ἐρείδω*OBJ_CO;;*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ADV;n;χείρ*AuxP;r;διά*ADV;t;ἐρείδω*OBJ_CO;;*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ADV;t;ἐρείδω*OBJ_CO;;*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxY;d;ἀεί*COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ADV;p;αὐτός*OBJ_CO;v;τίθημι*COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ATR;a;χρύσεος*SBJ;n;δίφρος*OBJ_CO;v;τίθημι*COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>SBJ;n;δίφρος*OBJ_CO;v;τίθημι*COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;v;τίθημι*COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>OBJ;p;οὗτος*ADV;v;ἐπιβαίνω*OBJ_CO;v;κάτειμι*COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>ADV;v;ἐπιβαίνω*OBJ_CO;v;κάτειμι*COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;v;κάτειμι*COORD;c;καί*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>OBJ_CO;;*COORD;c;οὔτε*COORD;c;ἀλλά*PRED;v;φημί#</sword>
+</sentence>
+<sentence id="101" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καί*PRED;v;ἕπομαι#</sword>
+   <sword>ATR;l;ὁ*SBJ;a;διφροφόρος*PRED;v;ἕπομαι#</sword>
+   <sword>ATR;n;βασιλεύς*SBJ;a;διφροφόρος*PRED;v;ἕπομαι#</sword>
+   <sword>SBJ;a;διφροφόρος*PRED;v;ἕπομαι#</sword>
+   <sword>AuxP;r;εἰς*PRED;v;ἕπομαι#</sword>
+   <sword>ADV;p;οὗτος*AuxP;r;εἰς*PRED;v;ἕπομαι#</sword>
+   <sword>PRED;v;ἕπομαι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="102" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;φυλάσσω#</sword>
+   <sword>AuxY;d;τε*PRED;v;φυλάσσω#</sword>
+   <sword>OBJ;p;αὐτός*PRED;v;φυλάσσω#</sword>
+   <sword>AuxZ;d;καί*SBJ;n;γυνή*PRED;v;φυλάσσω#</sword>
+   <sword>ATR;a;τριακόσιοι*SBJ;n;γυνή*PRED;v;φυλάσσω#</sword>
+   <sword>SBJ;n;γυνή*PRED;v;φυλάσσω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*PRED;v;φυλάσσω#</sword>
+   <sword>AuxC;c;ὡς*PRED;v;φυλάσσω#</sword>
+   <sword>ADV;v;ἱστορέω*AuxC;c;ὡς*PRED;v;φυλάσσω#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Ἡρακλείδης*ADV;v;ἱστορέω*AuxC;c;ὡς*PRED;v;φυλάσσω#</sword>
+   <sword>ATR;a;Κυμαῖος*SBJ;n;Ἡρακλείδης*ADV;v;ἱστορέω*AuxC;c;ὡς*PRED;v;φυλάσσω#</sword>
+   <sword>SBJ;n;Ἡρακλείδης*ADV;v;ἱστορέω*AuxC;c;ὡς*PRED;v;φυλάσσω#</sword>
+   <sword>AuxP;r;ἐν*ADV;v;ἱστορέω*AuxC;c;ὡς*PRED;v;φυλάσσω#</sword>
+   <sword>ADV;a;α᾽*AuxP;r;ἐν*ADV;v;ἱστορέω*AuxC;c;ὡς*PRED;v;φυλάσσω#</sword>
+   <sword>ATR;a;Περσικός*ADV;a;α᾽*AuxP;r;ἐν*ADV;v;ἱστορέω*AuxC;c;ὡς*PRED;v;φυλάσσω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="103" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;p;οὗτος*PRED_CO;v;κοιμάω*COORD;c;δέ#</sword>
+   <sword>AuxY;d;δέ*PRED_CO;v;κοιμάω*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*ADV;a;ἥμερος*PRED_CO;v;κοιμάω*COORD;c;δέ#</sword>
+   <sword>AuxY;d;μέν*COORD;c;δέ#</sword>
+   <sword>ADV;a;ἥμερος*PRED_CO;v;κοιμάω*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;κοιμάω*COORD;c;δέ#</sword>
+   <sword>AuxC;c;ἵνα*PRED_CO;v;κοιμάω*COORD;c;δέ#</sword>
+   <sword>ADV;n;νύξ*ADV;v;ἐγρηγορόων*AuxC;c;ἵνα*PRED_CO;v;κοιμάω*COORD;c;δέ#</sword>
+   <sword>ADV;v;ἐγρηγορόων*AuxC;c;ἵνα*PRED_CO;v;κοιμάω*COORD;c;δέ#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ἵνα*PRED_CO;v;κοιμάω*COORD;c;δέ#</sword>
+   <sword>ATR;l;ὁ*ADV;n;νύξ*PRED_CO;v;διατελέω*COORD;c;δέ#</sword>
+   <sword>COORD;c;δέ#</sword>
+   <sword>ADV;n;νύξ*PRED_CO;v;διατελέω*COORD;c;δέ#</sword>
+   <sword>ADV_CO;v;ἀείδω*COORD;c;καί*PRED_CO;v;διατελέω*COORD;c;δέ#</sword>
+   <sword>COORD;c;καί*PRED_CO;v;διατελέω*COORD;c;δέ#</sword>
+   <sword>ADV_CO;v;ψάλλω*COORD;c;καί*PRED_CO;v;διατελέω*COORD;c;δέ#</sword>
+   <sword>PRED_CO;v;διατελέω*COORD;c;δέ#</sword>
+   <sword>SBJ;n;λύχνος*ADV;v;καίω*PRED_CO;v;διατελέω*COORD;c;δέ#</sword>
+   <sword>ADV;v;καίω*PRED_CO;v;διατελέω*COORD;c;δέ#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="104" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;χράομαι#</sword>
+   <sword>AuxY;d;δέ*PRED;v;χράομαι#</sword>
+   <sword>ATR;p;αὐτός*OBJ;n;παλλακίς*PRED;v;χράομαι#</sword>
+   <sword>AuxZ;d;καί*OBJ;n;παλλακίς*PRED;v;χράομαι#</sword>
+   <sword>OBJ;n;παλλακίς*PRED;v;χράομαι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;βασιλεύς*PRED;v;χράομαι#</sword>
+   <sword>SBJ;n;βασιλεύς*PRED;v;χράομαι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>AuxP;r;διά#</sword>
+   <sword>ATR;l;ὁ*ExD;n;αὐλή*AuxP;r;διά#</sword>
+   <sword>ATR;l;ὁ*ATR;a;μηλοφόρος*ExD;n;αὐλή*AuxP;r;διά#</sword>
+   <sword>ATR;a;μηλοφόρος*ExD;n;αὐλή*AuxP;r;διά#</sword>
+   <sword>ExD;n;αὐλή*AuxP;r;διά#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="105" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;εἰμί#</sword>
+   <sword>SBJ;p;οὗτος*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*ATR;a;δορυφόρος*SBJ;p;οὗτος*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;δορυφόρος*SBJ;p;οὗτος*PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1*PNOM;n;Πέρσης*PRED;v;εἰμί#</sword>
+   <sword>AuxZ;d;καί*PNOM;n;Πέρσης*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;γένος*PNOM;n;Πέρσης*PRED;v;εἰμί#</sword>
+   <sword>ADV;n;γένος*PNOM;n;Πέρσης*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;πᾶς*PNOM;n;Πέρσης*PRED;v;εἰμί#</sword>
+   <sword>PNOM;n;Πέρσης*PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1*ADV;v;ἔχω*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;ἐπί*ADV;v;ἔχω*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;στύραξ2*AuxP;r;ἐπί*ADV;v;ἔχω*PRED;v;εἰμί#</sword>
+   <sword>ADV;n;στύραξ2*AuxP;r;ἐπί*ADV;v;ἔχω*PRED;v;εἰμί#</sword>
+   <sword>OBJ;n;μῆλον2*ADV;v;ἔχω*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;χρύσεος*OBJ;n;μῆλον2*ADV;v;ἔχω*PRED;v;εἰμί#</sword>
+   <sword>ADV;v;ἔχω*PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1*ADV;v;ἔχω*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;χίλιοι*PNOM;n;Πέρσης*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;ἀριθμός*ATR;a;χίλιοι*PNOM;n;Πέρσης*PRED;v;εἰμί#</sword>
+   <sword>ADV;n;ἀριθμός*ATR;a;χίλιοι*PNOM;n;Πέρσης*PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1*ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>ADV;d;ἀριστίνδην*ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;ἐκ*ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;Πέρσης*AuxP;r;ἐκ*ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;μυρίος*OBJ;n;Πέρσης*AuxP;r;ἐκ*ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>OBJ;n;Πέρσης*AuxP;r;ἐκ*ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*PNOM;a;ἀθάνατος*ATR;v;καλέω*OBJ;n;Πέρσης*AuxP;r;ἐκ*ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>PNOM;a;ἀθάνατος*ATR;v;καλέω*OBJ;n;Πέρσης*AuxP;r;ἐκ*ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>ATR;v;καλέω*OBJ;n;Πέρσης*AuxP;r;ἐκ*ADV;v;ἐκλέγω*PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1#</sword>
+</sentence>
+<sentence id="106" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καί*PRED;v;δίειμι#</sword>
+   <sword>PRED;v;δίειμι#</sword>
+   <sword>AuxP;r;διά*PRED;v;δίειμι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;αὐλή*AuxP;r;διά*PRED;v;δίειμι#</sword>
+   <sword>ATR;p;οὗτος*OBJ;n;αὐλή*AuxP;r;διά*PRED;v;δίειμι#</sword>
+   <sword>OBJ;n;αὐλή*AuxP;r;διά*PRED;v;δίειμι#</sword>
+   <sword>AtvV;a;πεζός*PRED;v;δίειμι#</sword>
+   <sword>ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>ATR;a;Σαρδιανός*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>AuxX;u;punc1*ATR;v;ἐπιβαίνω*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>AuxP;r;ἐπί*ATR;v;ἐπιβαίνω*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>OBJ;p;ὅς*AuxP;r;ἐπί*ATR;v;ἐπιβαίνω*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>SBJ;p;οὐδείς*ATR;v;ἐπιβαίνω*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>ATR;p;ἄλλος*SBJ;p;οὐδείς*ATR;v;ἐπιβαίνω*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>ATR;v;ἐπιβαίνω*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>AuxC;c;ἤ1*ATR;v;ἐπιβαίνω*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>SBJ;n;βασιλεύς*ADV;v;ἐπιβαίνω*AuxC;c;ἤ1*ATR;v;ἐπιβαίνω*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;v;ἐπιβαίνω*AuxC;c;ἤ1*ATR;v;ἐπιβαίνω*SBJ;n;ψιλόταπις*ADV;v;ὑποτίθημι*PRED;v;δίειμι#</sword>
+</sentence>
+<sentence id="107" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxC;c;ὅτε*PRED;v;ἀναβαίνω#</sword>
+   <sword>AuxY;d;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>AuxP;r;εἰς*ADV;v;ἔρχομαι*AuxC;c;ὅτε*PRED;v;ἀναβαίνω#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;αὐλή*AuxP;r;εἰς*ADV;v;ἔρχομαι*AuxC;c;ὅτε*PRED;v;ἀναβαίνω#</sword>
+   <sword>ATR;a;ἔσχατος*OBJ;n;αὐλή*AuxP;r;εἰς*ADV;v;ἔρχομαι*AuxC;c;ὅτε*PRED;v;ἀναβαίνω#</sword>
+   <sword>OBJ;n;αὐλή*AuxP;r;εἰς*ADV;v;ἔρχομαι*AuxC;c;ὅτε*PRED;v;ἀναβαίνω#</sword>
+   <sword>ADV;v;ἔρχομαι*AuxC;c;ὅτε*PRED;v;ἀναβαίνω#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὅτε*PRED;v;ἀναβαίνω#</sword>
+   <sword>PRED;v;ἀναβαίνω#</sword>
+   <sword>AuxP;r;ἐπί*COORD;c;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>ATR;l;ὁ*OBJ_CO;n;ἅρμα*AuxP;r;ἐπί*COORD;c;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>OBJ_CO;n;ἅρμα*AuxP;r;ἐπί*COORD;c;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>AuxX;u;punc1*AuxP;r;ἐπί*COORD;c;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>AuxZ;d;ἐνίοτε*COORD;c;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>COORD;c;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>AuxZ;d;καί*OBJ_CO;n;ἵππος*AuxP;r;ἐπί*COORD;c;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>AuxP;r;ἐπί*COORD;c;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>OBJ_CO;n;ἵππος*AuxP;r;ἐπί*COORD;c;δέ*PRED;v;ἀναβαίνω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="108" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AtvV;a;πεζός*PRED;v;ὁράω#</sword>
+   <sword>AuxY;d;δέ*PRED;v;ὁράω#</sword>
+   <sword>AuxZ;d;οὐδέποτε*PRED;v;ὁράω#</sword>
+   <sword>PRED;v;ὁράω#</sword>
+   <sword>AuxP;r;ἔξω*PRED;v;ὁράω#</sword>
+   <sword>ATR;l;ὁ*ADV;n;βασίλειον*AuxP;r;ἔξω*PRED;v;ὁράω#</sword>
+   <sword>ADV;n;βασίλειον*AuxP;r;ἔξω*PRED;v;ὁράω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="109" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxC;c;εἰ*PRED;v;συνέξειμι#</sword>
+   <sword>AuxY;d;δέ*PRED;v;συνέξειμι#</sword>
+   <sword>AuxP;r;ἐπί*ADV;v;ἔξειμι2*AuxC;c;εἰ*PRED;v;συνέξειμι#</sword>
+   <sword>OBJ;n;θήρα*AuxP;r;ἐπί*ADV;v;ἔξειμι2*AuxC;c;εἰ*PRED;v;συνέξειμι#</sword>
+   <sword>ADV;v;ἔξειμι2*AuxC;c;εἰ*PRED;v;συνέξειμι#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;εἰ*PRED;v;συνέξειμι#</sword>
+   <sword>ADV;d;καί*SBJ;n;παλλακίς*PRED;v;συνέξειμι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;παλλακίς*PRED;v;συνέξειμι#</sword>
+   <sword>SBJ;n;παλλακίς*PRED;v;συνέξειμι#</sword>
+   <sword>OBJ;p;αὐτός*PRED;v;συνέξειμι#</sword>
+   <sword>PRED;v;συνέξειμι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="110" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;είμί#</sword>
+   <sword>SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>AuxP;r;ἐπί*ADV;v;κάθημαι*ATR;v;χρηματίζω*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ADV;p;ὅς*AuxP;r;ἐπί*ADV;v;κάθημαι*ATR;v;χρηματίζω*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ATR;v;χρηματίζω*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ADV;v;κάθημαι*ATR;v;χρηματίζω*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>PNOM;a;χρυσέος*PRED;v;είμί#</sword>
+   <sword>PRED;v;είμί#</sword>
+   <sword>AuxX;u;punc1*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>OBJ;p;ὅς*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ATR;n;τέσσαρες*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ATR;a;λιθοκόλλητος*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ATR;a;χρύσεος*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>AuxX;u;punc1*ATR;v;διατείνω*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>AuxP;r;ἐπί*ATR;v;διατείνω*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ADV;p;ὅς*AuxP;r;ἐπί*ATR;v;διατείνω*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ATR;v;διατείνω*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>SBJ;n;ἱμάτιον*ATR;v;διατείνω*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ATR;a;ποικίλος*SBJ;n;ἱμάτιον*ATR;v;διατείνω*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>ATR;a;πορφύρεος*SBJ;n;ἱμάτιον*ATR;v;διατείνω*SBJ;n;κιονίσκος*ATR;v;περιίστημι*SBJ;n;θρόνος*PRED;v;είμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="111" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;n;Κλέαρχος*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxY;d;δέ*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Κλέαρχος*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;a;Σολεύς*SBJ;n;Κλέαρχος*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxP;r;ἐν*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>ADV;a;τέταρτος*AuxP;r;ἐν*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;n;βίος*ADV;a;τέταρτος*AuxP;r;ἐν*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxP;r;περί*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;l;ὁ*ADV;n;τρυφή*AuxP;r;περί*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;n;Μῆδος*ADV;n;τρυφή*AuxP;r;περί*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>ADV;n;τρυφή*AuxP;r;περί*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxZ;d;καί*OBJ;v;εὐνουχίζω*AuxC;c;ὅτι1*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxC;c;ὅτι1*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxP;r;διά*OBJ;v;εὐνουχίζω*AuxC;c;ὅτι1*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>ADV;p;οὗτος*AuxP;r;διά*OBJ;v;εὐνουχίζω*AuxC;c;ὅτι1*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>OBJ;a;πολύς*OBJ;v;εὐνουχίζω*AuxC;c;ὅτι1*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>OBJ;v;εὐνουχίζω*AuxC;c;ὅτι1*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;l;ὁ*ATR;n;περικτίονες*OBJ;a;πολύς*OBJ;v;εὐνουχίζω*AuxC;c;ὅτι1*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;n;περικτίονες*OBJ;a;πολύς*OBJ;v;εὐνουχίζω*AuxC;c;ὅτι1*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxX;u;punc1*ADV;v;προεῖπον*PRED;v;ἐπιφέρω#</sword>
+   <sword>PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxZ;d;καί*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;l;ὁ*SBJ_AP;n;μηλοφορία*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxP;r;παρά*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>PNOM;n;Μῆδος*AuxP;r;παρά*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;n;Πέρσης*SBJ_AP;n;μηλοφορία*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>SBJ_AP;n;μηλοφορία*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxZ;d;μή*AuxZ;a;μόνος*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxZ;a;μόνος*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>OBJ;p;ὅς*ATR;v;πάσχω*SBJ_AP_CO;n;τιμωρία*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;v;πάσχω*SBJ_AP_CO;n;τιμωρία*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>SBJ_AP_CO;n;τιμωρία*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxZ;d;καί*SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;l;ὁ*ATR;n;τρυφή*SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;l;ὁ*ATR;v;δορυφορέω*ATR;n;τρυφή*SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;v;δορυφορέω*ATR;n;τρυφή*SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;n;τρυφή*SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxP;r;εἰς*ATR;v;ἔρχομαι*SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>OBJ;a;ὅσος*AuxP;r;εἰς*ATR;v;ἔρχομαι*SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;v;ἔρχομαι*SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>ATR;n;ἀνανδρία*OBJ;a;ὅσος*AuxP;r;εἰς*ATR;v;ἔρχομαι*SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>SBJ_AP_CO;n;ὑπόμνημα*COORD;c;ἀλλά*APOS;u;punc1*OBJ;v;γίγνομαι*PRED;v;ἐπιφέρω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="112" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;δύναμαι#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;δύναμαι#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*PRED;v;δύναμαι#</sword>
+   <sword>AuxC;c;ὡς*PRED;v;δύναμαι#</sword>
+   <sword>ADV;v;ἔοικα*AuxC;c;ὡς*PRED;v;δύναμαι#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ὡς*PRED;v;δύναμαι#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>ATR_CO;a;παράκαιρος*COORD;c;καί*SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>AuxZ;d;ἅμα*COORD;c;καί*SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>COORD;c;καί*SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>ATR_CO;a;μάταιος*COORD;c;καί*SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>ATR;p;αὐτός*SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>AuxP;r;περί*SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>ATR;l;ὁ*ATR;n;βίος*AuxP;r;περί*SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>ATR;n;βίος*AuxP;r;περί*SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>SBJ;n;τρυφή*PRED;v;δύναμαι#</sword>
+   <sword>AuxZ;d;καί*OBJ;v;καθοπλίζω*OBJ;v;ἀποφαίνω*PRED;v;δύναμαι#</sword>
+   <sword>ATR;l;ὁ*OBJ;v;καθοπλίζω*OBJ;v;ἀποφαίνω*PRED;v;δύναμαι#</sword>
+   <sword>ATR;l;ὁ*OBJ;n;λόγχη*OBJ;v;καθοπλίζω*OBJ;v;ἀποφαίνω*PRED;v;δύναμαι#</sword>
+   <sword>OBJ;n;λόγχη*OBJ;v;καθοπλίζω*OBJ;v;ἀποφαίνω*PRED;v;δύναμαι#</sword>
+   <sword>OBJ;v;καθοπλίζω*OBJ;v;ἀποφαίνω*PRED;v;δύναμαι#</sword>
+   <sword>OCOMP;n;ἀγύρτης*OBJ;v;ἀποφαίνω*PRED;v;δύναμαι#</sword>
+   <sword>OBJ;v;ἀποφαίνω*PRED;v;δύναμαι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="113" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxY;d;καί*PRED;v;γράφω#</sword>
+   <sword>ADV;v;προέρχομαι*PRED;v;γράφω#</sword>
+   <sword>AuxY;d;δέ*PRED;v;γράφω#</sword>
+   <sword>PRED;v;γράφω#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="114" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*OBJ;v;πορίζω*ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>AuxY;d;γοῦν*PRED;v;παρατίθημι#</sword>
+   <sword>OBJ;v;πορίζω*ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>ATR;p;τις*OBJ;n;βρῶμα*OBJ;v;πορίζω*ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>OBJ;p;αὐτός*OBJ;v;πορίζω*ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>ATR;a;ἡδύς*OBJ;n;βρῶμα*OBJ;v;πορίζω*ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>OBJ;n;βρῶμα*OBJ;v;πορίζω*ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>OBJ;n;ἆθλον*ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>ATR;l;ὁ*ATR;v;πορίζω*OBJ;n;ἆθλον*ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>ATR;v;πορίζω*OBJ;n;ἆθλον*ADV;v;δίδωμι*PRED;v;παρατίθημι#</sword>
+   <sword>AuxZ;d;οὐ*ADV_CO;v;ἡδύνω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>ATR;a;ἕτερος*OBJ;n;τιμή*ADV_CO;v;ἡδύνω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>ADV_CO;v;ἡδύνω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>OBJ;p;οὗτος*ADV_CO;v;ἡδύνω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>OBJ;n;τιμή*ADV_CO;v;ἡδύνω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>PRED;v;παρατίθημι#</sword>
+   <sword>AuxX;u;punc1*ADV;v;ἀπολαύω*ADV_CO;v;ἔχω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>AuxZ;a;πολύς*AuxZ;d;μᾶλλον*ADV;v;ἀπολαύω*ADV_CO;v;ἔχω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>AuxZ;d;μᾶλλον*ADV;v;ἀπολαύω*ADV_CO;v;ἔχω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>AtvV;p;αὐτός*ADV;v;ἀπολαύω*ADV_CO;v;ἔχω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>ADV;v;ἀπολαύω*ADV_CO;v;ἔχω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>OBJ;p;αὐτός*ADV;v;ἀπολαύω*ADV_CO;v;ἔχω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>AuxX;u;punc1*ADV_CO;v;ἔχω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>OBJ;n;νόος*ADV_CO;v;ἔχω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>ADV_CO;v;ἔχω*COORD;c;δέ*PRED;v;παρατίθημι#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="115" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ_AP;p;οὗτος*APOS;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;μέν*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;γάρ*PRED;v;εἰμί#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*PNOM;v;λέγω2*PRED;v;εἰμί#</sword>
+   <sword>PNOM;v;λέγω2*PRED;v;εἰμί#</sword>
+   <sword>AuxG;u;punc1*ExD;v;οἱόμαι*PRED;v;εἰμί#</sword>
+   <sword>ExD;v;οἱόμαι*PRED;v;εἰμί#</sword>
+   <sword>APOS;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;καί*COORD;c;καί*SBJ_AP;n;ἐγκέφαλος*APOS;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>ATR_CO;n;Ζεύς*COORD;c;καί*SBJ_AP;n;ἐγκέφαλος*APOS;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>AuxZ;d;ἅμα*COORD;c;καί*SBJ_AP;n;ἐγκέφαλος*APOS;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>COORD;c;καί*SBJ_AP;n;ἐγκέφαλος*APOS;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>ATR_CO;n;βασιλεύς*COORD;c;καί*SBJ_AP;n;ἐγκέφαλος*APOS;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>SBJ_AP;n;ἐγκέφαλος*APOS;u;punc1*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="116" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;n;Χάρης*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;Χάρης*PRED;v;φημί#</sword>
+   <sword>ATR;a;Μιτυληναῖος*SBJ;n;Χάρης*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;a;πέμπτος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ADV;a;πέμπτος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Ἱστορίη*ADV;a;πέμπτος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>AuxP;r;περί*ATR;n;Ἱστορίη*ADV;a;πέμπτος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ATR;n;Ἀλέξανδρος*AuxP;r;περί*ATR;n;Ἱστορίη*ADV;a;πέμπτος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ATR;n;Ἱστορίη*ADV;a;πέμπτος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;n;τρυφή*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;βασιλεύς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Πέρσης*SBJ;n;βασιλεύς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;n;Πέρσης*SBJ;n;βασιλεύς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;βασιλεύς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ATR;n;κλίνη*ADV;n;κεφαλή*AuxP;r;ὑπέρ*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;a;βασιλικός*ATR;n;κλίνη*ADV;n;κεφαλή*AuxP;r;ὑπέρ*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;n;κλίνη*ADV;n;κεφαλή*AuxP;r;ὑπέρ*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ὑπέρ*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ADV;n;κεφαλή*AuxP;r;ὑπέρ*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;a;τις*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;a;πεντάκλινος*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*ATR;v;κεῖμαι*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*ATR;v;κεῖμαι*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>OBJ;p;ὅς*AuxP;r;ἐν*ATR;v;κεῖμαι*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;n;χρυσίον*SBJ;n;τάλαντον*ATR;v;κεῖμαι*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;a;πεντακισχίλιοι*SBJ;n;τάλαντον*ATR;v;κεῖμαι*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>AuxP;r;διά*ATR;v;κεῖμαι*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ADV;a;πᾶς*AuxP;r;διά*ATR;v;κεῖμαι*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;v;κεῖμαι*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;τάλαντον*ATR;v;κεῖμαι*OBJ;n;οἴκημα*ADV;v;ἔχω*AuxC;c;ὥστε*OBJ;p;οὗτος*AuxP;r;εἰς*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>AuxX;u;punc1*OBJ_CO;v;ἥκω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>SBJ;p;οὗτος*OBJ_CO;v;καλέω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>OBJ_CO;v;καλέω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>PNOM;n;προσκεφάλαιον*OBJ_CO;v;καλέω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>ATR;a;βασιλικός*PNOM;n;προσκεφάλαιον*OBJ_CO;v;καλέω*COORD;c;καί*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="117" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;καί*ADV;n;πoύς*AuxP;r;πρός*PRED_CO;;*COORD;c;καί#</sword>
+   <sword>AuxP;r;πρός*PRED_CO;;*COORD;c;καί#</sword>
+   <sword>ADV;n;πoύς*AuxP;r;πρός*PRED_CO;;*COORD;c;καί#</sword>
+   <sword>ATR;a;ἕτερος*SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>ATR;a;τρίκλινον*SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>AuxX;u;punc1*ATR;v;κεῖμαι*SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>ADV;d;οὗ*ATR;v;κεῖμαι*SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>SBJ;n;τάλαντον*ATR;v;κεῖμαι*SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>ATR;a;τρισχίλιοι*SBJ;n;τάλαντον*ATR;v;κεῖμαι*SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>ATR;v;κεῖμαι*SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>ATR;n;ἀργύριον*SBJ;n;τάλαντον*ATR;v;κεῖμαι*SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>AuxX;u;punc1*ATR;v;κεῖμαι*SBJ;n;οἴκημα*COORD;c;καί#</sword>
+   <sword>COORD;c;καί#</sword>
+   <sword>PRED_CO;v;προσαγορεύω*COORD;c;καί#</sword>
+   <sword>ATR;a;βασιλικός*PNOM;n;ὑποπόδιον*PRED_CO;v;προσαγορεύω*COORD;c;καί#</sword>
+   <sword>PNOM;n;ὑποπόδιον*PRED_CO;v;προσαγορεύω*COORD;c;καί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED_CO;;*COORD;c;καί#</sword>
+</sentence>
+<sentence id="118" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;κοιτών*AuxP;r;ἐν*PRED;v;εἰμί#</sword>
+   <sword>ADV;n;κοιτών*AuxP;r;ἐν*PRED;v;εἰμί#</sword>
+   <sword>AuxZ;d;καί*SBJ;n;ἄμπελος*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;λιθοκόλλητος*SBJ;n;ἄμπελος*PRED;v;εἰμί#</sword>
+   <sword>SBJ;n;ἄμπελος*PRED;v;εἰμί#</sword>
+   <sword>ATR;a;χρύσεος*SBJ;n;ἄμπελος*PRED;v;εἰμί#</sword>
+   <sword>AuxP;r;ὑπέρ*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*PNOM;n;κλίνη*AuxP;r;ὑπέρ*PRED;v;εἰμί#</sword>
+   <sword>PNOM;n;κλίνη*AuxP;r;ὑπέρ*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="119" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*SBJ;n;ἄμπελος*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>SBJ;n;ἄμπελος*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>ATR;p;οὗτος*SBJ;n;ἄμπελος*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>SBJ;n;Ἀμύντας*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;σταθμός*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ADV;n;σταθμός*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>AuxZ;d;καί*OBJ;n;βότρυς*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>OBJ;n;βότρυς*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐκ*ATR;v;συντίθημι*OBJ;n;βότρυς*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>ATR;l;ὁ*ADV;n;ψήφων*AuxP;r;ἐκ*ATR;v;συντίθημι*OBJ;n;βότρυς*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>ATR;a;πολυτελής*ADV;n;ψήφων*AuxP;r;ἐκ*ATR;v;συντίθημι*OBJ;n;βότρυς*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>ADV;n;ψήφων*AuxP;r;ἐκ*ATR;v;συντίθημι*OBJ;n;βότρυς*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>ATR;v;συντίθημι*OBJ;n;βότρυς*OBJ;v;ἔχω*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="120" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>AuxZ;d;οὐ*ADV;d;μακράν*OBJ;v;ἀνάκειμαι*PRED;;#</sword>
+   <sword>ADV;d;μακράν*OBJ;v;ἀνάκειμαι*PRED;;#</sword>
+   <sword>AuxY;d;τε*PRED;;#</sword>
+   <sword>ADV;p;οὗτος*ADV;d;μακράν*OBJ;v;ἀνάκειμαι*PRED;;#</sword>
+   <sword>OBJ;v;ἀνάκειμαι*PRED;;#</sword>
+   <sword>SBJ_AP;n;κρατήρ*APOS;;*PRED;;#</sword>
+   <sword>ATR;a;χρύσεος*SBJ_AP;n;κρατήρ*APOS;;*PRED;;#</sword>
+   <sword>ATR;n;Θεόδωρος*SBJ_AP;n;ποίημα*APOS;;*PRED;;#</sword>
+   <sword>ATR;l;ὁ*ATR;n;Θεόδωρος*SBJ_AP;n;ποίημα*APOS;;*PRED;;#</sword>
+   <sword>ATR;a;Σάμος*ATR;n;Θεόδωρος*SBJ_AP;n;ποίημα*APOS;;*PRED;;#</sword>
+   <sword>SBJ_AP;n;ποίημα*APOS;;*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;;#</sword>
+   <sword>APOS;;*PRED;;#</sword>
+</sentence>
+<sentence id="121" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>SBJ;n;Ἀγαθοκλῆς*PRED;v;φημί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ADV;a;τρίτος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>AuxP;r;περί*ADV;a;τρίτος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>ATR;n;Κύζικος*AuxP;r;περί*ADV;a;τρίτος*AuxP;r;ἐν*PRED;v;φημί#</sword>
+   <sword>AuxP;r;ἐν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ADV;n;πέρσης*AuxP;r;ἐν*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PRED;v;φημί#</sword>
+   <sword>OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxZ;d;καί*SBJ;n;ὕδωρ*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>PNOM;a;χρύσεος*ATR;v;καλέω*SBJ;n;ὕδωρ*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>ATR;v;καλέω*SBJ;n;ὕδωρ*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>SBJ;n;ὕδωρ*OBJ;v;εἰμί*PRED;v;φημί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+</sentence>
+<sentence id="122" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>OBJ_CO;v;εἰμί*COORD;c;καί*PRED;;#</sword>
+   <sword>AuxY;d;δέ*COORD;c;καί*PRED;;#</sword>
+   <sword>SBJ;p;οὗτος*OBJ_CO;v;εἰμί*COORD;c;καί*PRED;;#</sword>
+   <sword>PNOM;n;λιβάς*OBJ_CO;v;εἰμί*COORD;c;καί*PRED;;#</sword>
+   <sword>ATR;a;ἑβδομήκοντα*PNOM;n;λιβάς*OBJ_CO;v;εἰμί*COORD;c;καί*PRED;;#</sword>
+   <sword>AuxX;u;punc1*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>COORD;c;καί*PRED;;#</sword>
+   <sword>SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>AuxP;r;ἀπό*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>ADV;p;αὐτός*AuxP;r;ἀπό*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>ATV;a;μόνος*SBJ_CO;n;βασιλεύς*COORD;c;καί*ADV;u;undefined*AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>SBJ_CO;n;βασιλεύς*COORD;c;καί*ADV;u;undefined*AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>COORD;c;καί*ADV;u;undefined*AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*SBJ_CO;a;πρέσβυς*COORD;c;καί*ADV;u;undefined*AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>SBJ_CO;a;πρέσβυς*COORD;c;καί*ADV;u;undefined*AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>ATR;p;αὐτός*ATR;n;παῖς*SBJ_CO;a;πρέσβυς*COORD;c;καί*ADV;u;undefined*AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>ATR;l;ὁ*ATR;n;παῖς*SBJ_CO;a;πρέσβυς*COORD;c;καί*ADV;u;undefined*AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>ATR;n;παῖς*SBJ_CO;a;πρέσβυς*COORD;c;καί*ADV;u;undefined*AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>ADV;u;undefined*AuxC;c;ἤ*SBJ;p;μηδείς*OBJ_CO;v;πίνω*COORD;c;καί*PRED;;#</sword>
+   <sword>PRED;;#</sword>
+</sentence>
+<sentence id="123" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ATR;l;ὁ*ATR;p;ἄλλος*SBJ;p;τις*ADV;v;πίνω*AuxC;c;ἐάν*PRED;v;εἰμί#</sword>
+   <sword>AuxY;d;δέ*PRED;v;εἰμί#</sword>
+   <sword>ATR;p;ἄλλος*SBJ;p;τις*ADV;v;πίνω*AuxC;c;ἐάν*PRED;v;εἰμί#</sword>
+   <sword>AuxC;c;ἐάν*PRED;v;εἰμί#</sword>
+   <sword>SBJ;p;τις*ADV;v;πίνω*AuxC;c;ἐάν*PRED;v;εἰμί#</sword>
+   <sword>ADV;v;πίνω*AuxC;c;ἐάν*PRED;v;εἰμί#</sword>
+   <sword>AuxX;u;punc1*AuxC;c;ἐάν*PRED;v;εἰμί#</sword>
+   <sword>PNOM;n;θάνατος*PRED;v;εἰμί#</sword>
+   <sword>ATR;l;ὁ*SBJ;n;ζημία*PRED;v;εἰμί#</sword>
+   <sword>SBJ;n;ζημία*PRED;v;εἰμί#</sword>
+   <sword>AuxK;u;punc1#</sword>
+   <sword>PRED;v;εἰμί#</sword>
+</sentence>
+    
+    
+</SWordDocument>

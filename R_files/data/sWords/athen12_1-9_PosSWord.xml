@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SWordDocument>
+    
+    <treebankSource>
+        <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+            <date>Mon Oct 20 15:58:55 +0000 2014</date>
+            <annotator>
+                <short/>
+                <name/>
+                <address/>
+                <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+            </annotator>
+            <annotator>
+                <short>Vanessa Gorman</short>
+                <name>Vanessa Gorman</name>
+                <address>vbgorman@gmail.com</address>
+                <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
+            </annotator>
+            <annotator>
+                <short>arethusa</short>
+                <name>arethusa</name>
+                <address/>
+                <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+            </annotator>
+            <annotator>
+                <short>Vanessa Gorman</short>
+                <name>Vanessa Gorman</name>
+                <address>vbgorman@gmail.com</address>
+                <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
+            </annotator>
+        </treebank>      
+        
+    </treebankSource>
+   <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>p*v#</sword>
+   <sword>a*n*v*v#</sword>
+   <sword>v#</sword>
+   <sword>u*r*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>n*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>u*r*v#</sword>
+   <sword>n*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="2" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v*c*v#</sword>
+   <sword>d*v#</sword>
+   <sword>c*v#</sword>
+   <sword>p*v*c*v#</sword>
+   <sword>r*v*c*v#</sword>
+   <sword>l*n*r*v*c*v#</sword>
+   <sword>n*r*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u*v*c*v#</sword>
+   <sword>v#</sword>
+   <sword>a*p*c*v#</sword>
+   <sword>p*c*v#</sword>
+   <sword>d*c*v#</sword>
+   <sword>a*n*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>a*n*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="3" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>p*v*v#</sword>
+   <sword>a*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>a*v*c*v#</sword>
+   <sword>d*v*v*c*v#</sword>
+   <sword>v*v*c*v#</sword>
+   <sword>p*v*v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="4" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*a*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>a*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*v*c*v#</sword>
+   <sword>r*v*c*v#</sword>
+   <sword>p*r*v*c*v#</sword>
+   <sword>v*p*r*v*c*v#</sword>
+   <sword>a*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="5" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d#</sword>
+   <sword>c#</sword>
+   <sword>d*d*v*c#</sword>
+   <sword>d*v*c#</sword>
+   <sword>p*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>d*c*n*v*c#</sword>
+   <sword>l*n*v*c#</sword>
+   <sword>r*c*n*v*c#</sword>
+   <sword>l*v*r*c*n*v*c#</sword>
+   <sword>r*a*v*r*c*n*v*c#</sword>
+   <sword>n*r*a*v*r*c*n*v*c#</sword>
+   <sword>a*v*r*c*n*v*c#</sword>
+   <sword>v*r*c*n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>c*n*v*c#</sword>
+   <sword>l*n*c*n*v*c#</sword>
+   <sword>p*n*c*n*v*c#</sword>
+   <sword>n*c*n*v*c#</sword>
+   <sword>-#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="6" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*n*c#</sword>
+   <sword>d*c#</sword>
+   <sword>n*c#</sword>
+   <sword>dc#</sword>
+   <sword>rc#</sword>
+   <sword>n*rc#</sword>
+   <sword>ac#</sword>
+   <sword>uc#</sword>
+   <sword>c#</sword>
+   <sword>rc#</sword>
+   <sword>n*rc#</sword>
+   <sword>u#</sword>
+   <sword>*c#</sword>
+   <sword>*c#</sword>
+</sentence>
+<sentence id="7" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>n*v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*n*v#</sword>
+   <sword>u*v*n*v#</sword>
+   <sword>l*a*n*v*n*v#</sword>
+   <sword>a*n*v*n*v#</sword>
+   <sword>n*v*n*v#</sword>
+   <sword>v*n*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>l*n*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>p*n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>r*n*v#</sword>
+   <sword>l*n*r*n*v#</sword>
+   <sword>l*a*n*r*n*v#</sword>
+   <sword>a*n*r*n*v#</sword>
+   <sword>n*r*n*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>d*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>p*v*v*v#</sword>
+   <sword>c*v*v*v#</sword>
+   <sword>a*nc*v*v*v#</sword>
+   <sword>a*nc*v*v*v#</sword>
+   <sword>nc*v*v*v#</sword>
+   <sword>u#</sword>
+   <sword>*c*v*v*v#</sword>
+</sentence>
+<sentence id="8" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>d*n*v*v#</sword>
+   <sword>l*n*v*v#</sword>
+   <sword>l*n*n*v*v#</sword>
+   <sword>n*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>l*a*r*v*v#</sword>
+   <sword>a*r*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>n*n*v*v*v#</sword>
+   <sword>r*n*v*v*v#</sword>
+   <sword>n*r*n*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="9" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v*v*c#</sword>
+   <sword>d*v*c#</sword>
+   <sword>l*n*v*v*c#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>p*v*c#</sword>
+   <sword>c#</sword>
+   <sword>v*c#</sword>
+   <sword>l*n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>a*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="10" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>p*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>l*n*v*v#</sword>
+   <sword>r*n*v*v#</sword>
+   <sword>l*n*c*r*n*v*v#</sword>
+   <sword>n*c*r*n*v*v#</sword>
+   <sword>c*r*n*v*v#</sword>
+   <sword>l*n*c*r*n*v*v#</sword>
+   <sword>n*c*r*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="11" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>r#</sword>
+   <sword>d#</sword>
+   <sword>l*n*r#</sword>
+   <sword>n*r#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="12" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*c*c*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>v#</sword>
+   <sword>p*n*v#</sword>
+   <sword>n*c*c*v#</sword>
+   <sword>n*v#</sword>
+   <sword>d*c*c*v#</sword>
+   <sword>n*c*c*v#</sword>
+   <sword>d*c*c*v#</sword>
+   <sword>n*c*c*v#</sword>
+   <sword>n*n*c*c*v#</sword>
+   <sword>d*c*c*v#</sword>
+   <sword>n*c*c*v#</sword>
+   <sword>c*c*v#</sword>
+   <sword>n*c*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>a*n*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="13" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*v#</sword>
+   <sword>l*v#</sword>
+   <sword>d*l*v#</sword>
+   <sword>a*nc*v#</sword>
+   <sword>nc*v#</sword>
+   <sword>v#</sword>
+   <sword>a*n*cc*v#</sword>
+   <sword>d*cc*v#</sword>
+   <sword>n*cc*v#</sword>
+   <sword>n*cc*v#</sword>
+   <sword>d*cc*v#</sword>
+   <sword>a*n*cc*v#</sword>
+   <sword>n*c*n*cc*v#</sword>
+   <sword>cc*v#</sword>
+   <sword>a*n*c*n*cc*v#</sword>
+   <sword>n*cc*v#</sword>
+   <sword>n*c*n*cc*v#</sword>
+   <sword>c*n*cc*v#</sword>
+   <sword>a*n*c*n*cc*v#</sword>
+   <sword>u*v*c*v#</sword>
+   <sword>a*n*n*v*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>n*n*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>r*v*c*v#</sword>
+   <sword>n*r*v*c*v#</sword>
+   <sword>u#</sword>
+   <sword>*c*v#</sword>
+</sentence>
+<sentence id="14" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>p*r*v*v#</sword>
+   <sword>v*p*r*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="15" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>p*v*c#</sword>
+   <sword>d*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>n*r*v*c#</sword>
+   <sword>c#</sword>
+   <sword>v*c#</sword>
+   <sword>d*v*c#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="16" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>l*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*v*r*v#</sword>
+   <sword>a*n*v*r*v#</sword>
+   <sword>n*v*r*v#</sword>
+   <sword>v*r*v#</sword>
+   <sword>p*v*r*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*v*cc*v#</sword>
+   <sword>d*c*cc*v#</sword>
+   <sword>n*c*cc*v#</sword>
+   <sword>d*c*cc*v#</sword>
+   <sword>n*c*cc*v#</sword>
+   <sword>c*cc*v#</sword>
+   <sword>l*n*c*cc*v#</sword>
+   <sword>p*n*c*cc*v#</sword>
+   <sword>n*c*cc*v#</sword>
+   <sword>d*v*cc*v#</sword>
+   <sword>d*cc*v#</sword>
+   <sword>r*v*cc*v#</sword>
+   <sword>a*r*v*cc*v#</sword>
+   <sword>v*cc*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>r*v*cc*v#</sword>
+   <sword>cc*v#</sword>
+   <sword>l*v*r*v*cc*v#</sword>
+   <sword>n*v*r*v*cc*v#</sword>
+   <sword>v*r*v*cc*v#</sword>
+   <sword>v*cc*v#</sword>
+   <sword>u#</sword>
+   <sword>*c*v#</sword>
+</sentence>
+<sentence id="17" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v#</sword>
+   <sword>v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="18" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>n*v#</sword>
+   <sword>a*v*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>l*n*v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>d*a*c*v#</sword>
+   <sword>l*n*a*c*v#</sword>
+   <sword>n*a*c*v#</sword>
+   <sword>v#</sword>
+   <sword>l*a*c*v#</sword>
+   <sword>a*c*v#</sword>
+   <sword>p*v*c*v#</sword>
+   <sword>r*v*c*v#</sword>
+   <sword>l*n*r*v*c*v#</sword>
+   <sword>a*n*r*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>n*r*v*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>l*a*v*c*v#</sword>
+   <sword>a*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>v*v*c*v#</sword>
+   <sword>r*v*v*c*v#</sword>
+   <sword>p*r*v*v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="19" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a*v*p*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v*n*v*p*v#</sword>
+   <sword>l*n*v*p*v#</sword>
+   <sword>n*v*p*v#</sword>
+   <sword>v*p*v#</sword>
+   <sword>r*v*p*v#</sword>
+   <sword>l*n*r*v*p*v#</sword>
+   <sword>n*r*v*p*v#</sword>
+   <sword>u*v#</sword>
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="20" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*n*c#</sword>
+   <sword>l*n*c#</sword>
+   <sword>n*c#</sword>
+   <sword>a*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>l*n*r*v*c#</sword>
+   <sword>a*n*r*v*c#</sword>
+   <sword>n*r*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>c#</sword>
+   <sword>v*c#</sword>
+   <sword>n*c*v*c#</sword>
+   <sword>c*v*c#</sword>
+   <sword>n*c*v*c#</sword>
+   <sword>v*v*c#</sword>
+   <sword>p*v*v*c#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>a*n*v*v*c#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="21" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>p*v*v*c*v#</sword>
+   <sword>v*v*c*v#</sword>
+   <sword>v*p*v*v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="22" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="23" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>a*v#</sword>
+   <sword>a*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*d*v*c*v#</sword>
+   <sword>d*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>v*v*c*v#</sword>
+   <sword>a*v*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>a*v*n*v*c*v#</sword>
+   <sword>d*v*n*v*c*v#</sword>
+   <sword>v*n*v*c*v#</sword>
+   <sword>n*a*v*n*v*c*v#</sword>
+   <sword>p*v*n*a*v*n*v*c*v#</sword>
+   <sword>n*v*n*a*v*n*v*c*v#</sword>
+   <sword>v*n*a*v*n*v*c*v#</sword>
+   <sword>u*v*v*c*v#</sword>
+   <sword>a*v*v*c*v#</sword>
+   <sword>v*v*c*v#</sword>
+   <sword>u*v*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="24" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="25" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>v*c#</sword>
+   <sword>l*n*v*c#</sword>
+   <sword>n*n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>a*v*v*c#</sword>
+   <sword>u*v*v*c#</sword>
+   <sword>c#</sword>
+   <sword>l*n*v*v*c#</sword>
+   <sword>n*c*n*v*v*c#</sword>
+   <sword>l*n*c*n*v*v*c#</sword>
+   <sword>n*n*c*n*v*v*c#</sword>
+   <sword>c*n*v*v*c#</sword>
+   <sword>l*n*v*v*c#</sword>
+   <sword>n*c*n*v*v*c#</sword>
+   <sword>u#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>v*v*c#</sword>
+   <sword>v*c#</sword>
+</sentence>
+<sentence id="26" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>d*n*r*v*v#</sword>
+   <sword>l*n*r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*r*v#</sword>
+   <sword>r*l*r*v#</sword>
+   <sword>n*r*l*r*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>d*d*v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>a*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="27" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>c*v#</sword>
+   <sword>pc*v#</sword>
+   <sword>u#</sword>
+   <sword>*c*v#</sword>
+</sentence>
+<sentence id="28" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*l*c*v#</sword>
+   <sword>l*c*v#</sword>
+   <sword>n*l*c*v#</sword>
+   <sword>l*n*l*c*v#</sword>
+   <sword>n*n*n*l*c*v#</sword>
+   <sword>n*n*l*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*l*c*v#</sword>
+   <sword>u*c*c*v#</sword>
+   <sword>c*c*v#</sword>
+   <sword>v*c*c*v#</sword>
+   <sword>u*c*c*v#</sword>
+   <sword>l*c*v#</sword>
+   <sword>n*l*c*v#</sword>
+   <sword>d*a*v*n*l*c*v#</sword>
+   <sword>a*v*n*l*c*v#</sword>
+   <sword>r*a*v*n*l*c*v#</sword>
+   <sword>n*r*a*v*n*l*c*v#</sword>
+   <sword>v*n*l*c*v#</sword>
+   <sword>u#</sword>
+   <sword>d*l*c*v#</sword>
+   <sword>l*c*v#</sword>
+   <sword>l*n*l*c*v#</sword>
+   <sword>n*l*c*v#</sword>
+   <sword>l*n*l*c*v#</sword>
+   <sword>r*n*l*c*v#</sword>
+   <sword>n*r*n*l*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>a*d*c*v#</sword>
+   <sword>d*c*v#</sword>
+   <sword>l*l*c*v#</sword>
+   <sword>d*l*l*c*v#</sword>
+   <sword>u#</sword>
+   <sword>l*c*v#</sword>
+   <sword>#</sword>
+   <sword>v#</sword>
+</sentence>
+<sentence id="29" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d#</sword>
+   <sword>p#</sword>
+   <sword>d#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="30" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>d*c#</sword>
+   <sword>a*c*v*c#</sword>
+   <sword>c*v*c#</sword>
+   <sword>d*v*c#</sword>
+   <sword>a*c*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>u*c*v*c#</sword>
+   <sword>d*c*v*c#</sword>
+   <sword>n*v*c*v*c#</sword>
+   <sword>v*c*v*c#</sword>
+   <sword>c*v*c#</sword>
+   <sword>l*n*v*c*v*c#</sword>
+   <sword>n*v*c*v*c#</sword>
+   <sword>v*c*v*c#</sword>
+   <sword>u*c*v*c#</sword>
+   <sword>l*v*c#</sword>
+   <sword>c#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>v*v*c#</sword>
+   <sword>r*c*v*v*c#</sword>
+   <sword>n*r*c*v*v*c#</sword>
+   <sword>d*c*v*v*c#</sword>
+   <sword>r*c*v*v*c#</sword>
+   <sword>n*r*c*v*v*c#</sword>
+   <sword>c*v*v*c#</sword>
+   <sword>r*c*v*v*c#</sword>
+   <sword>l*n*r*c*v*v*c#</sword>
+   <sword>p*n*r*c*v*v*c#</sword>
+   <sword>n*r*c*v*v*c#</sword>
+   <sword>u#</sword>
+   <sword>v*c#</sword>
+</sentence>
+<sentence id="31" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="32" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>a*a*v#</sword>
+   <sword>a*v#</sword>
+   <sword>u#</sword>
+   <sword>v#</sword>
+</sentence>
+<sentence id="33" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>c*v#</sword>
+   <sword>d*v*c*v*c*v#</sword>
+   <sword>n*v*c*v*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>d*n*r*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>r*n*r*v#</sword>
+   <sword>l*a*r*n*r*v#</sword>
+   <sword>a*r*n*r*v#</sword>
+   <sword>u*v*n*r*v#</sword>
+   <sword>p*v*n*r*v#</sword>
+   <sword>d*v*n*r*v#</sword>
+   <sword>a*v*v*n*r*v#</sword>
+   <sword>v*n*r*v#</sword>
+   <sword>v*v*n*r*v#</sword>
+   <sword>u*v*n*r*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>l*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>c*v*c*v#</sword>
+   <sword>n*v*c*v*c*v#</sword>
+   <sword>l*n*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>d*a*n*v*c*v#</sword>
+   <sword>l*n*v*c*v#</sword>
+   <sword>a*n*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u#</sword>
+   <sword>v*c*v*c*v#</sword>
+</sentence>
+<sentence id="34" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>r*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*a*r*v#</sword>
+   <sword>a*r*v#</sword>
+   <sword>l*n*a*r*v#</sword>
+   <sword>n*a*r*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>v#</sword>
+   <sword>l*v*u*v#</sword>
+   <sword>r*v*u*v#</sword>
+   <sword>l*n*r*v*u*v#</sword>
+   <sword>n*r*v*u*v#</sword>
+   <sword>v*u*v#</sword>
+   <sword>u*v#</sword>
+   <sword>c*u*v#</sword>
+   <sword>l*n*l*v*c*c*u*v#</sword>
+   <sword>n*l*v*c*c*u*v#</sword>
+   <sword>l*v*c*c*u*v#</sword>
+   <sword>d*c*c*u*v#</sword>
+   <sword>v*c*c*u*v#</sword>
+   <sword>a*c*v*c*c*u*v#</sword>
+   <sword>c*v*c*c*u*v#</sword>
+   <sword>a*c*v*c*c*u*v#</sword>
+   <sword>u*v*c*c*u*v#</sword>
+   <sword>l*v*c*c*u*v#</sword>
+   <sword>d*c*c*u*v#</sword>
+   <sword>a*c*v*c*c*u*v#</sword>
+   <sword>d*c*v*c*c*u*v#</sword>
+   <sword>u*c*v*c*c*u*v#</sword>
+   <sword>d*a*c*v*c*c*u*v#</sword>
+   <sword>a*c*v*c*c*u*v#</sword>
+   <sword>c*v*c*c*u*v#</sword>
+   <sword>u*c*v*c*c*u*v#</sword>
+   <sword>l*v*c*c*u*v#</sword>
+   <sword>c*c*u*v#</sword>
+   <sword>d*c*v*c*c*u*v#</sword>
+   <sword>a*c*v*c*c*u*v#</sword>
+   <sword>c*v*c*c*u*v#</sword>
+   <sword>a*c*v*c*c*u*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>u#</sword>
+   <sword>v*c*c*u*v#</sword>
+   <sword>v*c*c*u*v#</sword>
+</sentence>
+<sentence id="35" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*v#</sword>
+   <sword>l*v*c*l*v#</sword>
+   <sword>v*c*l*v#</sword>
+   <sword>r*v*c*l*v#</sword>
+   <sword>n*c*r*v*c*l*v#</sword>
+   <sword>c*r*v*c*l*v#</sword>
+   <sword>n*c*r*v*c*l*v#</sword>
+   <sword>c*l*v#</sword>
+   <sword>a*n*c*c*l*v#</sword>
+   <sword>n*c*c*l*v#</sword>
+   <sword>c*c*l*v#</sword>
+   <sword>n*c*c*l*v#</sword>
+   <sword>a*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="36" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*v#</sword>
+   <sword>d*v*c*u*a*v#</sword>
+   <sword>d*v*c*u*a*v#</sword>
+   <sword>d*v*c*u*a*v#</sword>
+   <sword>l*n*l*v#</sword>
+   <sword>n*l*v#</sword>
+   <sword>r*u*a*v#</sword>
+   <sword>a*r*u*a*v#</sword>
+   <sword>a*v#</sword>
+   <sword>u*a*v#</sword>
+   <sword>p*v*c*u*a*v#</sword>
+   <sword>d*c*u*a*v#</sword>
+   <sword>a*v*c*u*a*v#</sword>
+   <sword>p*v*a*v*c*u*a*v#</sword>
+   <sword>c*u*a*v#</sword>
+   <sword>v*a*v*c*u*a*v#</sword>
+   <sword>v*v*a*v*c*u*a*v#</sword>
+   <sword>a*v*c*u*a*v#</sword>
+   <sword>u#</sword>
+   <sword>v*c*u*a*v#</sword>
+   <sword>v#</sword>
+   <sword>v*c*u*a*v#</sword>
+</sentence>
+<sentence id="37" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>u#</sword>
+   <sword>d#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="38" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*u#</sword>
+   <sword>d*u#</sword>
+   <sword>n*l*u#</sword>
+   <sword>u*c*u#</sword>
+   <sword>c*u#</sword>
+   <sword>d*v*c*u#</sword>
+   <sword>a*n*v*c*u#</sword>
+   <sword>n*v*c*u#</sword>
+   <sword>r*n*v*c*u#</sword>
+   <sword>n*r*n*v*c*u#</sword>
+   <sword>v*c*u#</sword>
+   <sword>u#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="39" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d#</sword>
+   <sword>d#</sword>
+   <sword>d#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="40" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p#</sword>
+   <sword>d#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="41" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*n*v#</sword>
+   <sword>d*c*n*v#</sword>
+   <sword>p*c*n*d*c*n*v#</sword>
+   <sword>c*n*d*c*n*v#</sword>
+   <sword>a*c*n*d*c*n*v#</sword>
+   <sword>n*d*c*n*v#</sword>
+   <sword>c*a*c*n*d*c*n*v#</sword>
+   <sword>pc*a*c*n*d*c*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+   <sword>a*c*n*v#</sword>
+   <sword>d*c*n*v#</sword>
+   <sword>v*a*c*n*v#</sword>
+   <sword>r*v*a*c*n*v#</sword>
+   <sword>n*r*v*a*c*n*v#</sword>
+   <sword>a*v*a*c*n*v#</sword>
+   <sword>v*a*c*n*v#</sword>
+   <sword>u*a*c*n*v#</sword>
+   <sword>c*n*v#</sword>
+   <sword>a*c*c*n*v#</sword>
+   <sword>d*c*c*n*v#</sword>
+   <sword>n*a*c*c*n*v#</sword>
+   <sword>u*a*c*c*n*v#</sword>
+   <sword>a*c*c*n*v#</sword>
+   <sword>c*c*n*v#</sword>
+   <sword>n*a*c*c*n*v#</sword>
+   <sword>r*c*a*c*c*n*v#</sword>
+   <sword>d*c*a*c*c*n*v#</sword>
+   <sword>n*r*c*a*c*c*n*v#</sword>
+   <sword>c*a*c*c*n*v#</sword>
+   <sword>r*c*a*c*c*n*v#</sword>
+   <sword>l*v*r*c*a*c*c*n*v#</sword>
+   <sword>v*r*c*a*c*c*n*v#</sword>
+   <sword>u*c*c*n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>a*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+   <sword>*c*a*c*n*d*c*n*v#</sword>
+</sentence>
+<sentence id="42" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a#</sword>
+   <sword>d#</sword>
+   <sword>d#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="43" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*r*v#</sword>
+   <sword>r*l*r*v#</sword>
+   <sword>n*r*l*r*v#</sword>
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="44" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*n*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>l*n*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>l*a*n*v*c*v#</sword>
+   <sword>a*n*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>a*n*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>a*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>l*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>l*n*v*v#</sword>
+   <sword>l*n*n*v*v#</sword>
+   <sword>n*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="45" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a*l*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*v#</sword>
+   <sword>l*n*v*c*l*v#</sword>
+   <sword>n*v*c*l*v#</sword>
+   <sword>v*c*l*v#</sword>
+   <sword>c*l*v#</sword>
+   <sword>v*v*c*l*v#</sword>
+   <sword>v*c*l*v#</sword>
+   <sword>a*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>a*c*v#</sword>
+   <sword>v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>n*c*v*c*v#</sword>
+   <sword>c*v*c*v#</sword>
+   <sword>n*c*v*c*v#</sword>
+   <sword>u#</sword>
+   <sword>v*c*v#</sword>
+</sentence>
+<sentence id="46" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*p*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*n*p*v#</sword>
+   <sword>p*n*p*v#</sword>
+   <sword>n*p*v#</sword>
+   <sword>l*n*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>p*v#</sword>
+   <sword>c*v#</sword>
+   <sword>l*n*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>a*c*v*v#</sword>
+   <sword>c*v*v#</sword>
+   <sword>a*c*v*v#</sword>
+   <sword>l*a*c*v*v#</sword>
+   <sword>a*c*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="47" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d#</sword>
+   <sword>l*v*c*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>l*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>a*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="48" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>l*n*c#</sword>
+   <sword>n*c#</sword>
+   <sword>c#</sword>
+   <sword>v*c#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="49" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>a*c*v#</sword>
+   <sword>u#</sword>
+   <sword>v#</sword>
+</sentence>
+<sentence id="50" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>p*v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="51" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*c#</sword>
+   <sword>l*n*c#</sword>
+   <sword>n*n*c#</sword>
+   <sword>n*c#</sword>
+   <sword>u*c*c#</sword>
+   <sword>c*c#</sword>
+   <sword>v*c*c#</sword>
+   <sword>u*c*c#</sword>
+   <sword>a*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>v*c#</sword>
+   <sword>c#</sword>
+   <sword>a*n*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>n*v*c#</sword>
+</sentence>
+<sentence id="52" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a*n*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>d*c#</sword>
+   <sword>v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>a*n*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>c#</sword>
+   <sword>v*v*c#</sword>
+   <sword>l*n*n*v*v*c#</sword>
+   <sword>n*n*v*v*c#</sword>
+   <sword>a*n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>l*n*c*r*v*c#</sword>
+   <sword>n*c*r*v*c#</sword>
+   <sword>c*r*v*c#</sword>
+   <sword>l*n*c*r*v*c#</sword>
+   <sword>n*c*r*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="53" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>c*v*c*v#</sword>
+   <sword>v*c*v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="54" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>l*v#</sword>
+   <sword>l*n*v*c*l*v#</sword>
+   <sword>r*v*c*l*v#</sword>
+   <sword>n*r*v*c*l*v#</sword>
+   <sword>v*c*l*v#</sword>
+   <sword>n*v*c*l*v#</sword>
+   <sword>c*l*v#</sword>
+   <sword>a*v*c*l*v#</sword>
+   <sword>l*n*v*c*l*v#</sword>
+   <sword>l*n*n*v*c*l*v#</sword>
+   <sword>n*n*v*c*l*v#</sword>
+   <sword>a*n*n*v*c*l*v#</sword>
+   <sword>n*v*c*l*v#</sword>
+   <sword>v*c*l*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="55" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*a*c*l*v*v#</sword>
+   <sword>l*v*v#</sword>
+   <sword>a*c*l*v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>u*v#</sword>
+   <sword>v#</sword>
+   <sword>u*v#</sword>
+   <sword>c*l*v*v#</sword>
+   <sword>a*n*v*c*l*v*v#</sword>
+   <sword>n*v*c*l*v*v#</sword>
+   <sword>r*n*v*c*l*v*v#</sword>
+   <sword>n*r*n*v*c*l*v*v#</sword>
+   <sword>v*c*l*v*v#</sword>
+   <sword>a*a*v*v*v#</sword>
+   <sword>a*v*v*v#</sword>
+   <sword>l*n*v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u*v#</sword>
+   <sword>n*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="56" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a*n*c*v#</sword>
+   <sword>d*v#</sword>
+   <sword>n*r*c*v#</sword>
+   <sword>r*c*v#</sword>
+   <sword>a*n*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>a*v#</sword>
+   <sword>c*v#</sword>
+   <sword>a*n*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>u#</sword>
+   <sword>v#</sword>
+</sentence>
+<sentence id="57" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*r*n*v#</sword>
+   <sword>r*n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>n*n*v#</sword>
+   <sword>a*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+   <sword>v#</sword>
+</sentence>
+<sentence id="58" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n#</sword>
+   <sword>d#</sword>
+   <sword>v#</sword>
+   <sword>n*v#</sword>
+   <sword>l*n*n*v#</sword>
+   <sword>n*n*n*v#</sword>
+   <sword>n*n*v#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="59" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u*v#</sword>
+   <sword>v#</sword>
+   <sword>u*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>-#</sword>
+</sentence>
+<sentence id="60" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*a*v#</sword>
+   <sword>d*v#</sword>
+   <sword>a*v#</sword>
+   <sword>n*a*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+   <sword>v#</sword>
+</sentence>
+<sentence id="61" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*n*c*v*v#</sword>
+   <sword>n*c*v*v#</sword>
+   <sword>c*v*v#</sword>
+   <sword>l*v*c*v*v#</sword>
+   <sword>v*c*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v#</sword>
+   <sword>v*v#</sword>
+   <sword>a*n*v*v#</sword>
+   <sword>u*c*v*v#</sword>
+   <sword>c*v*v#</sword>
+   <sword>n*v*c*c*v*v#</sword>
+   <sword>d*c*c*v*v#</sword>
+   <sword>n*v*c*c*v*v#</sword>
+   <sword>v*c*c*v*v#</sword>
+   <sword>u*c*c*v*v#</sword>
+   <sword>d*v*c*c*v*v#</sword>
+   <sword>c*c*v*v#</sword>
+   <sword>v*c*c*v*v#</sword>
+   <sword>n*v*c*c*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="62" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*n*v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v#</sword>
+   <sword>v*v#</sword>
+   <sword>d*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>u*v#</sword>
+   <sword>l*d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>u*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>c*v*v#</sword>
+   <sword>a*v*c*v*v#</sword>
+   <sword>v*c*v*v#</sword>
+   <sword>l*a*a*v*c*v*v#</sword>
+   <sword>a*a*v*c*v*v#</sword>
+   <sword>l*n*c*v*c*v*v#</sword>
+   <sword>r*c*v*c*v*v#</sword>
+   <sword>l*v*r*c*v*c*v*v#</sword>
+   <sword>v*r*c*v*c*v*v#</sword>
+   <sword>n*c*v*c*v*v#</sword>
+   <sword>c*v*c*v*v#</sword>
+   <sword>l*n*c*v*c*v*v#</sword>
+   <sword>n*c*v*c*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="63" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>r*n*v#</sword>
+   <sword>n*c*r*n*v#</sword>
+   <sword>c*r*n*v#</sword>
+   <sword>n*c*r*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>a*v*n*v#</sword>
+   <sword>r*v*n*v#</sword>
+   <sword>n*r*v*n*v#</sword>
+   <sword>v*n*v#</sword>
+   <sword>c*v*n*v#</sword>
+   <sword>n*v*c*c*v*n*v#</sword>
+   <sword>v*c*c*v*n*v#</sword>
+   <sword>c*c*v*n*v#</sword>
+   <sword>n*v*c*c*v*n*v#</sword>
+   <sword>v*c*c*v*n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="64" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*v#</sword>
+   <sword>r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>a*n*r*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>r*n*v#</sword>
+   <sword>n*r*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>a*n*v*c*v#</sword>
+   <sword>d*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>r*v*c*v#</sword>
+   <sword>a*n*r*v*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*v*c*v#</sword>
+   <sword>n*r*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="65" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*v*r*v#</sword>
+   <sword>d*v*r*v#</sword>
+   <sword>p*v*r*v#</sword>
+   <sword>v*r*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="66" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v*c#</sword>
+   <sword>u*p*c#</sword>
+   <sword>i*p*c#</sword>
+   <sword>p*c#</sword>
+   <sword>u*p*c#</sword>
+   <sword>l*n*v*c#</sword>
+   <sword>r*n*v*c#</sword>
+   <sword>l*n*r*n*v*c#</sword>
+   <sword>n*r*n*v*c#</sword>
+   <sword>p*n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>d*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>l*n*r*v*c#</sword>
+   <sword>n*r*v*c#</sword>
+   <sword>l*v*v*c#</sword>
+   <sword>l*n*v*v*c#</sword>
+   <sword>a*n*v*v*c#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>p*v*v*c#</sword>
+   <sword>v*v*c#</sword>
+   <sword>u*c*v*c#</sword>
+   <sword>c*v*c#</sword>
+   <sword>d*v*c*v*c#</sword>
+   <sword>l*v*c*v*c#</sword>
+   <sword>r*l*v*c*v*c#</sword>
+   <sword>l*n*r*l*v*c*v*c#</sword>
+   <sword>n*r*l*v*c*v*c#</sword>
+   <sword>v*c*v*c#</sword>
+   <sword>u*c*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>x*r*v*c#</sword>
+   <sword>l*n*v*v*c#</sword>
+   <sword>a*n*v*v*c#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>l*v*n*v*v*c#</sword>
+   <sword>v*n*v*v*c#</sword>
+   <sword>r*v*n*v*v*c#</sword>
+   <sword>l*n*r*v*n*v*v*c#</sword>
+   <sword>n*r*v*n*v*v*c#</sword>
+   <sword>a*v*c#</sword>
+   <sword>n*a*v*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>v*v*c#</sword>
+   <sword>a*v*v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>x*r*v*c#</sword>
+   <sword>l*n*v*v*c#</sword>
+   <sword>a*n*v*v*c#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>n*n*v*v*c#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>v*v*c#</sword>
+   <sword>u*c*v*c#</sword>
+   <sword>c*v*c#</sword>
+   <sword>v*c*v*c#</sword>
+   <sword>l*v*v*c*v*c#</sword>
+   <sword>d*v*v*c*v*c#</sword>
+   <sword>v*v*c*v*c#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="67" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>u*v#</sword>
+   <sword>v#</sword>
+   <sword>u*v#</sword>
+   <sword>l*n*v*v#</sword>
+   <sword>a*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>r*p*v*v#</sword>
+   <sword>n*n*r*p*v*v#</sword>
+   <sword>n*r*p*v*v#</sword>
+   <sword>a*v*p*v*v#</sword>
+   <sword>v*p*v*v#</sword>
+   <sword>u*v*p*v*v#</sword>
+   <sword>n*c*v*p*v*v#</sword>
+   <sword>v*p*v*v#</sword>
+   <sword>d*c*v*p*v*v#</sword>
+   <sword>n*c*v*p*v*v#</sword>
+   <sword>c*v*p*v*v#</sword>
+   <sword>n*c*v*p*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="68" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d#</sword>
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>a*v#</sword>
+   <sword>n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="69" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*n*v#</sword>
+   <sword>u*v*n*v#</sword>
+   <sword>a*v*n*v#</sword>
+   <sword>v*n*v#</sword>
+   <sword>n*a*v*n*v#</sword>
+   <sword>u*c*v*n*v#</sword>
+   <sword>c*v*n*v#</sword>
+   <sword>d*v*c*v*n*v#</sword>
+   <sword>a*n*v*c*v*n*v#</sword>
+   <sword>l*n*v*c*v*n*v#</sword>
+   <sword>n*v*c*v*n*v#</sword>
+   <sword>v*c*v*n*v#</sword>
+   <sword>u*c*v*n*v#</sword>
+   <sword>c*v*c*v*n*v#</sword>
+   <sword>v*c*v*c*v*n*v#</sword>
+   <sword>l*n*v*c*v*c*v*n*v#</sword>
+   <sword>n*v*c*v*c*v*n*v#</sword>
+   <sword>u*c*v*c*v*n*v#</sword>
+   <sword>d*a*c*n*v#</sword>
+   <sword>a*c*n*v#</sword>
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u*c*n*v#</sword>
+   <sword>c*n*v#</sword>
+   <sword>l*c*n*v#</sword>
+   <sword>a*l*c*n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="70" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*a*v#</sword>
+   <sword>n*l*a*v#</sword>
+   <sword>v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u*d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v*v*d*v#</sword>
+   <sword>l*v*v*d*v#</sword>
+   <sword>n*v*v*d*v#</sword>
+   <sword>v*v*d*v#</sword>
+   <sword>u#</sword>
+   <sword>v*d*v#</sword>
+</sentence>
+<sentence id="71" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*n*v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>a*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>v#</sword>
+   <sword>l*a*v#</sword>
+   <sword>a*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="72" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*n*v#</sword>
+   <sword>l*n*r*n*v#</sword>
+   <sword>n*r*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v#</sword>
+   <sword>v*v#</sword>
+   <sword>n*n*v*v#</sword>
+   <sword>l*n*n*v*v#</sword>
+   <sword>a*n*n*v*v#</sword>
+   <sword>n*n*v*v#</sword>
+   <sword>u*v*n*v#</sword>
+   <sword>p*v*n*v#</sword>
+   <sword>v*n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="73" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*v#</sword>
+   <sword>p*n*v*v#</sword>
+   <sword>v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>a*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>c*a*v*v#</sword>
+   <sword>cc*a*v*v#</sword>
+   <sword>n*v*c*cc*a*v*v#</sword>
+   <sword>d*c*cc*a*v*v#</sword>
+   <sword>v*c*cc*a*v*v#</sword>
+   <sword>r*v*c*cc*a*v*v#</sword>
+   <sword>n*r*v*c*cc*a*v*v#</sword>
+   <sword>a*n*r*v*c*cc*a*v*v#</sword>
+   <sword>u*v*c*cc*a*v*v#</sword>
+   <sword>n*v*c*cc*a*v*v#</sword>
+   <sword>d*c*cc*a*v*v#</sword>
+   <sword>r*v*c*cc*a*v*v#</sword>
+   <sword>n*r*v*c*cc*a*v*v#</sword>
+   <sword>v*c*cc*a*v*v#</sword>
+   <sword>n*v*c*cc*a*v*v#</sword>
+   <sword>t*n*v*c*cc*a*v*v#</sword>
+   <sword>d*t*n*v*c*cc*a*v*v#</sword>
+   <sword>u*v*c*cc*a*v*v#</sword>
+   <sword>d*v*c*cc*a*v*v#</sword>
+   <sword>d*c*cc*a*v*v#</sword>
+   <sword>v*c*cc*a*v*v#</sword>
+   <sword>n*v*c*cc*a*v*v#</sword>
+   <sword>n*c*v*c*cc*a*v*v#</sword>
+   <sword>c*v*c*cc*a*v*v#</sword>
+   <sword>n*c*v*c*cc*a*v*v#</sword>
+   <sword>u*c*c*cc*a*v*v#</sword>
+   <sword>n*c*c*cc*a*v*v#</sword>
+   <sword>c*cc*a*v*v#</sword>
+   <sword>r*v*c*c*cc*a*v*v#</sword>
+   <sword>n*r*v*c*c*cc*a*v*v#</sword>
+   <sword>v*c*c*cc*a*v*v#</sword>
+   <sword>n*c*c*cc*a*v*v#</sword>
+   <sword>v*c*c*cc*a*v*v#</sword>
+   <sword>c*c*cc*a*v*v#</sword>
+   <sword>v*c*c*cc*a*v*v#</sword>
+   <sword>n*v*c*c*cc*a*v*v#</sword>
+   <sword>u#</sword>
+   <sword>*c*a*v*v#</sword>
+</sentence>
+<sentence id="74" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*v#</sword>
+   <sword>p*v#</sword>
+   <sword>p*n*r*v#</sword>
+   <sword>a*v*v#</sword>
+   <sword>r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>v#</sword>
+   <sword>v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="75" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>l*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>l*n*v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>l*v*r*v*v#</sword>
+   <sword>v*r*v*v#</sword>
+   <sword>a*v*v*r*v*v#</sword>
+   <sword>l*n*a*v*v*r*v*v#</sword>
+   <sword>n*a*v*v*r*v*v#</sword>
+   <sword>v*v*r*v*v#</sword>
+   <sword>l*a*v*v#</sword>
+   <sword>a*v*v#</sword>
+   <sword>p*a*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>l*n*v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="76" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*n*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>d*c*v#</sword>
+   <sword>n*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>d*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>d*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>d*c*v#</sword>
+   <sword>a*n*c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>d*c*v#</sword>
+   <sword>a*n*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>u#</sword>
+   <sword>v#</sword>
+</sentence>
+<sentence id="77" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>p*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="78" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>l*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>n*n*v*v#</sword>
+   <sword>l*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="79" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>i*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u*n*v#</sword>
+   <sword>a*n*n*v*v#</sword>
+   <sword>n*n*v*v#</sword>
+   <sword>a*n*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="80" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v*v#</sword>
+   <sword>a*v#</sword>
+   <sword>d*v#</sword>
+   <sword>a*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="81" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="82" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>u*c*v*v#</sword>
+   <sword>nc*v*v#</sword>
+   <sword>nc*v*v#</sword>
+   <sword>c*v*v#</sword>
+   <sword>nc*v*v#</sword>
+   <sword>u*c*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>a*n*n*r*v*v#</sword>
+   <sword>n*n*r*v*v#</sword>
+   <sword>u#</sword>
+   <sword>*c*v*v#</sword>
+</sentence>
+<sentence id="83" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d#</sword>
+   <sword>l*n#</sword>
+   <sword>n#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="84" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>a*n*n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="85" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>a*n*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>l*n*v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>l*n*v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>u*v*v*v*v#</sword>
+   <sword>v*v*v*v#</sword>
+   <sword>l*n*v*v*v*v#</sword>
+   <sword>a*n*v*v*v*v#</sword>
+   <sword>n*v*v*v*v#</sword>
+   <sword>d*v*v*v*v#</sword>
+   <sword>l*v*v*v*v#</sword>
+   <sword>r*l*v*v*v*v#</sword>
+   <sword>n*r*l*v*v*v*v#</sword>
+   <sword>u*v*v*v*v#</sword>
+   <sword>v*v*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="86" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*n*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>r*v*v*c#</sword>
+   <sword>n*r*v*v*c#</sword>
+   <sword>v*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>a*n*r*v*v*c#</sword>
+   <sword>r*v*v*c#</sword>
+   <sword>n*r*v*v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>p*r*v*c#</sword>
+   <sword>n*n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>l*v*c#</sword>
+   <sword>c#</sword>
+   <sword>a*n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>p*v*c#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="87" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*v#</sword>
+   <sword>p*r*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="88" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*v#</sword>
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>v*c*p*v#</sword>
+   <sword>d*c*p*v#</sword>
+   <sword>v*c*p*v#</sword>
+   <sword>c*p*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="89" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="90" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>v*v#</sword>
+   <sword>n*c*v*v#</sword>
+   <sword>d*c*v*v#</sword>
+   <sword>a*n*c*v*v#</sword>
+   <sword>c*v*v#</sword>
+   <sword>n*c*v*v#</sword>
+   <sword>a*n*c*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="91" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>n*v#</sword>
+   <sword>l*n*n*v#</sword>
+   <sword>n*n*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="92" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a*v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*a*v#</sword>
+   <sword>n*r*a*v#</sword>
+   <sword>v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>a*n*a*n*v#</sword>
+   <sword>n*a*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u*v*c*n*v#</sword>
+   <sword>p*n*c*n*v#</sword>
+   <sword>d*n*c*n*v#</sword>
+   <sword>l*n*c*n*v#</sword>
+   <sword>n*c*n*v#</sword>
+   <sword>v*c*n*v#</sword>
+   <sword>d*c*n*v#</sword>
+   <sword>r*v*c*n*v#</sword>
+   <sword>n*r*v*c*n*v#</sword>
+   <sword>u*v*c*n*v#</sword>
+   <sword>v*c*n*v#</sword>
+   <sword>c*n*v#</sword>
+   <sword>r*v*c*n*v#</sword>
+   <sword>n*r*v*c*n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="93" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>n*c*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>l*n*r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>l*n*n*r*v*v#</sword>
+   <sword>n*n*r*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="94" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="95" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>r*v*c#</sword>
+   <sword>n*r*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>n*r*v*c#</sword>
+   <sword>l*n*v*c#</sword>
+   <sword>v*n*v*c#</sword>
+   <sword>l*n*n*v*c#</sword>
+   <sword>n*n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>u#</sword>
+   <sword>v*c#</sword>
+</sentence>
+<sentence id="96" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*n*n*c#</sword>
+   <sword>l*n*c#</sword>
+   <sword>n*n*c#</sword>
+   <sword>d*c#</sword>
+   <sword>n*c#</sword>
+   <sword>v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>n*r*v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>n*r*v*c#</sword>
+   <sword>u#</sword>
+   <sword>u*c#</sword>
+   <sword>l*v*u*c#</sword>
+   <sword>v*u*c#</sword>
+   <sword>l*n*v*u*c#</sword>
+   <sword>n*v*u*c#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="97" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*v*n*v#</sword>
+   <sword>v*n*v#</sword>
+   <sword>l*n*v*n*v#</sword>
+   <sword>n*v*n*v#</sword>
+   <sword>l*n*v*n*v#</sword>
+   <sword>l*n*n*v*n*v#</sword>
+   <sword>n*n*v*n*v#</sword>
+   <sword>n*v*n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>l*n*n*v#</sword>
+   <sword>n*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="98" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>r*v#</sword>
+   <sword>n*c*r*v#</sword>
+   <sword>c*r*v#</sword>
+   <sword>l*v*c*r*v#</sword>
+   <sword>v*c*r*v#</sword>
+   <sword>n*v*c*r*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="99" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a*c*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>c*v#</sword>
+   <sword>a*c*v#</sword>
+   <sword>l*n*a*c*v#</sword>
+   <sword>n*a*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="100" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>c*c*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*n*r*v*c*c*v#</sword>
+   <sword>r*v*c*c*v#</sword>
+   <sword>l*n*r*v*c*c*v#</sword>
+   <sword>n*r*v*c*c*v#</sword>
+   <sword>v*c*c*v#</sword>
+   <sword>u*v#</sword>
+   <sword>v#</sword>
+   <sword>u*v#</sword>
+   <sword>n*v*c*c*v#</sword>
+   <sword>u*v*c*c*v#</sword>
+   <sword>d*c*c*v#</sword>
+   <sword>v*c*c*v#</sword>
+   <sword>a*v*v*c*c*v#</sword>
+   <sword>v*v*c*c*v#</sword>
+   <sword>r*n*v*v*c*c*v#</sword>
+   <sword>l*n*r*n*v*v*c*c*v#</sword>
+   <sword>n*r*n*v*v*c*c*v#</sword>
+   <sword>l*n*v*v*c*c*v#</sword>
+   <sword>n*v*v*c*c*v#</sword>
+   <sword>c*c*v#</sword>
+   <sword>r*tc*c*v#</sword>
+   <sword>n*r*tc*c*v#</sword>
+   <sword>tc*c*v#</sword>
+   <sword>u*c*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*c*c*v#</sword>
+   <sword>p*v*c*c*v#</sword>
+   <sword>a*n*v*c*c*v#</sword>
+   <sword>n*v*c*c*v#</sword>
+   <sword>v*c*c*v#</sword>
+   <sword>c*c*v#</sword>
+   <sword>p*v*v*c*c*v#</sword>
+   <sword>v*v*c*c*v#</sword>
+   <sword>v*c*c*v#</sword>
+   <sword>u#</sword>
+   <sword>*c*c*v#</sword>
+</sentence>
+<sentence id="101" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>l*a*v#</sword>
+   <sword>n*a*v#</sword>
+   <sword>a*v#</sword>
+   <sword>r*v#</sword>
+   <sword>p*r*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="102" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>l*n*v*c*v#</sword>
+   <sword>a*n*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>r*v*c*v#</sword>
+   <sword>a*r*v*c*v#</sword>
+   <sword>a*a*r*v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="103" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*v*c#</sword>
+   <sword>d*v*c#</sword>
+   <sword>l*a*v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>a*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>c*v*c#</sword>
+   <sword>n*v*c*v*c#</sword>
+   <sword>v*c*v*c#</sword>
+   <sword>u*c*v*c#</sword>
+   <sword>l*n*v*c#</sword>
+   <sword>c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>v*c*v*c#</sword>
+   <sword>c*v*c#</sword>
+   <sword>v*c*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>n*v*v*c#</sword>
+   <sword>v*v*c#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="104" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*n*v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+   <sword>r#</sword>
+   <sword>l*n*r#</sword>
+   <sword>l*a*n*r#</sword>
+   <sword>a*n*r#</sword>
+   <sword>n*r#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="105" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*v#</sword>
+   <sword>l*a*p*v#</sword>
+   <sword>a*p*v#</sword>
+   <sword>u*n*v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>l*n*n*v#</sword>
+   <sword>n*n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>l*n*r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>a*n*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>l*n*a*n*v#</sword>
+   <sword>n*a*n*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>l*n*r*v*v#</sword>
+   <sword>a*n*r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>l*a*v*n*r*v*v#</sword>
+   <sword>a*v*n*r*v*v#</sword>
+   <sword>v*n*r*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="106" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>p*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>a*v#</sword>
+   <sword>v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>a*n*v*v#</sword>
+   <sword>u*v*n*v*v#</sword>
+   <sword>r*v*n*v*v#</sword>
+   <sword>p*r*v*n*v*v#</sword>
+   <sword>p*v*n*v*v#</sword>
+   <sword>p*p*v*n*v*v#</sword>
+   <sword>v*n*v*v#</sword>
+   <sword>c*v*n*v*v#</sword>
+   <sword>n*v*c*v*n*v*v#</sword>
+   <sword>u#</sword>
+   <sword>v*c*v*n*v*v#</sword>
+</sentence>
+<sentence id="107" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>c*v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*v*c*v#</sword>
+   <sword>l*n*r*v*c*v#</sword>
+   <sword>a*n*r*v*c*v#</sword>
+   <sword>n*r*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>v#</sword>
+   <sword>r*c*v#</sword>
+   <sword>l*n*r*c*v#</sword>
+   <sword>n*r*c*v#</sword>
+   <sword>u*r*c*v#</sword>
+   <sword>d*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*n*r*c*v#</sword>
+   <sword>r*c*v#</sword>
+   <sword>n*r*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="108" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>a*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="109" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>c*v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*v*c*v#</sword>
+   <sword>n*r*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>p*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="110" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>n*v#</sword>
+   <sword>r*v*v*n*v#</sword>
+   <sword>p*r*v*v*n*v#</sword>
+   <sword>v*n*v#</sword>
+   <sword>v*v*n*v#</sword>
+   <sword>a*v#</sword>
+   <sword>v#</sword>
+   <sword>u*v*n*v#</sword>
+   <sword>p*v*n*v#</sword>
+   <sword>v*n*v#</sword>
+   <sword>n*n*v*n*v#</sword>
+   <sword>n*v*n*v#</sword>
+   <sword>a*n*v*n*v#</sword>
+   <sword>a*n*v*n*v#</sword>
+   <sword>u*v*n*v*n*v#</sword>
+   <sword>r*v*n*v*n*v#</sword>
+   <sword>p*r*v*n*v*n*v#</sword>
+   <sword>v*n*v*n*v#</sword>
+   <sword>n*v*n*v*n*v#</sword>
+   <sword>a*n*v*n*v*n*v#</sword>
+   <sword>a*n*v*n*v*n*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="111" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>a*r*v*v#</sword>
+   <sword>n*a*r*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>l*n*r*v*v#</sword>
+   <sword>n*n*r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>d*v*c*v*v#</sword>
+   <sword>c*v*v#</sword>
+   <sword>r*v*c*v*v#</sword>
+   <sword>p*r*v*c*v*v#</sword>
+   <sword>a*v*c*v*v#</sword>
+   <sword>v*c*v*v#</sword>
+   <sword>l*n*a*v*c*v*v#</sword>
+   <sword>n*a*v*c*v*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>v#</sword>
+   <sword>d*v*v#</sword>
+   <sword>l*n*u*v*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>n*n*u*v*v#</sword>
+   <sword>n*u*v*v#</sword>
+   <sword>d*a*c*u*v*v#</sword>
+   <sword>a*c*u*v*v#</sword>
+   <sword>p*v*n*c*u*v*v#</sword>
+   <sword>v*n*c*u*v*v#</sword>
+   <sword>n*c*u*v*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>c*u*v*v#</sword>
+   <sword>d*n*c*u*v*v#</sword>
+   <sword>l*n*n*c*u*v*v#</sword>
+   <sword>l*v*n*n*c*u*v*v#</sword>
+   <sword>v*n*n*c*u*v*v#</sword>
+   <sword>n*n*c*u*v*v#</sword>
+   <sword>r*v*n*c*u*v*v#</sword>
+   <sword>a*r*v*n*c*u*v*v#</sword>
+   <sword>v*n*c*u*v*v#</sword>
+   <sword>n*a*r*v*n*c*u*v*v#</sword>
+   <sword>n*c*u*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="112" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>a*c*n*v#</sword>
+   <sword>d*c*n*v#</sword>
+   <sword>c*n*v#</sword>
+   <sword>a*c*n*v#</sword>
+   <sword>p*n*v#</sword>
+   <sword>r*n*v#</sword>
+   <sword>l*n*r*n*v#</sword>
+   <sword>n*r*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>d*v*v*v#</sword>
+   <sword>l*v*v*v#</sword>
+   <sword>l*n*v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="113" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*v#</sword>
+   <sword>v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="114" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*v*v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v*v*v#</sword>
+   <sword>p*n*v*v*v#</sword>
+   <sword>p*v*v*v#</sword>
+   <sword>a*n*v*v*v#</sword>
+   <sword>n*v*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>l*v*n*v*v#</sword>
+   <sword>v*n*v*v#</sword>
+   <sword>d*v*c*v#</sword>
+   <sword>a*n*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>p*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>v#</sword>
+   <sword>u*v*v*c*v#</sword>
+   <sword>a*d*v*v*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>d*v*v*c*v#</sword>
+   <sword>p*v*v*c*v#</sword>
+   <sword>v*v*c*v#</sword>
+   <sword>p*v*v*c*v#</sword>
+   <sword>u*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="115" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>p*u*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>v#</sword>
+   <sword>l*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>u*v#</sword>
+   <sword>d*c*n*u*v#</sword>
+   <sword>n*c*n*u*v#</sword>
+   <sword>d*c*n*u*v#</sword>
+   <sword>c*n*u*v#</sword>
+   <sword>n*c*n*u*v#</sword>
+   <sword>n*u*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="116" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*a*r*v#</sword>
+   <sword>a*r*v#</sword>
+   <sword>l*n*a*r*v#</sword>
+   <sword>r*n*a*r*v#</sword>
+   <sword>n*r*n*a*r*v#</sword>
+   <sword>n*a*r*v#</sword>
+   <sword>r*v*c*v#</sword>
+   <sword>p*r*v*c*v#</sword>
+   <sword>u*v#</sword>
+   <sword>v#</sword>
+   <sword>u*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>n*p*r*v*c*v#</sword>
+   <sword>l*n*v*c*v#</sword>
+   <sword>l*n*n*v*c*v#</sword>
+   <sword>n*n*v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>c*p*r*v*c*v#</sword>
+   <sword>v*c*p*r*v*c*v#</sword>
+   <sword>l*n*n*r*v*c*p*r*v*c*v#</sword>
+   <sword>a*n*n*r*v*c*p*r*v*c*v#</sword>
+   <sword>n*n*r*v*c*p*r*v*c*v#</sword>
+   <sword>r*v*c*p*r*v*c*v#</sword>
+   <sword>n*r*v*c*p*r*v*c*v#</sword>
+   <sword>n*v*c*p*r*v*c*v#</sword>
+   <sword>a*n*v*c*p*r*v*c*v#</sword>
+   <sword>a*n*v*c*p*r*v*c*v#</sword>
+   <sword>u*v*n*v*c*p*r*v*c*v#</sword>
+   <sword>r*v*n*v*c*p*r*v*c*v#</sword>
+   <sword>p*r*v*n*v*c*p*r*v*c*v#</sword>
+   <sword>n*n*v*n*v*c*p*r*v*c*v#</sword>
+   <sword>a*n*v*n*v*c*p*r*v*c*v#</sword>
+   <sword>r*v*n*v*c*p*r*v*c*v#</sword>
+   <sword>a*r*v*n*v*c*p*r*v*c*v#</sword>
+   <sword>v*n*v*c*p*r*v*c*v#</sword>
+   <sword>n*v*n*v*c*p*r*v*c*v#</sword>
+   <sword>u*v*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>p*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>n*v*c*v#</sword>
+   <sword>a*n*v*c*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="117" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*n*rc#</sword>
+   <sword>rc#</sword>
+   <sword>n*rc#</sword>
+   <sword>a*n*c#</sword>
+   <sword>n*c#</sword>
+   <sword>a*n*c#</sword>
+   <sword>u*v*n*c#</sword>
+   <sword>d*v*n*c#</sword>
+   <sword>n*v*n*c#</sword>
+   <sword>a*n*v*n*c#</sword>
+   <sword>v*n*c#</sword>
+   <sword>n*n*v*n*c#</sword>
+   <sword>u*v*n*c#</sword>
+   <sword>c#</sword>
+   <sword>v*c#</sword>
+   <sword>a*n*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>u#</sword>
+   <sword>*c#</sword>
+</sentence>
+<sentence id="118" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>d*n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>a*n*v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="119" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*n*v*v#</sword>
+   <sword>d*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>p*n*v*v#</sword>
+   <sword>n*v#</sword>
+   <sword>v#</sword>
+   <sword>r*v#</sword>
+   <sword>l*n*r*v#</sword>
+   <sword>n*r*v#</sword>
+   <sword>d*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>v*v#</sword>
+   <sword>r*v*n*v*v#</sword>
+   <sword>l*n*r*v*n*v*v#</sword>
+   <sword>a*n*r*v*n*v*v#</sword>
+   <sword>n*r*v*n*v*v#</sword>
+   <sword>v*n*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="120" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>d*d*v#</sword>
+   <sword>d*v#</sword>
+   <sword>d#</sword>
+   <sword>p*d*v#</sword>
+   <sword>v#</sword>
+   <sword>n#</sword>
+   <sword>a*n#</sword>
+   <sword>n*n#</sword>
+   <sword>l*n*n#</sword>
+   <sword>a*n*n#</sword>
+   <sword>n#</sword>
+   <sword>u#</sword>
+   <sword>#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="121" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>n*v#</sword>
+   <sword>d*v#</sword>
+   <sword>r*v#</sword>
+   <sword>a*r*v#</sword>
+   <sword>r*a*r*v#</sword>
+   <sword>n*r*a*r*v#</sword>
+   <sword>r*v*v#</sword>
+   <sword>n*r*v*v#</sword>
+   <sword>v#</sword>
+   <sword>v*v#</sword>
+   <sword>d*n*v*v#</sword>
+   <sword>a*v*n*v*v#</sword>
+   <sword>v*n*v*v#</sword>
+   <sword>n*v*v#</sword>
+   <sword>u#</sword>
+</sentence>
+<sentence id="122" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>v*c#</sword>
+   <sword>d*c#</sword>
+   <sword>p*v*c#</sword>
+   <sword>n*v*c#</sword>
+   <sword>a*n*v*c#</sword>
+   <sword>u*v*c#</sword>
+   <sword>c#</sword>
+   <sword>p*v*c#</sword>
+   <sword>v*c#</sword>
+   <sword>r*v*c#</sword>
+   <sword>p*r*v*c#</sword>
+   <sword>c*p*v*c#</sword>
+   <sword>a*n*c*u*c*p*v*c#</sword>
+   <sword>n*c*u*c*p*v*c#</sword>
+   <sword>c*u*c*p*v*c#</sword>
+   <sword>l*a*c*u*c*p*v*c#</sword>
+   <sword>a*c*u*c*p*v*c#</sword>
+   <sword>p*n*a*c*u*c*p*v*c#</sword>
+   <sword>l*n*a*c*u*c*p*v*c#</sword>
+   <sword>n*a*c*u*c*p*v*c#</sword>
+   <sword>u#</sword>
+   <sword>u*c*p*v*c#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="123" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>l*p*p*v*c*v#</sword>
+   <sword>d*v#</sword>
+   <sword>p*p*v*c*v#</sword>
+   <sword>c*v#</sword>
+   <sword>p*v*c*v#</sword>
+   <sword>v*c*v#</sword>
+   <sword>u*c*v#</sword>
+   <sword>n*v#</sword>
+   <sword>l*n*v#</sword>
+   <sword>n*v#</sword>
+   <sword>u#</sword>
+   <sword>v#</sword>
+</sentence>
+    
+    
+</SWordDocument>

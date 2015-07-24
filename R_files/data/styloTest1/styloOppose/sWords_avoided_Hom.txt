@@ -1,0 +1,35 @@
+# The file contains words that were extracted in Burrows’ Zeta test:
+# this subset lists words significantly AVOIDED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+adv-pnom-pred-root
+adv-sbj-pred-root
+atr-sbj-adv-pred-root
+auxx-pred-root
+adv-adv-co-coord-pred-root
+sbj-sbj-pred-root
+atr-adv-auxp-adv-pred-root
+obj-sbj-pred-root
+obj-obj-adv-pred-root
+auxp-sbj-pred-root
+atr-obj-sbj-pred-root
+auxx-adv-co-coord-pred-root
+auxc-adv-pred-root
+coord-coord-pred-root
+auxx-obj-co-coord-pred-root
+atr-adv-adv-pred-root
+atr-sbj-coord-pred-root
+auxx-pred-co-coord-coord-root
+auxp-obj-adv-pred-root
+atr-atr-obj-adv-pred-root
+auxx-root
+atr-obj-adv-coord-root
+atr-obj-adv-co-coord-pred-root
+atr-adv-auxp-adv-co-coord-pred-root
+atr-auxp-sbj-pred-root
+sbj-adv-pred-root
+atr-auxp-obj-pred-root
+undefined-root

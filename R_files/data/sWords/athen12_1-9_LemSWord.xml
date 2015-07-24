@@ -1,0 +1,2466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sWordDocument>
+    <treebankSource>
+        <treebank version="1.5" xml:lang="grc" direction="ltr" format="aldt">
+            <date>Mon Oct 20 15:58:55 +0000 2014</date>
+            <annotator>
+                <short/>
+                <name/>
+                <address/>
+                <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+            </annotator>
+            <annotator>
+                <short>Vanessa Gorman</short>
+                <name>Vanessa Gorman</name>
+                <address>vbgorman@gmail.com</address>
+                <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
+            </annotator>
+            <annotator>
+                <short>arethusa</short>
+                <name>arethusa</name>
+                <address/>
+                <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+            </annotator>
+            <annotator>
+                <short>Vanessa Gorman</short>
+                <name>Vanessa Gorman</name>
+                <address>vbgorman@gmail.com</address>
+                <uri>http://data.perseus.org/sosol/users/Vanessa%20Gorman</uri>
+            </annotator>
+        </treebank>      
+        
+    </treebankSource>
+    <sentence id="1" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>̓́Ανθρωπος*εἰμί*δοκέω#</sword>
+   <sword>εἰμί*δοκέω*#</sword>
+   <sword>ἐγώ*δοκέω*#</sword>
+   <sword>Κυρηναῖος*̓́Ανθρωπος*εἰμί*δοκέω*#</sword>
+   <sword>δοκέω#</sword>
+   <sword>punc1*κατά*δοκέω#</sword>
+   <sword>κατά*δοκέω*#</sword>
+   <sword>ὁ*Τυνδάρεως*κατά*δοκέω*#</sword>
+   <sword>Ἄλεξις*Τυνδάρεως*κατά*δοκέω*#</sword>
+   <sword>Τυνδάρεως*κατά*δοκέω#</sword>
+   <sword>punc1*κατά*δοκέω#</sword>
+   <sword>ἑταῖρος*Τιμοκράτης*δοκέω#</sword>
+   <sword>Τιμοκράτης*δοκέω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="2" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἐκεῖ*καλέω*ἄν2*πάρειμι1*#</sword>
+   <sword>γάρ*πάρειμι1*#</sword>
+   <sword>ἄν2*πάρειμι1*#</sword>
+   <sword>τις*καλέω*ἄν2*πάρειμι1*#</sword>
+   <sword>ἐπί*καλέω*ἄν2*πάρειμι1*#</sword>
+   <sword>ὁ*δεῖπνον*ἐπί*καλέω*ἄν2*πάρειμι1*#</sword>
+   <sword>δεῖπνον*ἐπί*καλέω*ἄν2*πάρειμι1#</sword>
+   <sword>εἷς*καλέω*ἄν2*πάρειμι1*#</sword>
+   <sword>καλέω*ἄν2*πάρειμι1#</sword>
+   <sword>punc1*καλέω*ἄν2*πάρειμι1*#</sword>
+   <sword>πάρειμι1#</sword>
+   <sword>ὀκτωκαίδεκα*ἄλλος*τε*πάρειμι1*#</sword>
+   <sword>ἄλλος*τε*πάρειμι1#</sword>
+   <sword>καί*τε*πάρειμι1#</sword>
+   <sword>δέκα*ἅρμα*τε*πάρειμι1*#</sword>
+   <sword>ἅρμα*τε*πάρειμι1#</sword>
+   <sword>συνωρίς*τε*πάρειμι1#</sword>
+   <sword>τε*πάρειμι1*#</sword>
+   <sword>πεντεκαίδεκα*συνωρίς*τε*πάρειμι1*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="3" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὗτος*ἐμβάλλω*δέω2#</sword>
+   <sword>δέ*δέω2*#</sword>
+   <sword>δέω2#</sword>
+   <sword>σύ*ἐμβάλλω*δέω2#</sword>
+   <sword>ἐπιτήδειος*ἐμβάλλω*δέω2#</sword>
+   <sword>ἐμβάλλω*δέω2*#</sword>
+   <sword>punc1*ὥστε*δέω2#</sword>
+   <sword>ὥστε*δέω2*#</sword>
+   <sword>εἰμί*ὥστε*δέω2#</sword>
+   <sword>κράτιστος*εἰμί*ὥστε*δέω2*#</sword>
+   <sword>μηδέ*καλέω*εἰμί*ὥστε*δέω2#</sword>
+   <sword>καλέω*εἰμί*ὥστε*δέω2*#</sword>
+   <sword>μηδείς*καλέω*εἰμί*ὥστε*δέω2#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="4" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἐγώ*κράτιστος*είμί#</sword>
+   <sword>δέ*είμί*#</sword>
+   <sword>είμί#</sword>
+   <sword>κράτιστος*είμί*#</sword>
+   <sword>σιωπάω*καί*είμί#</sword>
+   <sword>καί*είμί*#</sword>
+   <sword>μή*προστίθημι*καί*είμί*#</sword>
+   <sword>ἐπί*προστίθημι*καί*είμί*#</sword>
+   <sword>τοσοῦτος*ἐπί*προστίθημι*καί*είμί#</sword>
+   <sword>προερέω*τοσοῦτος*ἐπί*προστίθημι*καί*είμί*#</sword>
+   <sword>ἕτερος*προστίθημι*καί*είμί*#</sword>
+   <sword>προστίθημι*καί*είμί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="5" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἀλλά#</sword>
+   <sword>ἐπεί#</sword>
+   <sword>πάνυ*λιπαρής*ἀπαιτέω*ἐπεί*#</sword>
+   <sword>λιπαρής*ἀπαιτέω*ἐπεί#</sword>
+   <sword>ἐγώ*ἀπαιτέω*ἐπεί#</sword>
+   <sword>ἀπαιτέω*ἐπεί*#</sword>
+   <sword>καί*καί*λόγος*ἀπαιτέω*ἐπεί#</sword>
+   <sword>ὁ*λόγος*ἀπαιτέω*ἐπεί*#</sword>
+   <sword>περί*καί*λόγος*ἀπαιτέω*ἐπεί#</sword>
+   <sword>ὁ*γίγνομαι*περί*καί*λόγος*ἀπαιτέω*ἐπεί#</sword>
+   <sword>ἐπί*διαβόητος*γίγνομαι*περί*καί*λόγος*ἀπαιτέω*ἐπεί*#</sword>
+   <sword>τρυφή*ἐπί*διαβόητος*γίγνομαι*περί*καί*λόγος*ἀπαιτέω*ἐπεί#</sword>
+   <sword>διαβόητος*γίγνομαι*περί*καί*λόγος*ἀπαιτέω*ἐπεί#</sword>
+   <sword>γίγνομαι*περί*καί*λόγος*ἀπαιτέω*ἐπεί*#</sword>
+   <sword>λόγος*ἀπαιτέω*ἐπεί#</sword>
+   <sword>καί*λόγος*ἀπαιτέω*ἐπεί*#</sword>
+   <sword>ὁ*ἡδυπάθεια*καί*λόγος*ἀπαιτέω*ἐπεί*#</sword>
+   <sword>οὗτος*ἡδυπάθεια*καί*λόγος*ἀπαιτέω*ἐπεί*#</sword>
+   <sword>ἡδυπάθεια*καί*λόγος*ἀπαιτέω*ἐπεί#</sword>
+   <sword>#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="6" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*ἀπόλαυσις*ἔπειτα#</sword>
+   <sword>γάρ*ἔπειτα*#</sword>
+   <sword>ἀπόλαυσις*ἔπειτα*#</sword>
+   <sword>δήπουἔπειτα#</sword>
+   <sword>μετάἔπειτα#</sword>
+   <sword>ἐπιθυμία*μετάἔπειτα*#</sword>
+   <sword>πρῶτοςἔπειτα#</sword>
+   <sword>punc1ἔπειτα#</sword>
+   <sword>ἔπειτα#</sword>
+   <sword>μετάἔπειτα#</sword>
+   <sword>ἡδονά*μετάἔπειτα*#</sword>
+   <sword>punc1#</sword>
+   <sword>*ἔπειτα*#</sword>
+   <sword>*ἔπειτα*#</sword>
+</sentence>
+<sentence id="7" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καίτοι*τίθημι*#</sword>
+   <sword>Σοφοκλῆς*τίθημι*#</sword>
+   <sword>γε*Σοφοκλῆς*τίθημι#</sword>
+   <sword>ὁ*Σοφοκλῆς*τίθημι#</sword>
+   <sword>ποιητής*Σοφοκλῆς*τίθημι#</sword>
+   <sword>punc1*εἰμί*Σοφοκλῆς*τίθημι*#</sword>
+   <sword>ὁ*ἀπολαυστικός*εἷς*εἰμί*Σοφοκλῆς*τίθημι*#</sword>
+   <sword>ἀπολαυστικός*εἷς*εἰμί*Σοφοκλῆς*τίθημι#</sword>
+   <sword>εἷς*εἰμί*Σοφοκλῆς*τίθημι*#</sword>
+   <sword>εἰμί*Σοφοκλῆς*τίθημι#</sword>
+   <sword>punc1*ἵνα*τίθημι#</sword>
+   <sword>ἵνα*τίθημι*#</sword>
+   <sword>μή*κατηγορέω*ἵνα*τίθημι*#</sword>
+   <sword>κατηγορέω*ἵνα*τίθημι#</sword>
+   <sword>ὁ*γῆρας*κατηγορέω*ἵνα*τίθημι#</sword>
+   <sword>γῆρας*κατηγορέω*ἵνα*τίθημι*#</sword>
+   <sword>punc1*ἵνα*τίθημι#</sword>
+   <sword>εἰς*τίθημι*#</sword>
+   <sword>σωφροσύνη*εἰς*τίθημι#</sword>
+   <sword>τίθημι#</sword>
+   <sword>ὁ*ἀσθένεια*τίθημι#</sword>
+   <sword>ἀσθένεια*τίθημι*#</sword>
+   <sword>αὐτός*ἀσθένεια*τίθημι#</sword>
+   <sword>ὁ*ἀσθένεια*τίθημι#</sword>
+   <sword>περί*ἀσθένεια*τίθημι#</sword>
+   <sword>ὁ*ἀπόλαυσις*περί*ἀσθένεια*τίθημι#</sword>
+   <sword>ὁ*Ἀφροδίσιος*ἀπόλαυσις*περί*ἀσθένεια*τίθημι*#</sword>
+   <sword>Ἀφροδίσιος*ἀπόλαυσις*περί*ἀσθένεια*τίθημι#</sword>
+   <sword>ἀπόλαυσις*περί*ἀσθένεια*τίθημι*#</sword>
+   <sword>punc1*φημί*τίθημι#</sword>
+   <sword>φημί*τίθημι*#</sword>
+   <sword>ἄσμενος*ἀπαλλαξείω*φημί*τίθημι*#</sword>
+   <sword>ἀπαλλαξείω*φημί*τίθημι#</sword>
+   <sword>αὐτός*ἀπαλλαξείω*φημί*τίθημι*#</sword>
+   <sword>ὥσπερ*ἀπαλλαξείω*φημί*τίθημι*#</sword>
+   <sword>τις*δεσπότηςὥσπερ*ἀπαλλαξείω*φημί*τίθημι#</sword>
+   <sword>ἀγρίος*δεσπότηςὥσπερ*ἀπαλλαξείω*φημί*τίθημι#</sword>
+   <sword>δεσπότηςὥσπερ*ἀπαλλαξείω*φημί*τίθημι*#</sword>
+   <sword>punc1#</sword>
+   <sword>*ὥσπερ*ἀπαλλαξείω*φημί*τίθημι#</sword>
+</sentence>
+<sentence id="8" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἐγώ*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>καί*κρίσις*ποιέω*φημί*#</sword>
+   <sword>ὁ*κρίσις*ποιέω*φημί*#</sword>
+   <sword>ὁ*Πάρις*κρίσις*ποιέω*φημί#</sword>
+   <sword>Πάρις*κρίσις*ποιέω*φημί*#</sword>
+   <sword>κρίσις*ποιέω*φημί#</sword>
+   <sword>ὑπό*ποιέω*φημί#</sword>
+   <sword>ὁ*παλαιός*ὑπό*ποιέω*φημί#</sword>
+   <sword>παλαιός*ὑπό*ποιέω*φημί*#</sword>
+   <sword>ποιέω*φημί*#</sword>
+   <sword>ἡδονά*σύγκρισις*εἰμί*ποιέω*φημί#</sword>
+   <sword>πρός*σύγκρισις*εἰμί*ποιέω*φημί#</sword>
+   <sword>ἀρετή*πρός*σύγκρισις*εἰμί*ποιέω*φημί*#</sword>
+   <sword>εἰμί*ποιέω*φημί#</sword>
+   <sword>σύγκρισις*εἰμί*ποιέω*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="9" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>προκρίνω*συνταράσσω*δέ#</sword>
+   <sword>γοῦν*εἰμί*δέ#</sword>
+   <sword>ὁ*Ἀφροδίτη*προκρίνω*συνταράσσω*δέ#</sword>
+   <sword>Ἀφροδίτη*προκρίνω*συνταράσσω*δέ*#</sword>
+   <sword>punc1*εἰμί*δέ#</sword>
+   <sword>οὗτος*εἰμί*δέ#</sword>
+   <sword>δέ#</sword>
+   <sword>εἰμί*δέ*#</sword>
+   <sword>ὁ*ἡδονά*εἰμί*δέ*#</sword>
+   <sword>ἡδονά*εἰμί*δέ#</sword>
+   <sword>punc1*εἰμί*δέ#</sword>
+   <sword>πᾶς*συνταράσσω*δέ#</sword>
+   <sword>συνταράσσω*δέ*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="10" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*δοκέω*#</sword>
+   <sword>ἐγώ*δοκέω*#</sword>
+   <sword>δοκέω#</sword>
+   <sword>καί*Ξενοφῶν*δοκέω#</sword>
+   <sword>ὁ*Ξενοφῶν*δοκέω#</sword>
+   <sword>καλός*Ξενοφῶν*δοκέω#</sword>
+   <sword>ἐγώ*Ξενοφῶν*δοκέω#</sword>
+   <sword>Ξενοφῶν*δοκέω*#</sword>
+   <sword>ὁ*μῦθος*πλάσσω*δοκέω*#</sword>
+   <sword>περί*μῦθος*πλάσσω*δοκέω*#</sword>
+   <sword>ὁ*Ἡρακλῆς*καί*περί*μῦθος*πλάσσω*δοκέω#</sword>
+   <sword>Ἡρακλῆς*καί*περί*μῦθος*πλάσσω*δοκέω*#</sword>
+   <sword>καί*περί*μῦθος*πλάσσω*δοκέω#</sword>
+   <sword>ὁ*Ἀρετή*καί*περί*μῦθος*πλάσσω*δοκέω#</sword>
+   <sword>Ἀρετή*καί*περί*μῦθος*πλάσσω*δοκέω*#</sword>
+   <sword>μῦθος*πλάσσω*δοκέω#</sword>
+   <sword>ἐντεῦθεν*πλάσσω*δοκέω#</sword>
+   <sword>πλάσσω*δοκέω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="11" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>κατά#</sword>
+   <sword>γάρ#</sword>
+   <sword>ὁ*Ἐμπεδοκλῆς*κατά#</sword>
+   <sword>Ἐμπεδοκλῆς*κατά*#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="12" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὐδέ*οὐδέ*ἀλλά*είμί*#</sword>
+   <sword>τις*θεός*είμί#</sword>
+   <sword>είμί#</sword>
+   <sword>ἐκεῖνος*θεός*είμί#</sword>
+   <sword>Ἄρης*οὐδέ*ἀλλά*είμί*#</sword>
+   <sword>θεός*είμί*#</sword>
+   <sword>οὐδέ*οὐδέ*ἀλλά*είμί*#</sword>
+   <sword>Κυδοιμός*οὐδέ*ἀλλά*είμί*#</sword>
+   <sword>οὐδέ*οὐδέ*ἀλλά*είμί*#</sword>
+   <sword>Ζεύς*οὐδέ*ἀλλά*είμί*#</sword>
+   <sword>βασιλεύς*Ζεύς*οὐδέ*ἀλλά*είμί#</sword>
+   <sword>οὐδέ*οὐδέ*ἀλλά*είμί*#</sword>
+   <sword>κρόνος*οὐδέ*ἀλλά*είμί*#</sword>
+   <sword>οὐδέ*ἀλλά*είμί#</sword>
+   <sword>Ποσειδῶν*οὐδέ*ἀλλά*είμί*#</sword>
+   <sword>punc1*ἀλλά*είμί#</sword>
+   <sword>ἀλλά*είμί*#</sword>
+   <sword>Κύπρις*ἀλλά*είμί#</sword>
+   <sword>βασίλειος*Κύπρις*ἀλλά*είμί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="13" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*ἱλάομαι*#</sword>
+   <sword>ὁ*ἱλάομαι*#</sword>
+   <sword>γε*ὁ*ἱλάομαι#</sword>
+   <sword>εὐσεβής*ἄγαλματε*ἱλάομαι#</sword>
+   <sword>ἄγαλματε*ἱλάομαι*#</sword>
+   <sword>ἱλάομαι#</sword>
+   <sword>γραπτός*ζώιον*τετε*ἱλάομαι*#</sword>
+   <sword>τε*τετε*ἱλάομαι#</sword>
+   <sword>ζώιον*τετε*ἱλάομαι#</sword>
+   <sword>μύρον*τετε*ἱλάομαι#</sword>
+   <sword>τε*τετε*ἱλάομαι#</sword>
+   <sword>δαιδαλέοδμος*μύρον*τετε*ἱλάομαι*#</sword>
+   <sword>σμύρνα*τε*θυσία*τετε*ἱλάομαι#</sword>
+   <sword>τετε*ἱλάομαι*#</sword>
+   <sword>ἄκρατος*σμύρνα*τε*θυσία*τετε*ἱλάομαι*#</sword>
+   <sword>θυσία*τετε*ἱλάομαι#</sword>
+   <sword>λίβανος*τε*θυσία*τετε*ἱλάομαι#</sword>
+   <sword>τε*θυσία*τετε*ἱλάομαι*#</sword>
+   <sword>θυώδης*λίβανος*τε*θυσία*τετε*ἱλάομαι*#</sword>
+   <sword>punc1*ῥίπτω*τε*ἱλάομαι*#</sword>
+   <sword>ξάνθη*μέλι*σπονδή*ῥίπτω*τε*ἱλάομαι*#</sword>
+   <sword>τε*ἱλάομαι*#</sword>
+   <sword>σπονδή*ῥίπτω*τε*ἱλάομαι*#</sword>
+   <sword>μέλι*σπονδή*ῥίπτω*τε*ἱλάομαι#</sword>
+   <sword>ῥίπτω*τε*ἱλάομαι#</sword>
+   <sword>εἰς*ῥίπτω*τε*ἱλάομαι*#</sword>
+   <sword>οὖδας*εἰς*ῥίπτω*τε*ἱλάομαι#</sword>
+   <sword>punc1#</sword>
+   <sword>*τε*ἱλάομαι#</sword>
+</sentence>
+<sentence id="14" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*μένανδρος*φημί#</sword>
+   <sword>μένανδρος*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>ἐν*λέγω2*φημί#</sword>
+   <sword>κιθαριστής*ἐν*λέγω2*φημί*#</sword>
+   <sword>περί*λέγω2*φημί#</sword>
+   <sword>τις*περί*λέγω2*φημί*#</sword>
+   <sword>μουσικεύομαι*τις*περί*λέγω2*φημί#</sword>
+   <sword>λέγω2*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="15" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>φιλόμουσος*εἰμί*τε#</sword>
+   <sword>εἰμί*τε*#</sword>
+   <sword>αὐτός*εἰμί*τε#</sword>
+   <sword>πάνυ*παιδεύω*τε#</sword>
+   <sword>ἄκουσμα*παιδεύω*τε#</sword>
+   <sword>εἰς*παιδεύω*τε#</sword>
+   <sword>τρυφή*εἰς*παιδεύω*τε*#</sword>
+   <sword>τε#</sword>
+   <sword>παιδεύω*τε*#</sword>
+   <sword>ἀεί*παιδεύω*τε#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="16" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καίτοι*φημί*#</sword>
+   <sword>τις*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>κατά*εἰμί*φημί#</sword>
+   <sword>φύσις*κατά*εἰμί*φημί*#</sword>
+   <sword>εἰμί*φημί*#</sword>
+   <sword>ὁ*ἡδονή*εἰμί*φημί*#</sword>
+   <sword>ἡδονή*εἰμί*φημί#</sword>
+   <sword>ἐκ*φημί*#</sword>
+   <sword>ὁ*δουλόω*ἐκ*φημί*#</sword>
+   <sword>πᾶς*ζῷον*δουλόω*ἐκ*φημί#</sword>
+   <sword>ζῷον*δουλόω*ἐκ*φημί*#</sword>
+   <sword>δουλόω*ἐκ*φημί#</sword>
+   <sword>οὗτος*δουλόω*ἐκ*φημί*#</sword>
+   <sword>punc1*ὥσπερ*φημί#</sword>
+   <sword>ὥσπερ*φημί*#</sword>
+   <sword>οὐ*εἰμί*δέὥσπερ*φημί*#</sword>
+   <sword>καί*καί*δέὥσπερ*φημί*#</sword>
+   <sword>δειλία*καί*δέὥσπερ*φημί*#</sword>
+   <sword>καί*καί*δέὥσπερ*φημί*#</sword>
+   <sword>φόβος*καί*δέὥσπερ*φημί*#</sword>
+   <sword>καί*δέὥσπερ*φημί#</sword>
+   <sword>ὁ*πάθημα*καί*δέὥσπερ*φημί#</sword>
+   <sword>ἄλλος*πάθημα*καί*δέὥσπερ*φημί#</sword>
+   <sword>πάθημα*καί*δέὥσπερ*φημί*#</sword>
+   <sword>κοινός*εἰμί*δέὥσπερ*φημί*#</sword>
+   <sword>μέν*δέὥσπερ*φημί#</sword>
+   <sword>ἐν*εἰμί*δέὥσπερ*φημί*#</sword>
+   <sword>ἅπας*ἐν*εἰμί*δέὥσπερ*φημί#</sword>
+   <sword>εἰμί*δέὥσπερ*φημί#</sword>
+   <sword>punc1*ὥσπερ*φημί#</sword>
+   <sword>παρά*ἀποδοκιμάζω*δέὥσπερ*φημί*#</sword>
+   <sword>δέὥσπερ*φημί*#</sword>
+   <sword>ὁ*χράω2*παρά*ἀποδοκιμάζω*δέὥσπερ*φημί*#</sword>
+   <sword>λογισμός*χράω2*παρά*ἀποδοκιμάζω*δέὥσπερ*φημί*#</sword>
+   <sword>χράω2*παρά*ἀποδοκιμάζω*δέὥσπερ*φημί#</sword>
+   <sword>ἀποδοκιμάζω*δέὥσπερ*φημί#</sword>
+   <sword>punc1#</sword>
+   <sword>*ὥσπερ*φημί#</sword>
+</sentence>
+<sentence id="17" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*διώκω*εἰμί#</sword>
+   <sword>οὖν*εἰμί*#</sword>
+   <sword>ἡδονά*διώκω*εἰμί#</sword>
+   <sword>διώκω*εἰμί*#</sword>
+   <sword>προπετής*διώκω*εἰμί#</sword>
+   <sword>λύπη*θηρεύω*εἰμί#</sword>
+   <sword>εἰμί#</sword>
+   <sword>θηρεύω*εἰμί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="18" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>διόπερ*φημί*#</sword>
+   <sword>Ὅμηρος*φημί*#</sword>
+   <sword>ἐπονείδιστος*ποιέω*βούλομαι*φημί*#</sword>
+   <sword>βούλομαι*φημί*#</sword>
+   <sword>ποιέω*βούλομαι*φημί#</sword>
+   <sword>ὁ*ἡδονή*ποιέω*βούλομαι*φημί#</sword>
+   <sword>ἡδονή*ποιέω*βούλομαι*φημί*#</sword>
+   <sword>καί*μέγας*ἀλλά*φημί*#</sword>
+   <sword>ὁ*θεά*μέγας*ἀλλά*φημί#</sword>
+   <sword>θεά*μέγας*ἀλλά*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>ὁ*μέγας*ἀλλά*φημί*#</sword>
+   <sword>μέγας*ἀλλά*φημί#</sword>
+   <sword>οὐδείς*ὠφελέω*ἀλλά*φημί*#</sword>
+   <sword>ὑπό*ὠφελέω*ἀλλά*φημί*#</sword>
+   <sword>ὁ*δύναμις*ὑπό*ὠφελέω*ἀλλά*φημί*#</sword>
+   <sword>σφέτερος*δύναμις*ὑπό*ὠφελέω*ἀλλά*φημί*#</sword>
+   <sword>ὠφελέω*ἀλλά*φημί#</sword>
+   <sword>δύναμις*ὑπό*ὠφελέω*ἀλλά*φημί#</sword>
+   <sword>punc1*ἀλλά*φημί#</sword>
+   <sword>ἀλλά*φημί*#</sword>
+   <sword>ὁ*μέγας*βλάπτω*ἀλλά*φημί#</sword>
+   <sword>μέγας*βλάπτω*ἀλλά*φημί*#</sword>
+   <sword>βλάπτω*ἀλλά*φημί#</sword>
+   <sword>παραφέρω*βλάπτω*ἀλλά*φημί*#</sword>
+   <sword>ὑπό*παραφέρω*βλάπτω*ἀλλά*φημί#</sword>
+   <sword>αὐτός*ὑπό*παραφέρω*βλάπτω*ἀλλά*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="19" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὅσος*φροντίζω*οὗτος*ἀπόλλυμι*#</sword>
+   <sword>μέν*ἀπόλλυμι*#</sword>
+   <sword>γάρ*ἀπόλλυμι*#</sword>
+   <sword>ἀγρυπνέω*Ζεύς*φροντίζω*οὗτος*ἀπόλλυμι#</sword>
+   <sword>ὁ*Ζεύς*φροντίζω*οὗτος*ἀπόλλυμι#</sword>
+   <sword>Ζεύς*φροντίζω*οὗτος*ἀπόλλυμι*#</sword>
+   <sword>φροντίζω*οὗτος*ἀπόλλυμι#</sword>
+   <sword>ὑπέρ*φροντίζω*οὗτος*ἀπόλλυμι*#</sword>
+   <sword>ὁ*Τρώς*ὑπέρ*φροντίζω*οὗτος*ἀπόλλυμι*#</sword>
+   <sword>Τρώς*ὑπέρ*φροντίζω*οὗτος*ἀπόλλυμι#</sword>
+   <sword>punc1*ἀπόλλυμι*#</sword>
+   <sword>οὗτος*ἀπόλλυμι*#</sword>
+   <sword>ἀπόλλυμι#</sword>
+   <sword>μετά*ἀπόλλυμι*#</sword>
+   <sword>ἡμέρα*μετά*ἀπόλλυμι#</sword>
+   <sword>ὑπό*κρατέω*ἀπόλλυμι#</sword>
+   <sword>ἡδονά*ὑπό*κρατέω*ἀπόλλυμι*#</sword>
+   <sword>κρατέω*ἀπόλλυμι*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="20" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*Ἄρης*καί#</sword>
+   <sword>ὁ*Ἄρης*καί#</sword>
+   <sword>Ἄρης*καί*#</sword>
+   <sword>ἄλκιμος*εἰμί*καί#</sword>
+   <sword>εἰμί*καί*#</sword>
+   <sword>ὑπό*συμποδίζω*καί#</sword>
+   <sword>ὁ*Ἥφαιστος*ὑπό*συμποδίζω*καί#</sword>
+   <sword>ἀσθενής*Ἥφαιστος*ὑπό*συμποδίζω*καί#</sword>
+   <sword>Ἥφαιστος*ὑπό*συμποδίζω*καί*#</sword>
+   <sword>συμποδίζω*καί*#</sword>
+   <sword>καί#</sword>
+   <sword>ὀφλισκάνω*καί*#</sword>
+   <sword>αἰσχύνη*καί*ὀφλισκάνω*καί*#</sword>
+   <sword>καί*ὀφλισκάνω*καί#</sword>
+   <sword>ζημία*καί*ὀφλισκάνω*καί*#</sword>
+   <sword>ἐκδίδωμι*ὀφλισκάνω*καί#</sword>
+   <sword>ἑαυτοῦ*ἐκδίδωμι*ὀφλισκάνω*καί*#</sword>
+   <sword>ἔρως*ἐκδίδωμι*ὀφλισκάνω*καί*#</sword>
+   <sword>ἀλόγιστος*ἔρως*ἐκδίδωμι*ὀφλισκάνω*καί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="21" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>φημί#</sword>
+   <sword>γοῦν*φημί*#</sword>
+   <sword>πρός*φημί*#</sword>
+   <sword>ὁ*θεός*πρός*φημί*#</sword>
+   <sword>θεός*πρός*φημί#</sword>
+   <sword>punc1*ὅτι*φημί#</sword>
+   <sword>ὅτι*φημί*#</sword>
+   <sword>ἔρχομαι*ὅτι*φημί#</sword>
+   <sword>αὐτός*θεάομαι*ἔρχομαι*ὅτι*φημί#</sword>
+   <sword>θεάομαι*ἔρχομαι*ὅτι*φημί*#</sword>
+   <sword>δέω1*αὐτός*θεάομαι*ἔρχομαι*ὅτι*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="22" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὐ*ἀρετάω*#</sword>
+   <sword>ἀρετάω#</sword>
+   <sword>κακός*ἔργον*ἀρετάω#</sword>
+   <sword>ἔργον*ἀρετάω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="23" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>κιχάνω#</sword>
+   <sword>τοι*κιχάνω*#</sword>
+   <sword>βραδύς*κιχάνω*#</sword>
+   <sword>ὠκύς*κιχάνω*#</sword>
+   <sword>punc1*ὡς*κιχάνω#</sword>
+   <sword>ὡς*κιχάνω*#</sword>
+   <sword>καί*νῦν*αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>νῦν*αἱρέω*ὡς*κιχάνω*#</sword>
+   <sword>Ἥφαιστος*αἱρέω*ὡς*κιχάνω*#</sword>
+   <sword>εἰμί*αἱρέω*ὡς*κιχάνω*#</sword>
+   <sword>βραδύς*εἰμί*αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>Ἄρευς*αἱρέω*ὡς*κιχάνω*#</sword>
+   <sword>ὠκύς*εἰμί*Ἄρευς*αἱρέω*ὡς*κιχάνω*#</sword>
+   <sword>πέρ*εἰμί*Ἄρευς*αἱρέω*ὡς*κιχάνω*#</sword>
+   <sword>εἰμί*Ἄρευς*αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>θεά*ὠκύς*εἰμί*Ἄρευς*αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>ὅς*ἔχω*θεά*ὠκύς*εἰμί*Ἄρευς*αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>Ὄλυμπος*ἔχω*θεά*ὠκύς*εἰμί*Ἄρευς*αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>ἔχω*θεά*ὠκύς*εἰμί*Ἄρευς*αἱρέω*ὡς*κιχάνω*#</sword>
+   <sword>punc1*εἰμί*αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>χωλός*εἰμί*αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>εἰμί*αἱρέω*ὡς*κιχάνω*#</sword>
+   <sword>punc1*εἰμί*αἱρέω*ὡς*κιχάνω#</sword>
+   <sword>τέχνη*αἱρέω*ὡς*κιχάνω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="24" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*καί*ὀφέλλω#</sword>
+   <sword>καί*ὀφέλλω*#</sword>
+   <sword>ζωάγρια*ὀφέλλω*#</sword>
+   <sword>ὀφέλλω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="25" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὐδείς*λέγω2*ἀλλά#</sword>
+   <sword>δέ*ἀλλά*#</sword>
+   <sword>λέγω2*ἀλλά*#</sword>
+   <sword>ὁ*βίος*λέγω2*ἀλλά*#</sword>
+   <sword>Ἀριστείδης*βίος*λέγω2*ἀλλά*#</sword>
+   <sword>βίος*λέγω2*ἀλλά#</sword>
+   <sword>ἡδύς*εἰμί*λέγω2*ἀλλά*#</sword>
+   <sword>punc1*εἰμί*λέγω2*ἀλλά*#</sword>
+   <sword>ἀλλά#</sword>
+   <sword>ὁ*βίος*εἰμί*λέγω2*ἀλλά#</sword>
+   <sword>Σμινδυρίδης*καί*βίος*εἰμί*λέγω2*ἀλλά*#</sword>
+   <sword>ὁ*Σμινδυρίδης*καί*βίος*εἰμί*λέγω2*ἀλλά#</sword>
+   <sword>Συβαρίτης*Σμινδυρίδης*καί*βίος*εἰμί*λέγω2*ἀλλά#</sword>
+   <sword>καί*βίος*εἰμί*λέγω2*ἀλλά#</sword>
+   <sword>ὁ*βίος*εἰμί*λέγω2*ἀλλά#</sword>
+   <sword>Σαρδανάπαλλος*καί*βίος*εἰμί*λέγω2*ἀλλά*#</sword>
+   <sword>punc1#</sword>
+   <sword>βίος*εἰμί*λέγω2*ἀλλά*#</sword>
+   <sword>εἰμί*λέγω2*ἀλλά#</sword>
+   <sword>λέγω2*ἀλλά*#</sword>
+</sentence>
+<sentence id="26" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καίτοι*φημί*#</sword>
+   <sword>κατά*εἰμί*φημί#</sword>
+   <sword>γε*δόξα*κατά*εἰμί*φημί#</sword>
+   <sword>ὁ*δόξα*κατά*εἰμί*φημί#</sword>
+   <sword>δόξα*κατά*εἰμί*φημί*#</sword>
+   <sword>punc1*εἰμί*φημί#</sword>
+   <sword>φημί#</sword>
+   <sword>ἐν*φημί*#</sword>
+   <sword>ὁ*ἐν*φημί#</sword>
+   <sword>περί*ὁ*ἐν*φημί*#</sword>
+   <sword>ἡδονή*περί*ὁ*ἐν*φημί#</sword>
+   <sword>Θεόφραστος*φημί*#</sword>
+   <sword>punc1*εἰμί*φημί#</sword>
+   <sword>οὐ*ὅμοιος*εἰμί*φημί*#</sword>
+   <sword>ὅμοιος*εἰμί*φημί#</sword>
+   <sword>λαμπρός*εἰμί*φημί#</sword>
+   <sword>εἰμί*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="27" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἀλλά*τρυφάω*#</sword>
+   <sword>οὐ*τρυφάω*#</sword>
+   <sword>τρυφάω#</sword>
+   <sword>ὥσπερ*τρυφάω*#</sword>
+   <sword>ἐκεῖνοςὥσπερ*τρυφάω*#</sword>
+   <sword>punc1#</sword>
+   <sword>*ὥσπερ*τρυφάω#</sword>
+</sentence>
+<sentence id="28" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὐδέ*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>ὁ*ἀλλά*εἰμί#</sword>
+   <sword>Ἀγησίλαος*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>ὁ*Ἀγησίλαος*ὁ*ἀλλά*εἰμί#</sword>
+   <sword>Λακεδαιμόνιος*βασιλεύς*Ἀγησίλαος*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>βασιλεύς*Ἀγησίλαος*ὁ*ἀλλά*εἰμί#</sword>
+   <sword>punc1*ἀλλά*εἰμί#</sword>
+   <sword>ἀλλά*εἰμί*#</sword>
+   <sword>μᾶλλον*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>punc1*εἰ*ἀλλά*εἰμί*#</sword>
+   <sword>εἰ*ἀλλά*εἰμί#</sword>
+   <sword>τυγχάνω*εἰ*ἀλλά*εἰμί*#</sword>
+   <sword>punc1*εἰ*ἀλλά*εἰμί*#</sword>
+   <sword>ὁ*ἀλλά*εἰμί#</sword>
+   <sword>̓Ανάνις*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>οὕτως*ἀόρατος*εἰμί*̓Ανάνις*ὁ*ἀλλά*εἰμί#</sword>
+   <sword>ἀόρατος*εἰμί*̓Ανάνις*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>κατά*ἀόρατος*εἰμί*̓Ανάνις*ὁ*ἀλλά*εἰμί#</sword>
+   <sword>δόξα*κατά*ἀόρατος*εἰμί*̓Ανάνις*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>εἰμί*̓Ανάνις*ὁ*ἀλλά*εἰμί#</sword>
+   <sword>punc1#</sword>
+   <sword>οὐδέ*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>ὁ*ἀλλά*εἰμί#</sword>
+   <sword>ὁ*ἡμίθεος*ὁ*ἀλλά*εἰμί#</sword>
+   <sword>ἡμίθεος*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>ὁ*ἡμίθεος*ὁ*ἀλλά*εἰμί#</sword>
+   <sword>ἐπί*ἡμίθεος*ὁ*ἀλλά*εἰμί#</sword>
+   <sword>Τροία*ἐπί*ἡμίθεος*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>punc1*ἀλλά*εἰμί#</sword>
+   <sword>ἀλλά*εἰμί*#</sword>
+   <sword>πολύς*μᾶλλον*ἀλλά*εἰμί*#</sword>
+   <sword>μᾶλλον*ἀλλά*εἰμί#</sword>
+   <sword>ὁ*ὁ*ἀλλά*εἰμί*#</sword>
+   <sword>νῦν*ὁ*ὁ*ἀλλά*εἰμί#</sword>
+   <sword>punc1#</sword>
+   <sword>ὁ*ἀλλά*εἰμί#</sword>
+   <sword>#</sword>
+   <sword>εἰμί#</sword>
+</sentence>
+<sentence id="29" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί#</sword>
+   <sword>οὗτος#</sword>
+   <sword>εἰκότως#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="30" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*εἰμί*δέ#</sword>
+   <sword>μέν*δέ*#</sword>
+   <sword>γάρ*δέ*#</sword>
+   <sword>ἀκατάσκευος*καί*εἰμί*δέ*#</sword>
+   <sword>καί*εἰμί*δέ#</sword>
+   <sword>καθά*εἰμί*δέ#</sword>
+   <sword>ἀνεύρετος*καί*εἰμί*δέ*#</sword>
+   <sword>εἰμί*δέ*#</sword>
+   <sword>punc1*οὔτε*εἰμί*δέ*#</sword>
+   <sword>οὔτε*οὔτε*εἰμί*δέ*#</sword>
+   <sword>ἐπιμιξία*εἰμί*οὔτε*εἰμί*δέ#</sword>
+   <sword>εἰμί*οὔτε*εἰμί*δέ*#</sword>
+   <sword>οὔτε*εἰμί*δέ#</sword>
+   <sword>ὁ*τεχνή*διακριβόω*οὔτε*εἰμί*δέ*#</sword>
+   <sword>τεχνή*διακριβόω*οὔτε*εἰμί*δέ#</sword>
+   <sword>διακριβόω*οὔτε*εἰμί*δέ*#</sword>
+   <sword>punc1*οὔτε*εἰμί*δέ*#</sword>
+   <sword>ὁ*εἰμί*δέ#</sword>
+   <sword>δέ#</sword>
+   <sword>πᾶσις*ἐξαρτύω*εἰμί*δέ*#</sword>
+   <sword>ἐξαρτύω*εἰμί*δέ#</sword>
+   <sword>πρός*καί*ἐξαρτύω*εἰμί*δέ#</sword>
+   <sword>ῥᾳστώνη*πρός*καί*ἐξαρτύω*εἰμί*δέ*#</sword>
+   <sword>καί*καί*ἐξαρτύω*εἰμί*δέ#</sword>
+   <sword>πρός*καί*ἐξαρτύω*εἰμί*δέ#</sword>
+   <sword>ἀπόλαυσις*πρός*καί*ἐξαρτύω*εἰμί*δέ*#</sword>
+   <sword>καί*ἐξαρτύω*εἰμί*δέ*#</sword>
+   <sword>πρός*καί*ἐξαρτύω*εἰμί*δέ#</sword>
+   <sword>ὁ*διαγωγή*πρός*καί*ἐξαρτύω*εἰμί*δέ#</sword>
+   <sword>ἄλλος*διαγωγή*πρός*καί*ἐξαρτύω*εἰμί*δέ#</sword>
+   <sword>διαγωγή*πρός*καί*ἐξαρτύω*εἰμί*δέ*#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί*δέ*#</sword>
+</sentence>
+<sentence id="31" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>Πλάτων*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>ἐν*φημί*#</sword>
+   <sword>ὁ*Φίληβος*ἐν*φημί*#</sword>
+   <sword>Φίληβος*ἐν*φημί#</sword>
+   <sword>φημί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="32" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἡδονή*εἰμί*#</sword>
+   <sword>μέν*εἰμί*#</sword>
+   <sword>γάρ*εἰμί*#</sword>
+   <sword>ἅπας*ἀλαζών*εἰμί#</sword>
+   <sword>ἀλαζών*εἰμί*#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί#</sword>
+</sentence>
+<sentence id="33" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὡς*λαμβάνω*#</sword>
+   <sword>δέ*κτέομαι*καθάπερ*κτάομαι*ὡς*λαμβάνω*#</sword>
+   <sword>λόγος*κτέομαι*καθάπερ*κτάομαι*ὡς*λαμβάνω*#</sword>
+   <sword>punc1*ὡς*λαμβάνω#</sword>
+   <sword>καί*ἡδονή*ἐν*λαμβάνω*#</sword>
+   <sword>ἐν*λαμβάνω*#</sword>
+   <sword>ὁ*ἡδονή*ἐν*λαμβάνω*#</sword>
+   <sword>ἡδονή*ἐν*λαμβάνω#</sword>
+   <sword>ὁ*ἡδονή*ἐν*λαμβάνω*#</sword>
+   <sword>περί*ἡδονή*ἐν*λαμβάνω*#</sword>
+   <sword>ὁ*Ἀφροδίσιος*περί*ἡδονή*ἐν*λαμβάνω*#</sword>
+   <sword>Ἀφροδίσιος*περί*ἡδονή*ἐν*λαμβάνω#</sword>
+   <sword>punc1*δοκέω*ἡδονή*ἐν*λαμβάνω#</sword>
+   <sword>ὅς*δοκέω*ἡδονή*ἐν*λαμβάνω#</sword>
+   <sword>δή*δοκέω*ἡδονή*ἐν*λαμβάνω#</sword>
+   <sword>μέγας*εἰμί*δοκέω*ἡδονή*ἐν*λαμβάνω*#</sword>
+   <sword>δοκέω*ἡδονή*ἐν*λαμβάνω*#</sword>
+   <sword>εἰμί*δοκέω*ἡδονή*ἐν*λαμβάνω#</sword>
+   <sword>punc1*δοκέω*ἡδονή*ἐν*λαμβάνω#</sword>
+   <sword>καί*ἐπιορκέω*λαμβάνω#</sword>
+   <sword>ὁ*ἐπιορκέω*λαμβάνω#</sword>
+   <sword>ἐπιορκέω*λαμβάνω*#</sword>
+   <sword>συγγνώμη*λαμβάνω*#</sword>
+   <sword>λαμβάνω#</sword>
+   <sword>παρά*λαμβάνω*#</sword>
+   <sword>θεός*παρά*λαμβάνω#</sword>
+   <sword>punc1*ὡς*λαμβάνω#</sword>
+   <sword>ὡς*λαμβάνω*#</sword>
+   <sword>καθάπερ*κτάομαι*ὡς*λαμβάνω*#</sword>
+   <sword>παῖς*κτέομαι*καθάπερ*κτάομαι*ὡς*λαμβάνω*#</sword>
+   <sword>ὁ*ἡδονή*κτάομαι*ὡς*λαμβάνω#</sword>
+   <sword>ἡδονή*κτάομαι*ὡς*λαμβάνω*#</sword>
+   <sword>νόος*κτάομαι*ὡς*λαμβάνω*#</sword>
+   <sword>οὐδέ*ὀλίγιστος*νόος*κτάομαι*ὡς*λαμβάνω*#</sword>
+   <sword>ὁ*νόος*κτάομαι*ὡς*λαμβάνω#</sword>
+   <sword>ὀλίγιστος*νόος*κτάομαι*ὡς*λαμβάνω#</sword>
+   <sword>κτάομαι*ὡς*λαμβάνω#</sword>
+   <sword>punc1#</sword>
+   <sword>κτέομαι*καθάπερ*κτάομαι*ὡς*λαμβάνω#</sword>
+</sentence>
+<sentence id="34" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἐν*ὑποδείκνυμι*#</sword>
+   <sword>δέ*ὑποδείκνυμι*#</sword>
+   <sword>ὁ*ὄγδοος*ἐν*ὑποδείκνυμι*#</sword>
+   <sword>ὄγδοος*ἐν*ὑποδείκνυμι#</sword>
+   <sword>ὁ*Πολιτεία*ὄγδοος*ἐν*ὑποδείκνυμι#</sword>
+   <sword>Πολιτεία*ὄγδοος*ἐν*ὑποδείκνυμι*#</sword>
+   <sword>ὁ*Πλάτων*ὑποδείκνυμι#</sword>
+   <sword>αὐτός*Πλάτων*ὑποδείκνυμι#</sword>
+   <sword>Πλάτων*ὑποδείκνυμι*#</sword>
+   <sword>πρότερος*Πλάτων*ὑποδείκνυμι#</sword>
+   <sword>ὑποδείκνυμι#</sword>
+   <sword>ὁ*θρυλέω*punc1*ὑποδείκνυμι*#</sword>
+   <sword>ὑπό*θρυλέω*punc1*ὑποδείκνυμι*#</sword>
+   <sword>ὁ*Ἐπικούρειος*ὑπό*θρυλέω*punc1*ὑποδείκνυμι*#</sword>
+   <sword>Ἐπικούρειος*ὑπό*θρυλέω*punc1*ὑποδείκνυμι#</sword>
+   <sword>θρυλέω*punc1*ὑποδείκνυμι#</sword>
+   <sword>punc1*ὑποδείκνυμι*#</sword>
+   <sword>ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>ὁ*ἐπιθυμία*ὁ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>ἐπιθυμία*ὁ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>ὁ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>μέν*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>φυσικός*καί*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>καί*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>ἀναγκαῖος*καί*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>punc1*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>ὁ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>δέ*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>φυσικός*δέ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>μέν*δέ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>punc1*δέ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>οὐ*ἀναγκαῖος*δέ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>ἀναγκαῖος*δέ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>δέ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>punc1*δέ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>ὁ*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>οὔτε*οὔτε*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>φυσικός*οὔτε*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>οὔτε*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι*#</sword>
+   <sword>ἀναγκαῖος*οὔτε*εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>punc1*γράφω*ὑποδείκνυμι#</sword>
+   <sword>γράφω*ὑποδείκνυμι*#</sword>
+   <sword>οὕτως*γράφω*ὑποδείκνυμι#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+   <sword>εἰμί*δέ*ὅτι1*punc1*ὑποδείκνυμι#</sword>
+</sentence>
+<sentence id="35" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἆρα*εἰμί*#</sword>
+   <sword>οὖν*εἰμί*#</sword>
+   <sword>οὐ*εἰμί*#</sword>
+   <sword>ὁ*εἰμί*#</sword>
+   <sword>ὁ*ἐσθίω*καί*ὁ*εἰμί#</sword>
+   <sword>ἐσθίω*καί*ὁ*εἰμί*#</sword>
+   <sword>μέχρι*ἐσθίω*καί*ὁ*εἰμί#</sword>
+   <sword>ὑγίεια*καί*μέχρι*ἐσθίω*καί*ὁ*εἰμί#</sword>
+   <sword>καί*μέχρι*ἐσθίω*καί*ὁ*εἰμί*#</sword>
+   <sword>εὐεξία*καί*μέχρι*ἐσθίω*καί*ὁ*εἰμί#</sword>
+   <sword>καί*ὁ*εἰμί#</sword>
+   <sword>αὐτός*σῖτος*καί*καί*ὁ*εἰμί*#</sword>
+   <sword>σῖτος*καί*καί*ὁ*εἰμί#</sword>
+   <sword>καί*καί*ὁ*εἰμί*#</sword>
+   <sword>ὄψον*καί*καί*ὁ*εἰμί#</sword>
+   <sword>ἀναγκαῖος*εἰμί*#</sword>
+   <sword>ἄν1*εἰμί*#</sword>
+   <sword>εἰμί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="36" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*εἰμί*#</sword>
+   <sword>μέν*εἰμί*τε*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>γε*εἰμί*τε*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>πού*εἰμί*τε*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>ὁ*σῖτος*ὁ*εἰμί*#</sword>
+   <sword>σῖτος*ὁ*εἰμί#</sword>
+   <sword>κατά*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>ἀμφότερος*κατά*punc1*ἀναγκαῖον*εἰμί#</sword>
+   <sword>ἀναγκαῖον*εἰμί*#</sword>
+   <sword>punc1*ἀναγκαῖον*εἰμί#</sword>
+   <sword>ὅς*εἰμί*τε*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>τε*τε*punc1*ἀναγκαῖον*εἰμί#</sword>
+   <sword>ὠφέλιμος*εἰμί*τε*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>ὅς*παύω*δυνατός*εἰμί*τε*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>τε*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>παύω*δυνατός*εἰμί*τε*punc1*ἀναγκαῖον*εἰμί#</sword>
+   <sword>ζάω*παύω*δυνατός*εἰμί*τε*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>δυνατός*εἰμί*τε*punc1*ἀναγκαῖον*εἰμί*#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί*τε*punc1*ἀναγκαῖον*εἰμί#</sword>
+   <sword>εἰμί#</sword>
+   <sword>εἰμί*τε*punc1*ἀναγκαῖον*εἰμί#</sword>
+</sentence>
+<sentence id="37" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>punc1#</sword>
+   <sword>ναί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="38" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*undefined*#</sword>
+   <sword>δέ*undefined*#</sword>
+   <sword>ὄψον*ὁ*undefined#</sword>
+   <sword>punc1*εἰ*undefined#</sword>
+   <sword>εἰ*undefined*#</sword>
+   <sword>πη*παρέχω*εἰ*undefined*#</sword>
+   <sword>τις*ὠφέλεια*παρέχω*εἰ*undefined#</sword>
+   <sword>ὠφέλεια*παρέχω*εἰ*undefined*#</sword>
+   <sword>πρός*ὠφέλεια*παρέχω*εἰ*undefined#</sword>
+   <sword>εὐεξία*πρός*ὠφέλεια*παρέχω*εἰ*undefined*#</sword>
+   <sword>παρέχω*εἰ*undefined#</sword>
+   <sword>punc1#</sword>
+   <sword>undefined#</sword>
+</sentence>
+<sentence id="39" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>πάνυ#</sword>
+   <sword>μέν#</sword>
+   <sword>οὖν#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="40" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>τίς#</sword>
+   <sword>δαί#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="41" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*ἐπιθυμία*καλέω#</sword>
+   <sword>πέρα*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>οὗτος*καί*ἔδεσμα*πέρα*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>καί*ἔδεσμα*πέρα*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>ἀλλοῖος*καί*ἔδεσμα*πέρα*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>ἔδεσμα*πέρα*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>ἤ1*ἀλλοῖος*καί*ἔδεσμα*πέρα*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>τοιοῦτοςἤ1*ἀλλοῖος*καί*ἔδεσμα*πέρα*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>ἐπιθυμία*καλέω*#</sword>
+   <sword>punc1#</sword>
+   <sword>δυνατός*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>δέ*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>κολάζω*δυνατός*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>ἐκ*κολάζω*δυνατός*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>νέος*ἐκ*κολάζω*δυνατός*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>πολύς*ἀπαλλάσσω*δυνατός*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>ἀπαλλάσσω*δυνατός*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>punc1*δυνατός*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>καί*ἐπιθυμία*καλέω#</sword>
+   <sword>βλαβερός*δέ*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>μέν*δέ*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>σῶμα*βλαβερός*δέ*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>punc1*βλαβερός*δέ*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>βλαβερός*δέ*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>δέ*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>ψυχή*βλαβερός*δέ*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>πρός*καί*βλαβερός*δέ*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>τε*καί*βλαβερός*δέ*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>φρόνις*πρός*καί*βλαβερός*δέ*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>καί*βλαβερός*δέ*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>πρός*καί*βλαβερός*δέ*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>ὁ*σωφρονέω*πρός*καί*βλαβερός*δέ*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>σωφρονέω*πρός*καί*βλαβερός*δέ*καί*ἐπιθυμία*καλέω*#</sword>
+   <sword>punc1*δέ*καί*ἐπιθυμία*καλέω#</sword>
+   <sword>ἆρα*καλέω*#</sword>
+   <sword>γε*καλέω*#</sword>
+   <sword>ὀρθός*καλέω*#</sword>
+   <sword>οὐ*καλέω*#</sword>
+   <sword>ἀναγκαῖον*καλέω*#</sword>
+   <sword>ἄν1*καλέω*#</sword>
+   <sword>καλέω#</sword>
+   <sword>punc1#</sword>
+   <sword>*ἤ1*ἀλλοῖος*καί*ἔδεσμα*πέρα*καί*ἐπιθυμία*καλέω#</sword>
+</sentence>
+<sentence id="42" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὀρθός#</sword>
+   <sword>μέν#</sword>
+   <sword>οὖν#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="43" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>Ἡρακλείδης*λέγω2*#</sword>
+   <sword>δέ*λέγω2*#</sword>
+   <sword>ὁ*Ἡρακλείδης*λέγω2#</sword>
+   <sword>Ποντικός*Ἡρακλείδης*λέγω2#</sword>
+   <sword>ἐν*λέγω2*#</sword>
+   <sword>ὁ*ἐν*λέγω2#</sword>
+   <sword>περί*ὁ*ἐν*λέγω2*#</sword>
+   <sword>ἡδονή*περί*ὁ*ἐν*λέγω2#</sword>
+   <sword>ὅδε*λέγω2*#</sword>
+   <sword>λέγω2#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="44" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*τύραννος*καί*προκρίνω*#</sword>
+   <sword>τύραννος*καί*προκρίνω#</sword>
+   <sword>καί*προκρίνω*#</sword>
+   <sword>ὁ*βασιλεύς*καί*προκρίνω*#</sword>
+   <sword>βασιλεύς*καί*προκρίνω#</sword>
+   <sword>ὁ*ἀγαθός*κύριος*εἰμί*καί*προκρίνω*#</sword>
+   <sword>ἀγαθός*κύριος*εἰμί*καί*προκρίνω#</sword>
+   <sword>εἰμί*καί*προκρίνω#</sword>
+   <sword>κύριος*εἰμί*καί*προκρίνω*#</sword>
+   <sword>καί*προκρίνω*#</sword>
+   <sword>πᾶς*πεῖρα*λαμβάνω*καί*προκρίνω#</sword>
+   <sword>λαμβάνω*καί*προκρίνω#</sword>
+   <sword>πεῖρα*λαμβάνω*καί*προκρίνω*#</sword>
+   <sword>ὁ*ἡδονά*προκρίνω#</sword>
+   <sword>ἡδονά*προκρίνω*#</sword>
+   <sword>προκρίνω#</sword>
+   <sword>punc1*ποιόω*προκρίνω#</sword>
+   <sword>μεγαλόψυχος*ποιόω*προκρίνω#</sword>
+   <sword>ποιόω*προκρίνω*#</sword>
+   <sword>ὁ*ἡδονά*ποιόω*προκρίνω*#</sword>
+   <sword>ἡδονά*ποιόω*προκρίνω#</sword>
+   <sword>ὁ*φύσις*ποιόω*προκρίνω*#</sword>
+   <sword>ὁ*ἄνθρωπος*φύσις*ποιόω*προκρίνω#</sword>
+   <sword>ἄνθρωπος*φύσις*ποιόω*προκρίνω*#</sword>
+   <sword>φύσις*ποιόω*προκρίνω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="45" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἅπας*ὁ*εἰμί#</sword>
+   <sword>γοῦν*εἰμί*#</sword>
+   <sword>ὁ*εἰμί*#</sword>
+   <sword>ὁ*ἡδονή*τιμάω*καί*ὁ*εἰμί*#</sword>
+   <sword>ἡδονή*τιμάω*καί*ὁ*εἰμί#</sword>
+   <sword>τιμάω*καί*ὁ*εἰμί*#</sword>
+   <sword>καί*ὁ*εἰμί#</sword>
+   <sword>τρυφάω*προαιρέω*καί*ὁ*εἰμί#</sword>
+   <sword>προαιρέω*καί*ὁ*εἰμί*#</sword>
+   <sword>μεγαλόψυχος*καί*εἰμί#</sword>
+   <sword>καί*εἰμί*#</sword>
+   <sword>μεγαλοπρεπής*καί*εἰμί#</sword>
+   <sword>εἰμί#</sword>
+   <sword>punc1*ὡς*εἰμί#</sword>
+   <sword>ὡς*εἰμί*#</sword>
+   <sword>Πέρσης*καί*εἰμί*ὡς*εἰμί#</sword>
+   <sword>καί*εἰμί*ὡς*εἰμί*#</sword>
+   <sword>Μῆδος*καί*εἰμί*ὡς*εἰμί#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί*ὡς*εἰμί#</sword>
+</sentence>
+<sentence id="46" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>μάλιστα*οὗτος*τιμάω#</sword>
+   <sword>γάρ*τιμάω*#</sword>
+   <sword>ὁ*ἄνθρωπος*οὗτος*τιμάω*#</sword>
+   <sword>ἄλλος*ἄνθρωπος*οὗτος*τιμάω*#</sword>
+   <sword>ἄνθρωπος*οὗτος*τιμάω#</sword>
+   <sword>ὁ*ἡδονή*καί*τιμάω*#</sword>
+   <sword>ἡδονή*καί*τιμάω#</sword>
+   <sword>οὗτος*τιμάω*#</sword>
+   <sword>καί*τιμάω*#</sword>
+   <sword>ὁ*τρυφή*καί*τιμάω*#</sword>
+   <sword>τρυφή*καί*τιμάω#</sword>
+   <sword>τιμάω#</sword>
+   <sword>punc1*εἰμί*τιμάω#</sword>
+   <sword>ἀνδρεῖος*καί*εἰμί*τιμάω*#</sword>
+   <sword>καί*εἰμί*τιμάω#</sword>
+   <sword>μεγαλόψυχος*καί*εἰμί*τιμάω*#</sword>
+   <sword>ὁ*βάρβαρος*καί*εἰμί*τιμάω#</sword>
+   <sword>βάρβαρος*καί*εἰμί*τιμάω*#</sword>
+   <sword>εἰμί*τιμάω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="47" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>εἰμί#</sword>
+   <sword>γάρ#</sword>
+   <sword>ὁ*ἥδομαι*καί*εἰμί*#</sword>
+   <sword>μέν*εἰμί*#</sword>
+   <sword>ἥδομαι*καί*εἰμί#</sword>
+   <sword>καί*εἰμί*#</sword>
+   <sword>ὁ*τρυφάω*καί*εἰμί*#</sword>
+   <sword>τρυφάω*καί*εἰμί#</sword>
+   <sword>ἐλεύθερος*εἰμί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="48" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἀνίημι*καί*#</sword>
+   <sword>γάρ*καί*#</sword>
+   <sword>ὁ*ψυχή*καί#</sword>
+   <sword>ψυχή*καί*#</sword>
+   <sword>καί#</sword>
+   <sword>αὐξάνω*καί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="49" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*πονέω*εἰμί#</sword>
+   <sword>δέ*εἰμί*#</sword>
+   <sword>πονέω*εἰμί*#</sword>
+   <sword>δοῦλος*καί*εἰμί#</sword>
+   <sword>καί*εἰμί*#</sword>
+   <sword>ταπεινός*καί*εἰμί#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί#</sword>
+</sentence>
+<sentence id="50" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>διό*συστέλλω*#</sword>
+   <sword>καί*συστέλλω*#</sword>
+   <sword>συστέλλω#</sword>
+   <sword>οὗτος*συστέλλω*#</sword>
+   <sword>καί*φύσις*συστέλλω#</sword>
+   <sword>ὁ*φύσις*συστέλλω#</sword>
+   <sword>φύσις*συστέλλω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="51" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*καί*#</sword>
+   <sword>ὁ*πόλις*καί#</sword>
+   <sword>Ἀθήναιος*πόλις*καί#</sword>
+   <sword>πόλις*καί*#</sword>
+   <sword>punc1*ἕως*καί#</sword>
+   <sword>ἕως*καί*#</sword>
+   <sword>τρυφάω*ἕως*καί#</sword>
+   <sword>punc1*ἕως*καί#</sword>
+   <sword>μέγας*εἰμί*καί#</sword>
+   <sword>τε*καί*#</sword>
+   <sword>εἰμί*καί*#</sword>
+   <sword>καί#</sword>
+   <sword>μεγαλόψυχος*ἀνήρ*τρέφω*καί*#</sword>
+   <sword>τρέφω*καί*#</sword>
+   <sword>ἀνήρ*τρέφω*καί#</sword>
+</sentence>
+<sentence id="52" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἁλουργής*ἱμάτιον*ἀμφί-ἴσχω*δέ*#</sword>
+   <sword>μέν*δέ*#</sword>
+   <sword>γάρ*δέ*#</sword>
+   <sword>ἀμφί-ἴσχω*δέ*#</sword>
+   <sword>ἱμάτιον*ἀμφί-ἴσχω*δέ#</sword>
+   <sword>punc1*ἀμφί-ἴσχω*δέ#</sword>
+   <sword>ποικίλος*χιτών*ὑποδύομαι*δέ*#</sword>
+   <sword>δέ*δέ*#</sword>
+   <sword>ὑποδύομαι*δέ*#</sword>
+   <sword>χιτών*ὑποδύομαι*δέ#</sword>
+   <sword>punc1*ὑποδύομαι*δέ#</sword>
+   <sword>κόρυμβος*ἀναδέω*φορέω*δέ*#</sword>
+   <sword>δέ#</sword>
+   <sword>ἀναδέω*φορέω*δέ#</sword>
+   <sword>ὁ*θρίξ*κόρυμβος*ἀναδέω*φορέω*δέ*#</sword>
+   <sword>θρίξ*κόρυμβος*ἀναδέω*φορέω*δέ#</sword>
+   <sword>χρύσεος*τέττιξ*φορέω*δέ*#</sword>
+   <sword>τέττιξ*φορέω*δέ#</sword>
+   <sword>περί*φορέω*δέ#</sword>
+   <sword>ὁ*μέτωπον*καί*περί*φορέω*δέ*#</sword>
+   <sword>μέτωπον*καί*περί*φορέω*δέ#</sword>
+   <sword>καί*περί*φορέω*δέ*#</sword>
+   <sword>ὁ*κόρση*καί*περί*φορέω*δέ*#</sword>
+   <sword>κόρση*καί*περί*φορέω*δέ#</sword>
+   <sword>φορέω*δέ*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="53" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὀκλαδία*δίφρος*φέρω#</sword>
+   <sword>τε*φέρω*#</sword>
+   <sword>αὐτός*φέρω*#</sword>
+   <sword>δίφρος*φέρω*#</sword>
+   <sword>φέρω#</sword>
+   <sword>ὁ*παῖς*φέρω#</sword>
+   <sword>παῖς*φέρω*#</sword>
+   <sword>punc1*ἵνα*φέρω#</sword>
+   <sword>ἵνα*φέρω*#</sword>
+   <sword>μή*καθίζω*ἵνα*φέρω*#</sword>
+   <sword>καθίζω*ἵνα*φέρω#</sword>
+   <sword>ὡς*καθίζω*ἵνα*φέρω*#</sword>
+   <sword>τυγχάνω*ὡς*καθίζω*ἵνα*φέρω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="54" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*εἰμί*#</sword>
+   <sword>τοιοῦτος*εἰμί*#</sword>
+   <sword>εἰμί#</sword>
+   <sword>ὁ*εἰμί*#</sword>
+   <sword>ὁ*μάχη*νικάω*καί*ὁ*εἰμί*#</sword>
+   <sword>ἐν*νικάω*καί*ὁ*εἰμί#</sword>
+   <sword>Μαραθών*ἐν*νικάω*καί*ὁ*εἰμί*#</sword>
+   <sword>νικάω*καί*ὁ*εἰμί*#</sword>
+   <sword>μάχη*νικάω*καί*ὁ*εἰμί#</sword>
+   <sword>καί*ὁ*εἰμί#</sword>
+   <sword>μόνος*χειρόω*καί*ὁ*εἰμί#</sword>
+   <sword>ὁ*δύναμις*χειρόω*καί*ὁ*εἰμί*#</sword>
+   <sword>ὁ*Ἀσία*δύναμις*χειρόω*καί*ὁ*εἰμί#</sword>
+   <sword>Ἀσία*δύναμις*χειρόω*καί*ὁ*εἰμί*#</sword>
+   <sword>ἅπας*Ἀσία*δύναμις*χειρόω*καί*ὁ*εἰμί#</sword>
+   <sword>δύναμις*χειρόω*καί*ὁ*εἰμί#</sword>
+   <sword>χειρόω*καί*ὁ*εἰμί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="55" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*φρόνιμος*καί*ὁ*νομίζω*φημί*#</sword>
+   <sword>ὁ*νομίζω*φημί#</sword>
+   <sword>φρόνιμος*καί*ὁ*νομίζω*φημί#</sword>
+   <sword>δέ*νομίζω*φημί#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>καί*ὁ*νομίζω*φημί*#</sword>
+   <sword>μέγας*δόξα*ἔχω*καί*ὁ*νομίζω*φημί#</sword>
+   <sword>δόξα*ἔχω*καί*ὁ*νομίζω*φημί*#</sword>
+   <sword>ἐπί*δόξα*ἔχω*καί*ὁ*νομίζω*φημί#</sword>
+   <sword>σοφία*ἐπί*δόξα*ἔχω*καί*ὁ*νομίζω*φημί*#</sword>
+   <sword>ἔχω*καί*ὁ*νομίζω*φημί#</sword>
+   <sword>μέγας*ἀγαθός*εἰμί*νομίζω*φημί#</sword>
+   <sword>ἀγαθός*εἰμί*νομίζω*φημί*#</sword>
+   <sword>ὁ*ἡδονή*εἰμί*νομίζω*φημί#</sword>
+   <sword>ἡδονή*εἰμί*νομίζω*φημί*#</sword>
+   <sword>εἰμί*νομίζω*φημί#</sword>
+   <sword>νομίζω*φημί*#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>Σιμωνίδης*φημί*#</sword>
+   <sword>μέν*λέγω2*φημί#</sword>
+   <sword>οὑτωσί*λέγω2*φημί#</sword>
+   <sword>λέγω2*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="56" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>τις*βίος*ἤ*εἰμί*#</sword>
+   <sword>γάρ*εἰμί*#</sword>
+   <sword>ἡδονή*ἄτερ*ἤ*εἰμί*#</sword>
+   <sword>ἄτερ*ἤ*εἰμί#</sword>
+   <sword>θνητός*βίος*ἤ*εἰμί*#</sword>
+   <sword>βίος*ἤ*εἰμί#</sword>
+   <sword>ποθεινός*εἰμί*#</sword>
+   <sword>ἤ*εἰμί*#</sword>
+   <sword>ποῖος*τυραννίς*ἤ*εἰμί*#</sword>
+   <sword>τυραννίς*ἤ*εἰμί#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί#</sword>
+</sentence>
+<sentence id="57" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὅδε*ἄτερ*αἰών*εἰμί*#</sword>
+   <sword>ἄτερ*αἰών*εἰμί#</sword>
+   <sword>οὐδέ*εἰμί*#</sword>
+   <sword>θεά*αἰών*εἰμί#</sword>
+   <sword>ζηλωτός*εἰμί*#</sword>
+   <sword>αἰών*εἰμί*#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί#</sword>
+</sentence>
+<sentence id="58" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>Πίνδαρος#</sword>
+   <sword>δέ#</sword>
+   <sword>παραινέω#</sword>
+   <sword>Ἱέρων*παραινέω*#</sword>
+   <sword>ὁ*ἄρχων*Ἱέρων*παραινέω*#</sword>
+   <sword>Συρακούσιος*ἄρχων*Ἱέρων*παραινέω*#</sword>
+   <sword>ἄρχων*Ἱέρων*παραινέω#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="59" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>μηδέ*ἀμαυρόω*φημί#</sword>
+   <sword>ἀμαυρόω*φημί*#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>τέρψις*ἀμαυρόω*φημί#</sword>
+   <sword>ἐν*ἀμαυρόω*φημί#</sword>
+   <sword>βίος*ἐν*ἀμαυρόω*φημί*#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="60" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>πολύς*φέριστος*εἰμί#</sword>
+   <sword>τοι*εἰμί*#</sword>
+   <sword>φέριστος*εἰμί*#</sword>
+   <sword>ἀνήρ*φέριστος*εἰμί#</sword>
+   <sword>τερπνός*αἰών*εἰμί#</sword>
+   <sword>αἰών*εἰμί*#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί#</sword>
+</sentence>
+<sentence id="61" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*ὅμηρος*φημί#</sword>
+   <sword>ὅμηρος*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>ὁ*εὐφροσύνη*καί*εἰμί*φημί#</sword>
+   <sword>εὐφροσύνη*καί*εἰμί*φημί*#</sword>
+   <sword>καί*εἰμί*φημί#</sword>
+   <sword>ὁ*εὐφραίνω*καί*εἰμί*φημί#</sword>
+   <sword>εὐφραίνω*καί*εἰμί*φημί*#</sword>
+   <sword>τέλος*εἰμί*φημί#</sword>
+   <sword>φημί#</sword>
+   <sword>εἰμί*φημί*#</sword>
+   <sword>χαρίεις*τέλος*εἰμί*φημί*#</sword>
+   <sword>punc1*ὅταν*εἰμί*φημί*#</sword>
+   <sword>ὅταν*εἰμί*φημί#</sword>
+   <sword>δαιτυμών*ἀκουάζομαι*δέ*ὅταν*εἰμί*φημί*#</sword>
+   <sword>μέν*δέ*ὅταν*εἰμί*φημί#</sword>
+   <sword>ἀοιδός1*ἀκουάζομαι*δέ*ὅταν*εἰμί*φημί*#</sword>
+   <sword>ἀκουάζομαι*δέ*ὅταν*εἰμί*φημί#</sword>
+   <sword>punc1*δέ*ὅταν*εἰμί*φημί#</sword>
+   <sword>παρά*πλήθω*δέ*ὅταν*εἰμί*φημί*#</sword>
+   <sword>δέ*ὅταν*εἰμί*φημί*#</sword>
+   <sword>πλήθω*δέ*ὅταν*εἰμί*φημί#</sword>
+   <sword>τράπεζα*πλήθω*δέ*ὅταν*εἰμί*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="62" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*θεός*εἰμί*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>θεός*εἰμί*φημί#</sword>
+   <sword>φημί#</sword>
+   <sword>εἰμί*φημί*#</sword>
+   <sword>ῥεῖα*ζώω*εἰμί*φημί*#</sword>
+   <sword>ζώω*εἰμί*φημί#</sword>
+   <sword>punc1*εἰμί*#</sword>
+   <sword>ὁ*ῥεῖα*εἰμί#</sword>
+   <sword>δέ*εἰμί*#</sword>
+   <sword>ῥεῖα*εἰμί*#</sword>
+   <sword>εἰμί#</sword>
+   <sword>ἄπονος*εἰμί*#</sword>
+   <sword>punc1*εἰμί*#</sword>
+   <sword>punc1*ἐνδείκνυμι*φημί#</sword>
+   <sword>ὥσπερ*ἐνδείκνυμι*φημί#</sword>
+   <sword>ἐνδείκνυμι*φημί*#</sword>
+   <sword>ὅτι1*ἐνδείκνυμι*φημί#</sword>
+   <sword>μέγας*εἰμί*ὅτι1*ἐνδείκνυμι*φημί#</sword>
+   <sword>εἰμί*ὅτι1*ἐνδείκνυμι*φημί*#</sword>
+   <sword>ὁ*κακός*μέγας*εἰμί*ὅτι1*ἐνδείκνυμι*φημί#</sword>
+   <sword>κακός*μέγας*εἰμί*ὅτι1*ἐνδείκνυμι*φημί*#</sword>
+   <sword>ὁ*ταλαιπωρία*καί*εἰμί*ὅτι1*ἐνδείκνυμι*φημί#</sword>
+   <sword>περί*καί*εἰμί*ὅτι1*ἐνδείκνυμι*φημί*#</sword>
+   <sword>ὁ*ζάω*περί*καί*εἰμί*ὅτι1*ἐνδείκνυμι*φημί*#</sword>
+   <sword>ζάω*περί*καί*εἰμί*ὅτι1*ἐνδείκνυμι*φημί#</sword>
+   <sword>ταλαιπωρία*καί*εἰμί*ὅτι1*ἐνδείκνυμι*φημί*#</sword>
+   <sword>καί*εἰμί*ὅτι1*ἐνδείκνυμι*φημί#</sword>
+   <sword>ὁ*πόνος*καί*εἰμί*ὅτι1*ἐνδείκνυμι*φημί#</sword>
+   <sword>πόνος*καί*εἰμί*ὅτι1*ἐνδείκνυμι*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="63" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>διόπερ*ἐπιτιμάω*#</sword>
+   <sword>καί*Μεγακλείδης*ἐπιτιμάω#</sword>
+   <sword>Μεγακλείδης*ἐπιτιμάω*#</sword>
+   <sword>ἐπιτιμάω#</sword>
+   <sword>ὁ*ποιητής*ἐπιτιμάω#</sword>
+   <sword>μετά*ποιητής*ἐπιτιμάω#</sword>
+   <sword>ὅμηρος*καί*μετά*ποιητής*ἐπιτιμάω#</sword>
+   <sword>καί*μετά*ποιητής*ἐπιτιμάω*#</sword>
+   <sword>Ἡσίοδος*καί*μετά*ποιητής*ἐπιτιμάω#</sword>
+   <sword>ποιητής*ἐπιτιμάω*#</sword>
+   <sword>ὅσος*ἐρῶ*ποιητής*ἐπιτιμάω*#</sword>
+   <sword>περί*ἐρῶ*ποιητής*ἐπιτιμάω*#</sword>
+   <sword>Ἡρακλῆς*περί*ἐρῶ*ποιητής*ἐπιτιμάω#</sword>
+   <sword>ἐρῶ*ποιητής*ἐπιτιμάω#</sword>
+   <sword>ὡς*ἐρῶ*ποιητής*ἐπιτιμάω*#</sword>
+   <sword>στρατόπεδον*ἡγέομαι*καί*ὡς*ἐρῶ*ποιητής*ἐπιτιμάω#</sword>
+   <sword>ἡγέομαι*καί*ὡς*ἐρῶ*ποιητής*ἐπιτιμάω*#</sword>
+   <sword>καί*ὡς*ἐρῶ*ποιητής*ἐπιτιμάω#</sword>
+   <sword>πόλις*αἱρέω*καί*ὡς*ἐρῶ*ποιητής*ἐπιτιμάω#</sword>
+   <sword>αἱρέω*καί*ὡς*ἐρῶ*ποιητής*ἐπιτιμάω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="64" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὅς*διατελέω*#</sword>
+   <sword>μετά*διατελέω*#</sword>
+   <sword>ἡδονά*μετά*διατελέω#</sword>
+   <sword>πλεῖστος*ἡδονά*μετά*διατελέω*#</sword>
+   <sword>ὁ*βίος*διατελέω#</sword>
+   <sword>μετά*βίος*διατελέω#</sword>
+   <sword>ἄνθρωπος*μετά*βίος*διατελέω*#</sword>
+   <sword>βίος*διατελέω*#</sword>
+   <sword>διατελέω#</sword>
+   <sword>punc1*δέ*διατελέω#</sword>
+   <sword>πλεῖστος*γυνή*γαμέω*δέ*διατελέω#</sword>
+   <sword>μέν*δέ*διατελέω#</sword>
+   <sword>γυνή*γαμέω*δέ*διατελέω*#</sword>
+   <sword>γαμέω*δέ*διατελέω#</sword>
+   <sword>punc1*δέ*διατελέω#</sword>
+   <sword>ἐκ*παιδοποιέω*δέ*διατελέω*#</sword>
+   <sword>πλεῖστος*παρθένος*ἐκ*παιδοποιέω*δέ*διατελέω*#</sword>
+   <sword>δέ*διατελέω*#</sword>
+   <sword>λάθρῃ*παιδοποιέω*δέ*διατελέω*#</sword>
+   <sword>παρθένος*ἐκ*παιδοποιέω*δέ*διατελέω#</sword>
+   <sword>παιδοποιέω*δέ*διατελέω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="65" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>εἶπον#</sword>
+   <sword>γάρ*εἶπον*#</sword>
+   <sword>ἄν1*εἶπον*#</sword>
+   <sword>τις*εἶπον*#</sword>
+   <sword>πρός*εἶπον*#</sword>
+   <sword>ὁ*παραδέχομαι*πρός*εἶπον*#</sword>
+   <sword>οὐκ*παραδέχομαι*πρός*εἶπον*#</sword>
+   <sword>οὗτος*παραδέχομαι*πρός*εἶπον*#</sword>
+   <sword>παραδέχομαι*πρός*εἶπον#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="66" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>πόθεν*ἀνατίθημι*ἤ1#</sword>
+   <sword>punc1*οὗτος*ἤ1#</sword>
+   <sword>ὦ*οὗτος*ἤ1#</sword>
+   <sword>οὗτος*ἤ1*#</sword>
+   <sword>punc1*οὗτος*ἤ1#</sword>
+   <sword>ὁ*σπουδή*ἀνατίθημι*ἤ1*#</sword>
+   <sword>περί*σπουδή*ἀνατίθημι*ἤ1*#</sword>
+   <sword>ὁ*ἐδωδή*περί*σπουδή*ἀνατίθημι*ἤ1*#</sword>
+   <sword>ἐδωδή*περί*σπουδή*ἀνατίθημι*ἤ1#</sword>
+   <sword>αὐτός*σπουδή*ἀνατίθημι*ἤ1*#</sword>
+   <sword>σπουδή*ἀνατίθημι*ἤ1#</sword>
+   <sword>ἀνατίθημι*ἤ1*#</sword>
+   <sword>punc1*ἀνατίθημι*ἤ1#</sword>
+   <sword>ἤ1*ἤ1*#</sword>
+   <sword>πόθεν*παρέρχομαι*ἤ1#</sword>
+   <sword>παρέρχομαι*ἤ1*#</sword>
+   <sword>εἰς*παρέρχομαι*ἤ1#</sword>
+   <sword>ὁ*ἄνθρωπος*εἰς*παρέρχομαι*ἤ1#</sword>
+   <sword>ἄνθρωπος*εἰς*παρέρχομαι*ἤ1*#</sword>
+   <sword>ὁ*ὑπολείπω*παρέρχομαι*ἤ1*#</sword>
+   <sword>ὁ*κύλιξ*ὑπολείπω*παρέρχομαι*ἤ1#</sword>
+   <sword>λοιβαῖος*κύλιξ*ὑπολείπω*παρέρχομαι*ἤ1#</sword>
+   <sword>κύλιξ*ὑπολείπω*παρέρχομαι*ἤ1*#</sword>
+   <sword>μηδείς*ὑπολείπω*παρέρχομαι*ἤ1*#</sword>
+   <sword>ὑπολείπω*παρέρχομαι*ἤ1#</sword>
+   <sword>punc1*εἰ*παρέρχομαι*ἤ1*#</sword>
+   <sword>εἰ*παρέρχομαι*ἤ1#</sword>
+   <sword>μή*δοκιμάζω*εἰ*παρέρχομαι*ἤ1#</sword>
+   <sword>ὁ*δοκιμάζω*εἰ*παρέρχομαι*ἤ1#</sword>
+   <sword>περί*ὁ*δοκιμάζω*εἰ*παρέρχομαι*ἤ1*#</sword>
+   <sword>ὁ*ἡδονή*περί*ὁ*δοκιμάζω*εἰ*παρέρχομαι*ἤ1*#</sword>
+   <sword>ἡδονή*περί*ὁ*δοκιμάζω*εἰ*παρέρχομαι*ἤ1#</sword>
+   <sword>δοκιμάζω*εἰ*παρέρχομαι*ἤ1*#</sword>
+   <sword>punc1*εἰ*παρέρχομαι*ἤ1*#</sword>
+   <sword>ἤ1*ἤ1*#</sword>
+   <sword>διά*φημί*ἤ1#</sword>
+   <sword>τίς*διά*φημί*ἤ1*#</sword>
+   <sword>ὁ*λουτρόν*εἰμί*φημί*ἤ1#</sword>
+   <sword>θερμός*λουτρόν*εἰμί*φημί*ἤ1#</sword>
+   <sword>λουτρόν*εἰμί*φημί*ἤ1*#</sword>
+   <sword>ὁ*φαίνω*λουτρόν*εἰμί*φημί*ἤ1*#</sword>
+   <sword>φαίνω*λουτρόν*εἰμί*φημί*ἤ1#</sword>
+   <sword>ἐκ*φαίνω*λουτρόν*εἰμί*φημί*ἤ1*#</sword>
+   <sword>ὁ*γῆ*ἐκ*φαίνω*λουτρόν*εἰμί*φημί*ἤ1*#</sword>
+   <sword>γῆ*ἐκ*φαίνω*λουτρόν*εἰμί*φημί*ἤ1#</sword>
+   <sword>πᾶς*φημί*ἤ1#</sword>
+   <sword>Ἡρακλῆς*ἱερός*εἰμί*φημί*ἤ1#</sword>
+   <sword>φημί*ἤ1*#</sword>
+   <sword>εἰμί*φημί*ἤ1#</sword>
+   <sword>ἱερός*εἰμί*φημί*ἤ1*#</sword>
+   <sword>punc1*φημί*ἤ1#</sword>
+   <sword>ἤ1#</sword>
+   <sword>διά*ἔθω*ἤ1#</sword>
+   <sword>τίς*διά*ἔθω*ἤ1*#</sword>
+   <sword>ὁ*στρωμνή*καλέω*ἔθω*ἤ1#</sword>
+   <sword>μαλακός*στρωμνή*καλέω*ἔθω*ἤ1#</sword>
+   <sword>στρωμνή*καλέω*ἔθω*ἤ1*#</sword>
+   <sword>Ἡρακλῆς*κοίτη*καλέω*ἔθω*ἤ1#</sword>
+   <sword>κοίτη*καλέω*ἔθω*ἤ1*#</sword>
+   <sword>ἔθω*ἤ1*#</sword>
+   <sword>καλέω*ἔθω*ἤ1#</sword>
+   <sword>punc1*εἰ*ἔθω*ἤ1*#</sword>
+   <sword>εἰ*ἔθω*ἤ1#</sword>
+   <sword>καταφρονέω*εἰ*ἔθω*ἤ1*#</sword>
+   <sword>ὁ*ζάω*καταφρονέω*εἰ*ἔθω*ἤ1*#</sword>
+   <sword>ἡδέως*ζάω*καταφρονέω*εἰ*ἔθω*ἤ1*#</sword>
+   <sword>ζάω*καταφρονέω*εἰ*ἔθω*ἤ1#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="67" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὗτος*κατασκευάζω*φημί#</sword>
+   <sword>οὖν*κατασκευάζω*φημί#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>ὁ*ποιητής*κατασκευάζω*φημί*#</sword>
+   <sword>νέος*ποιητής*κατασκευάζω*φημί*#</sword>
+   <sword>ποιητής*κατασκευάζω*φημί#</sword>
+   <sword>κατασκευάζω*φημί*#</sword>
+   <sword>ἐν*οὗτος*κατασκευάζω*φημί*#</sword>
+   <sword>ληιστής*σχῆμα*ἐν*οὗτος*κατασκευάζω*φημί*#</sword>
+   <sword>σχῆμα*ἐν*οὗτος*κατασκευάζω*φημί#</sword>
+   <sword>μόνος*περιπορεύομαι*οὗτος*κατασκευάζω*φημί#</sword>
+   <sword>περιπορεύομαι*οὗτος*κατασκευάζω*φημί*#</sword>
+   <sword>punc1*περιπορεύομαι*οὗτος*κατασκευάζω*φημί#</sword>
+   <sword>ξύλον*καί*ἔχω*οὗτος*κατασκευάζω*φημί*#</sword>
+   <sword>ἔχω*οὗτος*κατασκευάζω*φημί*#</sword>
+   <sword>καί*καί*ἔχω*οὗτος*κατασκευάζω*φημί*#</sword>
+   <sword>λεοντέη*καί*ἔχω*οὗτος*κατασκευάζω*φημί*#</sword>
+   <sword>καί*ἔχω*οὗτος*κατασκευάζω*φημί#</sword>
+   <sword>τόξον*καί*ἔχω*οὗτος*κατασκευάζω*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="68" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί#</sword>
+   <sword>οὗτος*πλάσσω*#</sword>
+   <sword>πλάσσω#</sword>
+   <sword>πρῶτος*πλάσσω*#</sword>
+   <sword>στησίχορος*πλάσσω*#</sword>
+   <sword>ὁ*στησίχορος*πλάσσω#</sword>
+   <sword>Ἱμεραῖος*στησίχορος*πλάσσω#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="69" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*Ξάνθος*περιτίθημι#</sword>
+   <sword>Ξάνθος*περιτίθημι*#</sword>
+   <sword>δέ*περιτίθημι*#</sword>
+   <sword>ὁ*Ξάνθος*περιτίθημι#</sword>
+   <sword>μελοποιός*Ξάνθος*περιτίθημι#</sword>
+   <sword>punc1*εἰμί*Ξάνθος*περιτίθημι*#</sword>
+   <sword>πρέσβυς*εἰμί*Ξάνθος*περιτίθημι*#</sword>
+   <sword>εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>Στησίχορος*πρέσβυς*εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>punc1*ὡς*εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>ὡς*εἰμί*Ξάνθος*περιτίθημι*#</sword>
+   <sword>καί*μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι*#</sword>
+   <sword>αὐτός*Στησίχορος*μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>ὁ*Στησίχορος*μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>Στησίχορος*μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι*#</sword>
+   <sword>μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>punc1*ὡς*εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>ὡς*μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι*#</sword>
+   <sword>φημί*ὡς*μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>ὁ*Μεγακλείδης*φημί*ὡς*μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>Μεγακλείδης*φημί*ὡς*μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι*#</sword>
+   <sword>punc1*ὡς*μαρτυρέω*ὡς*εἰμί*Ξάνθος*περιτίθημι#</sword>
+   <sword>οὐ*οὗτος*ἀλλά*στολή*περιτίθημι#</sword>
+   <sword>οὗτος*ἀλλά*στολή*περιτίθημι*#</sword>
+   <sword>αὐτός*περιτίθημι*#</sword>
+   <sword>περιτίθημι#</sword>
+   <sword>ὁ*στολή*περιτίθημι#</sword>
+   <sword>στολή*περιτίθημι*#</sword>
+   <sword>punc1*ἀλλά*στολή*περιτίθημι*#</sword>
+   <sword>ἀλλά*στολή*περιτίθημι#</sword>
+   <sword>ὁ*ἀλλά*στολή*περιτίθημι*#</sword>
+   <sword>Ὁμηρικός*ὁ*ἀλλά*στολή*περιτίθημι#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="70" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>πολύς*παραποιέω*#</sword>
+   <sword>δέ*παραποιέω*#</sword>
+   <sword>ὁ*πολύς*παραποιέω#</sword>
+   <sword>Ξάνθος*ὁ*πολύς*παραποιέω*#</sword>
+   <sword>παραποιέω#</sword>
+   <sword>ὁ*Στησίχορος*παραποιέω#</sword>
+   <sword>Στησίχορος*παραποιέω*#</sword>
+   <sword>punc1*ὥσπερ*παραποιέω#</sword>
+   <sword>ὥσπερ*παραποιέω*#</sword>
+   <sword>καί*καλέω*παραποιέω*ὥσπερ*παραποιέω#</sword>
+   <sword>ὁ*καλέω*παραποιέω*ὥσπερ*παραποιέω#</sword>
+   <sword>Ὀρέστεια*καλέω*παραποιέω*ὥσπερ*παραποιέω#</sword>
+   <sword>καλέω*παραποιέω*ὥσπερ*παραποιέω*#</sword>
+   <sword>punc1#</sword>
+   <sword>παραποιέω*ὥσπερ*παραποιέω#</sword>
+</sentence>
+<sentence id="71" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>Ἀντισθένης*προστίθημι*#</sword>
+   <sword>δέ*προστίθημι*#</sword>
+   <sword>ὁ*ἡδονή*εἰμί*φάσκω*προστίθημι#</sword>
+   <sword>ἡδονή*εἰμί*φάσκω*προστίθημι*#</sword>
+   <sword>ἀγαθός*εἰμί*φάσκω*προστίθημι*#</sword>
+   <sword>εἰμί*φάσκω*προστίθημι#</sword>
+   <sword>φάσκω*προστίθημι*#</sword>
+   <sword>προστίθημι#</sword>
+   <sword>ὁ*ἀμεταμέλητος*προστίθημι#</sword>
+   <sword>ἀμεταμέλητος*προστίθημι*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="72" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*Ὀδυσσεύς*δοκέω#</sword>
+   <sword>δέ*δοκέω*#</sword>
+   <sword>παρά*Ὀδυσσεύς*δοκέω#</sword>
+   <sword>ὁ*Ὅμηρος*παρά*Ὀδυσσεύς*δοκέω#</sword>
+   <sword>Ὅμηρος*παρά*Ὀδυσσεύς*δοκέω*#</sword>
+   <sword>Ὀδυσσεύς*δοκέω*#</sword>
+   <sword>ἡγεμών*γίγνομαι*δοκέω#</sword>
+   <sword>δοκέω#</sword>
+   <sword>γίγνομαι*δοκέω*#</sword>
+   <sword>Ἐπίκουρος*ἡγεμών*γίγνομαι*δοκέω*#</sword>
+   <sword>ὁ*ἡδονά*ἡγεμών*γίγνομαι*δοκέω#</sword>
+   <sword>πολυθρύλητος*ἡδονά*ἡγεμών*γίγνομαι*δοκέω#</sword>
+   <sword>ἡδονά*ἡγεμών*γίγνομαι*δοκέω*#</sword>
+   <sword>punc1*φημί*Ὀδυσσεύς*δοκέω*#</sword>
+   <sword>ὅς*φημί*Ὀδυσσεύς*δοκέω*#</sword>
+   <sword>φημί*Ὀδυσσεύς*δοκέω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="73" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὐ*εἰμί*φημί#</sword>
+   <sword>γάρ*φημί*#</sword>
+   <sword>ἐγώ*φημί*#</sword>
+   <sword>τις*τέλος*εἰμί*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>τέλος*εἰμί*φημί#</sword>
+   <sword>χαρίεις*εἰμί*φημί#</sword>
+   <sword>εἰμί*φημί*#</sword>
+   <sword>ἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>εὐφροσύνη*ἔχω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>μέν*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>ἔχω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>κατά*ἔχω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>δῆμος*κατά*ἔχω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>ἅπας*δῆμος*κατά*ἔχω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>punc1*ἀκουάζομαι*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>δαιτυμών*ἀκουάζομαι*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>δέ*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>ἀνά*ἀκουάζομαι*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>δῶμα*ἀνά*ἀκουάζομαι*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>ἀκουάζομαι*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>ἀοιδός1*ἀκουάζομαι*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>ἧμαι*δαιτυμών*ἀκουάζομαι*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>ἑξῆς*ἧμαι*δαιτυμών*ἀκουάζομαι*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>punc1*πλήθω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>παρά*πλήθω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>δέ*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>πλήθω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>τράπεζα*πλήθω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>σῖτος*καί*πλήθω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>καί*πλήθω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>κρέας*καί*πλήθω*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>punc1*καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>μέθυ*καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>ἐκ*ἀφύσσω*καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>κρατήρ*ἐκ*ἀφύσσω*καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>ἀφύσσω*καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>οἰνοχόος*καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>παρέχω*καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>ἐγχύνω*καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί#</sword>
+   <sword>δέπας*ἐγχύνω*καί*δέ*ὅτανἤ*χαρίεις*εἰμί*φημί*#</sword>
+   <sword>punc1#</sword>
+   <sword>*ἤ*χαρίεις*εἰμί*φημί#</sword>
+</sentence>
+<sentence id="74" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὗτος*εἴδομαι*#</sword>
+   <sword>τίς*εἴδομαι*#</sword>
+   <sword>ἐγώ*φρήν*ἐν*εἴδομαι*#</sword>
+   <sword>καλός*εἰμί*εἴδομαι#</sword>
+   <sword>ἐν*εἴδομαι*#</sword>
+   <sword>φρήν*ἐν*εἴδομαι#</sword>
+   <sword>εἴδομαι#</sword>
+   <sword>εἰμί*εἴδομαι*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="75" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*Μεγακλείδης*φημί#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>Μεγακλείδης*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>ὁ*Ὀδυσσεύς*ἀσπάζομαι*φημί*#</sword>
+   <sword>Ὀδυσσεύς*ἀσπάζομαι*φημί#</sword>
+   <sword>καθομιλέω*ἀσπάζομαι*φημί#</sword>
+   <sword>ὁ*καιρός*καθομιλέω*ἀσπάζομαι*φημί#</sword>
+   <sword>καιρός*καθομιλέω*ἀσπάζομαι*φημί*#</sword>
+   <sword>ὑπέρ*ἀσπάζομαι*φημί#</sword>
+   <sword>ὁ*δοκέω*ὑπέρ*ἀσπάζομαι*φημί#</sword>
+   <sword>δοκέω*ὑπέρ*ἀσπάζομαι*φημί*#</sword>
+   <sword>ὁμοήθης*εἰμί*δοκέω*ὑπέρ*ἀσπάζομαι*φημί*#</sword>
+   <sword>ὁ*φαίαξ*ὁμοήθης*εἰμί*δοκέω*ὑπέρ*ἀσπάζομαι*φημί*#</sword>
+   <sword>φαίαξ*ὁμοήθης*εἰμί*δοκέω*ὑπέρ*ἀσπάζομαι*φημί#</sword>
+   <sword>εἰμί*δοκέω*ὑπέρ*ἀσπάζομαι*φημί#</sword>
+   <sword>ὁ*ἁβροδίαιτος*ἀσπάζομαι*φημί*#</sword>
+   <sword>ἁβροδίαιτος*ἀσπάζομαι*φημί#</sword>
+   <sword>αὐτός*ἁβροδίαιτος*ἀσπάζομαι*φημί*#</sword>
+   <sword>ἀσπάζομαι*φημί*#</sword>
+   <sword>punc1*προπυνθάνομαι*ἀσπάζομαι*φημί*#</sword>
+   <sword>προπυνθάνομαι*ἀσπάζομαι*φημί#</sword>
+   <sword>ὁ*Ἀλκίνοος*προπυνθάνομαι*ἀσπάζομαι*φημί#</sword>
+   <sword>Ἀλκίνοος*προπυνθάνομαι*ἀσπάζομαι*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="76" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἀεί*εἰμί*#</sword>
+   <sword>δέ*εἰμί*#</sword>
+   <sword>ἐγώ*φῖλος*εἰμί#</sword>
+   <sword>δαίς1*καί*εἰμί#</sword>
+   <sword>τε*καί*εἰμί#</sword>
+   <sword>φῖλος*εἰμί*#</sword>
+   <sword>κίθαρις*καί*εἰμί#</sword>
+   <sword>τε*καί*εἰμί#</sword>
+   <sword>χορός*καί*εἰμί#</sword>
+   <sword>τε*καί*εἰμί#</sword>
+   <sword>εἷμα*καί*εἰμί#</sword>
+   <sword>τε*καί*εἰμί#</sword>
+   <sword>ἐξημοιβός*εἷμα*καί*εἰμί*#</sword>
+   <sword>λουτρόν*καί*εἰμί#</sword>
+   <sword>τε*καί*εἰμί#</sword>
+   <sword>θερμός*λουτρόν*καί*εἰμί*#</sword>
+   <sword>καί*εἰμί*#</sword>
+   <sword>εὐνή*καί*εἰμί#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί#</sword>
+</sentence>
+<sentence id="77" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>μόνως*οὕτως*οἴομαι#</sword>
+   <sword>γάρ*οἴομαι*#</sword>
+   <sword>οὕτως*οἴομαι*#</sword>
+   <sword>οἴομαι#</sword>
+   <sword>ὅς*ἐλπίζω*διαμαρτάνω*οἴομαι*#</sword>
+   <sword>ἐλπίζω*διαμαρτάνω*οἴομαι#</sword>
+   <sword>μή*διαμαρτάνω*οἴομαι#</sword>
+   <sword>διαμαρτάνω*οἴομαι*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="78" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>τοιοῦτος*εἰμί*#</sword>
+   <sword>εἰμί#</sword>
+   <sword>καί*παραινέω*εἰμί#</sword>
+   <sword>ὁ*παραινέω*εἰμί#</sword>
+   <sword>παραινέω*εἰμί*#</sword>
+   <sword>Ἀμφίλοχος*παῖς*παραινέω*εἰμί*#</sword>
+   <sword>ὁ*παῖς*παραινέω*εἰμί*#</sword>
+   <sword>παῖς*παραινέω*εἰμί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="79" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὦ*τέκνον*ὁμιλέω#</sword>
+   <sword>τέκνον*ὁμιλέω*#</sword>
+   <sword>punc1*τέκνον*ὁμιλέω#</sword>
+   <sword>πόντιος*θήρ*χρώς*προσφέρω*ὁμιλέω#</sword>
+   <sword>θήρ*χρώς*προσφέρω*ὁμιλέω*#</sword>
+   <sword>πετραῖος*θήρ*χρώς*προσφέρω*ὁμιλέω#</sword>
+   <sword>χρώς*προσφέρω*ὁμιλέω#</sword>
+   <sword>μάλιστα*προσφέρω*ὁμιλέω#</sword>
+   <sword>νόος*προσφέρω*ὁμιλέω#</sword>
+   <sword>προσφέρω*ὁμιλέω*#</sword>
+   <sword>πᾶς*πόλις*ὁμιλέω#</sword>
+   <sword>πόλις*ὁμιλέω*#</sword>
+   <sword>ὁμιλέω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="80" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*πάρειμι1*ἐπαινέω*φρονέω*#</sword>
+   <sword>πάρειμι1*ἐπαινέω*φρονέω#</sword>
+   <sword>δέ*φρονέω*#</sword>
+   <sword>ἐπαινέω*φρονέω*#</sword>
+   <sword>ἑκών*φρονέω*#</sword>
+   <sword>ἄλλοτε*φρονέω*#</sword>
+   <sword>ἀλλοῖος*φρονέω*#</sword>
+   <sword>φρονέω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="81" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὅμοιος*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>καί*Σοφοκλῆς*φημί#</sword>
+   <sword>Σοφοκλῆς*φημί*#</sword>
+   <sword>ἐν*φημί*#</sword>
+   <sword>Ἰφιγενεία*ἐν*φημί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="82" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>νοέω#</sword>
+   <sword>πρός*τρέπω*νοέω#</sword>
+   <sword>ἀνήρ*πρός*τρέπω*νοέω*#</sword>
+   <sword>punc1*ὅπως*τρέπω*νοέω*#</sword>
+   <sword>σῶμαὅπως*τρέπω*νοέω#</sword>
+   <sword>πολύπους2ὅπως*τρέπω*νοέω#</sword>
+   <sword>ὅπως*τρέπω*νοέω#</sword>
+   <sword>πέτραὅπως*τρέπω*νοέω#</sword>
+   <sword>punc1*ὅπως*τρέπω*νοέω*#</sword>
+   <sword>τρέπω*νοέω*#</sword>
+   <sword>γνήσιος*φρόνημα*ἀνήρ*πρός*τρέπω*νοέω*#</sword>
+   <sword>φρόνημα*ἀνήρ*πρός*τρέπω*νοέω#</sword>
+   <sword>punc1#</sword>
+   <sword>*ὅπως*τρέπω*νοέω*#</sword>
+</sentence>
+<sentence id="83" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί#</sword>
+   <sword>ὁ*Θέογνις*#</sword>
+   <sword>Θέογνις#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="84" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>πολύπους2*ὀργή*ἴσχω#</sword>
+   <sword>ὀργή*ἴσχω*#</sword>
+   <sword>ἴσχω#</sword>
+   <sword>πολύπλοκος*πολύπους2*ὀργή*ἴσχω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="85" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>εἰμί#</sword>
+   <sword>δέ*εἰμί*#</sword>
+   <sword>ὅς*φημί*εἰμί#</sword>
+   <sword>φημί*εἰμί*#</sword>
+   <sword>οὗτος*γνώμη*εἰμί*φημί*εἰμί#</sword>
+   <sword>εἰμί*φημί*εἰμί#</sword>
+   <sword>ὁ*γνώμη*εἰμί*φημί*εἰμί#</sword>
+   <sword>γνώμη*εἰμί*φημί*εἰμί*#</sword>
+   <sword>ὁ*ὅμηρος*εἰμί*φημί*εἰμί#</sword>
+   <sword>ὅμηρος*εἰμί*φημί*εἰμί*#</sword>
+   <sword>punc1*προτάσσω*εἰμί*φημί*εἰμί#</sword>
+   <sword>προτάσσω*εἰμί*φημί*εἰμί*#</sword>
+   <sword>ὁ*βίος*προτάσσω*εἰμί*φημί*εἰμί*#</sword>
+   <sword>σπουδαῖος*βίος*προτάσσω*εἰμί*φημί*εἰμί*#</sword>
+   <sword>βίος*προτάσσω*εἰμί*φημί*εἰμί#</sword>
+   <sword>πολλάκις*προτάσσω*εἰμί*φημί*εἰμί#</sword>
+   <sword>ὁ*προτάσσω*εἰμί*φημί*εἰμί#</sword>
+   <sword>κατά*ὁ*προτάσσω*εἰμί*φημί*εἰμί*#</sword>
+   <sword>ἡδονά*κατά*ὁ*προτάσσω*εἰμί*φημί*εἰμί#</sword>
+   <sword>punc1*προτάσσω*εἰμί*φημί*εἰμί#</sword>
+   <sword>λέγω2*εἰμί*φημί*εἰμί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="86" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*θεός*ἀγοράομαι*δέ*#</sword>
+   <sword>δέ*δέ*#</sword>
+   <sword>θεός*ἀγοράομαι*δέ#</sword>
+   <sword>παρά*κάθημαι*ἀγοράομαι*δέ*#</sword>
+   <sword>Ζεύς*παρά*κάθημαι*ἀγοράομαι*δέ#</sword>
+   <sword>κάθημαι*ἀγοράομαι*δέ#</sword>
+   <sword>ἀγοράομαι*δέ*#</sword>
+   <sword>χρύσεος*δάπεδον*ἐν*κάθημαι*ἀγοράομαι*δέ*#</sword>
+   <sword>ἐν*κάθημαι*ἀγοράομαι*δέ*#</sword>
+   <sword>δάπεδον*ἐν*κάθημαι*ἀγοράομαι*δέ#</sword>
+   <sword>punc1*οἰνοχοέω*δέ#</sword>
+   <sword>μετά*οἰνοχοέω*δέ#</sword>
+   <sword>δέ*δέ*#</sword>
+   <sword>σφεῖς*μετά*οἰνοχοέω*δέ*#</sword>
+   <sword>πότνια*Ἥβη*οἰνοχοέω*δέ*#</sword>
+   <sword>Ἥβη*οἰνοχοέω*δέ#</sword>
+   <sword>νέκταρ*οἰνοχοέω*δέ#</sword>
+   <sword>οἰνοχοέω*δέ*#</sword>
+   <sword>punc1*οἰνοχοέω*δέ#</sword>
+   <sword>ὁ*δέχομαι*δέ#</sword>
+   <sword>δέ#</sword>
+   <sword>χρύσεος*δέπας*δέχομαι*δέ*#</sword>
+   <sword>δέπας*δέχομαι*δέ#</sword>
+   <sword>δέχομαι*δέ*#</sword>
+   <sword>ἀλλήλων*δέχομαι*δέ#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="87" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*Μενέλαος*φημί#</sword>
+   <sword>ὁ*Μενέλαος*φημί#</sword>
+   <sword>Μενέλαος*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>παρά*φημί*#</sword>
+   <sword>αὐτός*παρά*φημί#</sword>
+   <sword>φημί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="88" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὐδέ*διακρίνω*#</sword>
+   <sword>ἄν1*διακρίνω*#</sword>
+   <sword>ἐγώ*διακρίνω*#</sword>
+   <sword>ἄλλος*διακρίνω*#</sword>
+   <sword>διακρίνω#</sword>
+   <sword>φιλέω*τε*ἐγώ*διακρίνω*#</sword>
+   <sword>τε*τε*ἐγώ*διακρίνω*#</sword>
+   <sword>τέρπω*τε*ἐγώ*διακρίνω*#</sword>
+   <sword>τε*ἐγώ*διακρίνω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="89" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="90" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>κάθημαι#</sword>
+   <sword>δαίνυμι*κάθημαι*#</sword>
+   <sword>κρέας*καί*δαίνυμι*κάθημαι*#</sword>
+   <sword>τε*καί*δαίνυμι*κάθημαι*#</sword>
+   <sword>ἄσπετος*κρέας*καί*δαίνυμι*κάθημαι#</sword>
+   <sword>καί*δαίνυμι*κάθημαι#</sword>
+   <sword>μέθυ*καί*δαίνυμι*κάθημαι*#</sword>
+   <sword>ἡδύς*μέθυ*καί*δαίνυμι*κάθημαι#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="91" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>διόπερ*τίθημι*#</sword>
+   <sword>καί*Ὀδυσσεύς*τίθημι#</sword>
+   <sword>Ὀδυσσεύς*τίθημι*#</sword>
+   <sword>τρυφή*καί*τίθημι#</sword>
+   <sword>καί*τίθημι*#</sword>
+   <sword>λαγνεία*καί*τίθημι#</sword>
+   <sword>τέλος*τίθημι*#</sword>
+   <sword>ὁ*βίος*τέλος*τίθημι*#</sword>
+   <sword>βίος*τέλος*τίθημι#</sword>
+   <sword>παρά*τίθημι*#</sword>
+   <sword>ὁ*Ἀλκίνοος*παρά*τίθημι*#</sword>
+   <sword>Ἀλκίνοος*παρά*τίθημι#</sword>
+   <sword>τίθημι#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="92" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>διαβόητος*γίγνομαι*#</sword>
+   <sword>δέ*γίγνομαι*#</sword>
+   <sword>ἐπί*διαβόητος*γίγνομαι#</sword>
+   <sword>τρυφή*ἐπί*διαβόητος*γίγνομαι*#</sword>
+   <sword>γίγνομαι#</sword>
+   <sword>πρῶτος*Πέρσης*γίγνομαι#</sword>
+   <sword>πᾶς*ἄνθρωπος*πρῶτος*Πέρσης*γίγνομαι#</sword>
+   <sword>ἄνθρωπος*πρῶτος*Πέρσης*γίγνομαι*#</sword>
+   <sword>Πέρσης*γίγνομαι*#</sword>
+   <sword>punc1*χειμάζω*δέ*Πέρσης*γίγνομαι#</sword>
+   <sword>ὅς*βασιλεύς*δέ*Πέρσης*γίγνομαι#</sword>
+   <sword>καί*βασιλεύς*δέ*Πέρσης*γίγνομαι#</sword>
+   <sword>ὁ*βασιλεύς*δέ*Πέρσης*γίγνομαι#</sword>
+   <sword>βασιλεύς*δέ*Πέρσης*γίγνομαι*#</sword>
+   <sword>χειμάζω*δέ*Πέρσης*γίγνομαι*#</sword>
+   <sword>μέν*δέ*Πέρσης*γίγνομαι*#</sword>
+   <sword>ἐν*χειμάζω*δέ*Πέρσης*γίγνομαι#</sword>
+   <sword>Σοῦσα*ἐν*χειμάζω*δέ*Πέρσης*γίγνομαι*#</sword>
+   <sword>punc1*θερίζω*δέ*Πέρσης*γίγνομαι#</sword>
+   <sword>θερίζω*δέ*Πέρσης*γίγνομαι*#</sword>
+   <sword>δέ*Πέρσης*γίγνομαι#</sword>
+   <sword>ἐν*θερίζω*δέ*Πέρσης*γίγνομαι#</sword>
+   <sword>Ἐκβάτανα*ἐν*θερίζω*δέ*Πέρσης*γίγνομαι*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="93" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καλέω*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>ὁ*Σοῦσα*καλέω*φημί*#</sword>
+   <sword>Σοῦσα*καλέω*φημί#</sword>
+   <sword>φημί#</sword>
+   <sword>Ἀριστόβουλος*καί*φημί#</sword>
+   <sword>καί*φημί*#</sword>
+   <sword>Χάρης*καί*φημί#</sword>
+   <sword>διά*καλέω*φημί#</sword>
+   <sword>ὁ*ὡραιότης*διά*καλέω*φημί#</sword>
+   <sword>ὡραιότης*διά*καλέω*φημί*#</sword>
+   <sword>ὁ*τόπος*ὡραιότης*διά*καλέω*φημί*#</sword>
+   <sword>τόπος*ὡραιότης*διά*καλέω*φημί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="94" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>σοῦσον*εἰμί*#</sword>
+   <sword>γάρ*εἰμί*#</sword>
+   <sword>εἰμί#</sword>
+   <sword>ὁ*φωνή*εἰμί#</sword>
+   <sword>Ἕλλην*φωνή*εἰμί#</sword>
+   <sword>φωνή*εἰμί*#</sword>
+   <sword>ὁ*κρίνον*εἰμί#</sword>
+   <sword>κρίνον*εἰμί*#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="95" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ἐν*διατρίβω*καί#</sword>
+   <sword>Περσέπολις*ἐν*διατρίβω*καί*#</sword>
+   <sword>δέ*καί*#</sword>
+   <sword>διατρίβω*καί*#</sword>
+   <sword>φθινόπωρον*διατρίβω*καί#</sword>
+   <sword>καί#</sword>
+   <sword>ἐν*διατρίβω*καί#</sword>
+   <sword>Βαβυλών*ἐν*διατρίβω*καί*#</sword>
+   <sword>ὁ*μέρος*διατρίβω*καί*#</sword>
+   <sword>λείπω*μέρος*διατρίβω*καί*#</sword>
+   <sword>ὁ*ἐνιαυτός*μέρος*διατρίβω*καί#</sword>
+   <sword>ἐνιαυτός*μέρος*διατρίβω*καί*#</sword>
+   <sword>μέρος*διατρίβω*καί#</sword>
+   <sword>punc1#</sword>
+   <sword>διατρίβω*καί*#</sword>
+</sentence>
+<sentence id="96" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*Πάρθοι*βασιλεύς*δέ*#</sword>
+   <sword>ὁ*βασιλεύς*δέ#</sword>
+   <sword>Πάρθοι*βασιλεύς*δέ#</sword>
+   <sword>δέ*δέ*#</sword>
+   <sword>βασιλεύς*δέ*#</sword>
+   <sword>ἐαρίζω*δέ*#</sword>
+   <sword>μέν*δέ*#</sword>
+   <sword>ἐν*ἐαρίζω*δέ#</sword>
+   <sword>Ῥάγα*ἐν*ἐαρίζω*δέ*#</sword>
+   <sword>punc1*ἐαρίζω*δέ#</sword>
+   <sword>χειμάζω*δέ*#</sword>
+   <sword>δέ#</sword>
+   <sword>ἐν*χειμάζω*δέ#</sword>
+   <sword>Βαβυλών*ἐν*χειμάζω*δέ*#</sword>
+   <sword>punc1#</sword>
+   <sword>punc1*δέ*#</sword>
+   <sword>ὁ*λείπω*punc1*δέ*#</sword>
+   <sword>λείπω*punc1*δέ#</sword>
+   <sword>ὁ*ἐνιαυτός*λείπω*punc1*δέ#</sword>
+   <sword>ἐνιαυτός*λείπω*punc1*δέ*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="97" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*παράσημον*ἀρνέομαι#</sword>
+   <sword>ὁ*παράσημον*ἀρνέομαι#</sword>
+   <sword>παράσημον*ἀρνέομαι*#</sword>
+   <sword>δέ*ἀρνέομαι*#</sword>
+   <sword>ὅς*ἐπιτίθημι*παράσημον*ἀρνέομαι*#</sword>
+   <sword>ἐπιτίθημι*παράσημον*ἀρνέομαι#</sword>
+   <sword>ὁ*κεφαλή*ἐπιτίθημι*παράσημον*ἀρνέομαι#</sword>
+   <sword>κεφαλή*ἐπιτίθημι*παράσημον*ἀρνέομαι*#</sword>
+   <sword>ὁ*βασιλεύς*ἐπιτίθημι*παράσημον*ἀρνέομαι#</sword>
+   <sword>ὁ*Πέρσης*βασιλεύς*ἐπιτίθημι*παράσημον*ἀρνέομαι*#</sword>
+   <sword>Πέρσης*βασιλεύς*ἐπιτίθημι*παράσημον*ἀρνέομαι#</sword>
+   <sword>βασιλεύς*ἐπιτίθημι*παράσημον*ἀρνέομαι*#</sword>
+   <sword>οὐδέ*ἀρνέομαι*#</sword>
+   <sword>αὐτός*παράσημον*ἀρνέομαι#</sword>
+   <sword>ἀρνέομαι#</sword>
+   <sword>ὁ*ἀπόλαυσις*ἀρνέομαι#</sword>
+   <sword>ὁ*ἡδυπάθεια*ἀπόλαυσις*ἀρνέομαι*#</sword>
+   <sword>ἡδυπάθεια*ἀπόλαυσις*ἀρνέομαι#</sword>
+   <sword>ἀπόλαυσις*ἀρνέομαι*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="98" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>κατασκευάζω#</sword>
+   <sword>γάρ*κατασκευάζω*#</sword>
+   <sword>punc1*ὡς*κατασκευάζω#</sword>
+   <sword>ὡς*κατασκευάζω*#</sword>
+   <sword>φημί*ὡς*κατασκευάζω#</sword>
+   <sword>Δίνων*φημί*ὡς*κατασκευάζω*#</sword>
+   <sword>punc1*ὡς*κατασκευάζω#</sword>
+   <sword>ἐκ*κατασκευάζω*#</sword>
+   <sword>σμύρνα*καί*ἐκ*κατασκευάζω*#</sword>
+   <sword>καί*ἐκ*κατασκευάζω#</sword>
+   <sword>ὁ*καλέω*καί*ἐκ*κατασκευάζω#</sword>
+   <sword>καλέω*καί*ἐκ*κατασκευάζω*#</sword>
+   <sword>λάβυζος*καλέω*καί*ἐκ*κατασκευάζω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="99" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>εὐώδης*καί*εἰμί#</sword>
+   <sword>δέ*εἰμί*#</sword>
+   <sword>εἰμί#</sword>
+   <sword>ὁ*λάβυζος*εἰμί#</sword>
+   <sword>λάβυζος*εἰμί*#</sword>
+   <sword>καί*εἰμί*#</sword>
+   <sword>πολύτιμος*καί*εἰμί#</sword>
+   <sword>ὁ*σμύρνα*πολύτιμος*καί*εἰμί#</sword>
+   <sword>σμύρνα*πολύτιμος*καί*εἰμί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="100" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁπότε*ἀλλά*φημί#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>καί*ἅρμα*ἀπό*κάτειμι*ὁπότε*ἀλλά*φημί#</sword>
+   <sword>ἀπό*κάτειμι*ὁπότε*ἀλλά*φημί#</sword>
+   <sword>ὁ*ἅρμα*ἀπό*κάτειμι*ὁπότε*ἀλλά*φημί#</sword>
+   <sword>ἅρμα*ἀπό*κάτειμι*ὁπότε*ἀλλά*φημί*#</sword>
+   <sword>κάτειμι*ὁπότε*ἀλλά*φημί*#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>βασιλεύς*κάτειμι*ὁπότε*ἀλλά*φημί#</sword>
+   <sword>punc1*καθάλλομαι*οὔτε*ἀλλά*φημί#</sword>
+   <sword>οὔτε*οὔτε*ἀλλά*φημί*#</sword>
+   <sword>καθάλλομαι*οὔτε*ἀλλά*φημί*#</sword>
+   <sword>ὀλίγος*εἰμί*καθάλλομαι*οὔτε*ἀλλά*φημί*#</sword>
+   <sword>εἰμί*καθάλλομαι*οὔτε*ἀλλά*φημί#</sword>
+   <sword>ἐπί*ὕψος*εἰμί*καθάλλομαι*οὔτε*ἀλλά*φημί#</sword>
+   <sword>ὁ*Γαῖα*ἐπί*ὕψος*εἰμί*καθάλλομαι*οὔτε*ἀλλά*φημί#</sword>
+   <sword>Γαῖα*ἐπί*ὕψος*εἰμί*καθάλλομαι*οὔτε*ἀλλά*φημί*#</sword>
+   <sword>ὁ*ὕψος*εἰμί*καθάλλομαι*οὔτε*ἀλλά*φημί#</sword>
+   <sword>ὕψος*εἰμί*καθάλλομαι*οὔτε*ἀλλά*φημί*#</sword>
+   <sword>οὔτε*ἀλλά*φημί#</sword>
+   <sword>διά*ἐρείδωοὔτε*ἀλλά*φημί*#</sword>
+   <sword>χείρ*διά*ἐρείδωοὔτε*ἀλλά*φημί#</sword>
+   <sword>ἐρείδωοὔτε*ἀλλά*φημί#</sword>
+   <sword>punc1*καί*ἀλλά*φημί*#</sword>
+   <sword>ἀλλά*φημί*#</sword>
+   <sword>ἀεί*καί*ἀλλά*φημί*#</sword>
+   <sword>αὐτός*τίθημι*καί*ἀλλά*φημί#</sword>
+   <sword>χρύσεος*δίφρος*τίθημι*καί*ἀλλά*φημί*#</sword>
+   <sword>δίφρος*τίθημι*καί*ἀλλά*φημί#</sword>
+   <sword>τίθημι*καί*ἀλλά*φημί*#</sword>
+   <sword>καί*ἀλλά*φημί#</sword>
+   <sword>οὗτος*ἐπιβαίνω*κάτειμι*καί*ἀλλά*φημί*#</sword>
+   <sword>ἐπιβαίνω*κάτειμι*καί*ἀλλά*φημί#</sword>
+   <sword>κάτειμι*καί*ἀλλά*φημί*#</sword>
+   <sword>punc1#</sword>
+   <sword>*οὔτε*ἀλλά*φημί*#</sword>
+</sentence>
+<sentence id="101" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*ἕπομαι*#</sword>
+   <sword>ὁ*διφροφόρος*ἕπομαι#</sword>
+   <sword>βασιλεύς*διφροφόρος*ἕπομαι#</sword>
+   <sword>διφροφόρος*ἕπομαι*#</sword>
+   <sword>εἰς*ἕπομαι*#</sword>
+   <sword>οὗτος*εἰς*ἕπομαι#</sword>
+   <sword>ἕπομαι#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="102" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>φυλάσσω#</sword>
+   <sword>τε*φυλάσσω*#</sword>
+   <sword>αὐτός*φυλάσσω*#</sword>
+   <sword>καί*γυνή*φυλάσσω#</sword>
+   <sword>τριακόσιοι*γυνή*φυλάσσω#</sword>
+   <sword>γυνή*φυλάσσω*#</sword>
+   <sword>punc1*ὡς*φυλάσσω#</sword>
+   <sword>ὡς*φυλάσσω*#</sword>
+   <sword>ἱστορέω*ὡς*φυλάσσω#</sword>
+   <sword>ὁ*Ἡρακλείδης*ἱστορέω*ὡς*φυλάσσω#</sword>
+   <sword>Κυμαῖος*Ἡρακλείδης*ἱστορέω*ὡς*φυλάσσω#</sword>
+   <sword>Ἡρακλείδης*ἱστορέω*ὡς*φυλάσσω*#</sword>
+   <sword>ἐν*ἱστορέω*ὡς*φυλάσσω*#</sword>
+   <sword>α᾽*ἐν*ἱστορέω*ὡς*φυλάσσω#</sword>
+   <sword>Περσικός*α᾽*ἐν*ἱστορέω*ὡς*φυλάσσω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="103" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὗτος*κοιμάω*δέ#</sword>
+   <sword>δέ*κοιμάω*δέ#</sword>
+   <sword>ὁ*ἥμερος*κοιμάω*δέ*#</sword>
+   <sword>μέν*δέ*#</sword>
+   <sword>ἥμερος*κοιμάω*δέ#</sword>
+   <sword>κοιμάω*δέ*#</sword>
+   <sword>ἵνα*κοιμάω*δέ#</sword>
+   <sword>νύξ*ἐγρηγορόων*ἵνα*κοιμάω*δέ#</sword>
+   <sword>ἐγρηγορόων*ἵνα*κοιμάω*δέ*#</sword>
+   <sword>punc1*ἵνα*κοιμάω*δέ*#</sword>
+   <sword>ὁ*νύξ*διατελέω*δέ*#</sword>
+   <sword>δέ#</sword>
+   <sword>νύξ*διατελέω*δέ#</sword>
+   <sword>ἀείδω*καί*διατελέω*δέ*#</sword>
+   <sword>καί*διατελέω*δέ#</sword>
+   <sword>ψάλλω*καί*διατελέω*δέ*#</sword>
+   <sword>διατελέω*δέ*#</sword>
+   <sword>λύχνος*καίω*διατελέω*δέ*#</sword>
+   <sword>καίω*διατελέω*δέ#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="104" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>χράομαι#</sword>
+   <sword>δέ*χράομαι*#</sword>
+   <sword>αὐτός*παλλακίς*χράομαι#</sword>
+   <sword>καί*παλλακίς*χράομαι#</sword>
+   <sword>παλλακίς*χράομαι*#</sword>
+   <sword>ὁ*βασιλεύς*χράομαι#</sword>
+   <sword>βασιλεύς*χράομαι*#</sword>
+   <sword>punc1#</sword>
+   <sword>διά#</sword>
+   <sword>ὁ*αὐλή*διά#</sword>
+   <sword>ὁ*μηλοφόρος*αὐλή*διά*#</sword>
+   <sword>μηλοφόρος*αὐλή*διά#</sword>
+   <sword>αὐλή*διά*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="105" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>εἰμί#</sword>
+   <sword>δέ*εἰμί*#</sword>
+   <sword>οὗτος*εἰμί*#</sword>
+   <sword>ὁ*δορυφόρος*οὗτος*εἰμί*#</sword>
+   <sword>δορυφόρος*οὗτος*εἰμί#</sword>
+   <sword>punc1*Πέρσης*εἰμί#</sword>
+   <sword>καί*Πέρσης*εἰμί#</sword>
+   <sword>ὁ*γένος*Πέρσης*εἰμί*#</sword>
+   <sword>γένος*Πέρσης*εἰμί#</sword>
+   <sword>πᾶς*Πέρσης*εἰμί#</sword>
+   <sword>Πέρσης*εἰμί*#</sword>
+   <sword>punc1*ἔχω*εἰμί#</sword>
+   <sword>ἐπί*ἔχω*εἰμί#</sword>
+   <sword>ὁ*στύραξ2*ἐπί*ἔχω*εἰμί#</sword>
+   <sword>στύραξ2*ἐπί*ἔχω*εἰμί*#</sword>
+   <sword>μῆλον2*ἔχω*εἰμί#</sword>
+   <sword>χρύσεος*μῆλον2*ἔχω*εἰμί*#</sword>
+   <sword>ἔχω*εἰμί*#</sword>
+   <sword>punc1*ἔχω*εἰμί#</sword>
+   <sword>χίλιοι*Πέρσης*εἰμί#</sword>
+   <sword>ὁ*ἀριθμός*χίλιοι*Πέρσης*εἰμί#</sword>
+   <sword>ἀριθμός*χίλιοι*Πέρσης*εἰμί*#</sword>
+   <sword>punc1*ἐκλέγω*εἰμί#</sword>
+   <sword>ἀριστίνδην*ἐκλέγω*εἰμί#</sword>
+   <sword>ἐκλέγω*εἰμί*#</sword>
+   <sword>ἐκ*ἐκλέγω*εἰμί#</sword>
+   <sword>ὁ*Πέρσης*ἐκ*ἐκλέγω*εἰμί#</sword>
+   <sword>μυρίος*Πέρσης*ἐκ*ἐκλέγω*εἰμί#</sword>
+   <sword>Πέρσης*ἐκ*ἐκλέγω*εἰμί*#</sword>
+   <sword>ὁ*ἀθάνατος*καλέω*Πέρσης*ἐκ*ἐκλέγω*εἰμί#</sword>
+   <sword>ἀθάνατος*καλέω*Πέρσης*ἐκ*ἐκλέγω*εἰμί*#</sword>
+   <sword>καλέω*Πέρσης*ἐκ*ἐκλέγω*εἰμί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="106" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*δίειμι*#</sword>
+   <sword>δίειμι#</sword>
+   <sword>διά*δίειμι*#</sword>
+   <sword>ὁ*αὐλή*διά*δίειμι*#</sword>
+   <sword>οὗτος*αὐλή*διά*δίειμι*#</sword>
+   <sword>αὐλή*διά*δίειμι#</sword>
+   <sword>πεζός*δίειμι*#</sword>
+   <sword>ὑποτίθημι*δίειμι*#</sword>
+   <sword>ψιλόταπις*ὑποτίθημι*δίειμι#</sword>
+   <sword>Σαρδιανός*ψιλόταπις*ὑποτίθημι*δίειμι*#</sword>
+   <sword>punc1*ἐπιβαίνω*ψιλόταπις*ὑποτίθημι*δίειμι#</sword>
+   <sword>ἐπί*ἐπιβαίνω*ψιλόταπις*ὑποτίθημι*δίειμι#</sword>
+   <sword>ὅς*ἐπί*ἐπιβαίνω*ψιλόταπις*ὑποτίθημι*δίειμι*#</sword>
+   <sword>οὐδείς*ἐπιβαίνω*ψιλόταπις*ὑποτίθημι*δίειμι#</sword>
+   <sword>ἄλλος*οὐδείς*ἐπιβαίνω*ψιλόταπις*ὑποτίθημι*δίειμι*#</sword>
+   <sword>ἐπιβαίνω*ψιλόταπις*ὑποτίθημι*δίειμι*#</sword>
+   <sword>ἤ1*ἐπιβαίνω*ψιλόταπις*ὑποτίθημι*δίειμι#</sword>
+   <sword>βασιλεύς*ἐπιβαίνω*ἤ1*ἐπιβαίνω*ψιλόταπις*ὑποτίθημι*δίειμι#</sword>
+   <sword>punc1#</sword>
+   <sword>ἐπιβαίνω*ἤ1*ἐπιβαίνω*ψιλόταπις*ὑποτίθημι*δίειμι*#</sword>
+</sentence>
+<sentence id="107" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὅτε*ἀναβαίνω*#</sword>
+   <sword>δέ*ἀναβαίνω*#</sword>
+   <sword>εἰς*ἔρχομαι*ὅτε*ἀναβαίνω*#</sword>
+   <sword>ὁ*αὐλή*εἰς*ἔρχομαι*ὅτε*ἀναβαίνω*#</sword>
+   <sword>ἔσχατος*αὐλή*εἰς*ἔρχομαι*ὅτε*ἀναβαίνω*#</sword>
+   <sword>αὐλή*εἰς*ἔρχομαι*ὅτε*ἀναβαίνω#</sword>
+   <sword>ἔρχομαι*ὅτε*ἀναβαίνω#</sword>
+   <sword>punc1*ὅτε*ἀναβαίνω#</sword>
+   <sword>ἀναβαίνω#</sword>
+   <sword>ἐπί*δέ*ἀναβαίνω#</sword>
+   <sword>ὁ*ἅρμα*ἐπί*δέ*ἀναβαίνω#</sword>
+   <sword>ἅρμα*ἐπί*δέ*ἀναβαίνω*#</sword>
+   <sword>punc1*ἐπί*δέ*ἀναβαίνω*#</sword>
+   <sword>ἐνίοτε*δέ*ἀναβαίνω#</sword>
+   <sword>δέ*ἀναβαίνω*#</sword>
+   <sword>καί*ἵππος*ἐπί*δέ*ἀναβαίνω#</sword>
+   <sword>ἐπί*δέ*ἀναβαίνω#</sword>
+   <sword>ἵππος*ἐπί*δέ*ἀναβαίνω*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="108" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>πεζός*ὁράω*#</sword>
+   <sword>δέ*ὁράω*#</sword>
+   <sword>οὐδέποτε*ὁράω*#</sword>
+   <sword>ὁράω#</sword>
+   <sword>ἔξω*ὁράω*#</sword>
+   <sword>ὁ*βασίλειον*ἔξω*ὁράω*#</sword>
+   <sword>βασίλειον*ἔξω*ὁράω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="109" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>εἰ*συνέξειμι*#</sword>
+   <sword>δέ*συνέξειμι*#</sword>
+   <sword>ἐπί*ἔξειμι2*εἰ*συνέξειμι*#</sword>
+   <sword>θήρα*ἐπί*ἔξειμι2*εἰ*συνέξειμι#</sword>
+   <sword>ἔξειμι2*εἰ*συνέξειμι#</sword>
+   <sword>punc1*εἰ*συνέξειμι#</sword>
+   <sword>καί*παλλακίς*συνέξειμι#</sword>
+   <sword>ὁ*παλλακίς*συνέξειμι#</sword>
+   <sword>παλλακίς*συνέξειμι*#</sword>
+   <sword>αὐτός*συνέξειμι*#</sword>
+   <sword>συνέξειμι#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="110" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*θρόνος*είμί#</sword>
+   <sword>δέ*είμί*#</sword>
+   <sword>θρόνος*είμί*#</sword>
+   <sword>ἐπί*κάθημαι*χρηματίζω*θρόνος*είμί#</sword>
+   <sword>ὅς*ἐπί*κάθημαι*χρηματίζω*θρόνος*είμί*#</sword>
+   <sword>χρηματίζω*θρόνος*είμί#</sword>
+   <sword>κάθημαι*χρηματίζω*θρόνος*είμί*#</sword>
+   <sword>χρυσέος*είμί*#</sword>
+   <sword>είμί#</sword>
+   <sword>punc1*περιίστημι*θρόνος*είμί*#</sword>
+   <sword>ὅς*περιίστημι*θρόνος*είμί*#</sword>
+   <sword>περιίστημι*θρόνος*είμί#</sword>
+   <sword>τέσσαρες*κιονίσκος*περιίστημι*θρόνος*είμί#</sword>
+   <sword>κιονίσκος*περιίστημι*θρόνος*είμί*#</sword>
+   <sword>λιθοκόλλητος*κιονίσκος*περιίστημι*θρόνος*είμί#</sword>
+   <sword>χρύσεος*κιονίσκος*περιίστημι*θρόνος*είμί#</sword>
+   <sword>punc1*διατείνω*κιονίσκος*περιίστημι*θρόνος*είμί*#</sword>
+   <sword>ἐπί*διατείνω*κιονίσκος*περιίστημι*θρόνος*είμί*#</sword>
+   <sword>ὅς*ἐπί*διατείνω*κιονίσκος*περιίστημι*θρόνος*είμί#</sword>
+   <sword>διατείνω*κιονίσκος*περιίστημι*θρόνος*είμί#</sword>
+   <sword>ἱμάτιον*διατείνω*κιονίσκος*περιίστημι*θρόνος*είμί*#</sword>
+   <sword>ποικίλος*ἱμάτιον*διατείνω*κιονίσκος*περιίστημι*θρόνος*είμί#</sword>
+   <sword>πορφύρεος*ἱμάτιον*διατείνω*κιονίσκος*περιίστημι*θρόνος*είμί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="111" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>Κλέαρχος*ἐπιφέρω*#</sword>
+   <sword>δέ*ἐπιφέρω*#</sword>
+   <sword>ὁ*Κλέαρχος*ἐπιφέρω#</sword>
+   <sword>Σολεύς*Κλέαρχος*ἐπιφέρω#</sword>
+   <sword>ἐν*προεῖπον*ἐπιφέρω#</sword>
+   <sword>τέταρτος*ἐν*προεῖπον*ἐπιφέρω*#</sword>
+   <sword>βίος*τέταρτος*ἐν*προεῖπον*ἐπιφέρω#</sword>
+   <sword>προεῖπον*ἐπιφέρω*#</sword>
+   <sword>περί*προεῖπον*ἐπιφέρω#</sword>
+   <sword>ὁ*τρυφή*περί*προεῖπον*ἐπιφέρω#</sword>
+   <sword>Μῆδος*τρυφή*περί*προεῖπον*ἐπιφέρω#</sword>
+   <sword>τρυφή*περί*προεῖπον*ἐπιφέρω*#</sword>
+   <sword>καί*εὐνουχίζω*ὅτι1*προεῖπον*ἐπιφέρω#</sword>
+   <sword>ὅτι1*προεῖπον*ἐπιφέρω#</sword>
+   <sword>διά*εὐνουχίζω*ὅτι1*προεῖπον*ἐπιφέρω#</sword>
+   <sword>οὗτος*διά*εὐνουχίζω*ὅτι1*προεῖπον*ἐπιφέρω*#</sword>
+   <sword>πολύς*εὐνουχίζω*ὅτι1*προεῖπον*ἐπιφέρω#</sword>
+   <sword>εὐνουχίζω*ὅτι1*προεῖπον*ἐπιφέρω*#</sword>
+   <sword>ὁ*περικτίονες*πολύς*εὐνουχίζω*ὅτι1*προεῖπον*ἐπιφέρω#</sword>
+   <sword>περικτίονες*πολύς*εὐνουχίζω*ὅτι1*προεῖπον*ἐπιφέρω*#</sword>
+   <sword>punc1*προεῖπον*ἐπιφέρω#</sword>
+   <sword>ἐπιφέρω#</sword>
+   <sword>καί*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>ὁ*μηλοφορία*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>παρά*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>Μῆδος*παρά*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>Πέρσης*μηλοφορία*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>μηλοφορία*punc1*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>μή*μόνος*ἀλλά*punc1*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>μόνος*ἀλλά*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>ὅς*πάσχω*τιμωρία*ἀλλά*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>πάσχω*τιμωρία*ἀλλά*punc1*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>τιμωρία*ἀλλά*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>ἀλλά*punc1*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>καί*ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>ὁ*τρυφή*ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>ὁ*δορυφορέω*τρυφή*ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>δορυφορέω*τρυφή*ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>τρυφή*ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>εἰς*ἔρχομαι*ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>ὅσος*εἰς*ἔρχομαι*ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>ἔρχομαι*ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω*#</sword>
+   <sword>ἀνανδρία*ὅσος*εἰς*ἔρχομαι*ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>ὑπόμνημα*ἀλλά*punc1*γίγνομαι*ἐπιφέρω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="112" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>δύναμαι#</sword>
+   <sword>γάρ*δύναμαι*#</sword>
+   <sword>punc1*ὡς*δύναμαι#</sword>
+   <sword>ὡς*δύναμαι*#</sword>
+   <sword>ἔοικα*ὡς*δύναμαι#</sword>
+   <sword>punc1*ὡς*δύναμαι#</sword>
+   <sword>ὁ*τρυφή*δύναμαι#</sword>
+   <sword>παράκαιρος*καί*τρυφή*δύναμαι*#</sword>
+   <sword>ἅμα*καί*τρυφή*δύναμαι*#</sword>
+   <sword>καί*τρυφή*δύναμαι#</sword>
+   <sword>μάταιος*καί*τρυφή*δύναμαι*#</sword>
+   <sword>αὐτός*τρυφή*δύναμαι#</sword>
+   <sword>περί*τρυφή*δύναμαι#</sword>
+   <sword>ὁ*βίος*περί*τρυφή*δύναμαι#</sword>
+   <sword>βίος*περί*τρυφή*δύναμαι*#</sword>
+   <sword>τρυφή*δύναμαι*#</sword>
+   <sword>καί*καθοπλίζω*ἀποφαίνω*δύναμαι*#</sword>
+   <sword>ὁ*καθοπλίζω*ἀποφαίνω*δύναμαι*#</sword>
+   <sword>ὁ*λόγχη*καθοπλίζω*ἀποφαίνω*δύναμαι#</sword>
+   <sword>λόγχη*καθοπλίζω*ἀποφαίνω*δύναμαι*#</sword>
+   <sword>καθοπλίζω*ἀποφαίνω*δύναμαι#</sword>
+   <sword>ἀγύρτης*ἀποφαίνω*δύναμαι#</sword>
+   <sword>ἀποφαίνω*δύναμαι*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="113" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*γράφω*#</sword>
+   <sword>προέρχομαι*γράφω*#</sword>
+   <sword>δέ*γράφω*#</sword>
+   <sword>γράφω#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="114" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*πορίζω*δίδωμι*παρατίθημι*#</sword>
+   <sword>γοῦν*παρατίθημι*#</sword>
+   <sword>πορίζω*δίδωμι*παρατίθημι#</sword>
+   <sword>τις*βρῶμα*πορίζω*δίδωμι*παρατίθημι#</sword>
+   <sword>αὐτός*πορίζω*δίδωμι*παρατίθημι*#</sword>
+   <sword>ἡδύς*βρῶμα*πορίζω*δίδωμι*παρατίθημι#</sword>
+   <sword>βρῶμα*πορίζω*δίδωμι*παρατίθημι*#</sword>
+   <sword>δίδωμι*παρατίθημι*#</sword>
+   <sword>ἆθλον*δίδωμι*παρατίθημι#</sword>
+   <sword>ὁ*πορίζω*ἆθλον*δίδωμι*παρατίθημι#</sword>
+   <sword>πορίζω*ἆθλον*δίδωμι*παρατίθημι*#</sword>
+   <sword>οὐ*ἡδύνω*δέ*παρατίθημι*#</sword>
+   <sword>ἕτερος*τιμή*ἡδύνω*δέ*παρατίθημι#</sword>
+   <sword>ἡδύνω*δέ*παρατίθημι#</sword>
+   <sword>οὗτος*ἡδύνω*δέ*παρατίθημι*#</sword>
+   <sword>τιμή*ἡδύνω*δέ*παρατίθημι*#</sword>
+   <sword>παρατίθημι#</sword>
+   <sword>punc1*ἀπολαύω*ἔχω*δέ*παρατίθημι#</sword>
+   <sword>πολύς*μᾶλλον*ἀπολαύω*ἔχω*δέ*παρατίθημι*#</sword>
+   <sword>δέ*παρατίθημι*#</sword>
+   <sword>μᾶλλον*ἀπολαύω*ἔχω*δέ*παρατίθημι#</sword>
+   <sword>αὐτός*ἀπολαύω*ἔχω*δέ*παρατίθημι#</sword>
+   <sword>ἀπολαύω*ἔχω*δέ*παρατίθημι*#</sword>
+   <sword>αὐτός*ἀπολαύω*ἔχω*δέ*παρατίθημι#</sword>
+   <sword>punc1*ἔχω*δέ*παρατίθημι*#</sword>
+   <sword>νόος*ἔχω*δέ*παρατίθημι*#</sword>
+   <sword>ἔχω*δέ*παρατίθημι#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="115" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὗτος*punc1*εἰμί#</sword>
+   <sword>μέν*εἰμί*#</sword>
+   <sword>γάρ*εἰμί*#</sword>
+   <sword>εἰμί#</sword>
+   <sword>ὁ*λέγω2*εἰμί#</sword>
+   <sword>λέγω2*εἰμί*#</sword>
+   <sword>punc1*οἱόμαι*εἰμί#</sword>
+   <sword>οἱόμαι*εἰμί*#</sword>
+   <sword>punc1*εἰμί*#</sword>
+   <sword>καί*καί*ἐγκέφαλος*punc1*εἰμί#</sword>
+   <sword>Ζεύς*καί*ἐγκέφαλος*punc1*εἰμί#</sword>
+   <sword>ἅμα*καί*ἐγκέφαλος*punc1*εἰμί#</sword>
+   <sword>καί*ἐγκέφαλος*punc1*εἰμί*#</sword>
+   <sword>βασιλεύς*καί*ἐγκέφαλος*punc1*εἰμί#</sword>
+   <sword>ἐγκέφαλος*punc1*εἰμί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="116" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>Χάρης*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>ὁ*Χάρης*φημί#</sword>
+   <sword>Μιτυληναῖος*Χάρης*φημί#</sword>
+   <sword>ἐν*φημί*#</sword>
+   <sword>ὁ*πέμπτος*ἐν*φημί*#</sword>
+   <sword>πέμπτος*ἐν*φημί#</sword>
+   <sword>ὁ*Ἱστορίη*πέμπτος*ἐν*φημί#</sword>
+   <sword>περί*Ἱστορίη*πέμπτος*ἐν*φημί#</sword>
+   <sword>Ἀλέξανδρος*περί*Ἱστορίη*πέμπτος*ἐν*φημί*#</sword>
+   <sword>Ἱστορίη*πέμπτος*ἐν*φημί*#</sword>
+   <sword>εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>punc1*φημί*#</sword>
+   <sword>ἥκω*καί*φημί#</sword>
+   <sword>τρυφή*οὗτος*εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>ὁ*βασιλεύς*ἥκω*καί*φημί#</sword>
+   <sword>ὁ*Πέρσης*βασιλεύς*ἥκω*καί*φημί*#</sword>
+   <sword>Πέρσης*βασιλεύς*ἥκω*καί*φημί#</sword>
+   <sword>βασιλεύς*ἥκω*καί*φημί*#</sword>
+   <sword>ὥστε*οὗτος*εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>ὁ*κλίνη*κεφαλή*ὑπέρ*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>βασιλικός*κλίνη*κεφαλή*ὑπέρ*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>κλίνη*κεφαλή*ὑπέρ*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>ὑπέρ*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>κεφαλή*ὑπέρ*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>τις*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>πεντάκλινος*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>punc1*κεῖμαι*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>ἐν*κεῖμαι*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>ὅς*ἐν*κεῖμαι*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>χρυσίον*τάλαντον*κεῖμαι*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>πεντακισχίλιοι*τάλαντον*κεῖμαι*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>διά*κεῖμαι*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>πᾶς*διά*κεῖμαι*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>κεῖμαι*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί#</sword>
+   <sword>τάλαντον*κεῖμαι*οἴκημα*ἔχω*ὥστε*οὗτος*εἰς*ἥκω*καί*φημί*#</sword>
+   <sword>punc1*ἥκω*καί*φημί*#</sword>
+   <sword>καί*φημί*#</sword>
+   <sword>οὗτος*καλέω*καί*φημί*#</sword>
+   <sword>καλέω*καί*φημί#</sword>
+   <sword>προσκεφάλαιον*καλέω*καί*φημί*#</sword>
+   <sword>βασιλικός*προσκεφάλαιον*καλέω*καί*φημί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="117" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>καί*πoύς*πρόςκαί#</sword>
+   <sword>πρόςκαί#</sword>
+   <sword>πoύς*πρόςκαί*#</sword>
+   <sword>ἕτερος*οἴκημα*καί#</sword>
+   <sword>οἴκημα*καί*#</sword>
+   <sword>τρίκλινον*οἴκημα*καί#</sword>
+   <sword>punc1*κεῖμαι*οἴκημα*καί*#</sword>
+   <sword>οὗ*κεῖμαι*οἴκημα*καί*#</sword>
+   <sword>τάλαντον*κεῖμαι*οἴκημα*καί*#</sword>
+   <sword>τρισχίλιοι*τάλαντον*κεῖμαι*οἴκημα*καί#</sword>
+   <sword>κεῖμαι*οἴκημα*καί#</sword>
+   <sword>ἀργύριον*τάλαντον*κεῖμαι*οἴκημα*καί#</sword>
+   <sword>punc1*κεῖμαι*οἴκημα*καί*#</sword>
+   <sword>καί#</sword>
+   <sword>προσαγορεύω*καί*#</sword>
+   <sword>βασιλικός*ὑποπόδιον*προσαγορεύω*καί*#</sword>
+   <sword>ὑποπόδιον*προσαγορεύω*καί#</sword>
+   <sword>punc1#</sword>
+   <sword>*καί*#</sword>
+</sentence>
+<sentence id="118" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>εἰμί#</sword>
+   <sword>δέ*εἰμί*#</sword>
+   <sword>ἐν*εἰμί*#</sword>
+   <sword>ὁ*κοιτών*ἐν*εἰμί*#</sword>
+   <sword>κοιτών*ἐν*εἰμί#</sword>
+   <sword>καί*ἄμπελος*εἰμί#</sword>
+   <sword>λιθοκόλλητος*ἄμπελος*εἰμί#</sword>
+   <sword>ἄμπελος*εἰμί*#</sword>
+   <sword>χρύσεος*ἄμπελος*εἰμί#</sword>
+   <sword>ὑπέρ*εἰμί*#</sword>
+   <sword>ὁ*κλίνη*ὑπέρ*εἰμί*#</sword>
+   <sword>κλίνη*ὑπέρ*εἰμί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="119" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*ἄμπελος*ἔχω*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>ἄμπελος*ἔχω*φημί#</sword>
+   <sword>οὗτος*ἄμπελος*ἔχω*φημί*#</sword>
+   <sword>Ἀμύντας*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>ἐν*φημί*#</sword>
+   <sword>ὁ*σταθμός*ἐν*φημί*#</sword>
+   <sword>σταθμός*ἐν*φημί#</sword>
+   <sword>καί*βότρυς*ἔχω*φημί*#</sword>
+   <sword>βότρυς*ἔχω*φημί#</sword>
+   <sword>ἔχω*φημί*#</sword>
+   <sword>ἐκ*συντίθημι*βότρυς*ἔχω*φημί#</sword>
+   <sword>ὁ*ψήφων*ἐκ*συντίθημι*βότρυς*ἔχω*φημί#</sword>
+   <sword>πολυτελής*ψήφων*ἐκ*συντίθημι*βότρυς*ἔχω*φημί#</sword>
+   <sword>ψήφων*ἐκ*συντίθημι*βότρυς*ἔχω*φημί*#</sword>
+   <sword>συντίθημι*βότρυς*ἔχω*φημί*#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="120" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>οὐ*μακράν*ἀνάκειμαι#</sword>
+   <sword>μακράν*ἀνάκειμαι*#</sword>
+   <sword>τε#</sword>
+   <sword>οὗτος*μακράν*ἀνάκειμαι#</sword>
+   <sword>ἀνάκειμαι#</sword>
+   <sword>κρατήρ#</sword>
+   <sword>χρύσεος*κρατήρ*#</sword>
+   <sword>Θεόδωρος*ποίημα*#</sword>
+   <sword>ὁ*Θεόδωρος*ποίημα#</sword>
+   <sword>Σάμος*Θεόδωρος*ποίημα#</sword>
+   <sword>ποίημα#</sword>
+   <sword>punc1#</sword>
+   <sword>#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="121" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>Ἀγαθοκλῆς*φημί*#</sword>
+   <sword>δέ*φημί*#</sword>
+   <sword>ἐν*φημί*#</sword>
+   <sword>τρίτος*ἐν*φημί#</sword>
+   <sword>περί*τρίτος*ἐν*φημί*#</sword>
+   <sword>Κύζικος*περί*τρίτος*ἐν*φημί#</sword>
+   <sword>ἐν*εἰμί*φημί#</sword>
+   <sword>πέρσης*ἐν*εἰμί*φημί*#</sword>
+   <sword>φημί#</sword>
+   <sword>εἰμί*φημί*#</sword>
+   <sword>καί*ὕδωρ*εἰμί*φημί*#</sword>
+   <sword>χρύσεος*καλέω*ὕδωρ*εἰμί*φημί#</sword>
+   <sword>καλέω*ὕδωρ*εἰμί*φημί*#</sword>
+   <sword>ὕδωρ*εἰμί*φημί#</sword>
+   <sword>punc1#</sword>
+</sentence>
+<sentence id="122" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>εἰμί*καί*#</sword>
+   <sword>δέ*καί*#</sword>
+   <sword>οὗτος*εἰμί*καί#</sword>
+   <sword>λιβάς*εἰμί*καί#</sword>
+   <sword>ἑβδομήκοντα*λιβάς*εἰμί*καί*#</sword>
+   <sword>punc1*πίνω*καί#</sword>
+   <sword>καί#</sword>
+   <sword>μηδείς*πίνω*καί#</sword>
+   <sword>πίνω*καί*#</sword>
+   <sword>ἀπό*πίνω*καί#</sword>
+   <sword>αὐτός*ἀπό*πίνω*καί*#</sword>
+   <sword>ἤ*μηδείς*πίνω*καί*#</sword>
+   <sword>μόνος*βασιλεύς*καί*undefined*ἤ*μηδείς*πίνω*καί*#</sword>
+   <sword>βασιλεύς*καί*undefined*ἤ*μηδείς*πίνω*καί#</sword>
+   <sword>καί*undefined*ἤ*μηδείς*πίνω*καί*#</sword>
+   <sword>ὁ*πρέσβυς*καί*undefined*ἤ*μηδείς*πίνω*καί*#</sword>
+   <sword>πρέσβυς*καί*undefined*ἤ*μηδείς*πίνω*καί#</sword>
+   <sword>αὐτός*παῖς*πρέσβυς*καί*undefined*ἤ*μηδείς*πίνω*καί#</sword>
+   <sword>ὁ*παῖς*πρέσβυς*καί*undefined*ἤ*μηδείς*πίνω*καί#</sword>
+   <sword>παῖς*πρέσβυς*καί*undefined*ἤ*μηδείς*πίνω*καί*#</sword>
+   <sword>punc1#</sword>
+   <sword>undefined*ἤ*μηδείς*πίνω*καί#</sword>
+   <sword>#</sword>
+</sentence>
+<sentence id="123" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1">
+   <sword>ὁ*ἄλλος*τις*πίνω*ἐάν*εἰμί*#</sword>
+   <sword>δέ*εἰμί*#</sword>
+   <sword>ἄλλος*τις*πίνω*ἐάν*εἰμί#</sword>
+   <sword>ἐάν*εἰμί*#</sword>
+   <sword>τις*πίνω*ἐάν*εἰμί*#</sword>
+   <sword>πίνω*ἐάν*εἰμί#</sword>
+   <sword>punc1*ἐάν*εἰμί#</sword>
+   <sword>θάνατος*εἰμί*#</sword>
+   <sword>ὁ*ζημία*εἰμί#</sword>
+   <sword>ζημία*εἰμί*#</sword>
+   <sword>punc1#</sword>
+   <sword>εἰμί#</sword>
+</sentence>
+    
+</sWordDocument>

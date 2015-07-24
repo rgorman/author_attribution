@@ -1,0 +1,34 @@
+# The file contains words that were extracted in the oppose script:
+# this subset lists words significantly PREFERRED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+auxp-obj-adv-co-coord-pred-root
+auxp-sbj-co-coord-pred-root
+obj-co-coord-adv-co-coord-pred-root
+atr-adv-auxp-adv-auxc-pred-root
+atr-adv-auxp-sbj-pred-root
+adv-co-coord-coord-coord-root
+atr-obj-adv-co-coord-coord-pred-root
+atr-atr-obj-adv-co-coord-pred-root
+coord-adv-co-coord-pred-root
+adv-obj-adv-pred-root
+coord-auxp-pred-root
+obj-adv-co-coord-coord-pred-root
+adv-co-coord-coord-pred-root
+adv-co-coord-adv-pred-root
+coord-auxp-pred-co-coord-root
+auxx-sbj-co-coord-pred-root
+adv-co-coord-coord-root
+atr-adv-auxp-adv-co-coord-pred-root
+coord-obj-adv-pred-root
+atr-obj-adv-co-coord-coord-root
+obj-adv-co-coord-coord-root
+adv-adv-coord-root
+adv-auxp-sbj-pred-root
+atr-obj-co-coord-adv-pred-root
+adv-auxp-adv-co-coord-pred-root
+atr-co-coord-sbj-pred-co-coord-root
+adv-sbj-co-coord-pred-root

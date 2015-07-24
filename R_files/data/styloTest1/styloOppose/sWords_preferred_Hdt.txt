@@ -1,0 +1,29 @@
+# The file contains words that were extracted in the oppose script:
+# this subset lists words significantly PREFERRED by primary author(s).
+# The list can be used as an input wordlist for other methods, and for this
+# purpose it can be manually revised, edited, deleted, culled, etc.
+# You can either delete unwanted words, or mark them with "#"
+# -----------------------------------------------------------------------
+
+exd-pred-root
+obj-adv-auxc-pred-co-coord-root
+auxy-obj-pred-root
+auxz-adv-auxc-pred-root
+obj-atr-obj-pred-root
+atr-sbj-obj-pred-co-coord-root
+atr-sbj-pred-co-coord-coord-root
+sbj-obj-pred-co-coord-root
+auxy-coord-obj-pred-root
+atr-atr-pnom-pred-root
+auxg-pred-root
+atr-co-coord-obj-pred-root
+obj-adv-obj-pred-root
+auxz-adv-pred-co-coord-root
+auxx-atr-obj-pred-root
+adv-auxc-obj-pred-root
+atr-pnom-pred-root
+obj-auxp-adv-pred-co-coord-root
+sbj-pred-co-coord-coord-root
+auxx-auxc-obj-pred-root
+atr-obj-adv-auxc-pred-root
+adv-obj-pred-co-coord-root
