@@ -35,8 +35,8 @@ make.file.word.v.l <- function(files.v, input.dir) {
 #function to process relative frequency table of sWords; takes uploaded xml file as argument (called "doc.object)
 #use xmlTreeParse to generate "doc.object"
 getSwordTableList <- function(doc.object) {
-  swords <-getNodeSet(doc.object, "//sword", )
-  sword.content <- paste(sapply(swords, xmlValue), collapes = " ")
+  swords <-getNodeSet(doc.object, "//sWord",)
+  sword.content <- paste(sapply(swords, xmlValue), sep="", collapse=NULL)
   sword.content.lower <- tolower(sword.content)
   book.freqs.t <-table(sword.content.lower)
   book.freqs.rel.t <- 100*(book.freqs.t/sum(book.freqs.t))
@@ -89,7 +89,7 @@ getSwordNgramSegmentTableList <- function(doc.object, chunk.size=10) {
 #use xmlTreeParse to generate "doc.object"
 getRelationTableList <- function(doc.object) {
   words <-getNodeSet(doc.object, "//word", )
-  word.content <- paste(sapply(words, xmlValue), collapse = NULL)
+  word.content <- paste(sapply(words, xmlValue), sep="", collapse = NULL)
   word.content.lower <- tolower(word.content)
   book.freqs.t <-table(word.content.lower)
   book.freqs.rel.t <- 100*(book.freqs.t/sum(book.freqs.t))

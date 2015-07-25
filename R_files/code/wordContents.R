@@ -1,6 +1,7 @@
 library(XML)
+source("code/corpusFunctions.R")
 
-input.dir <- "../sWord_output/sWord_relation_files"
+input.dir <- "../wordOrder_output/wordOrder_lemma"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -10,37 +11,18 @@ files.v
 names_for_files.v <- gsub (".xml", "", files.v)
 
 
-i <- 1
-doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
-swords <-getNodeSet(doc.object, "//sword", )
-sword.content <- paste(sapply(swords, xmlValue), collapes = " ")
-sword.content.lower <- tolower(sword.content)
-book.freqs.t <-table(sword.content.lower)
-book.freqs.rel.t <- 100*(book.freqs.t/sum(book.freqs.t))
 
 
-getSwordTableList <- function(doc.object) {
-  swords <-getNodeSet(doc.object, "//sWord", )
-  sword.content <- paste(sapply(swords, xmlValue), collapes = " ")
-  sword.content.lower <- tolower(sword.content)
-  book.freqs.t <-table(sword.content.lower)
-  book.freqs.rel.t <- 100*(book.freqs.t/sum(book.freqs.t))
-  return(book.freqs.rel.t)
-}
-
-
-library(XML)
-source("code/corpusFunctions.R")
-input.dir <- "data/relationFiles"
-files.v <- dir(path=input.dir, pattern=".*xml")
+#create a list with relative frequency tables of contents of <word> elements
 
 book.freqs.l <- list ()
 for (i in 1:length(files.v)) {
   doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
-  sword.data <-getSwordTableList(doc.object)
+  sword.data <-getRelationTableList(doc.object)
   book.freqs.l[[files.v[i]]] <-sword.data
- 
+  
 }
+
 
 #converting an R list into a Data Matrix
 freqs.l <- mapply(data.frame, ID=seq_along(book.freqs.l),
@@ -55,9 +37,10 @@ dim(freqs.df)
 freqs.df[100:150, ]
 
 #convert from long form table to wide format
-result <- xtabs(Freq ~ ID+sword.content.lower, data=freqs.df)
+result <- xtabs(Freq ~ ID+word.content.lower, data=freqs.df)
 
 dim(result)
+
 colnames(result)[1:10]
 rownames(result)
 
@@ -66,6 +49,8 @@ class(result)
 
 #convert wide format table to matrix object
 final.m <- apply(result, 2, as.numeric)
+
+dim(final.m)
 
 #add human readable rownames
 
@@ -78,15 +63,16 @@ colnames(final.m)[1:10]
 saveRDS(result, "sWord_relations_wide.rds")
 saveRDS(final.m, "sWord_relations_matrix.rds")
 
+# note that the number of total lemmas in corpus (7-25-15) is c. 27,786
 #reduce data matrix to features with largest means (most common features)
-# a value of ">=.0142" give roughly the 500 most common rel sWords
-smaller.m <- final.m[, apply(final.m,2,mean)>=.5]
+# a value of ">=.023" give roughly the 500 most common lemma
+smaller.m <- final.m[, apply(final.m,2,mean)>=.023]
 dim(smaller.m)
 colnames(smaller.m)
 smaller.m
 
 #save smaller.m to csv file for viewing
-write.csv (smaller.m, "Rresults/sWord_rel_500.csv")
+write.csv (smaller.m, "Rresults/WordOrd_lemma.csv", fileEncoding="UTF-8")
 
 summary(smaller.m)
 
@@ -112,7 +98,6 @@ cluster$labels <- names(book.freqs.l)
 
 #plot the results as a dendogram for inspection
 plot(cluster)
-
-
+smaller.m
 
 
