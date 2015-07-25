@@ -24,7 +24,7 @@
                         <xsl:choose>
                             <xsl:when test="./@relation != 'AuxX'">
                                 <word><xsl:copy-of select="@*"/>
-                                    <xsl:value-of select="./@relation"></xsl:value-of>-<xsl:value-of select="substring(./@postag, 1, 1)"></xsl:value-of>-#
+                                    <xsl:value-of select="./@relation"></xsl:value-of>-<xsl:value-of select="substring(./@postag, 1, 1)"></xsl:value-of>
                                 </word>
                             </xsl:when>
                         </xsl:choose>

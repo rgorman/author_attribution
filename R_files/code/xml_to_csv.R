@@ -5,7 +5,7 @@ library(XML)
 source("code/corpusFunctions.R")
 
 #set input directory for desired files
-input.dir <- "../sWord_output/sWord_relation_files"
+input.dir <- "../sWord_output/Rel_pos_DD"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -14,7 +14,7 @@ names_for_files.v <- gsub (".xml", "", files.v)
 names_for_output.v <- gsub (".xml", ".csv", files.v)
 
 #select output directory
-output_dir.v <- "sWord_output/rel_csv/"
+output_dir.v <- "sWord_output/rel_pos_dd_csv/"
 
 
 
