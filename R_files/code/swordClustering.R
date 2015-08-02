@@ -1,6 +1,6 @@
 library(XML)
 
-input.dir <- "../sWord_output/sWord_relation_files"
+input.dir <- "../sWord_output/sWord_from_root/sWord_root_rel"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -46,9 +46,7 @@ for (i in 1:length(files.v)) {
 freqs.l <- mapply(data.frame, ID=seq_along(book.freqs.l),
                   book.freqs.l, SIMPLIFY=FALSE, MoreArgs=list(stringsAsFactors=FALSE))
 
-class(freqs.l[[1]])
-class(book.freqs.l)
-freqs.l[[2]][1:12, ]
+
 
 freqs.df <- do.call(rbind, freqs.l)
 dim(freqs.df)
@@ -80,7 +78,7 @@ saveRDS(final.m, "sWord_relations_matrix.rds")
 
 #reduce data matrix to features with largest means (most common features)
 # a value of ">=.0142" give roughly the 500 most common rel sWords
-smaller.m <- final.m[, apply(final.m,2,mean)>=.5]
+smaller.m <- final.m[, apply(final.m,2,mean)>=.0142]
 dim(smaller.m)
 colnames(smaller.m)
 smaller.m
