@@ -43,14 +43,18 @@ for (i in 1:length(files.v)) {
 }
 
 #converting an R list into a Data Matrix
+# this command may turn each list into a data frame object
+# the code "ID=seq_along(book.freqs.l)" creates an ID for
+# each work
 freqs.l <- mapply(data.frame, ID=seq_along(book.freqs.l),
                   book.freqs.l, SIMPLIFY=FALSE, MoreArgs=list(stringsAsFactors=FALSE))
 
-
-
+#this command binds each sub list into a column in a table
 freqs.df <- do.call(rbind, freqs.l)
-dim(freqs.df)
-freqs.df[100:150, ]
+str(freqs.df)
+
+freqs.df[1, 2]
+freqs.l[[1]]
 
 #convert from long form table to wide format
 result <- xtabs(Freq ~ ID+sword.content.lower, data=freqs.df)
@@ -88,13 +92,21 @@ write.csv (smaller.m, "Rresults/sWord_rel_500.csv")
 
 summary(smaller.m)
 
-
+sorted.m <- read.csv(file="Rresults/sorted_rel.csv")
 
 #create a distance object
 dm <- dist(final.m)
 
 #create distance object from smaller.
 dm <-dist(smaller.m)
+
+# distance object from file without 25 most frequent sWords
+sorted_dm <-dist(sorted.m)
+sorted_cluster <- hclust(sorted_dm)
+str (sorted_cluster)
+sorted_cluster$labels <- names(book.freqs.l)
+plot (sorted_cluster)
+
 
 
 #save distance object to csv file for viewing

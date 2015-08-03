@@ -1,7 +1,7 @@
 library(XML)
 library(stylo)
 source("code/corpusFunctions.R")
-input.dir <- "data/relationFiles"
+input.dir <- "sWord_input"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 #the following script calls the user-defined function "getSwordChunkMaster).
@@ -10,11 +10,10 @@ files.v <- dir(path=input.dir, pattern=".*xml")
 book.freqs.l <- list()
 for(i in 1:length(files.v)){
   doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
-  chunk.data.l <- getSwordChunkMaster(doc.object, 3000)
+  chunk.data.l <- getSwordChunkMaster(doc.object, 2000)
   book.freqs.l[[files.v[i]]] <-chunk.data.l
   
 }
-
 
 
 
@@ -27,18 +26,25 @@ summary(book.freqs.l)
 #this code requires the user defined function "my.apply"
 freqs.l <- lapply(book.freqs.l, my.apply)
 
+summary(freqs.l)
 
 freqs.df <- do.call(rbind, freqs.l)
 #the result is a long form data frame
 
 dim(freqs.df)
 head(freqs.df)
+write.csv(freqs.df, file="sWord_output/inspect1.csv")
 
 #make name labels for the file
-bookids.v <- gsub("\\.rel.*", "", rownames(freqs.df))
+bookids.v <- gsub(".xml.\\d+", "", rownames(freqs.df))
+bookids.v[1:20]
 
+
+freqs.df$ID[1:10]
 #make book-with-chunk id labes
+
 book.chunk.ids <- paste(bookids.v, freqs.df$ID, sep="_")
+book.chunk.ids[1:20]
 
 #replace the ID column in freqs.df
 freqs.df$ID <- book.chunk.ids
@@ -48,7 +54,7 @@ head(freqs.df)
 result.t <- xtabs(Freq ~ ID+Var1, data=freqs.df)
 dim(result.t)
 
-#convert to a data frame
+  #convert to a data frame
 final.df <- as.data.frame.matrix(result.t)
 
 dim(final.df)

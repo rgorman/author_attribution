@@ -131,10 +131,11 @@ my.apply <- function(x){
 
 # function to make list of relative frequency tables of chunks of ngrams:
 getSwordChunkMaster <- function(doc.object, chunk.size=250) {
-  swords <-getNodeSet(doc.object, "//sword", )
+  swords <-getNodeSet(doc.object, "//sWord", )
   sword.content <- paste(sapply(swords, xmlValue), collapse=NULL)
-  sword.ngrams <- make.ngrams(sword.content, ngram.size=1)
-  sword.content.lower <- tolower(sword.ngrams)
+ 
+  
+  sword.content.lower <- tolower(sword.content)
   
   #the following lines split sword.content.lower in equalsized chunks accounting for remainders
   # max.length <- length(sword.content.lower)/chunk.size
