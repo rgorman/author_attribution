@@ -91,3 +91,14 @@ dim(smaller.df)
 
 #supervised classification of chunks using naive Bayes algorithm
 
+# create vector of integers giving index points of random 10% of number of rows in smaller.df
+seq (1, nrow(smaller.df))
+testing.index.v <- sample (seq (1, nrow(smaller.df)), 28)
+
+#create training and testing data matrices using testing.index.v and its inverse
+testing.data <- smaller.df[testing.index.v, ]
+training.data <- smaller.df[-testing.index.v, ]
+
+#create vectors of factors giving classes (here = authors) of each row in testing.data and training.data
+
+
