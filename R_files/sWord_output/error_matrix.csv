@@ -1,0 +1,14 @@
+,Aeschylus,Athenaeus,DiodorusSic,Herodotus,Hesiod,Homer,Lysias,Plato,Plutarch,Polybius,Sophocles,Thucydides,-SUM-
+Aeschylus,1,0,0,0,0,0,0,0,0,0,1,0,1
+Athenaeus,0,4,0,0,0,0,0,0,1,0,0,0,1
+DiodorusSic,0,0,1,0,0,0,0,0,0,0,0,0,0
+Herodotus,0,0,0,1,0,0,0,0,0,0,0,0,0
+Hesiod,0,0,0,0,0,0,0,0,0,0,0,0,0
+Homer,0,0,0,0,0,11,0,0,0,0,0,0,0
+Lysias,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plato,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plutarch,0,0,0,0,0,0,0,0,1,0,0,0,0
+Polybius,0,0,1,0,0,0,0,0,0,1,0,0,1
+Sophocles,0,0,0,0,0,0,0,0,0,0,3,0,0
+Thucydides,0,0,0,0,0,0,0,0,0,0,0,2,0
+-SUM-,0,0,1,0,0,0,0,0,1,0,1,0,3
