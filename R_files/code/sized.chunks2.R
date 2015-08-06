@@ -100,5 +100,37 @@ testing.data <- smaller.df[testing.index.v, ]
 training.data <- smaller.df[-testing.index.v, ]
 
 #create vectors of factors giving classes (here = authors) of each row in testing.data and training.data
+training.classes <- as.factor(author.v[-testing.index.v])
+testing.classes <- as.factor(author.v[testing.index.v])
+
+#load package e1071
+library(e1071)
+
+#train the algorithm using training.data and training classes
+sWord_classifier <- naiveBayes(training.data, training.classes)
+
+# test the algorithm by using sWord_classifier to predict() the testing.data
+sWord_predictions <- predict(sWord_classifier, testing.data)
+
+# make a file of the raw probabilities
+sWord_predictions_raw <- predict(sWord_classifier, testing.data, type = "raw")
+
+# load package gmodels for functions to evaluate predictions
+library (gmodels)
+
+sWord_predictions
+testing.classes
+
+results_table <- table(sWord_predictions, testing.classes)
+write.csv (results_table, file="sWord_output/results_table.csv")
+write.csv (sWord_predictions_raw, file="sWord_output/results_table_raw.csv")
+write.csv (error.m, file="sWord_output/error_matrix.csv")
+
+results_table <- table(Predictions=sWord_predictions, TrueLabels=testing.classes)
+
+library(klaR)
+error.m <-errormatrix(testing.classes, sWord_predictions)
 
 
+
+error.m2 <- rbind(error.m, error.m)  

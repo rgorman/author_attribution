@@ -1,4 +1,11 @@
 
+#load package e1071
+library(e1071)
+# load package gmodels for functions to evaluate predictions
+library (gmodels)
+
+# load package klar for errormatrix() function
+library(klaR)
 
 
 # script to test Naive Bayes in multiple iterations.
@@ -10,6 +17,7 @@ sWord_predictions.l <- list()
 sWord_predictions_raw.l <- list()
 index.record.v <- NULL
 err.matr.l <- list()
+sW.classifier.l <- list()
 i <- 1
 
 for (i in i:100) {
@@ -45,20 +53,30 @@ for (i in i:100) {
   #make list of error matrices
   err.matr.l[[i]] <- errormatrix(testing.classes.l[[i]], sWord_predictions.l[[i]]) 
   
+  #collect the sWord_classifier objects
+  sW.classifier.l[[i]] <- sWord_classifier
+  
 }
 
 #combine all matrices contained in err.matr.l into one matrix for export to .csv file
 a <- do.call(rbind, err.matr.l)
 write.csv(a, file="Rresults/Naive_Bayes_predictions/error_matrix.csv")
 
+# combine results in sWord_predictions.l into one data.frame object and save it as .csv file
+my.list <- mapply(data.frame, sWord_predictions.l)
+a <- do.call (rbind, my.list)
+write.csv (a, file="Rresults/Naive_Bayes_predictions/predictions_made.csv")
 
-#this function is applied to a list of lists of tables to convert to matrix
-my.apply <- function(x){
-  my.list <-mapply(data.frame, ID=seq_along(x),
-                   x, SIMPLIFY=FALSE,
-                   MoreArgs=list(stringsAsFactors=FALSE))
-  my.df <- do.call(rbind, my.list)
-  return(my.df)
-}
+# combine results in sWord_predictions_raw.l into one data.frame object and save it as .csv file
+my.list <- mapply(data.frame, sWord_predictions_raw.l)
+a <- do.call (rbind, my.list)
+write.csv (a, file="Rresults/Naive_Bayes_predictions/raw_predictions_made.csv")
 
-b <- rbind(err.matr.l[[1]], err.matr.l[[2]])
+# combine results in testing.classes.l into one data.frame object and save it as .csv file
+my.list <- mapply(data.frame, testing.classes.l)
+a <- do.call (rbind, my.list)
+write.csv (a, file="Rresults/Naive_Bayes_predictions/right_answers.csv")
+
+#save list of sWord_classifier objects as binary file
+save(sW.classifier.l, file="Rresults/Naive_Bayes_predictions/list_of_classifiers.R")
+
