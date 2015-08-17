@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>single_preprocessing/Lysias%2012%20bu1.xml</String>
+                                    <String>sWord_output/Perseus_and_VG/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -40,7 +40,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/</String>
+                                    <String>single_preprocessing/Lysias%2012%20bu1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -81,7 +81,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/test_transformations/sWord_from_root_rel_pos.xsl</String>
+                                    <String>${pdu}/xsl%20files/test_transformations/sWord_from_root_rel_fullPostag.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -102,10 +102,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/sWord_rel_pos/${cfne}</File>
+                                    <File>${pd}/R_files/sWord_input/rel_fullPostag_files/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/sWord_rel_pos/${cfne}</String>
+                                    <String>${pd}/R_files/sWord_input/rel_fullPostag_files/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
