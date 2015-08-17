@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/</String>
+                                    <String>single_preprocessing/Lysias%2012%20bu1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -26,6 +26,21 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>R_files/sWord_input/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Aeschylus_Agamemnon</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>sWord_output/Perseus_and_VG/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
