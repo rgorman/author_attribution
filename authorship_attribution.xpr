@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/</String>
+                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration23.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>Lysias_Oration1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -25,11 +25,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>R_files/sWord_input/</String>
+                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration15.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>Lysias_Oration1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -40,11 +40,41 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>single_preprocessing/Lysias%2012%20bu1.xml</String>
+                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration14.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>Lysias_Oration1</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration12.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Lysias_Oration1</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Lysias_Oration1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -63,7 +93,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Aeschylus_Agamemnon</String>
+                                    <String>Lysias_Oration1</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -81,7 +111,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/test_transformations/sWord_from_root_rel_fullPostag.xsl</String>
+                                    <String>${pdu}/xsl%20files/sWord_rel_with_metadata_no_auxx.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -102,10 +132,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/R_files/sWord_input/rel_fullPostag_files/${cfne}</File>
+                                    <File>${pd}/R_files/sWord_input/rel_file/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/R_files/sWord_input/rel_fullPostag_files/${cfne}</String>
+                                    <String>${pd}/R_files/sWord_input/rel_file/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
