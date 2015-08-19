@@ -10,76 +10,48 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration23.xml</String>
+                                    <String>CAMWS_2016/ordered_DepDist/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Lysias_Oration1</String>
+                                        <String>Caesar_Gal2</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
+                                        <String>XML_XQUERY</String>
                                     </list>
                                 </field>
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration15.xml</String>
+                                    <String>CAMWS_2016/dep_distAsAttr/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Lysias_Oration1</String>
+                                        <String>Caesar_Gal21</String>
+                                        <String>Caesar_Gal2</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
+                                        <String>XML_XQUERY</String>
+                                        <String>XML_XQUERY</String>
                                     </list>
                                 </field>
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration14.xml</String>
+                                    <String>CAMWS_2016/dep_dist_files/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Lysias_Oration1</String>
+                                        <String>Caesar_Gal2</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration12.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Lysias_Oration1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Lysias_Oration1.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Lysias_Oration1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
+                                        <String>XML_XQUERY</String>
                                     </list>
                                 </field>
                             </scenarioAssociation>
@@ -93,7 +65,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Lysias_Oration1</String>
+                                    <String>Caesar_Gal2</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -111,7 +83,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/sWord_rel_with_metadata_no_auxx.xsl</String>
+                                    <String>${pdu}/xQuery/DepDistInSubDoc.xquery</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -123,7 +95,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="type">
-                                    <String>XSL</String>
+                                    <String>XML_XQUERY</String>
                                 </field>
                                 <field name="saveAs">
                                     <Boolean>true</Boolean>
@@ -132,10 +104,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/R_files/sWord_input/rel_file/${cfne}</File>
+                                    <File>${pd}/CAMWS_2016/ordered_DepDist/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/R_files/sWord_input/rel_file/${cfne}</String>
+                                    <String>${pd}/CAMWS_2016/ordered_DepDist/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -168,7 +140,93 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>Saxon-PE</String>
+                                    <String>Saxon-PE XQuery</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
+                                    <String>Caesar_Gal21</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>${pdu}/xQuery/orderByDepDist.xquery</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XML_XQUERY</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputFile">
+                                    <File>${pd}/CAMWS_2016/ordered_DepDist/${cfne}</File>
+                                </field>
+                                <field name="outputResource">
+                                    <String>${pd}/CAMWS_2016/ordered_DepDist/${cfne}</String>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list/>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-PE XQuery</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>

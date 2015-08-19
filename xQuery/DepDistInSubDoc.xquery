@@ -12,7 +12,7 @@ return
                 <sentence
                     id="{$s/@id}"
                     document_id="{$s/@document_id}"
-                    subdoc="{$s/@subdoc} DepDist {round-half-to-even($s/@depDist, 3)}"
+                    subdoc="{$s/@subdoc} DepDist: {round-half-to-even($s/@depDist, 3)}"
                     span="{$s/@span}">
                     
                     {$w}
