@@ -57,3 +57,7 @@ for (i in 1:length(files.v)) {
 
 cite.param.m <-df[-1,]
 
+#save cite.param.m as .csv file
+
+write.csv (cite.param.m, file="Rresults/chunk_parameters.csv")
+

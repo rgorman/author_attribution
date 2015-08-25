@@ -62,4 +62,4 @@ true.author.t[5,]
 t_p.matrix <- interleave(pred.author.t, true.author.t, blank.m)
 
 # save combined table as .csv file
-write.csv (pred.author.t, file="Rresults/Naive_Bayes_predictions/true_authors.csv")
+write.csv (t_p.matrix, file="Rresults/Naive_Bayes_predictions/pred_true_authors.csv")
