@@ -1,5 +1,5 @@
 library(XML)
-library(stylo)
+
 source("code/corpusFunctions.R")
 input.dir <- "sWord_input/rel_file"
 files.v <- dir(path=input.dir, pattern=".*xml")
