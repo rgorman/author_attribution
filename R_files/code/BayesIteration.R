@@ -1,4 +1,9 @@
 
+# read in .csv file with probabilities for chunks.  The goal is to make each author equally likely
+# to be chosen
+
+prob.m <- read.csv (file="Rresults/Naive_Bayes_predictions/chunkSize2000/chunk_parameters2.csv")
+
 #load package e1071
 library(e1071)
 # load package gmodels for functions to evaluate predictions
@@ -22,7 +27,7 @@ i <- 1
 
 for (i in i:100) {
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 28)
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 28, prob=prob.m$prob)
   
   #create training and testing data matrices using testing.index.v and its inverse
   testing.data <- smaller.df[testing.index.v, ]
