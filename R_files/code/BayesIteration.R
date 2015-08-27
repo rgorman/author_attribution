@@ -69,18 +69,18 @@ write.csv(a, file="Rresults/Naive_Bayes_predictions/error_matrix.csv")
 
 # combine results in sWord_predictions.l into one data.frame object and save it as .csv file
 my.list <- mapply(data.frame, sWord_predictions.l)
-a <- do.call (rbind, my.list)
-write.csv (a, file="Rresults/Naive_Bayes_predictions/predictions_made.csv")
+b <- do.call (rbind, my.list)
+write.csv (b, file="Rresults/Naive_Bayes_predictions/predictions_made.csv")
 
 # combine results in sWord_predictions_raw.l into one data.frame object and save it as .csv file
 my.list <- mapply(data.frame, sWord_predictions_raw.l)
-a <- do.call (rbind, my.list)
-write.csv (a, file="Rresults/Naive_Bayes_predictions/raw_predictions_made.csv")
+c <- do.call (rbind, my.list)
+write.csv (c, file="Rresults/Naive_Bayes_predictions/raw_predictions_made.csv")
 
 # combine results in testing.classes.l into one data.frame object and save it as .csv file
 my.list <- mapply(data.frame, testing.classes.l)
-a <- do.call (rbind, my.list)
-write.csv (a, file="Rresults/Naive_Bayes_predictions/right_answers.csv")
+d <- do.call (rbind, my.list)
+write.csv (d, file="Rresults/Naive_Bayes_predictions/right_answers.csv")
 
 #save list of sWord_classifier objects as binary file
 save(sW.classifier.l, file="Rresults/Naive_Bayes_predictions/list_of_classifiers.R")
