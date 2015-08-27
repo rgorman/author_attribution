@@ -83,8 +83,6 @@ keepers.v[1:10]
 #use keepers.v to make a smaller data frame object for analysis
 smaller.df <- final.df[, keepers.v]
 
-# write smaller.df to disk for examination
-write.csv(smaller.df, file="sWord_output/rel_csv/2000_sWord_chunks.csv")
 
 dim(smaller.df)
 
