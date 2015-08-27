@@ -1,5 +1,5 @@
-# object a is result of  a <- do.call (rbind, my.list)
-head(a)
+# object d is result of  d <- do.call (rbind, my.list)
+head(d)
 # create vector of levels used in row of sWord_predictions.l
 levs <- levels(sWord_predictions.l[[11]])
 
