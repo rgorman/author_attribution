@@ -32,23 +32,24 @@ freqs.df <- do.call(rbind, freqs.l)
 #the result is a long form data frame
 
 dim(freqs.df)
-head(freqs.df)
+
+# create .csv file for inspection (very optional!!)
 write.csv(freqs.df, file="sWord_output/inspect1.csv")
 
 #make name labels for the file
 bookids.v <- gsub(".xml.\\d+", "", rownames(freqs.df))
-bookids.v[1:20]
 
 
-freqs.df$ID[1:10]
+
+
 #make book-with-chunk id labes
 
 book.chunk.ids <- paste(bookids.v, freqs.df$ID, sep="_")
-book.chunk.ids[1:20]
+
 
 #replace the ID column in freqs.df
 freqs.df$ID <- book.chunk.ids
-head(freqs.df)
+
 
 #cross tabulate data
 result.t <- xtabs(Freq ~ ID+Var1, data=freqs.df)
@@ -57,14 +58,10 @@ dim(result.t)
   #convert to a data frame
 final.df <- as.data.frame.matrix(result.t)
 
-dim(final.df)
-
 
 
 #make author vector and strip work name and book numbers from it
 author.v <- gsub("_.+", "", rownames(final.df))
-author.v[100:110]
-
 
 head(author.v)
 unique(author.v)
@@ -78,7 +75,6 @@ freq.means.v <- colMeans(final.df[, ])
 #collect column means of a given magnitude
 keepers.v <- which(freq.means.v >=.001)
 
-keepers.v[1:10]
 
 #use keepers.v to make a smaller data frame object for analysis
 smaller.df <- final.df[, keepers.v]

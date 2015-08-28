@@ -1,275 +1,275 @@
-prob,author,chunk_no,First,Last,Size
-0.003333333,Aeschylus,1,urn:cts:greekLit:tlg0085.tlg005:1 Aeschylus Agamemnon: s-1 w-1,urn:cts:greekLit:tlg0085.tlg005:381 Aeschylus Agamemnon: s-148 w-3,2000
-0.003333333,Aeschylus,2,urn:cts:greekLit:tlg0085.tlg005:381 Aeschylus Agamemnon: s-148 w-4,urn:cts:greekLit:tlg0085.tlg005:740 Aeschylus Agamemnon: s-303 w-14,2000
-0.003333333,Aeschylus,3,urn:cts:greekLit:tlg0085.tlg005:740 Aeschylus Agamemnon: s-303 w-15,urn:cts:greekLit:tlg0085.tlg005:1098 Aeschylus Agamemnon: s-470 w-2,2000
-0.003333333,Aeschylus,4,urn:cts:greekLit:tlg0085.tlg005:1098 Aeschylus Agamemnon: s-470 w-3,urn:cts:greekLit:tlg0085.tlg005:1409 Aeschylus Agamemnon: s-682 w-11,2000
-0.003333333,Aeschylus,5,urn:cts:greekLit:tlg0085.tlg005:1409 Aeschylus Agamemnon: s-682 w-12, Aeschylus Agamemnon: s-814 w-9,1527
-0.003333333,Aeschylus,6,urn:cts:greekLit:tlg0085.tlg006:1 Aeschylus Ch: s-1 w-1, Aeschylus Ch: s-175 w-12,1999
-0.003333333,Aeschylus,7,urn:cts:greekLit:tlg0085.tlg006:332 Aeschylus Ch: s-176 w-1,urn:cts:greekLit:tlg0085.tlg006:701 Aeschylus Ch: s-350 w-7,2000
-0.003333333,Aeschylus,8,urn:cts:greekLit:tlg0085.tlg006:701 Aeschylus Ch: s-350 w-8, Aeschylus Ch: s-504 w-16,1502
-0.003333333,Aeschylus,9, Aeschylus Eumenides: s-1 w-1, Aeschylus Eumenides: s-176 w-12,2000
-0.003333333,Aeschylus,10, Aeschylus Eumenides: s-176 w-13, Aeschylus Eumenides: s-349 w-9,2000
-0.003333333,Aeschylus,11, Aeschylus Eumenides: s-349 w-10, Aeschylus Eumenides: s-516 w-1,2000
-0.003333333,Aeschylus,12, Aeschylus Eumenides: s-516 w-2, Aeschylus Eumenides: s-526 w-5,148
-0.003333333,Aeschylus,13,urn:cts:greekLit:tlg0085.tlg002:1 Aeschylus Persians: s-1 w-1,urn:cts:greekLit:tlg0085.tlg002:353 Aeschylus Persians: s-144 w-7,2000
-0.003333333,Aeschylus,14,urn:cts:greekLit:tlg0085.tlg002:353 Aeschylus Persians: s-144 w-8,urn:cts:greekLit:tlg0085.tlg002:711 Aeschylus Persians: s-282 w-17,2000
-0.003333333,Aeschylus,15,urn:cts:greekLit:tlg0085.tlg002:711 Aeschylus Persians: s-282 w-18, Aeschylus Persians: s-480 w-6,1961
-0.003333333,Aeschylus,16,urn:cts:greekLit:tlg0085.tlg003:1 Aeschylus Prometheus: s-1 w-1,Aeschylus Prometheus: s-176 w-18,1999
-0.003333333,Aeschylus,17,urn:cts:greekLit:tlg0085.tlg003:324 Aeschylus Prometheus: s-177 w-1,urn:cts:greekLit:tlg0085.tlg003:659 Aeschylus Prometheus: s-342 w-10,2000
-0.003333333,Aeschylus,18,urn:cts:greekLit:tlg0085.tlg003:659 Aeschylus Prometheus: s-342 w-12,urn:cts:greekLit:tlg0085.tlg003:960 Aeschylus Prometheus: s-513 w-9,2000
-0.003333333,Aeschylus,19,urn:cts:greekLit:tlg0085.tlg003:960 Aeschylus Prometheus: s-513 w-10,Aeschylus Prometheus: s-590 w-19,824
-0.003333333,Aeschylus,20,urn:cts:greekLit:tlg0085.tlg004:1 Aeschylus Seven: s-1 w-1,urn:cts:greekLit:tlg0085.tlg004:377 Aeschylus Seven: s-173 w-5,2000
-0.003333333,Aeschylus,21,urn:cts:greekLit:tlg0085.tlg004:377 Aeschylus Seven: s-173 w-6,urn:cts:greekLit:tlg0085.tlg004:693 Aeschylus Seven: s-314 w-9,2000
-0.003333333,Aeschylus,22,urn:cts:greekLit:tlg0085.tlg004:693 Aeschylus Seven: s-314 w-10, Aeschylus Seven: s-515 w-22,1974
-0.003333333,Aeschylus,23,urn:cts:greekLit:tlg0085.tlg001:1 Aeschylus Suppliants: s-1 w-1,urn:cts:greekLit:tlg0085.tlg001:376 Aeschylus Suppliants: s-183 w-3,2000
-0.003333333,Aeschylus,24,urn:cts:greekLit:tlg0085.tlg001:376 Aeschylus Suppliants: s-183 w-4,urn:cts:greekLit:tlg0085.tlg001:749 Aeschylus Suppliants: s-358 w-1,2000
-0.003333333,Aeschylus,25,urn:cts:greekLit:tlg0085.tlg001:749 Aeschylus Suppliants: s-358 w-2, Aeschylus Suppliants: s-529 w-24,1748
-0.003787879,Athenaeus,1, Athenaeus Book 12: s-1 w-1, Athenaeus Book 12: s-119 w-12,2000
-0.003787879,Athenaeus,2, Athenaeus Book 12: s-119 w-13, Athenaeus Book 12: s-236 w-9,2000
-0.003787879,Athenaeus,3, Athenaeus Book 12: s-236 w-10, Athenaeus Book 12: s-336 w-39,2000
-0.003787879,Athenaeus,4, Athenaeus Book 12: s-336 w-40, Athenaeus Book 12: s-441 w-32,2000
-0.003787879,Athenaeus,5, Athenaeus Book 12: s-441 w-33, Athenaeus Book 12: s-545 w-27,2000
-0.003787879,Athenaeus,6, Athenaeus Book 12: s-545 w-28, Athenaeus Book 12: s-639 w-15,2000
-0.003787879,Athenaeus,7, Athenaeus Book 12: s-639 w-16, Athenaeus Book 12: s-738 w-29,2000
-0.003787879,Athenaeus,8, Athenaeus Book 12: s-739 w-1, Athenaeus Book 12: s-854 w-3,2000
-0.003787879,Athenaeus,9, Athenaeus Book 12: s-854 w-4, Athenaeus Book 12: s-954 w-21,2000
-0.003787879,Athenaeus,10, Athenaeus Book 12: s-954 w-22,Athenaeus Book 12: s-1050 w-16,1334
-0.003787879,Athenaeus,1, Athenaeus Book 13: s-1 w-1, Athenaeus Book 13: s-142 w-9,2000
-0.003787879,Athenaeus,2, Athenaeus Book 13: s-143 w-1, Athenaeus Book 13: s-262 w-2,2000
-0.003787879,Athenaeus,3, Athenaeus Book 13: s-262 w-3, Athenaeus Book 13: s-395 w-46,2000
-0.003787879,Athenaeus,4, Athenaeus Book 13: s-395 w-47, Athenaeus Book 13: s-517 w-17,2000
-0.003787879,Athenaeus,5, Athenaeus Book 13: s-517 w-18, Athenaeus Book 13: s-633 w-50,2000
-0.003787879,Athenaeus,6, Athenaeus Book 13: s-633 w-51, Athenaeus Book 13: s-759 w-13,2000
-0.003787879,Athenaeus,7, Athenaeus Book 13: s-759 w-14, Athenaeus Book 13: s-899 w-15,2000
-0.003787879,Athenaeus,8, Athenaeus Book 13: s-899 w-16, Athenaeus Book 13: s-1017 w-5,2000
-0.003787879,Athenaeus,9, Athenaeus Book 13: s-1017 w-6, Athenaeus Book 13: s-1132 w-25,2000
-0.003787879,Athenaeus,10, Athenaeus Book 13: s-1132 w-27, Athenaeus Book 13: s-1255 w-15,2000
-0.003787879,Athenaeus,11, Athenaeus Book 13: s-1255 w-16, Athenaeus Book 13: s-1374 w-4,2000
-0.003787879,Athenaeus,12,Athenaeus Book 13: s-1374 w-5, Athenaeus Book 13: s-1475 w-26,1781
-0.006410256,Diodorus,1, Diod. Sic. Book 11: s-1 w-1, Diod. Sic. Book 11: s-81 w-34,2000
-0.006410256,Diodorus,2, Diod. Sic. Book 11: s-81 w-35, Diod. Sic. Book 11: s-168 w-5,2000
-0.006410256,Diodorus,3, Diod. Sic. Book 11: s-168 w-6, Diod. Sic. Book 11: s-253 w-7,2000
-0.006410256,Diodorus,4, Diod. Sic. Book 11: s-253 w-8, Diod. Sic. Book 11: s-328 w-18,2000
-0.006410256,Diodorus,5, Diod. Sic. Book 11: s-328 w-19, Diod. Sic. Book 11: s-408 w-33,2000
-0.006410256,Diodorus,6, Diod. Sic. Book 11: s-408 w-34, Diod. Sic. Book 11: s-489 w-1,2000
-0.006410256,Diodorus,7, Diod. Sic. Book 11: s-489 w-2, Diod. Sic. Book 11: s-564 w-21,2000
-0.006410256,Diodorus,8, Diod. Sic. Book 11: s-564 w-22, Diod. Sic. Book 11: s-642 w-37,2000
-0.006410256,Diodorus,9, Diod. Sic. Book 11: s-642 w-38, Diod. Sic. Book 11: s-726 w-7,2000
-0.006410256,Diodorus,10, Diod. Sic. Book 11: s-726 w-8, Diod. Sic. Book 11: s-807 w-25,2000
-0.006410256,Diodorus,11, Diod. Sic. Book 11: s-807 w-26, Diod. Sic. Book 11: s-891 w-22,2000
-0.006410256,Diodorus,12, Diod. Sic. Book 11: s-891 w-23, Diod. Sic. Book 11: s-982 w-1,2000
-0.006410256,Diodorus,13, Diod. Sic. Book 11: s-982 w-2, Diod. Sic. Book 11: s-991 w-26,223
-0.005208333,Herodotus,1, Hdt Book 1: s-1 w-1, Hdt Book 1: s-103 w-30,2000
-0.005208333,Herodotus,2, Hdt Book 1: s-103 w-31, Hdt Book 1: s-201 w-36,2000
-0.005208333,Herodotus,3, Hdt Book 1: s-201 w-37, Hdt Book 1: s-308 w-26,2000
-0.005208333,Herodotus,4, Hdt Book 1: s-308 w-27, Hdt Book 1: s-400 w-4,2000
-0.005208333,Herodotus,5, Hdt Book 1: s-400 w-5, Hdt Book 1: s-503 w-11,2000
-0.005208333,Herodotus,6, Hdt Book 1: s-503 w-13, Hdt Book 1: s-598 w-5,2000
-0.005208333,Herodotus,7, Hdt Book 1: s-598 w-6, Hdt Book 1: s-697 w-3,2000
-0.005208333,Herodotus,8, Hdt Book 1: s-697 w-4, Hdt Book 1: s-787 w-13,2000
-0.005208333,Herodotus,9, Hdt Book 1: s-787 w-14, Hdt Book 1: s-887 w-4,2000
-0.005208333,Herodotus,10, Hdt Book 1: s-887 w-5, Hdt Book 1: s-993 w-10,2000
-0.005208333,Herodotus,11, Hdt Book 1: s-993 w-11, Hdt Book 1: s-1089 w-17,2000
-0.005208333,Herodotus,12, Hdt Book 1: s-1089 w-18, Hdt Book 1: s-1189 w-13,2000
-0.005208333,Herodotus,13, Hdt Book 1: s-1189 w-14, Hdt Book 1: s-1292 w-19,2000
-0.005208333,Herodotus,14, Hdt Book 1: s-1292 w-20, Hdt Book 1: s-1376 w-3,2000
-0.005208333,Herodotus,15, Hdt Book 1: s-1376 w-4, Hdt Book 1: s-1492 w-13,2000
-0.005208333,Herodotus,16, Hdt Book 1: s-1492 w-14, Hdt Book 1: s-1555 w-11,1158
-0.008333333,Hesiod,1,urn:cts:greekLit:tlg0020.tlg003:1.1 Hesiod Shield: s-1 w-1,urn:cts:greekLit:tlg0020.tlg003:1.261 Hesiod Shield: s-135 w-7,2000
-0.008333333,Hesiod,2,urn:cts:greekLit:tlg0020.tlg003:1.261 Hesiod Shield: s-135 w-8, Hesiod Shield: s-255 w-18,1705
-0.008333333,Hesiod,1,urn:cts:greekLit:tlg0020.tlg001:1.1 Hesiod Theogony: s-1 w-1,urn:cts:greekLit:tlg0020.tlg001:1.267 Hesiod Theogony: s-112 w-8,2000
-0.008333333,Hesiod,2,urn:cts:greekLit:tlg0020.tlg001:1.267 Hesiod Theogony: s-112 w-9,Hesiod Theogony: s-216 w-40,2000
-0.008333333,Hesiod,3,Hesiod Theogony: s-216 w-41,urn:cts:greekLit:tlg0020.tlg001:1.797 Hesiod Theogony: s-335 w-15,2000
-0.008333333,Hesiod,4,urn:cts:greekLit:tlg0020.tlg001:1.797 Hesiod Theogony: s-335 w-16, Hesiod Theogony: s-437 w-14,1761
-0.008333333,Hesiod,1, Hesiod Works: s-1 w-1, Hesiod Works: s-149 w-12,2000
-0.008333333,Hesiod,2, Hesiod Works: s-149 w-13, Hesiod Works: s-296 w-2,2000
-0.008333333,Hesiod,3, Hesiod Works: s-296 w-3,Hesiod Works: s-436 w-8,2000
-0.008333333,Hesiod,4, Hesiod Works: s-437 w-1,Hesiod Works: s-491 w-21,654
-0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:1.1 Homer Iliad: s-1 w-1,urn:cts:greekLit:tlg0012.tlg001:1.243 Homer Iliad: s-135 w-3,2000
-0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:1.243 Homer Iliad: s-135 w-4,urn:cts:greekLit:tlg0012.tlg001:1.492 Homer Iliad: s-274 w-19,2000
-0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:1.492 Homer Iliad: s-274 w-20,urn:cts:greekLit:tlg0012.tlg001:2.132 Homer Iliad: s-426 w-15,2000
-0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:2.132 Homer Iliad: s-426 w-16,urn:cts:greekLit:tlg0012.tlg001:2.386 Homer Iliad: s-565 w-5,2000
-0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:2.386 Homer Iliad: s-565 w-6,urn:cts:greekLit:tlg0012.tlg001:2.657 Homer Iliad: s-668 w-5,2000
-0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:2.657 Homer Iliad: s-668 w-6,urn:cts:greekLit:tlg0012.tlg001:3.45 Homer Iliad: s-788 w-22,2000
-0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:3.45 Homer Iliad: s-788 w-23,Homer Iliad: s-924 w-31,2000
-0.001126126,Iliad,8,Homer Iliad: s-924 w-32,urn:cts:greekLit:tlg0012.tlg001:4.95 Homer Iliad: s-1073 w-8,2000
-0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:4.95 Homer Iliad: s-1073 w-9,urn:cts:greekLit:tlg0012.tlg001:4.351 Homer Iliad: s-1213 w-6,2000
-0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:4.351 Homer Iliad: s-1213 w-7, Homer Iliad: s-1323 w-14,1520
-0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:13.1 Homer Iliad: s-4017 w-1,urn:cts:greekLit:tlg0012.tlg001:13.259 Homer Iliad: s-4157 w-7,2000
-0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:13.259 Homer Iliad: s-4157 w-8,urn:cts:greekLit:tlg0012.tlg001:13.513 Homer Iliad: s-4287 w-1,2000
-0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:13.513 Homer Iliad: s-4287 w-2,urn:cts:greekLit:tlg0012.tlg001:13.771 Homer Iliad: s-4419 w-16,2000
-0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:13.771 Homer Iliad: s-4419 w-17,urn:cts:greekLit:tlg0012.tlg001:14.189 Homer Iliad: s-4560 w-23,2000
-0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:14.189 Homer Iliad: s-4560 w-24,urn:cts:greekLit:tlg0012.tlg001:14.438 Homer Iliad: s-4689 w-1,2000
-0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:14.438 Homer Iliad: s-4689 w-2,urn:cts:greekLit:tlg0012.tlg001:15.170 Homer Iliad: s-4818 w-2,2000
-0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:15.170 Homer Iliad: s-4818 w-3,urn:cts:greekLit:tlg0012.tlg001:15.431 Homer Iliad: s-4946 w-12,2000
-0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:15.431 Homer Iliad: s-4946 w-13,urn:cts:greekLit:tlg0012.tlg001:15.685 Homer Iliad: s-5087 w-4,2000
-0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:15.685 Homer Iliad: s-5087 w-5,urn:cts:greekLit:tlg0012.tlg001:16.203 Homer Iliad: s-5225 w-6,2000
-0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:16.203 Homer Iliad: s-5225 w-7,urn:cts:greekLit:tlg0012.tlg001:16.463 Homer Iliad: s-5361 w-14,2000
-0.001126126,Iliad,11,urn:cts:greekLit:tlg0012.tlg001:16.463 Homer Iliad: s-5361 w-15,urn:cts:greekLit:tlg0012.tlg001:16.719 Homer Iliad: s-5495 w-33,2000
-0.001126126,Iliad,12, Homer Iliad: s-5495 w-34, Homer Iliad: s-5576 w-14,1152
-0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:17.1 Homer Iliad: s-5577 w-1,urn:cts:greekLit:tlg0012.tlg001:17.249 Homer Iliad: s-5708 w-8,2000
-0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:17.249 Homer Iliad: s-5708 w-9,urn:cts:greekLit:tlg0012.tlg001:17.508 Homer Iliad: s-5840 w-4,2000
-0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:17.508 Homer Iliad: s-5840 w-5,urn:cts:greekLit:tlg0012.tlg001:17.759 Homer Iliad: s-5972 w-40,2000
-0.001126126,Iliad,4, Homer Iliad: s-5972 w-41,urn:cts:greekLit:tlg0012.tlg001:18.250 Homer Iliad: s-6116 w-5,2000
-0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:18.250 Homer Iliad: s-6116 w-6,urn:cts:greekLit:tlg0012.tlg001:18.498 Homer Iliad: s-6258 w-11,2000
-0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:18.499 Homer Iliad: s-6258 w-12,urn:cts:greekLit:tlg0012.tlg001:19.136 Homer Iliad: s-6403 w-22,2000
-0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:19.136 Homer Iliad: s-6403 w-23,urn:cts:greekLit:tlg0012.tlg001:19.394 Homer Iliad: s-6536 w-15,2000
-0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:19.394 Homer Iliad: s-6536 w-16,urn:cts:greekLit:tlg0012.tlg001:20.230 Homer Iliad: s-6676 w-4,2000
-0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:20.230 Homer Iliad: s-6676 w-5,urn:cts:greekLit:tlg0012.tlg001:20.481 Homer Iliad: s-6811 w-8,2000
-0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:20.481 Homer Iliad: s-6811 w-9, Homer Iliad: s-6822 w-13,183
-0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:21.1 Homer Iliad: s-6823 w-1,urn:cts:greekLit:tlg0012.tlg001:21.248 Homer Iliad: s-6961 w-11,2000
-0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:21.249 Homer Iliad: s-6961 w-12,urn:cts:greekLit:tlg0012.tlg001:21.502 Homer Iliad: s-7108 w-1,2000
-0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:21.502 Homer Iliad: s-7108 w-2,urn:cts:greekLit:tlg0012.tlg001:22.140 Homer Iliad: s-7241 w-9,2000
-0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:22.140 Homer Iliad: s-7241 w-10,urn:cts:greekLit:tlg0012.tlg001:22.382 Homer Iliad: s-7378 w-38,2000
-0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:22.382 Homer Iliad: s-7378 w-39,urn:cts:greekLit:tlg0012.tlg001:23.122 Homer Iliad: s-7517 w-8,2000
-0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:23.122 Homer Iliad: s-7517 w-9,urn:cts:greekLit:tlg0012.tlg001:23.378 Homer Iliad: s-7654 w-17,2000
-0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:23.378 Homer Iliad: s-7654 w-18,urn:cts:greekLit:tlg0012.tlg001:23.631 Homer Iliad: s-7818 w-15,2000
-0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:23.631 Homer Iliad: s-7818 w-17,urn:cts:greekLit:tlg0012.tlg001:23.885 Homer Iliad: s-7974 w-8,2000
-0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:23.885 Homer Iliad: s-7974 w-9,urn:cts:greekLit:tlg0012.tlg001:24.227 Homer Iliad: s-8113 w-13,2000
-0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:24.227 Homer Iliad: s-8113 w-14,urn:cts:greekLit:tlg0012.tlg001:24.472 Homer Iliad: s-8243 w-4,2000
-0.001126126,Iliad,11,urn:cts:greekLit:tlg0012.tlg001:24.473 Homer Iliad: s-8243 w-5,urn:cts:greekLit:tlg0012.tlg001:24.715 Homer Iliad: s-8368 w-18,2000
-0.001126126,Iliad,12,urn:cts:greekLit:tlg0012.tlg001:24.715 Homer Iliad: s-8368 w-19, Homer Iliad: s-8415 w-8,738
-0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:5.1 Homer Iliad: s-1324 w-1,urn:cts:greekLit:tlg0012.tlg001:5.252 Homer Iliad: s-1457 w-7,2000
-0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:5.252 Homer Iliad: s-1457 w-8,urn:cts:greekLit:tlg0012.tlg001:5.503 Homer Iliad: s-1592 w-11,2000
-0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:5.503 Homer Iliad: s-1592 w-12,urn:cts:greekLit:tlg0012.tlg001:5.764 Homer Iliad: s-1729 w-5,2000
-0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:5.764 Homer Iliad: s-1729 w-6,urn:cts:greekLit:tlg0012.tlg001:6.117 Homer Iliad: s-1870 w-6,2000
-0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:6.117 Homer Iliad: s-1870 w-7,urn:cts:greekLit:tlg0012.tlg001:6.370 Homer Iliad: s-2008 w-5,2000
-0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:6.370 Homer Iliad: s-2008 w-6,urn:cts:greekLit:tlg0012.tlg001:7.95 Homer Iliad: s-2138 w-8,2000
-0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:7.95 Homer Iliad: s-2138 w-9,urn:cts:greekLit:tlg0012.tlg001:7.351 Homer Iliad: s-2273 w-9,2000
-0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:7.351 Homer Iliad: s-2273 w-10,urn:cts:greekLit:tlg0012.tlg001:8.119 Homer Iliad: s-2414 w-3,2000
-0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:8.119 Homer Iliad: s-2414 w-4,urn:cts:greekLit:tlg0012.tlg001:8.374 Homer Iliad: s-2545 w-3,2000
-0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:8.374 Homer Iliad: s-2545 w-4, Homer Iliad: s-2641 w-14,1473
-0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:9.1 Homer Iliad: s-2642 w-1, Homer Iliad: s-2786 w-18,1999
-0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:9.254 Homer Iliad: s-2787 w-1,urn:cts:greekLit:tlg0012.tlg001:9.501 Homer Iliad: s-2901 w-19,2000
-0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:9.501 Homer Iliad: s-2901 w-20,urn:cts:greekLit:tlg0012.tlg001:10.43 Homer Iliad: s-3035 w-6,2000
-0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:10.43 Homer Iliad: s-3035 w-7,urn:cts:greekLit:tlg0012.tlg001:10.290 Homer Iliad: s-3186 w-8,2000
-0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:10.290 Homer Iliad: s-3186 w-9,urn:cts:greekLit:tlg0012.tlg001:10.536 Homer Iliad: s-3326 w-9,2000
-0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:10.537 Homer Iliad: s-3326 w-10,urn:cts:greekLit:tlg0012.tlg001:11.215 Homer Iliad: s-3452 w-11,2000
-0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:11.215 Homer Iliad: s-3452 w-12,urn:cts:greekLit:tlg0012.tlg001:11.466 Homer Iliad: s-3592 w-11,2000
-0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:11.467 Homer Iliad: s-3592 w-12,urn:cts:greekLit:tlg0012.tlg001:11.722 Homer Iliad: s-3731 w-5,2000
-0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:11.722 Homer Iliad: s-3731 w-6,urn:cts:greekLit:tlg0012.tlg001:12.130 Homer Iliad: s-3856 w-35,2000
-0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:12.130 Homer Iliad: s-3856 w-36,urn:cts:greekLit:tlg0012.tlg001:12.387 Homer Iliad: s-3974 w-1,2000
-0.001126126,Iliad,11,urn:cts:greekLit:tlg0012.tlg001:12.387 Homer Iliad: s-3974 w-2, Homer Iliad: s-4016 w-12,662
-0.01388889,Lysias,1, Lysias Orat. 1: s-1 w-1, Lysias Orat. 1: s-104 w-4,2000
-0.01388889,Lysias,2, Lysias Orat. 1: s-104 w-5, Lysias Orat. 12: s-79 w-9,2000
-0.01388889,Lysias,3, Lysias Orat. 12: s-79 w-10, Lysias Orat. 12: s-172 w-24,2000
-0.01388889,Lysias,4, Lysias Orat. 12: s-172 w-25, Lysias Orat. 14: s-9 w-23,2000
-0.01388889,Lysias,5, Lysias Orat. 14: s-9 w-24, Lysias Orat. 14: s-87 w-32,2000
-0.01388889,Lysias,6, Lysias Orat. 14: s-87 w-33, Lysias Orat. 23: s-46 w-20,1868
-0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:1.1 Homer Odyssey: s-1 w-1,urn:cts:greekLit:tlg0012.tlg002:1.255 Homer Odyssey: s-133 w-6,1999
-0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:1.255 Homer Odyssey: s-133 w-7,urn:cts:greekLit:tlg0012.tlg002:2.56 Homer Odyssey: s-264 w-14,2000
-0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:2.56 Homer Odyssey: s-264 w-15,urn:cts:greekLit:tlg0012.tlg002:2.299 Homer Odyssey: s-397 w-11,2000
-0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:2.299 Homer Odyssey: s-397 w-12,urn:cts:greekLit:tlg0012.tlg002:3.109 Homer Odyssey: s-545 w-3,2000
-0.001893939,Odyssey,5,urn:cts:greekLit:tlg0012.tlg002:3.109 Homer Odyssey: s-545 w-4,Homer Odyssey: s-671 w-38,2000
-0.001893939,Odyssey,6,urn:cts:greekLit:tlg0012.tlg002:3.356 Homer Odyssey: s-672 w-1,urn:cts:greekLit:tlg0012.tlg002:4.108 Homer Odyssey: s-800 w-11,2000
-0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:4.108 Homer Odyssey: s-800 w-12,urn:cts:greekLit:tlg0012.tlg002:4.359 Homer Odyssey: s-922 w-16,2000
-0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:4.359 Homer Odyssey: s-922 w-17,urn:cts:greekLit:tlg0012.tlg002:4.599 Homer Odyssey: s-1062 w-1,2000
-0.001893939,Odyssey,9,urn:cts:greekLit:tlg0012.tlg002:4.599 Homer Odyssey: s-1062 w-2,urn:cts:greekLit:tlg0012.tlg002:4.839 Homer Odyssey: s-1208 w-4,2000
-0.001893939,Odyssey,10,urn:cts:greekLit:tlg0012.tlg002:4.839 Homer Odyssey: s-1208 w-5, Homer Odyssey: s-1213 w-7,66
-0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:13.1 Homer Odyssey: s-3367 w-1,urn:cts:greekLit:tlg0012.tlg002:13.247 Homer Odyssey: s-3505 w-4,2000
-0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:13.247 Homer Odyssey: s-3505 w-6,urn:cts:greekLit:tlg0012.tlg002:14.58 Homer Odyssey: s-3633 w-4,2000
-0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:14.58 Homer Odyssey: s-3633 w-5,urn:cts:greekLit:tlg0012.tlg002:14.302 Homer Odyssey: s-3765 w-15,2000
-0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:14.302 Homer Odyssey: s-3765 w-16,urn:cts:greekLit:tlg0012.tlg002:15.14 Homer Odyssey: s-3907 w-5,2000
-0.001893939,Odyssey,5,urn:cts:greekLit:tlg0012.tlg002:15.14 Homer Odyssey: s-3907 w-6,urn:cts:greekLit:tlg0012.tlg002:15.262 Homer Odyssey: s-4051 w-30,2000
-0.001893939,Odyssey,6,urn:cts:greekLit:tlg0012.tlg002:15.263 Homer Odyssey: s-4051 w-32,urn:cts:greekLit:tlg0012.tlg002:15.506 Homer Odyssey: s-4193 w-2,2000
-0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:15.506 Homer Odyssey: s-4193 w-3,urn:cts:greekLit:tlg0012.tlg002:16.186 Homer Odyssey: s-4341 w-4,2000
-0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:16.186 Homer Odyssey: s-4341 w-5,urn:cts:greekLit:tlg0012.tlg002:16.431 Homer Odyssey: s-4475 w-7,2000
-0.001893939,Odyssey,9,urn:cts:greekLit:tlg0012.tlg002:16.431 Homer Odyssey: s-4475 w-8, Homer Odyssey: s-4505 w-17,406
-0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:17.1 Homer Iliad: s-4506 w-1,urn:cts:greekLit:tlg0012.tlg002:17.250 Homer Iliad: s-4642 w-20,1999
-0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:17.250 Homer Iliad: s-4642 w-22,urn:cts:greekLit:tlg0012.tlg002:17.489 Homer Iliad: s-4790 w-3,2000
-0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:17.489 Homer Iliad: s-4790 w-4,urn:cts:greekLit:tlg0012.tlg002:18.118 Homer Iliad: s-4952 w-6,2000
-0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:18.118 Homer Iliad: s-4952 w-7,urn:cts:greekLit:tlg0012.tlg002:18.363 Homer Iliad: s-5094 w-12,2000
-0.001893939,Odyssey,5,urn:cts:greekLit:tlg0012.tlg002:18.363 Homer Iliad: s-5094 w-14,urn:cts:greekLit:tlg0012.tlg002:19.178 Homer Iliad: s-5242 w-9,2000
-0.001893939,Odyssey,6,urn:cts:greekLit:tlg0012.tlg002:19.178 Homer Iliad: s-5242 w-10,urn:cts:greekLit:tlg0012.tlg002:19.427 Homer Iliad: s-5382 w-10,2000
-0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:19.427 Homer Iliad: s-5382 w-11,urn:cts:greekLit:tlg0012.tlg002:20.69 Homer Iliad: s-5522 w-18,2000
-0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:20.69 Homer Iliad: s-5522 w-19,urn:cts:greekLit:tlg0012.tlg002:20.315 Homer Iliad: s-5673 w-4,2000
-0.001893939,Odyssey,9,urn:cts:greekLit:tlg0012.tlg002:20.315 Homer Iliad: s-5673 w-5, Homer Iliad: s-5717 w-5,633
-0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:21.1 Homer Odyssey: s-5718 w-1,urn:cts:greekLit:tlg0012.tlg002:21.258 Homer Odyssey: s-5852 w-5,2000
-0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:21.258 Homer Odyssey: s-5852 w-6,urn:cts:greekLit:tlg0012.tlg002:22.68 Homer Odyssey: s-5992 w-4,2000
-0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:22.68 Homer Odyssey: s-5992 w-5,urn:cts:greekLit:tlg0012.tlg002:22.319 Homer Odyssey: s-6133 w-8,2000
-0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:22.319 Homer Odyssey: s-6133 w-10, Homer Odyssey: s-6274 w-1,2000
-0.001893939,Odyssey,5,urn:cts:greekLit:tlg0012.tlg002:23.70 Homer Odyssey: s-6274 w-2,urn:cts:greekLit:tlg0012.tlg002:23.315 Homer Odyssey: s-6400 w-20,2000
-0.001893939,Odyssey,6,urn:cts:greekLit:tlg0012.tlg002:23.316 Homer Odyssey: s-6400 w-21,urn:cts:greekLit:tlg0012.tlg002:24.203 Homer Odyssey: s-6524 w-6,2000
-0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:24.203 Homer Odyssey: s-6524 w-7,urn:cts:greekLit:tlg0012.tlg002:24.445 Homer Odyssey: s-6655 w-9,2000
-0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:24.446 Homer Odyssey: s-6655 w-10, Homer Odyssey: s-6723 w-22,853
-0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:5.1 Homer Odyssey: s-1214 w-1,urn:cts:greekLit:tlg0012.tlg002:5.244 Homer Odyssey: s-1343 w-7,2000
-0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:5.244 Homer Odyssey: s-1343 w-8,urn:cts:greekLit:tlg0012.tlg002:5.487 Homer Odyssey: s-1478 w-15,2000
-0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:5.487 Homer Odyssey: s-1478 w-16,urn:cts:greekLit:tlg0012.tlg002:6.235 Homer Odyssey: s-1614 w-27,2000
-0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:6.235 Homer Odyssey: s-1614 w-28, Homer Odyssey: s-1756 w-16,2000
-0.001893939,Odyssey,5, Homer Odyssey: s-1756 w-17,urn:cts:greekLit:tlg0012.tlg002:8.56 Homer Odyssey: s-1886 w-10,2000
-0.001893939,Odyssey,6, Homer Odyssey: s-1886 w-11,urn:cts:greekLit:tlg0012.tlg002:8.302 Homer Odyssey: s-2021 w-1,2000
-0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:8.302 Homer Odyssey: s-2021 w-2,urn:cts:greekLit:tlg0012.tlg002:8.549 Homer Odyssey: s-2161 w-1,2000
-0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:8.549 Homer Odyssey: s-2161 w-2, Homer Odyssey: s-2178 w-16,318
-0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:9.1 Homer Odyssey: s-2179 w-1 Homer Odyssey: s-2179 w-1, Homer Odyssey: s-2304 w-8 Homer Odyssey: s-2304 w-8,2000
-0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:9.252 Homer Odyssey: s-2305 w-1 Homer Odyssey: s-2305 w-1,urn:cts:greekLit:tlg0012.tlg002:9.496 Homer Odyssey: s-2445 w-13 Homer Odyssey: s-2445 w-13,2000
-0.001893939,Odyssey,3, Homer Odyssey: s-2445 w-14,urn:cts:greekLit:tlg0012.tlg002:10.192 Homer Odyssey: s-2584 w-1 Homer Odyssey: s-2584 w-1,2000
-0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:10.192 Homer Odyssey: s-2584 w-2 Homer Odyssey: s-2584 w-2, Homer Odyssey: s-2733 w-7 Homer Odyssey: s-2733 w-7,2000
-0.001893939,Odyssey,5, Homer Odyssey: s-2734 w-1 Homer Odyssey: s-2734 w-1,urn:cts:greekLit:tlg0012.tlg002:11.110 Homer Odyssey: s-2857 w-2 Homer Odyssey: s-2857 w-2,2000
-0.001893939,Odyssey,6, Homer Odyssey: s-2857 w-3,urn:cts:greekLit:tlg0012.tlg002:11.357 Homer Odyssey: s-2987 w-18 Homer Odyssey: s-2987 w-18,2000
-0.001893939,Odyssey,7, Homer Odyssey: s-2987 w-19,urn:cts:greekLit:tlg0012.tlg002:11.603 Homer Odyssey: s-3109 w-12 Homer Odyssey: s-3109 w-12,2000
-0.001893939,Odyssey,8, Homer Odyssey: s-3109 w-13 Homer Odyssey: s-3109 w-13,urn:cts:greekLit:tlg0012.tlg002:12.207 Homer Odyssey: s-3240 w-9 Homer Odyssey: s-3240 w-9,2000
-0.001893939,Odyssey,9,urn:cts:greekLit:tlg0012.tlg002:12.207 Homer Odyssey: s-3240 w-10 Homer Odyssey: s-3240 w-10, Homer Odyssey: s-3366 w-10 Homer Odyssey: s-3366 w-10,1955
-0.007575758,Plutarch,1, Plutarch Alcibiades: s-1 w-1, Plutarch Alcibiades: s-93 w-23,2000
-0.007575758,Plutarch,2, Plutarch Alcibiades: s-93 w-24, Plutarch Alcibiades: s-175 w-1,2000
-0.007575758,Plutarch,3, Plutarch Alcibiades: s-175 w-2, Plutarch Alcibiades: s-256 w-13,2000
-0.007575758,Plutarch,4, Plutarch Alcibiades: s-256 w-14, Plutarch Alcibiades: s-340 w-2,2000
-0.007575758,Plutarch,5, Plutarch Alcibiades: s-340 w-3, Plutarch Alcibiades: s-408 w-8,2000
-0.007575758,Plutarch,6, Plutarch Alcibiades: s-408 w-9, Plutarch Alcibiades: s-431 w-72,640
-0.007575758,Plutarch,1, Plutarch Lycurgus: s-1 w-1, Plutarch Lycurgus: s-79 w-32,2000
-0.007575758,Plutarch,2, Plutarch Lycurgus: s-79 w-33, Plutarch Lycurgus: s-163 w-2,2000
-0.007575758,Plutarch,3, Plutarch Lycurgus: s-163 w-3, Plutarch Lycurgus: s-253 w-16,2000
-0.007575758,Plutarch,4, Plutarch Lycurgus: s-253 w-17, Plutarch Lycurgus: s-351 w-15,2000
-0.007575758,Plutarch,5, Plutarch Lycurgus: s-351 w-16,Plutarch Lycurgus: s-434 w-8,1996
-0.005952381,Polybius,1, Polybius Book 1: s-1 w-1, Polybius Book 1: s-67 w-18,2000
-0.005952381,Polybius,2, Polybius Book 1: s-67 w-19, Polybius Book 1: s-143 w-43,2000
-0.005952381,Polybius,3, Polybius Book 1: s-143 w-44, Polybius Book 1: s-223 w-7,2000
-0.005952381,Polybius,4, Polybius Book 1: s-223 w-8, Polybius Book 1: s-301 w-13,2000
-0.005952381,Polybius,5, Polybius Book 1: s-301 w-14, Polybius Book 1: s-380 w-36,2000
-0.005952381,Polybius,6, Polybius Book 1: s-380 w-37, Polybius Book 1: s-458 w-1,2000
-0.005952381,Polybius,7, Polybius Book 1: s-458 w-2, Polybius Book 1: s-522 w-51,2000
-0.005952381,Polybius,8, Polybius Book 1: s-522 w-52, Polybius Book 1: s-595 w-27,2000
-0.005952381,Polybius,9, Polybius Book 1: s-595 w-28, Polybius Book 1: s-663 w-21,2000
-0.005952381,Polybius,10, Polybius Book 1: s-663 w-22, Polybius Book 1: s-737 w-25,2000
-0.005952381,Polybius,11, Polybius Book 1: s-737 w-27, Polybius Book 1: s-808 w-70,2000
-0.005952381,Polybius,12, Polybius Book 1: s-808 w-71, Polybius Book 1: s-882 w-22,2000
-0.005952381,Polybius,13, Polybius Book 1: s-882 w-24, Polybius Book 1: s-967 w-9,2000
-0.005952381,Polybius,14, Polybius Book 1: s-967 w-10, Polybius Book 1: s-1001 w-5,894
-0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg003:1 Sophocles Ajax: s-1 w-1,urn:cts:greekLit:tlg0011.tlg003:320 Sophocles Ajax: s-176 w-11,2000
-0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg003:320 Sophocles Ajax: s-176 w-12,urn:cts:greekLit:tlg0011.tlg003:641 Sophocles Ajax: s-356 w-8,2000
-0.00308642,Sophocles,3,urn:cts:greekLit:tlg0011.tlg003:642 Sophocles Ajax: s-356 w-9,urn:cts:greekLit:tlg0011.tlg003:970 Sophocles Ajax: s-524 w-6,2000
-0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg003:970 Sophocles Ajax: s-524 w-8,urn:cts:greekLit:tlg0011.tlg003:1265 Sophocles Ajax: s-693 w-7,2000
-0.00308642,Sophocles,5, Sophocles Ajax: s-693 w-8,Sophocles Ajax: s-785 w-13,1110
-0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg002:1 Sophocles Antigone: s-1 w-1,urn:cts:greekLit:tlg0011.tlg002:306 Sophocles Antigone: s-146 w-6,2000
-0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg002:306 Sophocles Antigone: s-146 w-7,urn:cts:greekLit:tlg0011.tlg002:605 Sophocles Antigone: s-322 w-9,2000
-0.00308642,Sophocles,3, Sophocles Antigone: s-322 w-10,urn:cts:greekLit:tlg0011.tlg002:931 Sophocles Antigone: s-476 w-3,2000
-0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg002:931 Sophocles Antigone: s-476 w-4,urn:cts:greekLit:tlg0011.tlg002:1272 Sophocles Antigone: s-646 w-1,2000
-0.00308642,Sophocles,5,urn:cts:greekLit:tlg0011.tlg002:1272 Sophocles Antigone: s-646 w-2, Sophocles Antigone: s-687 w-13,443
-0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg005:1 Sophocles Electra: s-1 w-1,urn:cts:greekLit:tlg0011.tlg005:335 Sophocles Electra: s-141 w-8,2000
-0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg005:336 Sophocles Electra: s-141 w-10,urn:cts:greekLit:tlg0011.tlg005:621 Sophocles Electra: s-311 w-1,2000
-0.00308642,Sophocles,3,urn:cts:greekLit:tlg0011.tlg005:621 Sophocles Electra: s-311 w-2,urn:cts:greekLit:tlg0011.tlg005:922 Sophocles Electra: s-504 w-6,2000
-0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg005:922 Sophocles Electra: s-504 w-7,urn:cts:greekLit:tlg0011.tlg005:1205 Sophocles Electra: s-698 w-1,2000
-0.00308642,Sophocles,5,urn:cts:greekLit:tlg0011.tlg005:1205 Sophocles Electra: s-698 w-2,urn:cts:greekLit:tlg0011.tlg005:1496 Sophocles Electra: s-915 w-7,2000
-0.00308642,Sophocles,6,urn:cts:greekLit:tlg0011.tlg005:1496 Sophocles Electra: s-915 w-9, Sophocles Electra: s-929 w-16,121
-0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg004:1 Sophocles OT: s-1 w-1,urn:cts:greekLit:tlg0011.tlg004:301 Sophocles OT: s-142 w-13,1999
-0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg004:301 Sophocles OT: s-142 w-14,urn:cts:greekLit:tlg0011.tlg004:577 Sophocles OT: s-320 w-3,2000
-0.00308642,Sophocles,3,urn:cts:greekLit:tlg0011.tlg004:577 Sophocles OT: s-320 w-4,urn:cts:greekLit:tlg0011.tlg004:852 Sophocles OT: s-495 w-15,2000
-0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg004:852 Sophocles OT: s-495 w-16,Sophocles OT: s-698 w-7,2000
-0.00308642,Sophocles,5,urn:cts:greekLit:tlg0011.tlg004:1132 Sophocles OT: s-699 w-1,urn:cts:greekLit:tlg0011.tlg004:1432 Sophocles OT: s-865 w-6,2000
-0.00308642,Sophocles,6,urn:cts:greekLit:tlg0011.tlg004:1432 Sophocles OT: s-865 w-7,Sophocles OT: s-931 w-23,753
-0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg001:1 Sophocles Trachiniae: s-1 w-1,Sophocles Trachiniae: s-142 w-14,1999
-0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg001:314 Sophocles Trachiniae: s-143 w-1,urn:cts:greekLit:tlg0011.tlg001:599 Sophocles Trachiniae: s-312 w-6,2000
-0.00308642,Sophocles,3,urn:cts:greekLit:tlg0011.tlg001:599 Sophocles Trachiniae: s-312 w-7,urn:cts:greekLit:tlg0011.tlg001:925 Sophocles Trachiniae: s-468 w-18,2000
-0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg001:926 Sophocles Trachiniae: s-468 w-19,urn:cts:greekLit:tlg0011.tlg001:1230 Sophocles Trachiniae: s-645 w-3,2000
-0.00308642,Sophocles,5,urn:cts:greekLit:tlg0011.tlg001:1230 Sophocles Trachiniae: s-645 w-4,Sophocles Trachiniae: s-669 w-31,317
-0.006944444,Thucydides,1, Thuc. Book 1: s-1 w-1, Thuc. Book 1: s-67 w-28,2000
-0.006944444,Thucydides,2, Thuc. Book 1: s-67 w-29, Thuc. Book 1: s-146 w-7,2000
-0.006944444,Thucydides,3, Thuc. Book 1: s-146 w-8, Thuc. Book 1: s-219 w-18,2000
-0.006944444,Thucydides,4, Thuc. Book 1: s-219 w-19, Thuc. Book 1: s-299 w-46,2000
-0.006944444,Thucydides,5,Thuc. Book 1: s-299 w-47, Thuc. Book 1: s-380 w-4,2000
-0.006944444,Thucydides,6, Thuc. Book 1: s-380 w-5, Thuc. Book 1: s-460 w-45,2000
-0.006944444,Thucydides,7, Thuc. Book 1: s-460 w-46, Thuc. Book 1: s-552 w-18,2000
-0.006944444,Thucydides,8, Thuc. Book 1: s-552 w-19, Thuc. Book 1: s-632 w-3,2000
-0.006944444,Thucydides,9, Thuc. Book 1: s-632 w-4, Thuc. Book 1: s-717 w-17,2000
-0.006944444,Thucydides,10, Thuc. Book 1: s-717 w-18, Thuc. Book 1: s-794 w-10,2000
-0.006944444,Thucydides,11, Thuc. Book 1: s-794 w-11, Thuc. Book 1: s-863 w-1,2000
-0.006944444,Thucydides,12, Thuc. Book 1: s-863 w-2, Thuc. Book 1: s-942 w-11,1913
+index,prob,author,chunk_no,First,Last,Size
+1,0.003333333,Aeschylus,1,urn:cts:greekLit:tlg0085.tlg005:1 Aeschylus Agamemnon: s-1 w-1,urn:cts:greekLit:tlg0085.tlg005:381 Aeschylus Agamemnon: s-148 w-3,2000
+2,0.003333333,Aeschylus,2,urn:cts:greekLit:tlg0085.tlg005:381 Aeschylus Agamemnon: s-148 w-4,urn:cts:greekLit:tlg0085.tlg005:740 Aeschylus Agamemnon: s-303 w-14,2000
+3,0.003333333,Aeschylus,3,urn:cts:greekLit:tlg0085.tlg005:740 Aeschylus Agamemnon: s-303 w-15,urn:cts:greekLit:tlg0085.tlg005:1098 Aeschylus Agamemnon: s-470 w-2,2000
+4,0.003333333,Aeschylus,4,urn:cts:greekLit:tlg0085.tlg005:1098 Aeschylus Agamemnon: s-470 w-3,urn:cts:greekLit:tlg0085.tlg005:1409 Aeschylus Agamemnon: s-682 w-11,2000
+5,0.003333333,Aeschylus,5,urn:cts:greekLit:tlg0085.tlg005:1409 Aeschylus Agamemnon: s-682 w-12, Aeschylus Agamemnon: s-814 w-9,1527
+6,0.003333333,Aeschylus,6,urn:cts:greekLit:tlg0085.tlg006:1 Aeschylus Ch: s-1 w-1, Aeschylus Ch: s-175 w-12,1999
+7,0.003333333,Aeschylus,7,urn:cts:greekLit:tlg0085.tlg006:332 Aeschylus Ch: s-176 w-1,urn:cts:greekLit:tlg0085.tlg006:701 Aeschylus Ch: s-350 w-7,2000
+8,0.003333333,Aeschylus,8,urn:cts:greekLit:tlg0085.tlg006:701 Aeschylus Ch: s-350 w-8, Aeschylus Ch: s-504 w-16,1502
+9,0.003333333,Aeschylus,9, Aeschylus Eumenides: s-1 w-1, Aeschylus Eumenides: s-176 w-12,2000
+10,0.003333333,Aeschylus,10, Aeschylus Eumenides: s-176 w-13, Aeschylus Eumenides: s-349 w-9,2000
+11,0.003333333,Aeschylus,11, Aeschylus Eumenides: s-349 w-10, Aeschylus Eumenides: s-516 w-1,2000
+12,0.003333333,Aeschylus,12, Aeschylus Eumenides: s-516 w-2, Aeschylus Eumenides: s-526 w-5,148
+13,0.003333333,Aeschylus,13,urn:cts:greekLit:tlg0085.tlg002:1 Aeschylus Persians: s-1 w-1,urn:cts:greekLit:tlg0085.tlg002:353 Aeschylus Persians: s-144 w-7,2000
+14,0.003333333,Aeschylus,14,urn:cts:greekLit:tlg0085.tlg002:353 Aeschylus Persians: s-144 w-8,urn:cts:greekLit:tlg0085.tlg002:711 Aeschylus Persians: s-282 w-17,2000
+15,0.003333333,Aeschylus,15,urn:cts:greekLit:tlg0085.tlg002:711 Aeschylus Persians: s-282 w-18, Aeschylus Persians: s-480 w-6,1961
+16,0.003333333,Aeschylus,16,urn:cts:greekLit:tlg0085.tlg003:1 Aeschylus Prometheus: s-1 w-1,Aeschylus Prometheus: s-176 w-18,1999
+17,0.003333333,Aeschylus,17,urn:cts:greekLit:tlg0085.tlg003:324 Aeschylus Prometheus: s-177 w-1,urn:cts:greekLit:tlg0085.tlg003:659 Aeschylus Prometheus: s-342 w-10,2000
+18,0.003333333,Aeschylus,18,urn:cts:greekLit:tlg0085.tlg003:659 Aeschylus Prometheus: s-342 w-12,urn:cts:greekLit:tlg0085.tlg003:960 Aeschylus Prometheus: s-513 w-9,2000
+19,0.003333333,Aeschylus,19,urn:cts:greekLit:tlg0085.tlg003:960 Aeschylus Prometheus: s-513 w-10,Aeschylus Prometheus: s-590 w-19,824
+20,0.003333333,Aeschylus,20,urn:cts:greekLit:tlg0085.tlg004:1 Aeschylus Seven: s-1 w-1,urn:cts:greekLit:tlg0085.tlg004:377 Aeschylus Seven: s-173 w-5,2000
+21,0.003333333,Aeschylus,21,urn:cts:greekLit:tlg0085.tlg004:377 Aeschylus Seven: s-173 w-6,urn:cts:greekLit:tlg0085.tlg004:693 Aeschylus Seven: s-314 w-9,2000
+22,0.003333333,Aeschylus,22,urn:cts:greekLit:tlg0085.tlg004:693 Aeschylus Seven: s-314 w-10, Aeschylus Seven: s-515 w-22,1974
+23,0.003333333,Aeschylus,23,urn:cts:greekLit:tlg0085.tlg001:1 Aeschylus Suppliants: s-1 w-1,urn:cts:greekLit:tlg0085.tlg001:376 Aeschylus Suppliants: s-183 w-3,2000
+24,0.003333333,Aeschylus,24,urn:cts:greekLit:tlg0085.tlg001:376 Aeschylus Suppliants: s-183 w-4,urn:cts:greekLit:tlg0085.tlg001:749 Aeschylus Suppliants: s-358 w-1,2000
+25,0.003333333,Aeschylus,25,urn:cts:greekLit:tlg0085.tlg001:749 Aeschylus Suppliants: s-358 w-2, Aeschylus Suppliants: s-529 w-24,1748
+26,0.003787879,Athenaeus,1, Athenaeus Book 12: s-1 w-1, Athenaeus Book 12: s-119 w-12,2000
+27,0.003787879,Athenaeus,2, Athenaeus Book 12: s-119 w-13, Athenaeus Book 12: s-236 w-9,2000
+28,0.003787879,Athenaeus,3, Athenaeus Book 12: s-236 w-10, Athenaeus Book 12: s-336 w-39,2000
+29,0.003787879,Athenaeus,4, Athenaeus Book 12: s-336 w-40, Athenaeus Book 12: s-441 w-32,2000
+30,0.003787879,Athenaeus,5, Athenaeus Book 12: s-441 w-33, Athenaeus Book 12: s-545 w-27,2000
+31,0.003787879,Athenaeus,6, Athenaeus Book 12: s-545 w-28, Athenaeus Book 12: s-639 w-15,2000
+32,0.003787879,Athenaeus,7, Athenaeus Book 12: s-639 w-16, Athenaeus Book 12: s-738 w-29,2000
+33,0.003787879,Athenaeus,8, Athenaeus Book 12: s-739 w-1, Athenaeus Book 12: s-854 w-3,2000
+34,0.003787879,Athenaeus,9, Athenaeus Book 12: s-854 w-4, Athenaeus Book 12: s-954 w-21,2000
+35,0.003787879,Athenaeus,10, Athenaeus Book 12: s-954 w-22,Athenaeus Book 12: s-1050 w-16,1334
+36,0.003787879,Athenaeus,1, Athenaeus Book 13: s-1 w-1, Athenaeus Book 13: s-142 w-9,2000
+37,0.003787879,Athenaeus,2, Athenaeus Book 13: s-143 w-1, Athenaeus Book 13: s-262 w-2,2000
+38,0.003787879,Athenaeus,3, Athenaeus Book 13: s-262 w-3, Athenaeus Book 13: s-395 w-46,2000
+39,0.003787879,Athenaeus,4, Athenaeus Book 13: s-395 w-47, Athenaeus Book 13: s-517 w-17,2000
+40,0.003787879,Athenaeus,5, Athenaeus Book 13: s-517 w-18, Athenaeus Book 13: s-633 w-50,2000
+41,0.003787879,Athenaeus,6, Athenaeus Book 13: s-633 w-51, Athenaeus Book 13: s-759 w-13,2000
+42,0.003787879,Athenaeus,7, Athenaeus Book 13: s-759 w-14, Athenaeus Book 13: s-899 w-15,2000
+43,0.003787879,Athenaeus,8, Athenaeus Book 13: s-899 w-16, Athenaeus Book 13: s-1017 w-5,2000
+44,0.003787879,Athenaeus,9, Athenaeus Book 13: s-1017 w-6, Athenaeus Book 13: s-1132 w-25,2000
+45,0.003787879,Athenaeus,10, Athenaeus Book 13: s-1132 w-27, Athenaeus Book 13: s-1255 w-15,2000
+46,0.003787879,Athenaeus,11, Athenaeus Book 13: s-1255 w-16, Athenaeus Book 13: s-1374 w-4,2000
+47,0.003787879,Athenaeus,12,Athenaeus Book 13: s-1374 w-5, Athenaeus Book 13: s-1475 w-26,1781
+48,0.006410256,Diodorus,1, Diod. Sic. Book 11: s-1 w-1, Diod. Sic. Book 11: s-81 w-34,2000
+49,0.006410256,Diodorus,2, Diod. Sic. Book 11: s-81 w-35, Diod. Sic. Book 11: s-168 w-5,2000
+50,0.006410256,Diodorus,3, Diod. Sic. Book 11: s-168 w-6, Diod. Sic. Book 11: s-253 w-7,2000
+51,0.006410256,Diodorus,4, Diod. Sic. Book 11: s-253 w-8, Diod. Sic. Book 11: s-328 w-18,2000
+52,0.006410256,Diodorus,5, Diod. Sic. Book 11: s-328 w-19, Diod. Sic. Book 11: s-408 w-33,2000
+53,0.006410256,Diodorus,6, Diod. Sic. Book 11: s-408 w-34, Diod. Sic. Book 11: s-489 w-1,2000
+54,0.006410256,Diodorus,7, Diod. Sic. Book 11: s-489 w-2, Diod. Sic. Book 11: s-564 w-21,2000
+55,0.006410256,Diodorus,8, Diod. Sic. Book 11: s-564 w-22, Diod. Sic. Book 11: s-642 w-37,2000
+56,0.006410256,Diodorus,9, Diod. Sic. Book 11: s-642 w-38, Diod. Sic. Book 11: s-726 w-7,2000
+57,0.006410256,Diodorus,10, Diod. Sic. Book 11: s-726 w-8, Diod. Sic. Book 11: s-807 w-25,2000
+58,0.006410256,Diodorus,11, Diod. Sic. Book 11: s-807 w-26, Diod. Sic. Book 11: s-891 w-22,2000
+59,0.006410256,Diodorus,12, Diod. Sic. Book 11: s-891 w-23, Diod. Sic. Book 11: s-982 w-1,2000
+60,0.006410256,Diodorus,13, Diod. Sic. Book 11: s-982 w-2, Diod. Sic. Book 11: s-991 w-26,223
+61,0.005208333,Herodotus,1, Hdt Book 1: s-1 w-1, Hdt Book 1: s-103 w-30,2000
+62,0.005208333,Herodotus,2, Hdt Book 1: s-103 w-31, Hdt Book 1: s-201 w-36,2000
+63,0.005208333,Herodotus,3, Hdt Book 1: s-201 w-37, Hdt Book 1: s-308 w-26,2000
+64,0.005208333,Herodotus,4, Hdt Book 1: s-308 w-27, Hdt Book 1: s-400 w-4,2000
+65,0.005208333,Herodotus,5, Hdt Book 1: s-400 w-5, Hdt Book 1: s-503 w-11,2000
+66,0.005208333,Herodotus,6, Hdt Book 1: s-503 w-13, Hdt Book 1: s-598 w-5,2000
+67,0.005208333,Herodotus,7, Hdt Book 1: s-598 w-6, Hdt Book 1: s-697 w-3,2000
+68,0.005208333,Herodotus,8, Hdt Book 1: s-697 w-4, Hdt Book 1: s-787 w-13,2000
+69,0.005208333,Herodotus,9, Hdt Book 1: s-787 w-14, Hdt Book 1: s-887 w-4,2000
+70,0.005208333,Herodotus,10, Hdt Book 1: s-887 w-5, Hdt Book 1: s-993 w-10,2000
+71,0.005208333,Herodotus,11, Hdt Book 1: s-993 w-11, Hdt Book 1: s-1089 w-17,2000
+72,0.005208333,Herodotus,12, Hdt Book 1: s-1089 w-18, Hdt Book 1: s-1189 w-13,2000
+73,0.005208333,Herodotus,13, Hdt Book 1: s-1189 w-14, Hdt Book 1: s-1292 w-19,2000
+74,0.005208333,Herodotus,14, Hdt Book 1: s-1292 w-20, Hdt Book 1: s-1376 w-3,2000
+75,0.005208333,Herodotus,15, Hdt Book 1: s-1376 w-4, Hdt Book 1: s-1492 w-13,2000
+76,0.005208333,Herodotus,16, Hdt Book 1: s-1492 w-14, Hdt Book 1: s-1555 w-11,1158
+77,0.008333333,Hesiod,1,urn:cts:greekLit:tlg0020.tlg003:1.1 Hesiod Shield: s-1 w-1,urn:cts:greekLit:tlg0020.tlg003:1.261 Hesiod Shield: s-135 w-7,2000
+78,0.008333333,Hesiod,2,urn:cts:greekLit:tlg0020.tlg003:1.261 Hesiod Shield: s-135 w-8, Hesiod Shield: s-255 w-18,1705
+79,0.008333333,Hesiod,1,urn:cts:greekLit:tlg0020.tlg001:1.1 Hesiod Theogony: s-1 w-1,urn:cts:greekLit:tlg0020.tlg001:1.267 Hesiod Theogony: s-112 w-8,2000
+80,0.008333333,Hesiod,2,urn:cts:greekLit:tlg0020.tlg001:1.267 Hesiod Theogony: s-112 w-9,Hesiod Theogony: s-216 w-40,2000
+81,0.008333333,Hesiod,3,Hesiod Theogony: s-216 w-41,urn:cts:greekLit:tlg0020.tlg001:1.797 Hesiod Theogony: s-335 w-15,2000
+82,0.008333333,Hesiod,4,urn:cts:greekLit:tlg0020.tlg001:1.797 Hesiod Theogony: s-335 w-16, Hesiod Theogony: s-437 w-14,1761
+83,0.008333333,Hesiod,1, Hesiod Works: s-1 w-1, Hesiod Works: s-149 w-12,2000
+84,0.008333333,Hesiod,2, Hesiod Works: s-149 w-13, Hesiod Works: s-296 w-2,2000
+85,0.008333333,Hesiod,3, Hesiod Works: s-296 w-3,Hesiod Works: s-436 w-8,2000
+86,0.008333333,Hesiod,4, Hesiod Works: s-437 w-1,Hesiod Works: s-491 w-21,654
+87,0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:1.1 Homer Iliad: s-1 w-1,urn:cts:greekLit:tlg0012.tlg001:1.243 Homer Iliad: s-135 w-3,2000
+88,0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:1.243 Homer Iliad: s-135 w-4,urn:cts:greekLit:tlg0012.tlg001:1.492 Homer Iliad: s-274 w-19,2000
+89,0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:1.492 Homer Iliad: s-274 w-20,urn:cts:greekLit:tlg0012.tlg001:2.132 Homer Iliad: s-426 w-15,2000
+90,0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:2.132 Homer Iliad: s-426 w-16,urn:cts:greekLit:tlg0012.tlg001:2.386 Homer Iliad: s-565 w-5,2000
+91,0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:2.386 Homer Iliad: s-565 w-6,urn:cts:greekLit:tlg0012.tlg001:2.657 Homer Iliad: s-668 w-5,2000
+92,0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:2.657 Homer Iliad: s-668 w-6,urn:cts:greekLit:tlg0012.tlg001:3.45 Homer Iliad: s-788 w-22,2000
+93,0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:3.45 Homer Iliad: s-788 w-23,Homer Iliad: s-924 w-31,2000
+94,0.001126126,Iliad,8,Homer Iliad: s-924 w-32,urn:cts:greekLit:tlg0012.tlg001:4.95 Homer Iliad: s-1073 w-8,2000
+95,0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:4.95 Homer Iliad: s-1073 w-9,urn:cts:greekLit:tlg0012.tlg001:4.351 Homer Iliad: s-1213 w-6,2000
+96,0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:4.351 Homer Iliad: s-1213 w-7, Homer Iliad: s-1323 w-14,1520
+97,0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:13.1 Homer Iliad: s-4017 w-1,urn:cts:greekLit:tlg0012.tlg001:13.259 Homer Iliad: s-4157 w-7,2000
+98,0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:13.259 Homer Iliad: s-4157 w-8,urn:cts:greekLit:tlg0012.tlg001:13.513 Homer Iliad: s-4287 w-1,2000
+99,0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:13.513 Homer Iliad: s-4287 w-2,urn:cts:greekLit:tlg0012.tlg001:13.771 Homer Iliad: s-4419 w-16,2000
+100,0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:13.771 Homer Iliad: s-4419 w-17,urn:cts:greekLit:tlg0012.tlg001:14.189 Homer Iliad: s-4560 w-23,2000
+101,0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:14.189 Homer Iliad: s-4560 w-24,urn:cts:greekLit:tlg0012.tlg001:14.438 Homer Iliad: s-4689 w-1,2000
+102,0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:14.438 Homer Iliad: s-4689 w-2,urn:cts:greekLit:tlg0012.tlg001:15.170 Homer Iliad: s-4818 w-2,2000
+103,0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:15.170 Homer Iliad: s-4818 w-3,urn:cts:greekLit:tlg0012.tlg001:15.431 Homer Iliad: s-4946 w-12,2000
+104,0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:15.431 Homer Iliad: s-4946 w-13,urn:cts:greekLit:tlg0012.tlg001:15.685 Homer Iliad: s-5087 w-4,2000
+105,0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:15.685 Homer Iliad: s-5087 w-5,urn:cts:greekLit:tlg0012.tlg001:16.203 Homer Iliad: s-5225 w-6,2000
+106,0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:16.203 Homer Iliad: s-5225 w-7,urn:cts:greekLit:tlg0012.tlg001:16.463 Homer Iliad: s-5361 w-14,2000
+107,0.001126126,Iliad,11,urn:cts:greekLit:tlg0012.tlg001:16.463 Homer Iliad: s-5361 w-15,urn:cts:greekLit:tlg0012.tlg001:16.719 Homer Iliad: s-5495 w-33,2000
+108,0.001126126,Iliad,12, Homer Iliad: s-5495 w-34, Homer Iliad: s-5576 w-14,1152
+109,0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:17.1 Homer Iliad: s-5577 w-1,urn:cts:greekLit:tlg0012.tlg001:17.249 Homer Iliad: s-5708 w-8,2000
+110,0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:17.249 Homer Iliad: s-5708 w-9,urn:cts:greekLit:tlg0012.tlg001:17.508 Homer Iliad: s-5840 w-4,2000
+111,0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:17.508 Homer Iliad: s-5840 w-5,urn:cts:greekLit:tlg0012.tlg001:17.759 Homer Iliad: s-5972 w-40,2000
+112,0.001126126,Iliad,4, Homer Iliad: s-5972 w-41,urn:cts:greekLit:tlg0012.tlg001:18.250 Homer Iliad: s-6116 w-5,2000
+113,0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:18.250 Homer Iliad: s-6116 w-6,urn:cts:greekLit:tlg0012.tlg001:18.498 Homer Iliad: s-6258 w-11,2000
+114,0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:18.499 Homer Iliad: s-6258 w-12,urn:cts:greekLit:tlg0012.tlg001:19.136 Homer Iliad: s-6403 w-22,2000
+115,0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:19.136 Homer Iliad: s-6403 w-23,urn:cts:greekLit:tlg0012.tlg001:19.394 Homer Iliad: s-6536 w-15,2000
+116,0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:19.394 Homer Iliad: s-6536 w-16,urn:cts:greekLit:tlg0012.tlg001:20.230 Homer Iliad: s-6676 w-4,2000
+117,0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:20.230 Homer Iliad: s-6676 w-5,urn:cts:greekLit:tlg0012.tlg001:20.481 Homer Iliad: s-6811 w-8,2000
+118,0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:20.481 Homer Iliad: s-6811 w-9, Homer Iliad: s-6822 w-13,183
+119,0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:21.1 Homer Iliad: s-6823 w-1,urn:cts:greekLit:tlg0012.tlg001:21.248 Homer Iliad: s-6961 w-11,2000
+120,0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:21.249 Homer Iliad: s-6961 w-12,urn:cts:greekLit:tlg0012.tlg001:21.502 Homer Iliad: s-7108 w-1,2000
+121,0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:21.502 Homer Iliad: s-7108 w-2,urn:cts:greekLit:tlg0012.tlg001:22.140 Homer Iliad: s-7241 w-9,2000
+122,0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:22.140 Homer Iliad: s-7241 w-10,urn:cts:greekLit:tlg0012.tlg001:22.382 Homer Iliad: s-7378 w-38,2000
+123,0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:22.382 Homer Iliad: s-7378 w-39,urn:cts:greekLit:tlg0012.tlg001:23.122 Homer Iliad: s-7517 w-8,2000
+124,0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:23.122 Homer Iliad: s-7517 w-9,urn:cts:greekLit:tlg0012.tlg001:23.378 Homer Iliad: s-7654 w-17,2000
+125,0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:23.378 Homer Iliad: s-7654 w-18,urn:cts:greekLit:tlg0012.tlg001:23.631 Homer Iliad: s-7818 w-15,2000
+126,0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:23.631 Homer Iliad: s-7818 w-17,urn:cts:greekLit:tlg0012.tlg001:23.885 Homer Iliad: s-7974 w-8,2000
+127,0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:23.885 Homer Iliad: s-7974 w-9,urn:cts:greekLit:tlg0012.tlg001:24.227 Homer Iliad: s-8113 w-13,2000
+128,0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:24.227 Homer Iliad: s-8113 w-14,urn:cts:greekLit:tlg0012.tlg001:24.472 Homer Iliad: s-8243 w-4,2000
+129,0.001126126,Iliad,11,urn:cts:greekLit:tlg0012.tlg001:24.473 Homer Iliad: s-8243 w-5,urn:cts:greekLit:tlg0012.tlg001:24.715 Homer Iliad: s-8368 w-18,2000
+130,0.001126126,Iliad,12,urn:cts:greekLit:tlg0012.tlg001:24.715 Homer Iliad: s-8368 w-19, Homer Iliad: s-8415 w-8,738
+131,0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:5.1 Homer Iliad: s-1324 w-1,urn:cts:greekLit:tlg0012.tlg001:5.252 Homer Iliad: s-1457 w-7,2000
+132,0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:5.252 Homer Iliad: s-1457 w-8,urn:cts:greekLit:tlg0012.tlg001:5.503 Homer Iliad: s-1592 w-11,2000
+133,0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:5.503 Homer Iliad: s-1592 w-12,urn:cts:greekLit:tlg0012.tlg001:5.764 Homer Iliad: s-1729 w-5,2000
+134,0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:5.764 Homer Iliad: s-1729 w-6,urn:cts:greekLit:tlg0012.tlg001:6.117 Homer Iliad: s-1870 w-6,2000
+135,0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:6.117 Homer Iliad: s-1870 w-7,urn:cts:greekLit:tlg0012.tlg001:6.370 Homer Iliad: s-2008 w-5,2000
+136,0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:6.370 Homer Iliad: s-2008 w-6,urn:cts:greekLit:tlg0012.tlg001:7.95 Homer Iliad: s-2138 w-8,2000
+137,0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:7.95 Homer Iliad: s-2138 w-9,urn:cts:greekLit:tlg0012.tlg001:7.351 Homer Iliad: s-2273 w-9,2000
+138,0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:7.351 Homer Iliad: s-2273 w-10,urn:cts:greekLit:tlg0012.tlg001:8.119 Homer Iliad: s-2414 w-3,2000
+139,0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:8.119 Homer Iliad: s-2414 w-4,urn:cts:greekLit:tlg0012.tlg001:8.374 Homer Iliad: s-2545 w-3,2000
+140,0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:8.374 Homer Iliad: s-2545 w-4, Homer Iliad: s-2641 w-14,1473
+141,0.001126126,Iliad,1,urn:cts:greekLit:tlg0012.tlg001:9.1 Homer Iliad: s-2642 w-1, Homer Iliad: s-2786 w-18,1999
+142,0.001126126,Iliad,2,urn:cts:greekLit:tlg0012.tlg001:9.254 Homer Iliad: s-2787 w-1,urn:cts:greekLit:tlg0012.tlg001:9.501 Homer Iliad: s-2901 w-19,2000
+143,0.001126126,Iliad,3,urn:cts:greekLit:tlg0012.tlg001:9.501 Homer Iliad: s-2901 w-20,urn:cts:greekLit:tlg0012.tlg001:10.43 Homer Iliad: s-3035 w-6,2000
+144,0.001126126,Iliad,4,urn:cts:greekLit:tlg0012.tlg001:10.43 Homer Iliad: s-3035 w-7,urn:cts:greekLit:tlg0012.tlg001:10.290 Homer Iliad: s-3186 w-8,2000
+145,0.001126126,Iliad,5,urn:cts:greekLit:tlg0012.tlg001:10.290 Homer Iliad: s-3186 w-9,urn:cts:greekLit:tlg0012.tlg001:10.536 Homer Iliad: s-3326 w-9,2000
+146,0.001126126,Iliad,6,urn:cts:greekLit:tlg0012.tlg001:10.537 Homer Iliad: s-3326 w-10,urn:cts:greekLit:tlg0012.tlg001:11.215 Homer Iliad: s-3452 w-11,2000
+147,0.001126126,Iliad,7,urn:cts:greekLit:tlg0012.tlg001:11.215 Homer Iliad: s-3452 w-12,urn:cts:greekLit:tlg0012.tlg001:11.466 Homer Iliad: s-3592 w-11,2000
+148,0.001126126,Iliad,8,urn:cts:greekLit:tlg0012.tlg001:11.467 Homer Iliad: s-3592 w-12,urn:cts:greekLit:tlg0012.tlg001:11.722 Homer Iliad: s-3731 w-5,2000
+149,0.001126126,Iliad,9,urn:cts:greekLit:tlg0012.tlg001:11.722 Homer Iliad: s-3731 w-6,urn:cts:greekLit:tlg0012.tlg001:12.130 Homer Iliad: s-3856 w-35,2000
+150,0.001126126,Iliad,10,urn:cts:greekLit:tlg0012.tlg001:12.130 Homer Iliad: s-3856 w-36,urn:cts:greekLit:tlg0012.tlg001:12.387 Homer Iliad: s-3974 w-1,2000
+151,0.001126126,Iliad,11,urn:cts:greekLit:tlg0012.tlg001:12.387 Homer Iliad: s-3974 w-2, Homer Iliad: s-4016 w-12,662
+152,0.006944444,Lysias,1, Lysias Orat. 1: s-1 w-1, Lysias Orat. 1: s-104 w-4,2000
+153,0.006944444,Lysias,2, Lysias Orat. 1: s-104 w-5, Lysias Orat. 12: s-79 w-9,2000
+154,0.006944444,Lysias,3, Lysias Orat. 12: s-79 w-10, Lysias Orat. 12: s-172 w-24,2000
+155,0.006944444,Lysias,4, Lysias Orat. 12: s-172 w-25, Lysias Orat. 14: s-9 w-23,2000
+156,0.006944444,Lysias,5, Lysias Orat. 14: s-9 w-24, Lysias Orat. 14: s-87 w-32,2000
+157,0.006944444,Lysias,6, Lysias Orat. 14: s-87 w-33, Lysias Orat. 23: s-46 w-20,1868
+158,0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:1.1 Homer Odyssey: s-1 w-1,urn:cts:greekLit:tlg0012.tlg002:1.255 Homer Odyssey: s-133 w-6,1999
+159,0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:1.255 Homer Odyssey: s-133 w-7,urn:cts:greekLit:tlg0012.tlg002:2.56 Homer Odyssey: s-264 w-14,2000
+160,0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:2.56 Homer Odyssey: s-264 w-15,urn:cts:greekLit:tlg0012.tlg002:2.299 Homer Odyssey: s-397 w-11,2000
+161,0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:2.299 Homer Odyssey: s-397 w-12,urn:cts:greekLit:tlg0012.tlg002:3.109 Homer Odyssey: s-545 w-3,2000
+162,0.001893939,Odyssey,5,urn:cts:greekLit:tlg0012.tlg002:3.109 Homer Odyssey: s-545 w-4,Homer Odyssey: s-671 w-38,2000
+163,0.001893939,Odyssey,6,urn:cts:greekLit:tlg0012.tlg002:3.356 Homer Odyssey: s-672 w-1,urn:cts:greekLit:tlg0012.tlg002:4.108 Homer Odyssey: s-800 w-11,2000
+164,0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:4.108 Homer Odyssey: s-800 w-12,urn:cts:greekLit:tlg0012.tlg002:4.359 Homer Odyssey: s-922 w-16,2000
+165,0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:4.359 Homer Odyssey: s-922 w-17,urn:cts:greekLit:tlg0012.tlg002:4.599 Homer Odyssey: s-1062 w-1,2000
+166,0.001893939,Odyssey,9,urn:cts:greekLit:tlg0012.tlg002:4.599 Homer Odyssey: s-1062 w-2,urn:cts:greekLit:tlg0012.tlg002:4.839 Homer Odyssey: s-1208 w-4,2000
+167,0.001893939,Odyssey,10,urn:cts:greekLit:tlg0012.tlg002:4.839 Homer Odyssey: s-1208 w-5, Homer Odyssey: s-1213 w-7,66
+168,0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:13.1 Homer Odyssey: s-3367 w-1,urn:cts:greekLit:tlg0012.tlg002:13.247 Homer Odyssey: s-3505 w-4,2000
+169,0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:13.247 Homer Odyssey: s-3505 w-6,urn:cts:greekLit:tlg0012.tlg002:14.58 Homer Odyssey: s-3633 w-4,2000
+170,0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:14.58 Homer Odyssey: s-3633 w-5,urn:cts:greekLit:tlg0012.tlg002:14.302 Homer Odyssey: s-3765 w-15,2000
+171,0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:14.302 Homer Odyssey: s-3765 w-16,urn:cts:greekLit:tlg0012.tlg002:15.14 Homer Odyssey: s-3907 w-5,2000
+172,0.001893939,Odyssey,5,urn:cts:greekLit:tlg0012.tlg002:15.14 Homer Odyssey: s-3907 w-6,urn:cts:greekLit:tlg0012.tlg002:15.262 Homer Odyssey: s-4051 w-30,2000
+173,0.001893939,Odyssey,6,urn:cts:greekLit:tlg0012.tlg002:15.263 Homer Odyssey: s-4051 w-32,urn:cts:greekLit:tlg0012.tlg002:15.506 Homer Odyssey: s-4193 w-2,2000
+174,0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:15.506 Homer Odyssey: s-4193 w-3,urn:cts:greekLit:tlg0012.tlg002:16.186 Homer Odyssey: s-4341 w-4,2000
+175,0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:16.186 Homer Odyssey: s-4341 w-5,urn:cts:greekLit:tlg0012.tlg002:16.431 Homer Odyssey: s-4475 w-7,2000
+176,0.001893939,Odyssey,9,urn:cts:greekLit:tlg0012.tlg002:16.431 Homer Odyssey: s-4475 w-8, Homer Odyssey: s-4505 w-17,406
+177,0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:17.1 Homer Iliad: s-4506 w-1,urn:cts:greekLit:tlg0012.tlg002:17.250 Homer Iliad: s-4642 w-20,1999
+178,0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:17.250 Homer Iliad: s-4642 w-22,urn:cts:greekLit:tlg0012.tlg002:17.489 Homer Iliad: s-4790 w-3,2000
+179,0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:17.489 Homer Iliad: s-4790 w-4,urn:cts:greekLit:tlg0012.tlg002:18.118 Homer Iliad: s-4952 w-6,2000
+180,0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:18.118 Homer Iliad: s-4952 w-7,urn:cts:greekLit:tlg0012.tlg002:18.363 Homer Iliad: s-5094 w-12,2000
+181,0.001893939,Odyssey,5,urn:cts:greekLit:tlg0012.tlg002:18.363 Homer Iliad: s-5094 w-14,urn:cts:greekLit:tlg0012.tlg002:19.178 Homer Iliad: s-5242 w-9,2000
+182,0.001893939,Odyssey,6,urn:cts:greekLit:tlg0012.tlg002:19.178 Homer Iliad: s-5242 w-10,urn:cts:greekLit:tlg0012.tlg002:19.427 Homer Iliad: s-5382 w-10,2000
+183,0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:19.427 Homer Iliad: s-5382 w-11,urn:cts:greekLit:tlg0012.tlg002:20.69 Homer Iliad: s-5522 w-18,2000
+184,0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:20.69 Homer Iliad: s-5522 w-19,urn:cts:greekLit:tlg0012.tlg002:20.315 Homer Iliad: s-5673 w-4,2000
+185,0.001893939,Odyssey,9,urn:cts:greekLit:tlg0012.tlg002:20.315 Homer Iliad: s-5673 w-5, Homer Iliad: s-5717 w-5,633
+186,0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:21.1 Homer Odyssey: s-5718 w-1,urn:cts:greekLit:tlg0012.tlg002:21.258 Homer Odyssey: s-5852 w-5,2000
+187,0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:21.258 Homer Odyssey: s-5852 w-6,urn:cts:greekLit:tlg0012.tlg002:22.68 Homer Odyssey: s-5992 w-4,2000
+188,0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:22.68 Homer Odyssey: s-5992 w-5,urn:cts:greekLit:tlg0012.tlg002:22.319 Homer Odyssey: s-6133 w-8,2000
+189,0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:22.319 Homer Odyssey: s-6133 w-10, Homer Odyssey: s-6274 w-1,2000
+190,0.001893939,Odyssey,5,urn:cts:greekLit:tlg0012.tlg002:23.70 Homer Odyssey: s-6274 w-2,urn:cts:greekLit:tlg0012.tlg002:23.315 Homer Odyssey: s-6400 w-20,2000
+191,0.001893939,Odyssey,6,urn:cts:greekLit:tlg0012.tlg002:23.316 Homer Odyssey: s-6400 w-21,urn:cts:greekLit:tlg0012.tlg002:24.203 Homer Odyssey: s-6524 w-6,2000
+192,0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:24.203 Homer Odyssey: s-6524 w-7,urn:cts:greekLit:tlg0012.tlg002:24.445 Homer Odyssey: s-6655 w-9,2000
+193,0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:24.446 Homer Odyssey: s-6655 w-10, Homer Odyssey: s-6723 w-22,853
+194,0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:5.1 Homer Odyssey: s-1214 w-1,urn:cts:greekLit:tlg0012.tlg002:5.244 Homer Odyssey: s-1343 w-7,2000
+195,0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:5.244 Homer Odyssey: s-1343 w-8,urn:cts:greekLit:tlg0012.tlg002:5.487 Homer Odyssey: s-1478 w-15,2000
+196,0.001893939,Odyssey,3,urn:cts:greekLit:tlg0012.tlg002:5.487 Homer Odyssey: s-1478 w-16,urn:cts:greekLit:tlg0012.tlg002:6.235 Homer Odyssey: s-1614 w-27,2000
+197,0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:6.235 Homer Odyssey: s-1614 w-28, Homer Odyssey: s-1756 w-16,2000
+198,0.001893939,Odyssey,5, Homer Odyssey: s-1756 w-17,urn:cts:greekLit:tlg0012.tlg002:8.56 Homer Odyssey: s-1886 w-10,2000
+199,0.001893939,Odyssey,6, Homer Odyssey: s-1886 w-11,urn:cts:greekLit:tlg0012.tlg002:8.302 Homer Odyssey: s-2021 w-1,2000
+200,0.001893939,Odyssey,7,urn:cts:greekLit:tlg0012.tlg002:8.302 Homer Odyssey: s-2021 w-2,urn:cts:greekLit:tlg0012.tlg002:8.549 Homer Odyssey: s-2161 w-1,2000
+201,0.001893939,Odyssey,8,urn:cts:greekLit:tlg0012.tlg002:8.549 Homer Odyssey: s-2161 w-2, Homer Odyssey: s-2178 w-16,318
+202,0.001893939,Odyssey,1,urn:cts:greekLit:tlg0012.tlg002:9.1 Homer Odyssey: s-2179 w-1 Homer Odyssey: s-2179 w-1, Homer Odyssey: s-2304 w-8 Homer Odyssey: s-2304 w-8,2000
+203,0.001893939,Odyssey,2,urn:cts:greekLit:tlg0012.tlg002:9.252 Homer Odyssey: s-2305 w-1 Homer Odyssey: s-2305 w-1,urn:cts:greekLit:tlg0012.tlg002:9.496 Homer Odyssey: s-2445 w-13 Homer Odyssey: s-2445 w-13,2000
+204,0.001893939,Odyssey,3, Homer Odyssey: s-2445 w-14,urn:cts:greekLit:tlg0012.tlg002:10.192 Homer Odyssey: s-2584 w-1 Homer Odyssey: s-2584 w-1,2000
+205,0.001893939,Odyssey,4,urn:cts:greekLit:tlg0012.tlg002:10.192 Homer Odyssey: s-2584 w-2 Homer Odyssey: s-2584 w-2, Homer Odyssey: s-2733 w-7 Homer Odyssey: s-2733 w-7,2000
+206,0.001893939,Odyssey,5, Homer Odyssey: s-2734 w-1 Homer Odyssey: s-2734 w-1,urn:cts:greekLit:tlg0012.tlg002:11.110 Homer Odyssey: s-2857 w-2 Homer Odyssey: s-2857 w-2,2000
+207,0.001893939,Odyssey,6, Homer Odyssey: s-2857 w-3,urn:cts:greekLit:tlg0012.tlg002:11.357 Homer Odyssey: s-2987 w-18 Homer Odyssey: s-2987 w-18,2000
+208,0.001893939,Odyssey,7, Homer Odyssey: s-2987 w-19,urn:cts:greekLit:tlg0012.tlg002:11.603 Homer Odyssey: s-3109 w-12 Homer Odyssey: s-3109 w-12,2000
+209,0.001893939,Odyssey,8, Homer Odyssey: s-3109 w-13 Homer Odyssey: s-3109 w-13,urn:cts:greekLit:tlg0012.tlg002:12.207 Homer Odyssey: s-3240 w-9 Homer Odyssey: s-3240 w-9,2000
+210,0.001893939,Odyssey,9,urn:cts:greekLit:tlg0012.tlg002:12.207 Homer Odyssey: s-3240 w-10 Homer Odyssey: s-3240 w-10, Homer Odyssey: s-3366 w-10 Homer Odyssey: s-3366 w-10,1955
+211,0.007575758,Plutarch,1, Plutarch Alcibiades: s-1 w-1, Plutarch Alcibiades: s-93 w-23,2000
+212,0.007575758,Plutarch,2, Plutarch Alcibiades: s-93 w-24, Plutarch Alcibiades: s-175 w-1,2000
+213,0.007575758,Plutarch,3, Plutarch Alcibiades: s-175 w-2, Plutarch Alcibiades: s-256 w-13,2000
+214,0.007575758,Plutarch,4, Plutarch Alcibiades: s-256 w-14, Plutarch Alcibiades: s-340 w-2,2000
+215,0.007575758,Plutarch,5, Plutarch Alcibiades: s-340 w-3, Plutarch Alcibiades: s-408 w-8,2000
+216,0.007575758,Plutarch,6, Plutarch Alcibiades: s-408 w-9, Plutarch Alcibiades: s-431 w-72,640
+217,0.007575758,Plutarch,1, Plutarch Lycurgus: s-1 w-1, Plutarch Lycurgus: s-79 w-32,2000
+218,0.007575758,Plutarch,2, Plutarch Lycurgus: s-79 w-33, Plutarch Lycurgus: s-163 w-2,2000
+219,0.007575758,Plutarch,3, Plutarch Lycurgus: s-163 w-3, Plutarch Lycurgus: s-253 w-16,2000
+220,0.007575758,Plutarch,4, Plutarch Lycurgus: s-253 w-17, Plutarch Lycurgus: s-351 w-15,2000
+221,0.007575758,Plutarch,5, Plutarch Lycurgus: s-351 w-16,Plutarch Lycurgus: s-434 w-8,1996
+222,0.005952381,Polybius,1, Polybius Book 1: s-1 w-1, Polybius Book 1: s-67 w-18,2000
+223,0.005952381,Polybius,2, Polybius Book 1: s-67 w-19, Polybius Book 1: s-143 w-43,2000
+224,0.005952381,Polybius,3, Polybius Book 1: s-143 w-44, Polybius Book 1: s-223 w-7,2000
+225,0.005952381,Polybius,4, Polybius Book 1: s-223 w-8, Polybius Book 1: s-301 w-13,2000
+226,0.005952381,Polybius,5, Polybius Book 1: s-301 w-14, Polybius Book 1: s-380 w-36,2000
+227,0.005952381,Polybius,6, Polybius Book 1: s-380 w-37, Polybius Book 1: s-458 w-1,2000
+228,0.005952381,Polybius,7, Polybius Book 1: s-458 w-2, Polybius Book 1: s-522 w-51,2000
+229,0.005952381,Polybius,8, Polybius Book 1: s-522 w-52, Polybius Book 1: s-595 w-27,2000
+230,0.005952381,Polybius,9, Polybius Book 1: s-595 w-28, Polybius Book 1: s-663 w-21,2000
+231,0.005952381,Polybius,10, Polybius Book 1: s-663 w-22, Polybius Book 1: s-737 w-25,2000
+232,0.005952381,Polybius,11, Polybius Book 1: s-737 w-27, Polybius Book 1: s-808 w-70,2000
+233,0.005952381,Polybius,12, Polybius Book 1: s-808 w-71, Polybius Book 1: s-882 w-22,2000
+234,0.005952381,Polybius,13, Polybius Book 1: s-882 w-24, Polybius Book 1: s-967 w-9,2000
+235,0.005952381,Polybius,14, Polybius Book 1: s-967 w-10, Polybius Book 1: s-1001 w-5,894
+236,0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg003:1 Sophocles Ajax: s-1 w-1,urn:cts:greekLit:tlg0011.tlg003:320 Sophocles Ajax: s-176 w-11,2000
+237,0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg003:320 Sophocles Ajax: s-176 w-12,urn:cts:greekLit:tlg0011.tlg003:641 Sophocles Ajax: s-356 w-8,2000
+238,0.00308642,Sophocles,3,urn:cts:greekLit:tlg0011.tlg003:642 Sophocles Ajax: s-356 w-9,urn:cts:greekLit:tlg0011.tlg003:970 Sophocles Ajax: s-524 w-6,2000
+239,0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg003:970 Sophocles Ajax: s-524 w-8,urn:cts:greekLit:tlg0011.tlg003:1265 Sophocles Ajax: s-693 w-7,2000
+240,0.00308642,Sophocles,5, Sophocles Ajax: s-693 w-8,Sophocles Ajax: s-785 w-13,1110
+241,0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg002:1 Sophocles Antigone: s-1 w-1,urn:cts:greekLit:tlg0011.tlg002:306 Sophocles Antigone: s-146 w-6,2000
+242,0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg002:306 Sophocles Antigone: s-146 w-7,urn:cts:greekLit:tlg0011.tlg002:605 Sophocles Antigone: s-322 w-9,2000
+243,0.00308642,Sophocles,3, Sophocles Antigone: s-322 w-10,urn:cts:greekLit:tlg0011.tlg002:931 Sophocles Antigone: s-476 w-3,2000
+244,0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg002:931 Sophocles Antigone: s-476 w-4,urn:cts:greekLit:tlg0011.tlg002:1272 Sophocles Antigone: s-646 w-1,2000
+245,0.00308642,Sophocles,5,urn:cts:greekLit:tlg0011.tlg002:1272 Sophocles Antigone: s-646 w-2, Sophocles Antigone: s-687 w-13,443
+246,0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg005:1 Sophocles Electra: s-1 w-1,urn:cts:greekLit:tlg0011.tlg005:335 Sophocles Electra: s-141 w-8,2000
+247,0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg005:336 Sophocles Electra: s-141 w-10,urn:cts:greekLit:tlg0011.tlg005:621 Sophocles Electra: s-311 w-1,2000
+248,0.00308642,Sophocles,3,urn:cts:greekLit:tlg0011.tlg005:621 Sophocles Electra: s-311 w-2,urn:cts:greekLit:tlg0011.tlg005:922 Sophocles Electra: s-504 w-6,2000
+249,0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg005:922 Sophocles Electra: s-504 w-7,urn:cts:greekLit:tlg0011.tlg005:1205 Sophocles Electra: s-698 w-1,2000
+250,0.00308642,Sophocles,5,urn:cts:greekLit:tlg0011.tlg005:1205 Sophocles Electra: s-698 w-2,urn:cts:greekLit:tlg0011.tlg005:1496 Sophocles Electra: s-915 w-7,2000
+251,0.00308642,Sophocles,6,urn:cts:greekLit:tlg0011.tlg005:1496 Sophocles Electra: s-915 w-9, Sophocles Electra: s-929 w-16,121
+252,0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg004:1 Sophocles OT: s-1 w-1,urn:cts:greekLit:tlg0011.tlg004:301 Sophocles OT: s-142 w-13,1999
+253,0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg004:301 Sophocles OT: s-142 w-14,urn:cts:greekLit:tlg0011.tlg004:577 Sophocles OT: s-320 w-3,2000
+254,0.00308642,Sophocles,3,urn:cts:greekLit:tlg0011.tlg004:577 Sophocles OT: s-320 w-4,urn:cts:greekLit:tlg0011.tlg004:852 Sophocles OT: s-495 w-15,2000
+255,0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg004:852 Sophocles OT: s-495 w-16,Sophocles OT: s-698 w-7,2000
+256,0.00308642,Sophocles,5,urn:cts:greekLit:tlg0011.tlg004:1132 Sophocles OT: s-699 w-1,urn:cts:greekLit:tlg0011.tlg004:1432 Sophocles OT: s-865 w-6,2000
+257,0.00308642,Sophocles,6,urn:cts:greekLit:tlg0011.tlg004:1432 Sophocles OT: s-865 w-7,Sophocles OT: s-931 w-23,753
+258,0.00308642,Sophocles,1,urn:cts:greekLit:tlg0011.tlg001:1 Sophocles Trachiniae: s-1 w-1,Sophocles Trachiniae: s-142 w-14,1999
+259,0.00308642,Sophocles,2,urn:cts:greekLit:tlg0011.tlg001:314 Sophocles Trachiniae: s-143 w-1,urn:cts:greekLit:tlg0011.tlg001:599 Sophocles Trachiniae: s-312 w-6,2000
+260,0.00308642,Sophocles,3,urn:cts:greekLit:tlg0011.tlg001:599 Sophocles Trachiniae: s-312 w-7,urn:cts:greekLit:tlg0011.tlg001:925 Sophocles Trachiniae: s-468 w-18,2000
+261,0.00308642,Sophocles,4,urn:cts:greekLit:tlg0011.tlg001:926 Sophocles Trachiniae: s-468 w-19,urn:cts:greekLit:tlg0011.tlg001:1230 Sophocles Trachiniae: s-645 w-3,2000
+262,0.00308642,Sophocles,5,urn:cts:greekLit:tlg0011.tlg001:1230 Sophocles Trachiniae: s-645 w-4,Sophocles Trachiniae: s-669 w-31,317
+263,0.006944444,Thucydides,1, Thuc. Book 1: s-1 w-1, Thuc. Book 1: s-67 w-28,2000
+264,0.006944444,Thucydides,2, Thuc. Book 1: s-67 w-29, Thuc. Book 1: s-146 w-7,2000
+265,0.006944444,Thucydides,3, Thuc. Book 1: s-146 w-8, Thuc. Book 1: s-219 w-18,2000
+266,0.006944444,Thucydides,4, Thuc. Book 1: s-219 w-19, Thuc. Book 1: s-299 w-46,2000
+267,0.006944444,Thucydides,5,Thuc. Book 1: s-299 w-47, Thuc. Book 1: s-380 w-4,2000
+268,0.006944444,Thucydides,6, Thuc. Book 1: s-380 w-5, Thuc. Book 1: s-460 w-45,2000
+269,0.006944444,Thucydides,7, Thuc. Book 1: s-460 w-46, Thuc. Book 1: s-552 w-18,2000
+270,0.006944444,Thucydides,8, Thuc. Book 1: s-552 w-19, Thuc. Book 1: s-632 w-3,2000
+271,0.006944444,Thucydides,9, Thuc. Book 1: s-632 w-4, Thuc. Book 1: s-717 w-17,2000
+272,0.006944444,Thucydides,10, Thuc. Book 1: s-717 w-18, Thuc. Book 1: s-794 w-10,2000
+273,0.006944444,Thucydides,11, Thuc. Book 1: s-794 w-11, Thuc. Book 1: s-863 w-1,2000
+274,0.006944444,Thucydides,12, Thuc. Book 1: s-863 w-2, Thuc. Book 1: s-942 w-11,1913

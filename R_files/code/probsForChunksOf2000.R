@@ -25,7 +25,7 @@ x <- 1/12
 (iliad <- x/74)
 
 # lysias
-(lysias <- x/6)
+(lysias <- x/6*.5 )
 
 # odyssey
 (odyssey <- x/44)
