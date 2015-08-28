@@ -3,7 +3,7 @@
 
 
 # variable for number of authors
-x <- 1/13
+x <- 1/12
 
 
 #aeschylus
