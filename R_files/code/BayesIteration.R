@@ -2,7 +2,7 @@
 # read in .csv file with probabilities for chunks.  The goal is to make each author equally likely
 # to be chosen
 
-prob.m <- read.csv (file="Rresults/Naive_Bayes_predictions/chunkSize2000/chunk_parameters2.csv")
+prob.m <- read.csv (file="Rresults/Naive_Bayes_predictions/chunkSize2000/chunk_parameters3.csv")
 
 #load package e1071
 library(e1071)
