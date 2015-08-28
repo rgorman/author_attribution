@@ -2,6 +2,7 @@
 head(d)
 # create vector of levels used in row of sWord_predictions.l
 levs <- levels(sWord_predictions.l[[11]])
+levs <- NULL
 
 # each row of object a is a vector to be used as an index in object levs. In this way, we replace the viector of factor-level numbers
 # with author names

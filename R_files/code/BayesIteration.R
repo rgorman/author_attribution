@@ -85,3 +85,9 @@ write.csv (d, file="Rresults/Naive_Bayes_predictions/right_answers.csv")
 #save list of sWord_classifier objects as binary file
 save(sW.classifier.l, file="Rresults/Naive_Bayes_predictions/list_of_classifiers.R")
 
+# save the index numbers so that chunks can be traced back to originals
+# one file is a matrix with each classification attempt represented on 
+#one line, the other file is a single vector to serve as back up.
+index.record.m <- matrix(index.record.v, nrow=100, ncol=28, byrow=TRUE)
+write.csv(index.record.m, file="Rresults/Naive_Bayes_predictions/index_matrix.csv")
+write.csv(index.record.v, file="Rresults/Naive_Bayes_predictions/index_vector.csv")
