@@ -25,12 +25,12 @@
                                 <xsl:choose>
                                     <xsl:when test="./@DepDist > 0">
                                         <word><xsl:copy-of select="@*"/>
-                                            <xsl:value-of select="./@relation"/>-<xsl:value-of select="substring(./@postag, 1, 1)"/>-<xsl:value-of select="./@DepDist"/>-#
+                                            <xsl:value-of select="./@relation"/>-<xsl:value-of select="substring(./@postag, 1, 1)"/>-<xsl:value-of select="./@DepDist"/>
                                         </word>
                                     </xsl:when>
                                     <xsl:otherwise>
                                         <word><xsl:copy-of select="@*"/>
-                                            <xsl:value-of select="./@relation"/>-<xsl:value-of select="substring(./@postag, 1, 1)"/>-#
+                                            <xsl:value-of select="./@relation"/>-<xsl:value-of select="substring(./@postag, 1, 1)"/>
                                         </word> 
                                     </xsl:otherwise>
                                 </xsl:choose>

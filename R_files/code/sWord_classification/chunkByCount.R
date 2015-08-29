@@ -5,37 +5,8 @@ input.dir <- "sWord_input/rel_file"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
-# function to make list of relative frequency tables of chunks of ngrams.
-# The function should not be run directly, but called by the script following the function.
-# The function is included here to facilitate changing of the parameters for getNodeSet().
-# Changing the second argument of getNodeSet() should allow generation of objects based on
-# simple sequential features of treebank files (i.e., not ,<sWord> elements, but linear
-# <word> elements). For example, replace second argument of getNodeSet with //word/@relation
 
 
-getSwordChunkMaster <- function(doc.object, chunk.size=250) {
-  swords <-getNodeSet(doc.object, "//sWord", )
-  sword.content <- paste(sapply(swords, xmlValue), collapse=NULL)
-  
-  
-  sword.content.lower <- tolower(sword.content)
-  
-  #the following lines split sword.content.lower in equalsized chunks accounting for remainders
-  # max.length <- length(sword.content.lower)/chunk.size
-  divisor <- length(sword.content.lower)/chunk.size
-  max.length <- length(sword.content.lower)/divisor
-  x <- seq_along(sword.content.lower)
-  chunks.l <- split(sword.content.lower, ceiling(x/max.length))
-  
-  #convert the list object chunks.l into table objects
-  freq.chunks.l <- lapply(chunks.l, table)
-  
-  #convert the result from raw frequencies to relative fequencies
-  rel.freq.chunk.l <- lapply(freq.chunks.l, prop.table)
-  
-  #return the result
-  return(rel.freq.chunk.l)
-}
 
 #the following script calls the user-defined function "getSwordChunkMaster).
 #this function will return a list of lists of tables, each table with a maximum of words = the second variable
@@ -116,48 +87,5 @@ smaller.df <- final.df[, keepers.v]
 dim(smaller.df)
 
 
-#supervised classification of chunks using naive Bayes algorithm
-
-# create vector of integers giving index points of random 10% of number of rows in smaller.df
-seq (1, nrow(smaller.df))
-testing.index.v <- sample (seq (1, nrow(smaller.df)), 28)
-
-#create training and testing data matrices using testing.index.v and its inverse
-testing.data <- smaller.df[testing.index.v, ]
-training.data <- smaller.df[-testing.index.v, ]
-
-#create vectors of factors giving classes (here = authors) of each row in testing.data and training.data
-training.classes <- as.factor(author.v[-testing.index.v])
-testing.classes <- as.factor(author.v[testing.index.v])
-
-#load package e1071
-library(e1071)
-
-#train the algorithm using training.data and training classes
-sWord_classifier <- naiveBayes(training.data, training.classes)
-
-# test the algorithm by using sWord_classifier to predict() the testing.data
-sWord_predictions <- predict(sWord_classifier, testing.data)
-
-# make a file of the raw probabilities
-sWord_predictions_raw <- predict(sWord_classifier, testing.data, type = "raw")
-
-# load package gmodels for functions to evaluate predictions
-library (gmodels)
-
-sWord_predictions
-testing.classes
-
-results_table <- table(sWord_predictions, testing.classes)
-write.csv (results_table, file="sWord_output/results_table.csv")
-write.csv (sWord_predictions_raw, file="sWord_output/results_table_raw.csv")
-write.csv (error.m, file="sWord_output/error_matrix.csv")
-
-results_table <- table(Predictions=sWord_predictions, TrueLabels=testing.classes)
-
-library(klaR)
-error.m <-errormatrix(testing.classes, sWord_predictions)
 
 
-
-error.m2 <- rbind(error.m, error.m)  
