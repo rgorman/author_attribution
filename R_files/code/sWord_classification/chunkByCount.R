@@ -77,7 +77,7 @@ author.v
 freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
-keepers.v <- which(freq.means.v >=.001)
+keepers.v <- which(freq.means.v >=.0001)
 
 
 #use keepers.v to make a smaller data frame object for analysis
@@ -85,6 +85,7 @@ smaller.df <- final.df[, keepers.v]
 
 
 dim(smaller.df)
+
 
 
 
