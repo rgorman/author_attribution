@@ -30,22 +30,71 @@ library(klaR)
 # script to test Naive Bayes in multiple iterations.
 
 # create vector with various number of features to be tested
-feature.number.v <- seq(5, 100, 5)
-
-# create matrix to hold total sum of errors in test and feature number
-total.errors.m <- matrix(nrow = 1, ncol = 2)
-# set column names
-colnames(total.errors.m) <- c("features", "sum")
+feature.number.v <- seq(5, 500, 5)
 
 
-# make list and vector objects to collect input and output data
 
-index.record.v <- NULL
-error.v <- NULL
+
+# make list and vector objects to collect results
+
+
+total.errors.l <-list()
+
+# set increment variables to 1
 i <- 1
+j <- 5
+
+for (j in j:length(feature.number v)) {
+ error.v <- NULL
+  feature.df <- sorted.df[, 1:j]
+  
+  for (i in i:100) {
+    #create vector of random integers = 10% of obs in smaller.df
+    testing.index.v <- sample (seq (1, nrow(feature.df)), 28, prob=prob.m$prob)
+    
+    #create training and testing data matrices using testing.index.v and its inverse
+    testing.data <- feature.df[testing.index.v, ]
+    training.data <- feature.df[-testing.index.v, ]
+    
+    #create vectors of factors giving classes (here = authors) of each row in testing.data and training.data
+    training.classes <- as.factor(author.v[-testing.index.v])
+    testing.classes <- as.factor(author.v[testing.index.v])
+    
+    #train the algorithm using training.data and training classes
+    sWord_classifier <- naiveBayes(training.data, training.classes)
+    
+    
+    # run classification algorithm and put results in object
+    
+    holder <- predict(sWord_classifier, testing.data)
+    
+    
+    # create errror matrix of results and put into object    
+    
+   error.m <- errormatrix(testing.classes, holder)
+   
+   error.v <- append(error.v, error.m[12,12])
+    
+   
+    
+  }
+  
+  # save grand total of errors for each iteration into list object along with number of features
+  
+  total.errors.l[[j]] <- c(j, sum(error.v)
+                           
+                           
+  
+                           
+}
 
 
 
+error.total.v <- sum(error.v)
+
+
+
+errors
 #combine all matrices contained in err.matr.l into one matrix for export to .csv file
 a <- do.call(rbind, err.matr.l)
 write.csv(a, file="Rresults/Naive_Bayes_predictions/error_matrix.csv")
