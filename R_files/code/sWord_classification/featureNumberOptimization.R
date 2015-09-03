@@ -40,6 +40,7 @@ feature.number.v <- seq(2, 500, 2)
 
 total.errors.l <-list()
 intermediate.l <- list()
+total.errors2.l <- list()
 
 # set increment variables to 1
 i <- 1
@@ -48,7 +49,7 @@ j <- 1
 for (j in j:250) {
   
   error.v <- NULL
-  feature.df <- sorted.df[, 1:feature.number.v[j]]
+  feature.df <- sorted.df[, 1:feature.number.v[10]]
   
   for (i in i:100) {
     #create vector of random integers = 10% of obs in smaller.df
@@ -75,7 +76,7 @@ for (j in j:250) {
     
     error.m <- errormatrix(testing.classes, holder)
     
-    # this isn't working: error.v <- append(error.v, error.m[12,12])
+    error.v <- append(error.v, error.m[12,12])
     
     intermediate.l[[i]] <-error.m[12,12]
     
@@ -86,9 +87,9 @@ for (j in j:250) {
   # save grand total of errors for each iteration into list object along with number of features
   
   total.errors.l[[j]] <- c(feature.number.v[j], intermediate.l)
+  total.errors2.l[[j]] <- error.v 
   
-  
-  
+  i <- 1
   
 }
   
@@ -96,13 +97,15 @@ for (j in j:250) {
                            
   
 save (total.errors.l, file="Rresults/iteration_list.R")
+save (total.errors2.l, file="Rresults/iteration_list2.R")
 
 
 
 
 error.total.v <- sum(error.v)
 
-
+(s <-sum(error.v))
+(r <- 1-(s/2800))
 
 errors
 #combine all matrices contained in err.matr.l into one matrix for export to .csv file
