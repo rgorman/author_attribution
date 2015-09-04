@@ -30,7 +30,7 @@ library(klaR)
 # script to test Naive Bayes in multiple iterations.
 
 # create vector with various number of features to be tested
-feature.number.v <- seq(5, 500, 5)
+feature.number.v <- seq(2, 500, 2)
 
 
 
@@ -39,14 +39,17 @@ feature.number.v <- seq(5, 500, 5)
 
 
 total.errors.l <-list()
+intermediate.l <- list()
+total.errors2.l <- list()
 
 # set increment variables to 1
 i <- 1
-j <- 5
+j <- 1
 
-for (j in j:length(feature.number v)) {
- error.v <- NULL
-  feature.df <- sorted.df[, 1:j]
+for (j in j:250) {
+  
+  error.v <- NULL
+  feature.df <- sorted.df[, 1:feature.number.v[10]]
   
   for (i in i:100) {
     #create vector of random integers = 10% of obs in smaller.df
@@ -71,28 +74,38 @@ for (j in j:length(feature.number v)) {
     
     # create errror matrix of results and put into object    
     
-   error.m <- errormatrix(testing.classes, holder)
-   
-   error.v <- append(error.v, error.m[12,12])
+    error.m <- errormatrix(testing.classes, holder)
     
-   
+    error.v <- append(error.v, error.m[12,12])
+    
+    intermediate.l[[i]] <-error.m[12,12]
+    
+    
     
   }
   
   # save grand total of errors for each iteration into list object along with number of features
   
-  total.errors.l[[j]] <- c(j, sum(error.v)
-                           
+  total.errors.l[[j]] <- c(feature.number.v[j], intermediate.l)
+  total.errors2.l[[j]] <- error.v 
+  
+  i <- 1
+  
+}
+  
+                          
                            
   
-                           
-}
+save (total.errors.l, file="Rresults/iteration_list.R")
+save (total.errors2.l, file="Rresults/iteration_list2.R")
+
 
 
 
 error.total.v <- sum(error.v)
 
-
+(s <-sum(error.v))
+(r <- 1-(s/2800))
 
 errors
 #combine all matrices contained in err.matr.l into one matrix for export to .csv file

@@ -73,7 +73,8 @@ author.v
 freq.means.v <- colMeans(final.df[, ])
 
 #collect column means of a given magnitude
-keepers.v <- which(freq.means.v >=.001)
+# >=.0001 gives 654 variables in athe relation sWord data set
+keepers.v <- which(freq.means.v >=.0001)
 
 
 #use keepers.v to make a smaller data frame object for analysis
