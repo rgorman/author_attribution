@@ -49,7 +49,7 @@ j <- 1
 for (j in j:250) {
   
   error.v <- NULL
-  feature.df <- sorted.df[, 1:feature.number.v[10]]
+  feature.df <- sorted.df[, 1:feature.number.v[j]]
   
   for (i in i:100) {
     #create vector of random integers = 10% of obs in smaller.df
