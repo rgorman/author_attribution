@@ -1,7 +1,7 @@
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "sWord_input/rel_pos_files"
+input.dir <- "sWord_input/stat_files/rel_pos_files"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 i <- 1
@@ -15,33 +15,10 @@ for (i in 1:length(files.v)) {
 
 
 
-#the following script collects the data for testing
-#when the test data are full files use the immediately following sequence
-
-input.dir2 <- "data/relationFiles/testFiles"
-test.files.v <- dir (path=input.dir2, pattern=".*xml")
-
-for (i in 1:length(test.files.v)) {
-  doc.object <- xmlTreeParse(file.path(input.dir2, test.files.v[i]), useInternalNodes=TRUE)
-  sword.data <-getSwordNgramTableList(doc.object)
-  book.freqs.l[[test.files.v[i]]] <-sword.data
-  
-}
 
 
-#when the test data are partial files, use the immediately following sequence
-
-#the following script calls the user-defined function "getSwordChunkMaster).
-#this function will return a list of lists of tables, each table with a maximum of words = the second variable
 
 
-for(i in 1:length(test.files.v)){
-  doc.object <- xmlTreeParse(file.path(input.dir2, test.files.v[i]), useInternalNodes=TRUE)
-  chunk.data.l <- getSwordChunkMaster(doc.object, 2500)
-  s <- sample(chunk.data.l, 1)
-  book.freqs.l[[test.files.v[i]]] <-s
-  
-}
 
 summary(book.freqs.l)
 
@@ -54,6 +31,8 @@ freqs.df <- do.call(rbind, freqs.l)
 
 #convert from long form table to wide format
 result <- xtabs(Freq ~ ID+sword.content.lower, data=freqs.df)
+
+dim(result)
 
 #convert wide format table to matrix object
 final.m <- apply(result, 2, as.numeric)
@@ -79,5 +58,5 @@ sorted.m <- smaller.m[, order(colMeans(smaller.m), decreasing=TRUE) ]
 View(sorted.m)
 
 # save results as .csv file
-write.csv(sorted.m, file="Rresults/relPos749.csv")
+write.csv(sorted.m, file="Rresults/relPos774.csv")
 
