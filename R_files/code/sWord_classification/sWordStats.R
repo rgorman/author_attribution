@@ -79,4 +79,5 @@ sorted.m <- smaller.m[, order(colMeans(smaller.m), decreasing=TRUE) ]
 View(sorted.m)
 
 # save results as .csv file
+write.csv(sorted.m, file="Rresults/relPos749.csv")
 
