@@ -46,7 +46,7 @@ rownames(final.m) <-bookids.v
 rownames(final.m)
 
 #reduce data matrix to features with largest means (most common features)
-smaller.m <- final.m[, apply(final.m,2,mean)>=.01]
+smaller.m <- final.m[, apply(final.m,2,mean)>=.015]
 
 #check size of reduced feature set
 dim(smaller.m)
@@ -58,5 +58,5 @@ sorted.m <- smaller.m[, order(colMeans(smaller.m), decreasing=TRUE) ]
 View(sorted.m)
 
 # save results as .csv file
-write.csv(sorted.m, file="Rresults/relPos774.csv")
+write.csv(sorted.m, file="Rresults/relPos544.csv")
 
