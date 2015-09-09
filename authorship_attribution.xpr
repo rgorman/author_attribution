@@ -10,26 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>R_files/wordOrderInput/Lysias_FiveOrations.xml</String>
+                                    <String>sWord_output/Perseus_and_VG/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Lysias_FiveOrations</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>R_files/sWord_input/rel_file/Lysias_FiveOrations.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Lysias_FiveOrations</String>
+                                        <String>Aeschylus_Agamemnon</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -48,7 +33,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Lysias_FiveOrations</String>
+                                    <String>Aeschylus_Agamemnon</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -66,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/wordOrder_rel.xsl</String>
+                                    <String>${pdu}/xsl%20files/test_transformations/sWord_from_root_rel_pos.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -87,10 +72,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/R_files/wordOrderInput/wordOrder_rel/${cfne}</File>
+                                    <File>${pd}/new_pos_files/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/R_files/wordOrderInput/wordOrder_rel/${cfne}</String>
+                                    <String>${pd}/new_pos_files/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
