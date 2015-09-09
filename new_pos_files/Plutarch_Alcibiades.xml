@@ -17885,7 +17885,7 @@
              postag="d--------"
              relation="COORD"
              head="27"
-             cite=" Plutarch Alcibiades: s-114 w-23">#-COORD-c-PRED_CO-v-AuxP-r-APOS-u-COORD-c-COORD-d</sWord>
+             cite=" Plutarch Alcibiades: s-114 w-23">#-COORD-c-PRED_CO-v-AuxP-r-APOS-u-COORD-c-coord-c</sWord>
       <sWord id="24"
              form="Φαίακα"
              lemma="Φαίαξ"
@@ -18123,7 +18123,7 @@
              postag="d--------"
              relation="COORD"
              head="63"
-             cite=" Plutarch Alcibiades: s-114 w-61">#-COORD-c-PRED_CO-v-AuxP-r-APOS-u-COORD-c-COORD-c-ADV_CO-v-COORD-c-COORD-d</sWord>
+             cite=" Plutarch Alcibiades: s-114 w-61">#-COORD-c-PRED_CO-v-AuxP-r-APOS-u-COORD-c-COORD-c-ADV_CO-v-COORD-c-coord-c</sWord>
       <sWord id="62"
              form="ἄλλοις"
              lemma="ἄλλος"
