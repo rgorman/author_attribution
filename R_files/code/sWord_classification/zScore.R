@@ -12,25 +12,28 @@ labels1 <- read.csv(file="Rresults/zScoreLabelsWithsWords.csv", header=FALSE, st
 
 (xx[2:26,1] - mean(xx[2:26,1]))/ sd(xx[2:26,1])
 zscore.m <-cbind (zscore.m, xx[,2], (xx[,2] - mean(xx[,2]))/ sd(xx[,2]))
+zscore.m <- xxx
 
+col.scores <- 
 
 xx[2:26, 1]
 zscore.m <- cbind (xx[, 1], (xx[,1] - mean(xx[,1]))/ sd(xx[,1]))
-i <- 3
-for (i in i : 774) {
-  zscore.m <- cbind (zscore.m, xx[, i], (xx[,i] - mean(xx[,i]))/ sd(xx[,i]))
+i <- 2
+for (i in i : 544) {
+  zscore.m <- cbind (zscore.m, sorted.m[, i], (sorted.m[,i] - mean(sorted.m[,i]))/ sd(sorted.m[,i]))
   
 }
 
 
-write.csv(zscore.m, file="Rresults/zScoreLabels.csv")
-write.csv(final.m, file="Rresults/relPosFreqsWithZscores.csv.csv")
+write.csv(labels2, file="Rresults/zScoreLabels544.csv")
+write.csv(zscore.m, file="Rresults/relPosFreqsWithZscores544.csv")
 
-zscore.m <- matrix(rep("Z-score", 774), nrow=1, ncol=774)
-feature.m <- xx[1,2:775]
+labels.m <- matrix(rep("Z-score", 544), nrow=1, ncol=544)
+feature.m <- matrix(colnames(sorted.m), nrow=1, ncol=544)
+combined.m <- rbind(feature.m, labels.m)
 
 
-
+View(combined.m)
 
 dim(feature.m)
 dim(zscore.m)
@@ -38,7 +41,7 @@ dim(labels2)
 length(labels2)/2
 
 
-labels2 <- matrix(labels1, nrow=1, ncol=1548)
+labels2 <- matrix(combined.m, nrow=1, ncol=1088)
 
 a <-  unlist(labels2)
 a[1548:1560]
@@ -50,7 +53,7 @@ final.m <-rbind(labels3, yy)
 
 View(final.m)
 View(labels2)
-View(labels1)
+View(labels.m)
 View(zscore.m)
 View(yy)
 View(feature.m)
