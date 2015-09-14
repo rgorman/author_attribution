@@ -3,7 +3,7 @@
 
 
 # variable for number of authors
-x <- 1/12
+x <- 1/11
 
 
 #aeschylus
@@ -22,13 +22,13 @@ x <- 1/12
 (hesiod <- x /10)
 
 # iliad
-(iliad <- x/74)
+(iliad <- x/62)
 
 # lysias
 (lysias <- x/6*.5 )
 
 # odyssey
-(odyssey <- x/44)
+(odyssey <- x/50)
 
 # plato
 (plato <- x/3)

@@ -6,7 +6,7 @@
 library(XML)
 library(stylo)
 source("code/corpusFunctions.R")
-input.dir <- "sWord_input/rel_file"
+input.dir <- "sWord_input/stat_files/rel_pos_files"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -31,6 +31,7 @@ for(i in 1:length(files.v)){
   
 }
 
+summary(cite.l)
 
 # The following script creates a matrix containing the citation of the first and last words in a
 # given chunk and the size (in words) of the chunk. It depends on the list object "cite.l"
@@ -59,5 +60,5 @@ cite.param.m <-df[-1,]
 
 #save cite.param.m as .csv file
 
-write.csv (cite.param.m, file="Rresults/chunk_parameters2.csv")
+write.csv (cite.param.m, file="Rresults/chunk_parameters5.csv")
 

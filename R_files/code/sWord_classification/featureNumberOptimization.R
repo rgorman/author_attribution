@@ -16,7 +16,7 @@ View(sorted.df)
 # read in .csv file with probabilities for chunks.  The goal is to make each author equally likely
 # to be chosen
 
-prob.m <- read.csv (file="Rresults/Naive_Bayes_predictions/chunkSize2000/chunk_parameters3.csv")
+prob.m <- read.csv (file="Rresults/Naive_Bayes_predictions/chunkSize2000/chunk_parameters5.csv")
 
 #load package e1071
 library(e1071)
@@ -46,60 +46,7 @@ total.errors2.l <- list()
 i <- 1
 j <- 1
 
-for (j in j:250) {
   
-  error.v <- NULL
-  feature.df <- sorted.df[, 1:feature.number.v[j]]
-  
-  for (i in i:100) {
-    #create vector of random integers = 10% of obs in smaller.df
-    testing.index.v <- sample (seq (1, nrow(feature.df)), 28, prob=prob.m$prob)
-    
-    #create training and testing data matrices using testing.index.v and its inverse
-    testing.data <- feature.df[testing.index.v, ]
-    training.data <- feature.df[-testing.index.v, ]
-    
-    #create vectors of factors giving classes (here = authors) of each row in testing.data and training.data
-    training.classes <- as.factor(author.v[-testing.index.v])
-    testing.classes <- as.factor(author.v[testing.index.v])
-    
-    #train the algorithm using training.data and training classes
-    sWord_classifier <- naiveBayes(training.data, training.classes)
-    
-    
-    # run classification algorithm and put results in object
-    
-    holder <- predict(sWord_classifier, testing.data)
-    
-    
-    # create errror matrix of results and put into object    
-    
-    error.m <- errormatrix(testing.classes, holder)
-    
-    error.v <- append(error.v, error.m[12,12])
-    
-    intermediate.l[[i]] <-error.m[12,12]
-    
-    
-    
-  }
-  
-  # save grand total of errors for each iteration into list object along with number of features
-  
-  total.errors.l[[j]] <- c(feature.number.v[j], intermediate.l)
-  total.errors2.l[[j]] <- error.v 
-  
-  i <- 1
-  
-}
-  
-                          
-                           
-  
-save (total.errors.l, file="Rresults/iteration_list.R")
-save (total.errors2.l, file="Rresults/iteration_list2.R")
-
-
 
 
 
