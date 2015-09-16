@@ -1,7 +1,7 @@
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "sWord_input/rel_pos_files"
+input.dir <- "sWord_input/stat_files/rel_pos_files"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -25,6 +25,7 @@ for(i in 1:length(files.v)){
 
 
 summary(book.freqs.l)
+freqs.l <- list()
 
 #convert list into matrix object
 #this code requires the user defined function "my.apply"
@@ -87,5 +88,15 @@ smaller.df <- final.df[, keepers.v]
 dim(smaller.df)
 
 
+# order columns by column mean, largest to smallest and create object with results
+ordered.df <- smaller.df[, order(colMeans(smaller.df), decreasing=TRUE)]
+View(ordered.df)
+
+# reseve full ordered.df and smaller.df for backup
+ordered.df.backup <- ordered.df
+smaller.df.backup <- smaller.df
+
+# reduce variables from ordered.df (165 for rel-pos files is the sweet spot)
+smaller.df <- ordered.df[, 1:165]
 
 
