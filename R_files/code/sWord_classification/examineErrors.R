@@ -14,7 +14,7 @@ load(file="Rresults/Naive_Bayes_predictions/chunkSize2000/c100_variables/relatio
 
 err.matr.l[[1]]
 sW.classifier.l[[1]][2]
-sWord_predictions.l[[1]]
+sWord_predictions.l[[1]][1]
 sWord_predictions_raw.l[[1]]
 testing.classes.l[[1]]
 
