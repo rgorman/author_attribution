@@ -99,4 +99,4 @@ smaller.df.backup <- smaller.df
 # reduce variables from ordered.df (165 for rel-pos files is the sweet spot)
 smaller.df <- ordered.df[, 1:165]
 
-
+View(smaller.df)
