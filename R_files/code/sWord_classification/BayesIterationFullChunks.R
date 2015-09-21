@@ -18,6 +18,7 @@ smaller.df <- smaller.df[-skip.v,]
 short.prob.m <- read.csv (file="Rresults/short_parameters1.csv")
 prob.m <- read.csv (file="Rresults/Naive_Bayes_predictions/chunkSize2000/chunk_parameters5.csv")
 
+
 #load package e1071
 library(e1071)
 # load package gmodels for functions to evaluate predictions
@@ -41,7 +42,7 @@ i <- 1
 
 for (i in 1:100) {
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 23, prob=short.prob.m$Prob)
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 28, prob=prob.m$Prob)
   
   #create training and testing data matrices using testing.index.v and its inverse
   testing.data <- smaller.df[testing.index.v, ]
