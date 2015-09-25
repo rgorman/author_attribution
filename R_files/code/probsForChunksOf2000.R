@@ -8,7 +8,7 @@ x <- 1/11
 
 #aeschylus
 (aeschy <- x/25)
-(aeschy <- x/16)
+(aeschy <- x/20)
 
 # athen
 (athen <- x/22)
@@ -42,7 +42,7 @@ x <- 1/11
 
 # plutarch
 (plut <- x/11)
-(plut <- x/9)
+(plut <- x/10)
 
 # polybius
 (plyb <- x/14)
@@ -50,7 +50,7 @@ x <- 1/11
 
 # sophocles
 (soph <- x/27)
-(soph <- x/20)
+(soph <- x/22)
 
 # thucydides
 (thuc <- x/12)

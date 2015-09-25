@@ -7,8 +7,9 @@
 
 # read in .csv file with probabilities for chunks.  The goal is to make each author equally likely
 # to be chosen
-
-short.chunks <- read.csv (file="Rresults/short_chunks.csv")
+# !! this step must be moved to precede creation of data frame. Otherwise, the presence of factors
+# will break the code!
+short.chunks <- read.csv (file="Rresults/short_chunks2.csv")
 View(short.chunks)
 skip.v <-as.vector(short.chunks[,2])
 
@@ -40,9 +41,16 @@ err.matr.l <- list()
 sW.classifier.l <- list()
 i <- 1
 
+x <- smaller.df[testing.index.v, ]
+y <- smaller.df[-testing.index.v, ]
+
+
+
 for (i in 1:100) {
   #create vector of random integers = 10% of obs in smaller.df
   testing.index.v <- sample (seq (1, nrow(smaller.df)), 28, prob=prob.m$Prob)
+  
+  
   
   #create training and testing data matrices using testing.index.v and its inverse
   testing.data <- smaller.df[testing.index.v, ]

@@ -60,16 +60,22 @@ freqs.df$ID <- book.chunk.ids
 result.t <- xtabs(Freq ~ ID+Var1, data=freqs.df)
 dim(result.t)
 
-# generate random index to test removal of short chunks
-random.index.v <- sample(seq(1,262, by=1), 10)
+# read in index of short chunk row  numbers
+short.chunks <- read.csv (file="Rresults/short_chunks2.csv")
+View(short.chunks)
+skip.v <-as.vector(short.chunks[,2])
+
+
+
 
 # save original result.t
 reserve.t <- result.t
 
-# remove rows indicated by random.index.v
-result.t <- result.t[-random.index.v,] 
+# remove rows indicated by skip.v
+result.t <- result.t[-skip.v,] 
 
-
+dim(result.t)
+dim(reserve.t)
 
 #convert to a data frame
 final.df <- as.data.frame.matrix(result.t)
