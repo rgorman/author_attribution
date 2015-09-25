@@ -3,12 +3,12 @@
 # Naive Bayes classification
 
 # sort smaller.df by column means
-sorted.df <- smaller.df[, order(colMeans(smaller.df), decreasing=TRUE) ]
+ordered.df <- smaller.df[, order(colMeans(smaller.df), decreasing=TRUE) ]
 
 
 
 View(smaller.df)
-View(sorted.df)
+View(ordered.df)
 
 
 
@@ -50,11 +50,11 @@ j <- 1
 for (j in j:250) {
   
     error.v <- NULL
-    feature.df <- sorted.df[, 1:feature.number.v[j]]
+    feature.df <- ordered.df[, 1:feature.number.v[j]]
     
     for (i in i:100) {
         #create vector of random integers = 10% of obs in smaller.df
-            testing.index.v <- sample (seq (1, nrow(feature.df)), 28, prob=prob.m$prob)
+            testing.index.v <- sample (seq (1, nrow(feature.df)), 24, prob=prob.m$Prob)
           
           #create training and testing data matrices using testing.index.v and its inverse
           testing.data <- feature.df[testing.index.v, ]

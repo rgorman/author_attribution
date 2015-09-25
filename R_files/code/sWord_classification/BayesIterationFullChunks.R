@@ -9,15 +9,15 @@
 # to be chosen
 # !! this step must be moved to precede creation of data frame. Otherwise, the presence of factors
 # will break the code!
-short.chunks <- read.csv (file="Rresults/short_chunks2.csv")
-View(short.chunks)
-skip.v <-as.vector(short.chunks[,2])
-
-smaller.df <- smaller.df[-skip.v,]
 
 
-short.prob.m <- read.csv (file="Rresults/short_parameters1.csv")
-prob.m <- read.csv (file="Rresults/Naive_Bayes_predictions/chunkSize2000/chunk_parameters5.csv")
+# read in appropriate parameter file to make probabilities available
+full.prob.m <- read.csv (file="Rresults/Naive_Bayes_predictions/chunkSize2000/chunk_parameters5.csv")
+short.prob.m <- read.csv (file="Rresults/short_parameters2.csv")
+
+# choose appropriate file for prop.m, which will be used in chunk selection via sample() below.
+prob.m <- full.prob.m
+prob.m <- short.prob.m
 
 
 #load package e1071
@@ -41,14 +41,13 @@ err.matr.l <- list()
 sW.classifier.l <- list()
 i <- 1
 
-x <- smaller.df[testing.index.v, ]
-y <- smaller.df[-testing.index.v, ]
+
 
 
 
 for (i in 1:100) {
   #create vector of random integers = 10% of obs in smaller.df
-  testing.index.v <- sample (seq (1, nrow(smaller.df)), 28, prob=prob.m$Prob)
+  testing.index.v <- sample (seq (1, nrow(smaller.df)), 24, prob=prob.m$Prob)
   
   
   
@@ -115,6 +114,6 @@ save(sW.classifier.l, file="Rresults/Naive_Bayes_predictions/list_of_classifiers
 # save the index numbers so that chunks can be traced back to originals
 # one file is a matrix with each classification attempt represented on 
 #one line, the other file is a single vector to serve as back up.
-index.record.m <- matrix(index.record.v, nrow=100, ncol=28, byrow=TRUE)
+index.record.m <- matrix(index.record.v, nrow=100, ncol=24, byrow=TRUE)
 write.csv(index.record.m, file="Rresults/Naive_Bayes_predictions/index_matrix.csv")
 write.csv(index.record.v, file="Rresults/Naive_Bayes_predictions/index_vector.csv")
