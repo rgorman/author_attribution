@@ -47,12 +47,12 @@ i <- 1
 j <- 1
 
   
-for (j in j:250) {
+for (j in 1:250) {
   
     error.v <- NULL
     feature.df <- ordered.df[, 1:feature.number.v[j]]
     
-    for (i in i:100) {
+    for (i in 1:100) {
         #create vector of random integers = 10% of obs in smaller.df
             testing.index.v <- sample (seq (1, nrow(feature.df)), 24, prob=prob.m$Prob)
           
