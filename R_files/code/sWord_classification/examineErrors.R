@@ -20,9 +20,9 @@ testing.classes.l[[1]]
 
 
 
-author.v <- c("Aeschylus", "Athenaeus", "Diodorus", "Hdt", "Hesiod", "Iliad", "Lysias", "Odyssey", "Plutarch", "Polybius", "Sophocles", "Thucydides")
+author.v <- c("Aeschylus", "Athenaeus", "Diodorus", "Hdt", "Hesiod", "Iliad",  "Odyssey", "Plutarch", "Polybius", "Sophocles", "Thucydides")
 
-author.m <- matrix(author.v, nrow=2800, ncol=12, byrow=TRUE)
+author.m <- matrix(author.v, nrow=2400, ncol=11, byrow=TRUE)
 View(author.m)
 
 require(gdata)
