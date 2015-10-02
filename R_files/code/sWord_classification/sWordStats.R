@@ -89,6 +89,11 @@ for (i in 1:length(combined.m[1,])) {
 
 names <- rep(colnames(sorted.m), each=2)
 
-# save matrix and names vector as scv files
+# create vector of column ranks to be added to object y
+ranks <- rep(1:537, each=2)
+
+
+# save matrix and names and ranks vectors as scv files
 write.csv(y, file="Rresults/zscores_Oct1.csv")
 write.csv(names, file="Rresults/columnNames_Oct1.csv")
+write.csv(ranks, file="Rresults/columnRanks_Oct1.csv")
