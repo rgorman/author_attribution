@@ -1,7 +1,7 @@
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "sWord_input/stat_files/rel_pos_files"
+input.dir <- "sWord_input/stat_files/combined_authors"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 i <- 1
@@ -58,5 +58,37 @@ sorted.m <- smaller.m[, order(colMeans(smaller.m), decreasing=TRUE) ]
 View(sorted.m)
 
 # save results as .csv file
-write.csv(sorted.m, file="Rresults/relPos544.csv")
+write.csv(sorted.m, file="Rresults/relPos537_Oct1.csv")
 
+# create file with z-scores for sorted.m
+zscore.m <- scale(sorted.m)
+View(zscore.m)
+
+# combine the  columns of sorted.m and zscore.m 
+combined.m <- cbind (sorted.m, zscore.m)
+
+View(combined.m)
+
+# a vector to serve as an index to reorder the columns
+s <- rep(1:537, each=2) + (0:1) * 537
+
+# create container matrix
+y <- matrix("blah", nrow=13, ncol=1)
+
+
+# a loop to bind columns in desired order
+i <- 1
+
+for (i in 1:length(combined.m[1,])) {
+ y <- cbind(y, combined.m[, s[i]])
+  
+}
+
+
+# create a vector of column names to be added to object y
+
+names <- rep(colnames(sorted.m), each=2)
+
+# save matrix and names vector as scv files
+write.csv(y, file="Rresults/zscores_Oct1.csv")
+write.csv(names, file="Rresults/columnNames_Oct1.csv")
