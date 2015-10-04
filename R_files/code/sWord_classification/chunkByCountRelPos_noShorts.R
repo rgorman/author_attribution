@@ -113,7 +113,7 @@ View(ordered.df)
 ordered.df.backup <- ordered.df
 smaller.df.backup <- smaller.df
 
-# reduce variables from ordered.df (165 for rel-pos files is the sweet spot)
+# reduce variables from ordered.df (180 for rel-pos files is the sweet spot)
 smaller.df <- ordered.df[, 1:180]
 
 View(smaller.df)
