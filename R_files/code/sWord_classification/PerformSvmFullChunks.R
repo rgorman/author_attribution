@@ -33,19 +33,18 @@ library(klaR)
 
 
 # make list and vector objects to collect input and output data
+
+svm.results.l <- list()
+svm.error.matrix.l <- list()
 testing.classes.l <- list()
-sWord_predictions.l <- list()
-sWord_predictions_raw.l <- list()
-index.record.v <- NULL
-err.matr.l <- list()
-sW.classifier.l <- list()
+
 i <- 1
 
 
 
 
 
-for (i in 1:100) {
+for (i in 1:1000) {
   #create vector of random integers = 10% of obs in smaller.df
   testing.index.v <- sample (seq (1, nrow(smaller.df)), 24, prob=prob.m$Prob)
   
@@ -60,7 +59,7 @@ for (i in 1:100) {
   testing.classes <- as.factor(author.v[testing.index.v])
   
   # carry out prediction test using svm
-  svm.results.l[[i]] <- perform.svm(training.data, test.data)
+  svm.results.l[[i]] <- perform.svm(training.data, testing.data)
   
   svm.error.matrix.l[[i]] <- errormatrix(testing.classes, svm.results.l[[i]])
   
@@ -82,32 +81,13 @@ a <- do.call(rbind, svm.error.matrix.l)
 write.csv(a, file="Rresults/svm_predictions/svmError_matrix_Oct3.csv")
 save(svm.error.matrix.l, file="Rresults/svm_predictions/svmErrorMatrix_Oct3.R")
 
-# combine results in sWord_predictions.l into one data.frame object and save it as .csv file
-my.list <- mapply(data.frame, sWord_predictions.l)
-b <- do.call (rbind, my.list)
-write.csv (b, file="Rresults/Naive_Bayes_predictions/predictions_made.csv")
-save(sWord_predictions.l, file="Rresults/Naive_Bayes_predictions/predictionList.R")
-
-# combine results in sWord_predictions_raw.l into one data.frame object and save it as .csv file
-my.list <- mapply(data.frame, sWord_predictions_raw.l)
-c <- do.call (rbind, my.list)
-write.csv (c, file="Rresults/Naive_Bayes_predictions/raw_predictions_made.csv")
-save(sWord_predictions_raw.l, file="Rresults/Naive_Bayes_predictions/rawPredictions.R")
 
 # combine results in testing.classes.l into one data.frame object and save it as .csv file
 my.list <- mapply(data.frame, testing.classes.l)
 d <- do.call (rbind, my.list)
-write.csv (d, file="Rresults/Naive_Bayes_predictions/right_answers.csv")
-save(testing.classes.l, file="Rresults/Naive_Bayes_predictions/correctAnswers.R")
+write.csv (d, file="Rresults/svm_predictions/right_answers_Oct3.csv")
+save(testing.classes.l, file="Rresults/svm_predictions/correctAnswers_Oct3.R")
 
-#save list of sWord_classifier objects as binary file
-save(sW.classifier.l, file="Rresults/Naive_Bayes_predictions/list_of_classifiers.R")
 
-# save the index numbers so that chunks can be traced back to originals
-# one file is a matrix with each classification attempt represented on 
-#one line, the other file is a single vector to serve as back up.
-index.record.m <- matrix(index.record.v, nrow=100, ncol=24, byrow=TRUE)
-write.csv(index.record.m, file="Rresults/Naive_Bayes_predictions/index_matrix.csv")
-write.csv(index.record.v, file="Rresults/Naive_Bayes_predictions/index_vector.csv")
 
 
