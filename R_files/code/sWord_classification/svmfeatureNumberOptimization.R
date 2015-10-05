@@ -38,16 +38,20 @@ feature.number.v <- seq(2, 500, 2)
 # make list and vector objects to collect results
 
 
-total.errors.l <-list()
-intermediate.l <- list()
+svm.results.l <-list()
+svm.error.matrix.l <- list()
+testing.classes.l <- list()
+
+total.errors.l <- list()
 total.errors2.l <- list()
+
 
 # set increment variables to 1
 i <- 1
 j <- 1
 
   
-for (j in 1:250) {
+for (j in 1:2) {
   
     error.v <- NULL
     feature.df <- ordered.df[, 1:feature.number.v[j]]
@@ -61,39 +65,33 @@ for (j in 1:250) {
           training.data <- feature.df[-testing.index.v, ]
           
           #create vectors of factors giving classes (here = authors) of each row in testing.data and            # training.data
-           training.classes <- as.factor(author.v[-testing.index.v])
+        training.classes <- as.factor(author.v[-testing.index.v])
         testing.classes <- as.factor(author.v[testing.index.v])
          
-            #train the algorithm using training.data and training classes
-            sWord_classifier <- naiveBayes(training.data, training.classes)
-          
-           
-           # run classification algorithm and put results in object
-            
-           holder <- predict(sWord_classifier, testing.data)
-          
-           
-           # create errror matrix of results and put into object    
-           
-           error.m <- errormatrix(testing.classes, holder)
-         
-            error.v <- append(error.v, error.m[12,12])
-          
-           intermediate.l[[i]] <-error.m[12,12]
-          
+        # carry out prediction test using svm
+        svm.results.l[[i]] <- perform.svm(training.data, testing.data)
+        
+        # create errror matrix of results and put into object 
+        svm.error.matrix.l[[i]] <- errormatrix(testing.classes, svm.results.l[[i]])
+        
+        #make record of testing_classes 
+        testing.classes.l[[i]] <-testing.classes
+        
+        # save sum of errors in each iteration from error matrix to error.v
+        
+        error.v  <- append(error.v, svm.error.matrix.l[[i]][sqrt(length(svm.error.matrix.l[[i]])), sqrt(length(svm.error.matrix.l[[i]]))])
            
            
          }
    
      # save grand total of errors for each iteration into list object along with number of features
      
-      total.errors.l[[j]] <- c(feature.number.v[j], intermediate.l)
-    total.errors2.l[[j]] <- error.v 
-    
+    total.errors.l[[j]] <- error.v
+          
       i <- 1
    
     }
   
-save (total.errors.l, file="Rresults/iteration_list.R")
-save (total.errors2.l, file="Rresults/iteration_list2.R")
+save (total.errors.l, file="Rresults/svmIterationTest_Oct5.R")
 
+total.errors.l[[2]]
