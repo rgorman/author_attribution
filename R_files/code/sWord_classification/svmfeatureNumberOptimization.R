@@ -94,4 +94,6 @@ for (j in 1:250) {
   
 save (total.errors.l, file="Rresults/svmIterationTest_Oct5.R")
 
-total.errors.l[[2]]
+total.errors.l[[120]]
+
+

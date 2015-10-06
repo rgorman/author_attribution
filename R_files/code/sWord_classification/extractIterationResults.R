@@ -15,12 +15,13 @@ unlist(lapply(total.errors2.l, sum))/2800
 
 x <- seq(2, 500, 2)
 iteration.m <- matrix (x, nrow=250, ncol=1)
-iteration.m <- (cbind(iteration.m, lapply(total.errors2.l, sum)))
-iteration.m <- (cbind(iteration.m, unlist(lapply(total.errors2.l, sum))/2400 ))
-iteration.m <- (cbind(iteration.m, 1-(unlist(lapply(total.errors2.l, sum))/2400) ))
+iteration.m <- (cbind(iteration.m, lapply(total.errors.l, sum)))
+iteration.m <- (cbind(iteration.m, unlist(lapply(total.errors.l, sum))/2400 ))
+iteration.m <- (cbind(iteration.m, 1-(unlist(lapply(total.errors.l, sum))/2400) ))
 
 
 
 
 View(iteration.m)
-write.csv(iteration.m, file="Rresults/rel_pos_iterationTest_sept25.csv")
+plot(iteration.m[,1], iteration.m[,4])
+write.csv(iteration.m, file="Rresults/svmRel_pos_iterationTest_Oct5.csv")
