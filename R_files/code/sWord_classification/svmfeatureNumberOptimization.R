@@ -51,7 +51,7 @@ i <- 1
 j <- 1
 
   
-for (j in 1:2) {
+for (j in 1:250) {
   
     error.v <- NULL
     feature.df <- ordered.df[, 1:feature.number.v[j]]
