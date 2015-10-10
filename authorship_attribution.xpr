@@ -51,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/drop_AuxX.xsl</String>
+                                    <String>${pdu}/xsl%20files/add_reference_to_words.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
