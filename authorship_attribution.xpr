@@ -10,101 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>polybius_frags/polybius%209_34-45%20bu1.xml</String>
+                                    <String>polybius_frags/Poly_output/Poly_consolidated/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>polybius 10_1-10 bu1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>polybius_frags/polybius%209_21-33%20bu1.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>polybius 10_1-10 bu1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>polybius_frags/polybius%209_1-20%20bu1.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>polybius 10_1-10 bu1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>polybius_frags/polybius%2010_36-49%20bu1.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>polybius 10_1-10 bu1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>polybius_frags/polybius%2010_21-35%20bu2.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>polybius 10_1-10 bu1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>polybius_frags/polybius%2010_11-20%20bu1.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>polybius 10_1-10 bu1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>polybius_frags/polybius%2010_1-10%20bu1.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>polybius 10_1-10 bu1</String>
+                                        <String>FragPolybius_Book10</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -123,7 +33,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>polybius 10_1-10 bu1</String>
+                                    <String>FragPolybius_Book10</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -141,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/find_AuxX_with_dependencies.xsl</String>
+                                    <String>${pdu}/xsl%20files/drop_AuxX.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -162,10 +72,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/polybius_frags/Poly_output/${cfne}</File>
+                                    <File>${pd}/polybius_frags/Poly_output/Poly_consolidated/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/polybius_frags/Poly_output/${cfne}</String>
+                                    <String>${pd}/polybius_frags/Poly_output/Poly_consolidated/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>

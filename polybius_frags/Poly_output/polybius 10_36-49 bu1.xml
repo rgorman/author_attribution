@@ -26669,10 +26669,9 @@
             form=","
             lemma="punc1"
             postag="u--------"
-            relation="AuxX"
+            relation="COORD"
             head="41"
-            cite=""
-            bad_AuxX="has dependency"/>
+            cite=""/>
       <word id="60"
             form="τρίτον"
             lemma="τρίτος"
