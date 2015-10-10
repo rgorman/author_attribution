@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey9-12.xml</String>
+                                    <String>polybius_frags/polybius%209_34-45%20bu1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>polybius 10_1-10 bu1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -25,11 +25,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey5-8.xml</String>
+                                    <String>polybius_frags/polybius%209_21-33%20bu1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>polybius 10_1-10 bu1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -40,11 +40,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey21-24.xml</String>
+                                    <String>polybius_frags/polybius%209_1-20%20bu1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>polybius 10_1-10 bu1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -55,11 +55,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey17-20.xml</String>
+                                    <String>polybius_frags/polybius%2010_36-49%20bu1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>polybius 10_1-10 bu1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -70,11 +70,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey13-16.xml</String>
+                                    <String>polybius_frags/polybius%2010_21-35%20bu2.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>polybius 10_1-10 bu1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -85,11 +85,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey1-4.xml</String>
+                                    <String>polybius_frags/polybius%2010_11-20%20bu1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>polybius 10_1-10 bu1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -100,11 +100,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/</String>
+                                    <String>polybius_frags/polybius%2010_1-10%20bu1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>polybius 10_1-10 bu1</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -123,7 +123,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Aeschylus_Agamemnon</String>
+                                    <String>polybius 10_1-10 bu1</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -141,7 +141,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/test_transformations/sWord_from_root_rel_pos.xsl</String>
+                                    <String>${pdu}/xsl%20files/find_AuxX_with_dependencies.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -162,10 +162,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/output_Sept13/${cfne}</File>
+                                    <File>${pd}/polybius_frags/Poly_output/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/output_Sept13/${cfne}</String>
+                                    <String>${pd}/polybius_frags/Poly_output/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
