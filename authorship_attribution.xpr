@@ -51,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/add_reference_to_words.xsl</String>
+                                    <String>${pdu}/xsl%20files/test_transformations/sWord_from_root_rel_pos.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -72,10 +72,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/polybius_frags/Poly_output/Poly_consolidated/${cfne}</File>
+                                    <File>${pd}/polybius_frags/Poly_Frag_sWords/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/polybius_frags/Poly_output/Poly_consolidated/${cfne}</String>
+                                    <String>${pd}/polybius_frags/Poly_Frag_sWords/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
