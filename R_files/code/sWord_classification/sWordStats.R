@@ -57,8 +57,14 @@ sorted.m <- smaller.m[, order(colMeans(smaller.m), decreasing=TRUE) ]
 # check results
 View(sorted.m)
 
+# reduce sorted.m to ratio of frequency/1
+test.m <- sorted.m/100
+View(test.m)
+
+sorted.m <- test.m
+
 # save results as .csv file
-write.csv(sorted.m, file="Rresults/relPos537_Oct1.csv")
+write.csv(sorted.m, file="Rresults/StatsRelPos542_Oct11.csv")
 
 # create file with z-scores for sorted.m
 zscore.m <- scale(sorted.m)
