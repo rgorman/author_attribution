@@ -76,10 +76,10 @@ combined.m <- cbind (sorted.m, zscore.m)
 View(combined.m)
 
 # a vector to serve as an index to reorder the columns
-s <- rep(1:537, each=2) + (0:1) * 537
+s <- rep(1:542, each=2) + (0:1) * 542
 
 # create container matrix
-y <- matrix("blah", nrow=13, ncol=1)
+y <- matrix("blah", nrow=15, ncol=1)
 
 
 # a loop to bind columns in desired order
@@ -96,10 +96,11 @@ for (i in 1:length(combined.m[1,])) {
 names <- rep(colnames(sorted.m), each=2)
 
 # create vector of column ranks to be added to object y
-ranks <- rep(1:537, each=2)
-
+ranks <- rep(1:542, each=2)
+types <- rep(c("frequency", "z-score"), 542)
 
 # save matrix and names and ranks vectors as scv files
-write.csv(y, file="Rresults/zscores_Oct1.csv")
-write.csv(names, file="Rresults/columnNames_Oct1.csv")
-write.csv(ranks, file="Rresults/columnRanks_Oct1.csv")
+write.csv(y, file="Rresults/zscores_Oct11.csv")
+write.csv(names, file="Rresults/columnNames_Oct11.csv")
+write.csv(ranks, file="Rresults/columnRanks_Oct11.csv")
+write.csv(types, file="Rresults/columnTypes_Oct11.csv")
