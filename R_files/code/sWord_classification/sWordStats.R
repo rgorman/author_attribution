@@ -1,7 +1,7 @@
 library(XML)
 
 source("code/corpusFunctions.R")
-input.dir <- "sWord_input/stat_files/combined_authors"
+input.dir <- "sWord_input/stat_files/divided_authors"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 i <- 1
