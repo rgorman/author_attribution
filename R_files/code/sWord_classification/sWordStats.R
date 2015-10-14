@@ -64,7 +64,7 @@ View(test.m)
 sorted.m <- test.m
 
 # save results as .csv file
-write.csv(sorted.m, file="Rresults/StatsRelPos542_Oct11.csv")
+write.csv(sorted.m, file="Rresults/StatsRelPos528_Oct13.csv")
 
 # create file with z-scores for sorted.m
 zscore.m <- scale(sorted.m)
