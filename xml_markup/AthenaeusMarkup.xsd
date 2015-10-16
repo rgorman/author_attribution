@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
+    vc:minVersion="1.1">
+
+    <xs:complexType name="sentenceType">
+        <xs:choice>
+            <xs:element name="primary" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="secondary" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="cite" type="citeType" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="frame" type="frameType" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="content" type="contentType" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="cite" type="dubiousType" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="frag" type="fragType" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="word" type="wordType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:choice>
+        <xs:attribute name="id" type="xs:nonNegativeInteger" use="required"/>
+        <xs:attribute name="document_id" type="xs:string" use="optional"/>
+        <xs:attribute name="subdoc" type="xs:string" use="optional"/>
+        <xs:attribute name="span" type="xs:string" use="optional"/>
+    </xs:complexType>
+
+
+</xs:schema>

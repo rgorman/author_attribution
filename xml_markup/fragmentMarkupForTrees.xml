@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+    <speaker id="narrator">
+        <banter>
+            <sentence>
+                <word/>
+            </sentence>
+        </banter>
+        <fragment_long>
+            <cite_long author="Polybius" work="Histories" div="Book 1">
+                <sentence>
+                    <word/>
+                </sentence>
+            </cite_long>
+            <sentence>
+                <cite_short author="Polybius" work="Histories" div="Book 1">
+                    <word/>
+                </cite_short>
+            </sentence>
+            <frame_long>
+                <sentence>
+                    <word/>
+                </sentence>
+            </frame_long>
+            <sentence>
+                <frame_short>
+                    <word/>
+                </frame_short>
+            </sentence>
+            <content_long>
+                <sentence>
+                    <word/>
+                </sentence>
+            </content_long>
+            <sentence>
+                <content_short>
+                    <word/>
+                </content_short>
+            </sentence>
+            <dubiousContent_long>
+                <sentence>
+                    <word/>
+                </sentence>
+            </dubiousContent_long>
+            <sentence>
+                <dubiousContent_short>
+                    <word/>
+                </dubiousContent_short>
+            </sentence>
+
+        </fragment_long>
+    </speaker>
+
+</treebank>
