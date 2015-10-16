@@ -20,5 +20,15 @@
         <xs:attribute name="span" type="xs:string" use="optional"/>
     </xs:complexType>
 
+    <xs:complexType name="wordType">
+        <xs:attribute name="id" type="xs:nonNegativeInteger" use="required"/>
+        <xs:attribute name="form" type="xs:string" use="required"/>
+        <xs:attribute name="lemma" type="xs:string" use="required"/>
+        <xs:attribute name="postag" type="xs:string" use="required"/>
+        <xs:attribute name="head" type="xs:nonNegativeInteger" use="required"/>
+        <xs:attribute name="relation" type="xs:string" use="required"/>
+        <xs:attribute name="cite" type="xs:string" use="required"/>
+    </xs:complexType>
+
 
 </xs:schema>
