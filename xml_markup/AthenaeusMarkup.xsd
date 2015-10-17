@@ -4,16 +4,17 @@
     vc:minVersion="1.1">
 
     <xs:complexType name="sentenceType">
-        <xs:choice>
-            <xs:element name="primary" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
-            <xs:element name="secondary" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:all>
+
+            <xs:element name="banter" type="banterType" minOccurs="0" maxOccurs="unbounded"/>
             <xs:element name="cite" type="citeType" minOccurs="0" maxOccurs="unbounded"/>
             <xs:element name="frame" type="frameType" minOccurs="0" maxOccurs="unbounded"/>
             <xs:element name="content" type="contentType" minOccurs="0" maxOccurs="unbounded"/>
-            <xs:element name="cite" type="dubiousType" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="dubious" type="dubiousType" minOccurs="0" maxOccurs="unbounded"/>
             <xs:element name="frag" type="fragType" minOccurs="0" maxOccurs="unbounded"/>
+
             <xs:element name="word" type="wordType" minOccurs="1" maxOccurs="unbounded"/>
-        </xs:choice>
+        </xs:all>
         <xs:attribute name="id" type="xs:nonNegativeInteger" use="required"/>
         <xs:attribute name="document_id" type="xs:string" use="optional"/>
         <xs:attribute name="subdoc" type="xs:string" use="optional"/>
@@ -30,5 +31,92 @@
         <xs:attribute name="cite" type="xs:string" use="required"/>
     </xs:complexType>
 
+
+    <xs:complexType name="citeType">
+        <xs:choice>
+            <xs:element name="sentence" type="sentenceType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="word" type="wordType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:choice>
+        <xs:attribute name="author" type="xs:string" use="optional"/>
+        <xs:attribute name="work" type="xs:string" use="optional"/>
+        <xs:attribute name="div" type="xs:string" use="optional"/>
+    </xs:complexType>
+
+    <xs:complexType name="frameType">
+        <xs:choice>
+            <xs:element name="sentence" type="sentenceType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="word" type="wordType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:choice>
+    </xs:complexType>
+
+    <xs:complexType name="contentType">
+        <xs:choice>
+            <xs:element name="sentence" type="sentenceType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="word" type="wordType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:choice>
+    </xs:complexType>
+
+    <xs:complexType name="dubiousType">
+        <xs:choice>
+            <xs:element name="sentence" type="sentenceType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="word" type="wordType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:choice>
+    </xs:complexType>
+
+    <xs:complexType name="fragType">
+        <xs:all>
+            <xs:element name="sentence" type="sentenceType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="cite" type="citeType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="frame" type="frameType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="content" type="contentType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="dubious" type="dubiousType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="word" type="wordType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:all>
+        <xs:attribute name="modRef" type="xs:string" use="optional"/>
+    </xs:complexType>
+
+    <xs:complexType name="speakerType">
+        <xs:all>
+            <xs:element name="frag" type="fragType" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="banter" type="banterType" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:all>
+        <xs:attribute name="name" type="xs:string" use="required"/>
+    </xs:complexType>
+
+    <xs:complexType name="banterType">
+
+        <xs:all>
+            <xs:element name="sentence" type="sentenceType" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="word" type="wordType" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:all>
+
+    </xs:complexType>
+
+    <xs:complexType name="annotatorType">
+        <xs:sequence>
+            <xs:element name="short" type="xs:string"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="address" type="xs:string"/>
+            <xs:element name="uri" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="treebank">
+        <xs:complexType>
+
+            <xs:sequence>
+                <xs:element name="comment" type="xs:string"/>
+                <xs:element name="annotator" type="annotatorType" minOccurs="0"
+                    maxOccurs="unbounded"/>
+                <xs:element name="speaker" type="speakerType" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+
+            <xs:attribute name="version" type="xs:decimal" use="optional"/>
+            <xs:attribute name="lang" type="xs:string" use="optional"/>
+            <xs:attribute name="direction" type="xs:string" use="optional"/>
+            <xs:attribute name="format" type="xs:string" use="optional"/>
+
+        </xs:complexType>
+    </xs:element>
 
 </xs:schema>
