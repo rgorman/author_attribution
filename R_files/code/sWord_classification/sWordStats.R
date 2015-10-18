@@ -76,7 +76,7 @@ combined.m <- cbind (sorted.m, zscore.m)
 View(combined.m)
 
 # a vector to serve as an index to reorder the columns
-s <- rep(1:542, each=2) + (0:1) * 541
+s <- rep(1:541, each=2) + (0:1) * 541
 
 # create container matrix
 y <- matrix("blah", nrow=36, ncol=1)
