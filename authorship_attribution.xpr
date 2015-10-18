@@ -346,7 +346,7 @@
                                                         <Integer>2</Integer>
                                                     </field>
                                                     <field name="uri">
-                                                        <String>${pdu}/xml_markup/AthenMarkup2.xsd</String>
+                                                        <String>${pdu}/xml_markup/AthenMarkup3.xsd</String>
                                                     </field>
                                                 </validationUnitSchema>
                                             </field>
