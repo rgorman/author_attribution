@@ -47,8 +47,23 @@
                     <word/>
                 </dubiousContent_short>
             </sentence>
-
         </fragment_long>
+        <fragment_short>
+            <sentence>
+                <cite_short author="Polybius" work="Histories" div="Book 1">
+                    <word/>
+                </cite_short>
+                <frame_short>
+                    <word/>
+                </frame_short>
+                <content_short>
+                    <word/>
+                </content_short>
+                <dubiousContent_short>
+                    <word/>
+                </dubiousContent_short>
+            </sentence>
+        </fragment_short>
     </speaker>
 
 </treebank>
