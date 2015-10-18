@@ -101,7 +101,7 @@ ranks <- rep(1:532, each=2)
 types <- rep(c("frequency", "z-score"), 532)
 
 # save matrix and names and ranks vectors as scv files
-write.csv(y, file="Rresults/zscores_Oct18.csv")
+write.csv(y, file="Rresults/zscores_Oct18b.csv")
 write.csv(names, file="Rresults/columnNames_Oct18.csv")
 write.csv(ranks, file="Rresults/columnRanks_Oct18.csv")
 write.csv(types, file="Rresults/columnTypes_Oct18.csv")
