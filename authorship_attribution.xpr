@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey9-12.xml</String>
+                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Suppliants.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Homer_Iliad1-4</String>
+                                        <String>Aeschylus_Agamemnon</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -25,11 +25,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey5-8.xml</String>
+                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Seven.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Homer_Iliad1-4</String>
+                                        <String>Aeschylus_Agamemnon</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -40,11 +40,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey21-24.xml</String>
+                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Prometheus.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Homer_Iliad1-4</String>
+                                        <String>Aeschylus_Agamemnon</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -55,11 +55,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey17-20.xml</String>
+                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Persians.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Homer_Iliad1-4</String>
+                                        <String>Aeschylus_Agamemnon</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -70,11 +70,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey13-16.xml</String>
+                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Eumenides.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Homer_Iliad1-4</String>
+                                        <String>Aeschylus_Agamemnon</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -85,11 +85,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Odyssey1-4.xml</String>
+                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Ch.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Homer_Iliad1-4</String>
+                                        <String>Aeschylus_Agamemnon</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -100,86 +100,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Iliad9-12.xml</String>
+                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Agamemnon.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Homer_Iliad1-4</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Iliad5-8.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Homer_Iliad1-4</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Iliad21-24.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Homer_Iliad1-4</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Iliad17-20.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Homer_Iliad1-4</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Iliad13-16.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Homer_Iliad1-4</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sWord_output/Perseus_and_VG/Homer_Iliad1-4.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Homer_Iliad1-4</String>
+                                        <String>Aeschylus_Agamemnon</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -198,7 +123,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Homer_Iliad1-4</String>
+                                    <String>Aeschylus_Agamemnon</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
