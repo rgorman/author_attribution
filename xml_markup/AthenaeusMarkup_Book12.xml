@@ -165,52 +165,55 @@
                               head="0" cite=" Athenaeus Book 12: s-4 w-13"/>
                   </w-markup>
             </sentence>
-           <s-markup type="frame" voice="prose"> <sentence id="5" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1"
-                  subdoc="12.1, 510b1" span="Athenaeus Book 12: s-5">
-                  <word id="1" form="ἀλλ᾽" lemma="ἀλλά" postag="d--------" relation="AuxY" head="21"
-                        cite=" Athenaeus Book 12: s-5 w-1"/>
-                  <word id="2" form="ἐπεὶ" lemma="ἐπεί" postag="c--------" relation="AuxC" head="21"
-                        cite=" Athenaeus Book 12: s-5 w-2"/>
-                  <word id="3" form="πάνυ" lemma="πάνυ" postag="d--------" relation="AuxZ" head="4"
-                        cite=" Athenaeus Book 12: s-5 w-3"/>
-                  <word id="4" form="λιπαρῶς" lemma="λιπαρής" postag="d--------" relation="ADV"
-                        head="6" cite=" Athenaeus Book 12: s-5 w-4"/>
-                  <word id="5" form="ἡμᾶς" lemma="ἐγώ" postag="p1p---ma-" relation="OBJ" head="6"
-                        cite=" Athenaeus Book 12: s-5 w-5"/>
-                  <word id="6" form="ἀπαιτεῖς" lemma="ἀπαιτέω" postag="v2spia---" relation="ADV"
-                        head="2" cite=" Athenaeus Book 12: s-5 w-6"/>
-                  <word id="7" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="16"
-                        cite=" Athenaeus Book 12: s-5 w-7"/>
-                  <word id="8" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="15"
-                        cite=" Athenaeus Book 12: s-5 w-8"/>
-                  <word id="9" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="16"
-                        cite=" Athenaeus Book 12: s-5 w-9"/>
-                  <word id="10" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="SBJ" head="14"
-                        cite=" Athenaeus Book 12: s-5 w-10"/>
-                  <word id="11" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="13"
-                        cite=" Athenaeus Book 12: s-5 w-11"/>
-                  <word id="12" form="τρυφῇ" lemma="τρυφή" postag="n-s---fd-" relation="ADV"
-                        head="11" cite=" Athenaeus Book 12: s-5 w-12"/>
-                  <word id="13" form="διαβοήτων" lemma="διαβόητος" postag="a-p---mg-"
-                        relation="PNOM" head="14" cite=" Athenaeus Book 12: s-5 w-13"/>
-                  <word id="14" form="γενομένων" lemma="γίγνομαι" postag="v-papmmg-"
-                        relation="ATR_CO" head="9" cite=" Athenaeus Book 12: s-5 w-14"/>
-                  <word id="15" form="λόγον" lemma="λόγος" postag="n-s---ma-" relation="OBJ"
-                        head="6" cite=" Athenaeus Book 12: s-5 w-15"/>
-                  <word id="16" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="15"
-                        cite=" Athenaeus Book 12: s-5 w-16"/>
-                  <word id="17" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="19"
-                        cite=" Athenaeus Book 12: s-5 w-17"/>
-                  <word id="18" form="τούτων" lemma="οὗτος" postag="p-p---mg-" relation="ATR"
-                        head="19" cite=" Athenaeus Book 12: s-5 w-18"/>
-                  <word id="19" form="ἡδυπαθείας" lemma="ἡδυπάθεια" postag="n-s---fg-"
-                        relation="ATR_CO" head="16" cite=" Athenaeus Book 12: s-5 w-19"/>
-                  <word id="20" form="." lemma="punc1" postag="u-------" relation="AuxK" head="0"
-                        cite=" Athenaeus Book 12: s-5 w-20"/>
-                  <word id="21" form="[0]" insertion_id="" artificial="elliptic" lemma="" postag=""
-                        relation="PRED" head="0" cite="Athenaeus Book 12: s-5 w-21"/>
-            </sentence></s-markup>
-            <sentence id="6" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1"
+            <s-markup type="frame" voice="prose">
+                  <sentence id="5" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1"
+                        subdoc="12.1, 510b1" span="Athenaeus Book 12: s-5">
+                        <word id="1" form="ἀλλ᾽" lemma="ἀλλά" postag="d--------" relation="AuxY"
+                              head="21" cite=" Athenaeus Book 12: s-5 w-1"/>
+                        <word id="2" form="ἐπεὶ" lemma="ἐπεί" postag="c--------" relation="AuxC"
+                              head="21" cite=" Athenaeus Book 12: s-5 w-2"/>
+                        <word id="3" form="πάνυ" lemma="πάνυ" postag="d--------" relation="AuxZ"
+                              head="4" cite=" Athenaeus Book 12: s-5 w-3"/>
+                        <word id="4" form="λιπαρῶς" lemma="λιπαρής" postag="d--------"
+                              relation="ADV" head="6" cite=" Athenaeus Book 12: s-5 w-4"/>
+                        <word id="5" form="ἡμᾶς" lemma="ἐγώ" postag="p1p---ma-" relation="OBJ"
+                              head="6" cite=" Athenaeus Book 12: s-5 w-5"/>
+                        <word id="6" form="ἀπαιτεῖς" lemma="ἀπαιτέω" postag="v2spia---"
+                              relation="ADV" head="2" cite=" Athenaeus Book 12: s-5 w-6"/>
+                        <word id="7" form="καὶ" lemma="καί" postag="d--------" relation="AuxY"
+                              head="16" cite=" Athenaeus Book 12: s-5 w-7"/>
+                        <word id="8" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR"
+                              head="15" cite=" Athenaeus Book 12: s-5 w-8"/>
+                        <word id="9" form="περὶ" lemma="περί" postag="r--------" relation="AuxP"
+                              head="16" cite=" Athenaeus Book 12: s-5 w-9"/>
+                        <word id="10" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="SBJ"
+                              head="14" cite=" Athenaeus Book 12: s-5 w-10"/>
+                        <word id="11" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP"
+                              head="13" cite=" Athenaeus Book 12: s-5 w-11"/>
+                        <word id="12" form="τρυφῇ" lemma="τρυφή" postag="n-s---fd-" relation="ADV"
+                              head="11" cite=" Athenaeus Book 12: s-5 w-12"/>
+                        <word id="13" form="διαβοήτων" lemma="διαβόητος" postag="a-p---mg-"
+                              relation="PNOM" head="14" cite=" Athenaeus Book 12: s-5 w-13"/>
+                        <word id="14" form="γενομένων" lemma="γίγνομαι" postag="v-papmmg-"
+                              relation="ATR_CO" head="9" cite=" Athenaeus Book 12: s-5 w-14"/>
+                        <word id="15" form="λόγον" lemma="λόγος" postag="n-s---ma-" relation="OBJ"
+                              head="6" cite=" Athenaeus Book 12: s-5 w-15"/>
+                        <word id="16" form="καὶ" lemma="καί" postag="c--------" relation="COORD"
+                              head="15" cite=" Athenaeus Book 12: s-5 w-16"/>
+                        <word id="17" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR"
+                              head="19" cite=" Athenaeus Book 12: s-5 w-17"/>
+                        <word id="18" form="τούτων" lemma="οὗτος" postag="p-p---mg-" relation="ATR"
+                              head="19" cite=" Athenaeus Book 12: s-5 w-18"/>
+                        <word id="19" form="ἡδυπαθείας" lemma="ἡδυπάθεια" postag="n-s---fg-"
+                              relation="ATR_CO" head="16" cite=" Athenaeus Book 12: s-5 w-19"/>
+                        <word id="20" form="." lemma="punc1" postag="u-------" relation="AuxK"
+                              head="0" cite=" Athenaeus Book 12: s-5 w-20"/>
+                        <word id="21" form="[0]" insertion_id="" artificial="elliptic" lemma=""
+                              postag="" relation="PRED" head="0" cite="Athenaeus Book 12: s-5 w-21"
+                        />
+                  </sentence>
+            </s-markup>
+            <s-markup type="frame"><sentence id="6" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1"
                   subdoc="12.2, 510b2" span="Athenaeus Book 12: s-6">
                   <word id="1" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="3"
                         cite=" Athenaeus Book 12: s-6 w-1"/>
@@ -240,15 +243,15 @@
                         relation="PRED_CO" head="9" cite="Athenaeus Book 12: s-6 w-13"/>
                   <word id="14" form="[2]" insertion_id="0012e" artificial="elliptic" lemma=""
                         postag="" relation="PRED_CO" head="9" cite="Athenaeus Book 12: s-6 w-14"/>
-            </sentence>
+            </sentence></s-markup>
             <sentence id="7" document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1"
                   subdoc="12.2, 510b3" span="Athenaeus Book 12: s-7">
-                  <word id="1" form="καίτοι" lemma="καίτοι" postag="d--------" relation="AuxY"
+                 <w-markup type="reuse" voice="prose" quality="cite" author="timaeus"> <word id="1" form="καίτοι" lemma="καίτοι" postag="d--------" relation="AuxY"
                         head="20" cite=" Athenaeus Book 12: s-7 w-1"/>
                   <word id="2" form="Σοφοκλῆς" lemma="Σοφοκλῆς" postag="n-s---mn-" relation="SBJ"
                         head="20" cite=" Athenaeus Book 12: s-7 w-2"/>
                   <word id="3" form="γ᾽" lemma="γε" postag="d--------" relation="AuxZ" head="2"
-                        cite=" Athenaeus Book 12: s-7 w-3"/>
+                        cite=" Athenaeus Book 12: s-7 w-3"/></w-markup>
                   <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="2"
                         cite=" Athenaeus Book 12: s-7 w-4"/>
                   <word id="5" form="ποιητής" lemma="ποιητής" postag="n-s---mn-" relation="ATR"

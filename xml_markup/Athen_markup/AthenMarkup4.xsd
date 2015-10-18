@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
+    vc:minVersion="1.1">
+
+    <xs:complexType name="speakerType">
+
+        <xs:all>
+        <xs:element name="sentence" type="sentenceType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="s-markup" type="s-markupType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:all>
+        <xs:attribute name="name" type="xs:string" use="required"/>
+    </xs:complexType>
+    
+    <xs:complexType name="s-markupType">
+        <xs:all>
+            <xs:element name="sentence" type="sentenceType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:all>
+        <xs:attribute name="type" type="discourse_cat" use="required"/>
+        <xs:attribute name="modRef" type="xs:string" use="optional"/>
+        <xs:attribute name="voice" type="voice_cat" use="optional"/>
+        <xs:attribute name="quality" type="qual_cat" use="optional"/>
+        <xs:attribute name="author" type="xs:string" use="optional"/>
+        <xs:attribute name="work" type="xs:string" use="optional"/>
+        <xs:attribute name="div" type="xs:string" use="optional"/>
+    </xs:complexType>
+
+    <xs:complexType name="w-markup">
+        <xs:all>
+            <xs:element name="word" type="wordType" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:all>
+        <xs:attribute name="type" type="discourse_cat" use="required"/>
+        <xs:attribute name="modRef" type="xs:string" use="optional"/>
+        <xs:attribute name="voice" type="voice_cat" use="optional"/>
+        <xs:attribute name="quality" type="qual_cat" use="optional"/>
+        <xs:attribute name="author" type="xs:string" use="optional"/>
+        <xs:attribute name="work" type="xs:string" use="optional"/>
+        <xs:attribute name="div" type="xs:string" use="optional"/>        
+    </xs:complexType>
+
+    
+    <xs:simpleType name="discourse_cat">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="frame"/>
+            <xs:enumeration value="reuse"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="qual_cat">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="cite"/>
+            <xs:enumeration value="frame"/>
+            <xs:enumeration value="content"/>
+            <xs:enumeration value="dubious content"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+
+    <xs:simpleType name="voice_cat">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="prose"/>
+            <xs:enumeration value="verse"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="sentenceType">
+        <xs:choice>
+            <xs:element name="word" type="wordType" minOccurs="1" maxOccurs="unbounded"/>
+            <xs:element name="w-markup" type="w-markup" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:choice>
+        <xs:attribute name="id" type="xs:nonNegativeInteger" use="required"/>
+        <xs:attribute name="document_id" type="xs:string" use="optional"/>
+        <xs:attribute name="subdoc" type="xs:string" use="optional"/>
+        <xs:attribute name="span" type="xs:string" use="optional"/>
+    </xs:complexType>
+
+    <xs:complexType name="wordType">
+        <xs:attribute name="id" type="xs:nonNegativeInteger" use="required"/>
+        <xs:attribute name="form" type="xs:string" use="required"/>
+        <xs:attribute name="lemma" type="xs:string" use="required"/>
+        <xs:attribute name="postag" type="xs:string" use="required"/>
+        <xs:attribute name="head" type="xs:nonNegativeInteger" use="required"/>
+        <xs:attribute name="relation" type="xs:string" use="required"/>
+        <xs:attribute name="cite" type="xs:string" use="required"/>
+        <xs:attribute name="insertion_id" type="xs:string" use="optional"/>
+        <xs:attribute name="artificial" type="xs:string" use="optional"/>
+    </xs:complexType>
+
+
+
+    <xs:simpleType name="frag_cat">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="cite"/>
+            <xs:enumeration value="frame"/>
+            <xs:enumeration value="content"/>
+            <xs:enumeration value="dubious_content"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+
+
+    <xs:simpleType name="reuse_cat">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="prose"/>
+            <xs:enumeration value="verse"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="annotatorType">
+        <xs:sequence>
+            <xs:element name="short" type="xs:string"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="address" type="xs:string"/>
+            <xs:element name="uri" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="treebank">
+        <xs:complexType>
+
+            <xs:sequence>
+                <xs:element name="comment" type="xs:string"/>
+                <xs:element name="annotator" type="annotatorType" minOccurs="0"
+                    maxOccurs="unbounded"/>
+                <xs:element name="speaker" type="speakerType" minOccurs="1" maxOccurs="unbounded"/>
+
+            </xs:sequence>
+
+            <xs:attribute name="version" type="xs:decimal" use="optional"/>
+            <xs:attribute name="lang" type="xs:string" use="optional"/>
+            <xs:attribute name="direction" type="xs:string" use="optional"/>
+            <xs:attribute name="format" type="xs:string" use="optional"/>
+
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
