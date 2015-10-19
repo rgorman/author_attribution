@@ -64,7 +64,7 @@ View(test.m)
 sorted.m <- test.m
 
 # save results as .csv file
-write.csv(sorted.m, file="Rresults/StatsRelPos532_Oct18.csv")
+write.csv(sorted.m, file="Rresults/StatsRelPos532_Oct18c.csv")
 
 # create file with z-scores for sorted.m
 zscore.m <- scale(sorted.m)
@@ -76,7 +76,7 @@ combined.m <- cbind (sorted.m, zscore.m)
 View(combined.m)
 
 # a vector to serve as an index to reorder the columns
-s <- rep(1:532, each=2) + (0:1) * 532
+s <- rep(1:531, each=2) + (0:1) * 531
 
 # create container matrix
 y <- matrix("blah", nrow=36, ncol=1)
@@ -97,11 +97,11 @@ View(y)
 names <- rep(colnames(sorted.m), each=2)
 
 # create vector of column ranks to be added to object y
-ranks <- rep(1:532, each=2)
-types <- rep(c("frequency", "z-score"), 532)
+ranks <- rep(1:531, each=2)
+types <- rep(c("frequency", "z-score"), 531)
 
 # save matrix and names and ranks vectors as scv files
-write.csv(y, file="Rresults/zscores_Oct18b.csv")
-write.csv(names, file="Rresults/columnNames_Oct18.csv")
-write.csv(ranks, file="Rresults/columnRanks_Oct18.csv")
-write.csv(types, file="Rresults/columnTypes_Oct18.csv")
+write.csv(y, file="Rresults/zscores_Oct18c.csv")
+write.csv(names, file="Rresults/columnNames_Oct18c.csv")
+write.csv(ranks, file="Rresults/columnRanks_Oct18c.csv")
+write.csv(types, file="Rresults/columnTypes_Oct18c.csv")
