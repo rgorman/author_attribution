@@ -460,7 +460,7 @@
              postag="c--------"
              relation="AuxY"
              head="23"
-             cite="urn:cts:greekLit:tlg0085.tlg004:10 Aeschylus Seven: s-4 w-6">#-AuxX-u-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:10 Aeschylus Seven: s-4 w-6">#-AuxX-u-coord-c-auxy-d</sWord>
       <sWord id="7"
              form="τὸν"
              lemma="ὁ1"
@@ -502,7 +502,7 @@
              postag="c--------"
              relation="AuxY"
              head="23"
-             cite="urn:cts:greekLit:tlg0085.tlg004:11 Aeschylus Seven: s-4 w-12">#-AuxX-u-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:11 Aeschylus Seven: s-4 w-12">#-AuxX-u-coord-c-auxy-d</sWord>
       <sWord id="13"
              form="τὸν"
              lemma="ὁ1"
@@ -927,7 +927,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg004:21 Aeschylus Seven: s-7 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:21 Aeschylus Seven: s-7 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="νῦν"
              lemma="νῦν1"
@@ -1483,7 +1483,7 @@
              postag="c--------"
              relation="AuxY"
              head="32"
-             cite="urn:cts:greekLit:tlg0085.tlg004:33 Aeschylus Seven: s-11 w-23">#-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:33 Aeschylus Seven: s-11 w-23">#-coord-c-auxy-d</sWord>
       <sWord id="24"
              form="πυλῶν"
              lemma="πύλη1"
@@ -2075,7 +2075,7 @@
              postag="c--------"
              relation="AuxY"
              head="36"
-             cite="urn:cts:greekLit:tlg0085.tlg004:46 Aeschylus Seven: s-16 w-27">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:46 Aeschylus Seven: s-16 w-27">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="28"
              form="πόλει"
              lemma="πόλις1"
@@ -3179,7 +3179,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg004:69 Aeschylus Seven: s-28 w-4">#-PRED-v-coord-c-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:69 Aeschylus Seven: s-28 w-4">#-PRED-v-coord-c-COORD-c-auxy-d</sWord>
       <sWord id="5"
              form="Γῆ"
              lemma="γῆ1"
@@ -6887,7 +6887,7 @@
              postag="c--------"
              relation="AuxY"
              head="16"
-             cite="urn:cts:greekLit:tlg0085.tlg004:182 Aeschylus Seven: s-77 w-11">#-PRED-v-OBJ--coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:182 Aeschylus Seven: s-77 w-11">#-PRED-v-OBJ--coord-c-auxy-d</sWord>
       <sWord id="12"
              form="πόλει"
              lemma="πόλις1"
@@ -7665,7 +7665,7 @@
              postag="c--------"
              relation="AuxY"
              head="29"
-             cite="urn:cts:greekLit:tlg0085.tlg004:199 Aeschylus Seven: s-83 w-28">#-coord-c-PRED_CO-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:199 Aeschylus Seven: s-83 w-28">#-coord-c-PRED_CO-v-auxy-d</sWord>
       <sWord id="29"
              form="φύγῃ"
              lemma="φεύγω1"
@@ -9835,14 +9835,14 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite="urn:cts:greekLit:tlg0085.tlg004:245 Aeschylus Seven: s-111 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:245 Aeschylus Seven: s-111 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="μὴν"
              lemma="μήν1"
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite="urn:cts:greekLit:tlg0085.tlg004:245 Aeschylus Seven: s-111 w-2">#-PRED-v-AuxY-c-AuxZ-d</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:245 Aeschylus Seven: s-111 w-2">#-PRED-v-auxy-d-AuxZ-d</sWord>
       <sWord id="3"
              form="ἀκούω"
              lemma="ἀκούω1"
@@ -10686,7 +10686,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite="urn:cts:greekLit:tlg0085.tlg004:260 Aeschylus Seven: s-126 w-4">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:260 Aeschylus Seven: s-126 w-4">#-PRED-v-auxy-d</sWord>
       <sWord id="5"
              form="δοίης"
              lemma="δίδωμι1"
@@ -11718,7 +11718,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg004:282 Aeschylus Seven: s-137 w-5">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:282 Aeschylus Seven: s-137 w-5">#-PRED-v-auxy-d</sWord>
       <sWord id="6"
              form="φύγῃς"
              lemma="φεύγω1"
@@ -12776,7 +12776,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg004:318 Aeschylus Seven: s-147 w-1">#-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:318 Aeschylus Seven: s-147 w-1">#-coord-c-auxy-d</sWord>
       <sWord id="2"
              form="πόλεως"
              lemma="πόλις1"
@@ -16487,7 +16487,7 @@
              postag="c--------"
              relation="AuxY"
              head="20"
-             cite="urn:cts:greekLit:tlg0085.tlg004:409 Aeschylus Seven: s-187 w-15">#-PRED-v-OBJ-n-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:409 Aeschylus Seven: s-187 w-15">#-PRED-v-OBJ-n-COORD-c-auxy-d</sWord>
       <sWord id="16"
              form="τὸν"
              lemma="ὁ1"
@@ -17299,7 +17299,7 @@
              postag="c--------"
              relation="AuxY"
              head="31"
-             cite="urn:cts:greekLit:tlg0085.tlg004:426 Aeschylus Seven: s-195 w-30">#-coord-c-PRED_CO-v-OBJ-a-ATR-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:426 Aeschylus Seven: s-195 w-30">#-coord-c-PRED_CO-v-OBJ-a-ATR-v-auxy-d</sWord>
       <sWord id="31"
              form="κραίνοι"
              lemma="κραίνω1"
@@ -18626,14 +18626,14 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg004:457 Aeschylus Seven: s-208 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:457 Aeschylus Seven: s-208 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="μὴν"
              lemma="μήν1"
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite="urn:cts:greekLit:tlg0085.tlg004:457 Aeschylus Seven: s-208 w-2">#-PRED-v-AuxY-c-AuxZ-d</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:457 Aeschylus Seven: s-208 w-2">#-PRED-v-auxy-d-AuxZ-d</sWord>
       <sWord id="3"
              form="τὸν"
              lemma="ὁ1"
@@ -19373,14 +19373,14 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite="urn:cts:greekLit:tlg0085.tlg004:473 Aeschylus Seven: s-217 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:473 Aeschylus Seven: s-217 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="δὴ"
              lemma="δή1"
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite="urn:cts:greekLit:tlg0085.tlg004:473 Aeschylus Seven: s-217 w-2">#-PRED-v-AuxY-c-AuxZ-d</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:473 Aeschylus Seven: s-217 w-2">#-PRED-v-auxy-d-AuxZ-d</sWord>
       <sWord id="3"
              form="πέπεμπται"
              lemma="πέμπω1"
@@ -19548,7 +19548,7 @@
              postag="c--------"
              relation="AuxY"
              head="35"
-             cite="urn:cts:greekLit:tlg0085.tlg004:477 Aeschylus Seven: s-217 w-29">#-PRED-v-APOS-u-SBJ_AP-n-coord-c-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:477 Aeschylus Seven: s-217 w-29">#-PRED-v-APOS-u-SBJ_AP-n-coord-c-COORD-c-auxy-d</sWord>
       <sWord id="30"
              form="θανὼν"
              lemma="θνήσκω1"
@@ -19590,7 +19590,7 @@
              postag="c--------"
              relation="AuxY"
              head="39"
-             cite="urn:cts:greekLit:tlg0085.tlg004:478 Aeschylus Seven: s-217 w-36">#-PRED-v-APOS-u-SBJ_AP-n-coord-c-COORD-c-ATR_CO-v-ADV-v-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:478 Aeschylus Seven: s-217 w-36">#-PRED-v-APOS-u-SBJ_AP-n-coord-c-COORD-c-ATR_CO-v-ADV-v-COORD-c-auxy-d</sWord>
       <sWord id="37"
              form="δύ᾽"
              lemma="δύο1"
@@ -24337,7 +24337,7 @@
              postag="c--------"
              relation="AuxY"
              head="11"
-             cite="urn:cts:greekLit:tlg0085.tlg004:580 Aeschylus Seven: s-261 w-5">#-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:580 Aeschylus Seven: s-261 w-5">#-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-auxy-d</sWord>
       <sWord id="6"
              form="θεοῖσι"
              lemma="θεός1"
@@ -24365,7 +24365,7 @@
              postag="d--------"
              relation="COORD"
              head="5"
-             cite="urn:cts:greekLit:tlg0085.tlg004:581 Aeschylus Seven: s-261 w-10">#-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-AuxY-c-coord-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:581 Aeschylus Seven: s-261 w-10">#-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-auxy-d-coord-c</sWord>
       <sWord id="11"
              form="ἀκοῦσαι"
              lemma="ἀκούω1"
@@ -24379,7 +24379,7 @@
              postag="c--------"
              relation="COORD"
              head="10"
-             cite="urn:cts:greekLit:tlg0085.tlg004:581 Aeschylus Seven: s-261 w-12">#-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-AuxY-c-coord-c-COORD-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:581 Aeschylus Seven: s-261 w-12">#-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-auxy-d-coord-c-COORD-c</sWord>
       <sWord id="13"
              form="λέγειν"
              lemma="λέγω3"
@@ -24393,7 +24393,7 @@
              postag="a-p---md-"
              relation="ADV"
              head="10"
-             cite="urn:cts:greekLit:tlg0085.tlg004:581 Aeschylus Seven: s-261 w-14">#-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-AuxY-c-coord-c-ADV-a</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:581 Aeschylus Seven: s-261 w-14">#-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-ADV-v-auxy-d-coord-c-ADV-a</sWord>
       <sWord id="16"
              form="πόλιν"
              lemma="πόλις1"
@@ -25392,7 +25392,7 @@
              postag="c--------"
              relation="AuxY"
              head="18"
-             cite="urn:cts:greekLit:tlg0085.tlg004:602 Aeschylus Seven: s-274 w-1">#-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:602 Aeschylus Seven: s-274 w-1">#-COORD-c-auxy-d</sWord>
       <sWord id="2"
              form="γὰρ"
              lemma="γάρ1"
@@ -28716,7 +28716,7 @@
              postag="c--------"
              relation="AuxY"
              head="7"
-             cite="urn:cts:greekLit:tlg0085.tlg004:674 Aeschylus Seven: s-301 w-4">#-COORD-u-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:674 Aeschylus Seven: s-301 w-4">#-COORD-u-auxy-d</sWord>
       <sWord id="5"
              form="κασιγνήτῳ"
              lemma="κασίγνητος1"
@@ -30630,7 +30630,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg004:712 Aeschylus Seven: s-326 w-7">#-PRED-v-AuxC-d-ADV-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:712 Aeschylus Seven: s-326 w-7">#-PRED-v-AuxC-d-ADV-v-auxy-d</sWord>
       <sWord id="8"
              form="."
              lemma="period1"
@@ -34185,7 +34185,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite="urn:cts:greekLit:tlg0085.tlg004:809 Aeschylus Seven: s-372 w-4">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:809 Aeschylus Seven: s-372 w-4">#-PRED-v-auxy-d</sWord>
       <sWord id="5"
              form="φράσον"
              lemma="φράζω1"
@@ -42091,7 +42091,7 @@
              postag="c--------"
              relation="AuxY"
              head="24"
-             cite="urn:cts:greekLit:tlg0085.tlg004:1028 Aeschylus Seven: s-477 w-12">#-PRED-v-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg004:1028 Aeschylus Seven: s-477 w-12">#-PRED-v-coord-c-auxy-d</sWord>
       <sWord id="13"
              form="μήθ᾽"
              lemma="μήτε1"

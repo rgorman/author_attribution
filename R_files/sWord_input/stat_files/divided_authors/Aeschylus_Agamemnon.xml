@@ -159,7 +159,7 @@
               subdoc="8-10" span="Aeschylus Agamemnon: s-2">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="3"
                      cite="urn:cts:greekLit:tlg0085.tlg005:8 Aeschylus Agamemnon: s-2 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="νῦν" lemma="νῦν1" postag="d--------" relation="ADV" head="3"
                      cite="urn:cts:greekLit:tlg0085.tlg005:8 Aeschylus Agamemnon: s-2 w-2"
                      >#-PRED-v-ADV-d</sWord>
@@ -1027,7 +1027,7 @@
                      >#-PRED-v-ADV-v</sWord>
               <sWord id="4" form="ἤ" lemma="ἤ1" postag="c--------" relation="AuxY" head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:55 Aeschylus Agamemnon: s-19 w-4"
-                     >#-PRED-v-APOS--COORD-c-AuxY-c</sWord>
+                     >#-PRED-v-APOS--COORD-c-auxy-d</sWord>
               <sWord id="5" form="τις" lemma="τις1" postag="p-s---mn-" relation="ATR" head="6"
                      cite="urn:cts:greekLit:tlg0085.tlg005:55 Aeschylus Agamemnon: s-19 w-5"
                      >#-PRED-v-APOS--COORD-c-SBJ_AP-n-ATR-p</sWord>
@@ -1037,7 +1037,7 @@
                      >#-PRED-v-APOS--COORD-c-SBJ_AP-n</sWord>
               <sWord id="7" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxY" head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:56 Aeschylus Agamemnon: s-19 w-7"
-                     >#-PRED-v-APOS--COORD-c-AuxY-c</sWord>
+                     >#-PRED-v-APOS--COORD-c-auxy-d</sWord>
               <sWord id="8" form="Πὰν" lemma="Πάν1" postag="n-s---mn-" relation="SBJ_AP" head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:56 Aeschylus Agamemnon: s-19 w-8"
                      >#-PRED-v-APOS--COORD-c-SBJ_AP-n</sWord>
@@ -1693,7 +1693,7 @@
                      >#-PRED-v-ADV-v-OBJ--SBJ-p-AuxZ-p</sWord>
               <sWord id="5" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="7"
                      cite="urn:cts:greekLit:tlg0085.tlg005:97 Aeschylus Agamemnon: s-31 w-5"
-                     >#-PRED-v-ADV-v-OBJ--COORD-c-AuxY-c</sWord>
+                     >#-PRED-v-ADV-v-OBJ--COORD-c-auxy-d</sWord>
               <sWord id="6" form="δυνατὸν" lemma="δυνατός1" postag="a-s---nn-" relation="PNOM_CO"
                      head="7"
                      cite="urn:cts:greekLit:tlg0085.tlg005:97 Aeschylus Agamemnon: s-31 w-6"
@@ -3119,7 +3119,7 @@
               subdoc="184-191" span="Aeschylus Agamemnon: s-56">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="38"
                      cite="urn:cts:greekLit:tlg0085.tlg005:184 Aeschylus Agamemnon: s-56 w-1"
-                     >#-PRED--AuxY-c</sWord>
+                     >#-PRED--auxy-d</sWord>
               <sWord id="2" form="τόθ᾽" lemma="τόθι1" postag="d--------" relation="ADV" head="38"
                      cite="urn:cts:greekLit:tlg0085.tlg005:184 Aeschylus Agamemnon: s-56 w-2"
                      >#-PRED--ADV-d</sWord>
@@ -3334,7 +3334,7 @@
                      >#-PRED--AuxY-d</sWord>
               <sWord id="3" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="11"
                      cite="urn:cts:greekLit:tlg0085.tlg005:198 Aeschylus Agamemnon: s-58 w-3"
-                     >#-PRED--AuxC-c-ADV-v-AuxY-c</sWord>
+                     >#-PRED--AuxC-c-ADV-v-auxy-d</sWord>
               <sWord id="4" form="πικροῦ" lemma="πικρός1" postag="a-s---ng-" relation="ATR" head="5"
                      cite="urn:cts:greekLit:tlg0085.tlg005:198 Aeschylus Agamemnon: s-58 w-4"
                      >#-PRED--AuxC-c-ADV-v-OBJ-n-ATR-n-ATR-a</sWord>
@@ -3794,7 +3794,7 @@
                      >#-coord-c</sWord>
               <sWord id="3" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:228 Aeschylus Agamemnon: s-67 w-3"
-                     >#-coord-c-PRED-v-coord-c-AuxY-c</sWord>
+                     >#-coord-c-PRED-v-coord-c-auxy-d</sWord>
               <sWord id="4" form="κληδόνας" lemma="κληδών1" postag="n-p---fa-" relation="OBJ_CO"
                      head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:228 Aeschylus Agamemnon: s-67 w-4"
@@ -4221,7 +4221,7 @@
                      >#-PRED-v-AuxC-c-ADV-v</sWord>
               <sWord id="8" form="ἂν" lemma="ἐάν1" postag="c--------" relation="AuxY" head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:252 Aeschylus Agamemnon: s-74 w-8"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="9" form="κλύοις" lemma="κλύω1" postag="v2spoa---" relation="PRED" head="0"
                      cite="urn:cts:greekLit:tlg0085.tlg005:252 Aeschylus Agamemnon: s-74 w-9"
                      >#-PRED-v</sWord>
@@ -4877,7 +4877,7 @@
                      >#-coord-c</sWord>
               <sWord id="4" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="5"
                      cite="urn:cts:greekLit:tlg0085.tlg005:278 Aeschylus Agamemnon: s-101 w-4"
-                     >#-coord-c-PRED-v-AuxY-c</sWord>
+                     >#-coord-c-PRED-v-auxy-d</sWord>
               <sWord id="5" form="πεπόρθηται" lemma="πορθέω1" postag="v3srie---" relation="PRED"
                      head="3"
                      cite="urn:cts:greekLit:tlg0085.tlg005:278 Aeschylus Agamemnon: s-101 w-5"
@@ -4923,7 +4923,7 @@
               subdoc="280" span="Aeschylus Agamemnon: s-103">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:280 Aeschylus Agamemnon: s-103 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="τίς" lemma="τίς" postag="p-s---mn-" relation="SBJ" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:280 Aeschylus Agamemnon: s-103 w-2"
                      >#-PRED-v-SBJ-p</sWord>
@@ -8861,7 +8861,7 @@
                      >#-PRED-v-APOS-u-AuxC-c-coord-c</sWord>
               <sWord id="27" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxY" head="36"
                      cite="urn:cts:greekLit:tlg0085.tlg005:498 Aeschylus Agamemnon: s-191 w-27"
-                     >#-PRED-v-APOS-u-AuxC-c-coord-c-coord-c-AuxY-c</sWord>
+                     >#-PRED-v-APOS-u-AuxC-c-coord-c-coord-c-auxy-d</sWord>
               <sWord id="28" form="τὸ" lemma="ὁ1" postag="l-s---na-" relation="ATR" head="29"
                      cite="urn:cts:greekLit:tlg0085.tlg005:498 Aeschylus Agamemnon: s-191 w-28"
                      >#-PRED-v-APOS-u-AuxC-c-coord-c-coord-c-OBJ_AP_CO-v-OBJ-v-ATR-l</sWord>
@@ -9471,7 +9471,7 @@
                      >#-PRED-v</sWord>
               <sWord id="6" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:524 Aeschylus Agamemnon: s-202 w-6"
-                     >#-PRED-v-PRED_PA-v-AuxY-c</sWord>
+                     >#-PRED-v-PRED_PA-v-auxy-d</sWord>
               <sWord id="7" form="γὰρ" lemma="γάρ1" postag="d--------" relation="AuxY" head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:524 Aeschylus Agamemnon: s-202 w-7"
                      >#-PRED-v-PRED_PA-v-AuxY-d</sWord>
@@ -10057,7 +10057,7 @@
               subdoc="549" span="Aeschylus Agamemnon: s-221">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:549 Aeschylus Agamemnon: s-221 w-1"
-                     >#-PRED--AuxY-c</sWord>
+                     >#-PRED--auxy-d</sWord>
               <sWord id="2" form="πῶς" lemma="πῶς2" postag="d--------" relation="ADV" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:549 Aeschylus Agamemnon: s-221 w-2"
                      >#-PRED--ADV-d</sWord>
@@ -10631,7 +10631,7 @@
               subdoc="572" span="Aeschylus Agamemnon: s-235">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="5"
                      cite="urn:cts:greekLit:tlg0085.tlg005:572 Aeschylus Agamemnon: s-235 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="πολλὰ" lemma="πολύς1" postag="a-p---na-" relation="ADV" head="3"
                      cite="urn:cts:greekLit:tlg0085.tlg005:572 Aeschylus Agamemnon: s-235 w-2"
                      >#-PRED-v-OBJ-v-ADV-a</sWord>
@@ -11145,7 +11145,7 @@
               subdoc="594-597" span="Aeschylus Agamemnon: s-249">
               <sWord id="1" form="ὅμως" lemma="ὅμως1" postag="c--------" relation="AuxY" head="3"
                      cite="urn:cts:greekLit:tlg0085.tlg005:594 Aeschylus Agamemnon: s-249 w-1"
-                     >#-COORD-c-PRED_CO-v-AuxY-c</sWord>
+                     >#-COORD-c-PRED_CO-v-auxy-d</sWord>
               <sWord id="2" form="δ᾽" lemma="δέ1" postag="d--------" relation="AuxY" head="5"
                      cite="urn:cts:greekLit:tlg0085.tlg005:594 Aeschylus Agamemnon: s-249 w-2"
                      >#-COORD-c-AuxY-d</sWord>
@@ -12872,7 +12872,7 @@
               subdoc="671-672" span="Aeschylus Agamemnon: s-286">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:671 Aeschylus Agamemnon: s-286 w-1"
-                     >#-COORD-u-PRED_CO-v-AuxY-c</sWord>
+                     >#-COORD-u-PRED_CO-v-auxy-d</sWord>
               <sWord id="2" form="νῦν" lemma="νῦν1" postag="d--------" relation="ADV" head="9"
                      cite="urn:cts:greekLit:tlg0085.tlg005:671 Aeschylus Agamemnon: s-286 w-2"
                      >#-COORD-u-PRED_CO-v-ADV-d</sWord>
@@ -13027,7 +13027,7 @@
                      >#-PRED--AuxC-c-ADV-v</sWord>
               <sWord id="8" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="10"
                      cite="urn:cts:greekLit:tlg0085.tlg005:677 Aeschylus Agamemnon: s-290 w-8"
-                     >#-PRED--AuxC-c-ADV-v-OBJ-p-COORD-c-AuxY-c</sWord>
+                     >#-PRED--AuxC-c-ADV-v-OBJ-p-COORD-c-auxy-d</sWord>
               <sWord id="9" form="ζῶντα" lemma="ζάω1" postag="v-sppama-" relation="ATV_CO" head="10"
                      cite="urn:cts:greekLit:tlg0085.tlg005:677 Aeschylus Agamemnon: s-290 w-9"
                      >#-PRED--AuxC-c-ADV-v-OBJ-p-COORD-c-ATV_CO-v</sWord>
@@ -15222,7 +15222,7 @@
                      >#-PRED-v-AuxC-c</sWord>
               <sWord id="9" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="13"
                      cite="urn:cts:greekLit:tlg0085.tlg005:822 Aeschylus Agamemnon: s-329 w-9"
-                     >#-PRED-v-AuxC-c-COORD-c-AuxY-c</sWord>
+                     >#-PRED-v-AuxC-c-COORD-c-auxy-d</sWord>
               <sWord id="10" form="πάγας" lemma="πάγη1" postag="n-p---fa-" relation="OBJ" head="12"
                      cite="urn:cts:greekLit:tlg0085.tlg005:822 Aeschylus Agamemnon: s-329 w-10"
                      >#-PRED-v-AuxC-c-COORD-c-ADV_CO-v-OBJ-n</sWord>
@@ -15387,7 +15387,7 @@
                      >#-COORD-c-PRED_CO-v-ADV-v</sWord>
               <sWord id="11" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="14"
                      cite="urn:cts:greekLit:tlg0085.tlg005:831 Aeschylus Agamemnon: s-332 w-11"
-                     >#-COORD-c-AuxY-c</sWord>
+                     >#-COORD-c-auxy-d</sWord>
               <sWord id="12" form="φημὶ" lemma="φημί1" postag="v1spia---" relation="PRED_CO"
                      head="14"
                      cite="urn:cts:greekLit:tlg0085.tlg005:831 Aeschylus Agamemnon: s-332 w-12"
@@ -15774,7 +15774,7 @@
                      >#-PRED-v-AuxY-d</sWord>
               <sWord id="3" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:848 Aeschylus Agamemnon: s-340 w-3"
-                     >#-PRED-v-ADV-v-AuxY-c</sWord>
+                     >#-PRED-v-ADV-v-auxy-d</sWord>
               <sWord id="4" form="δεῖ" lemma="δέω2" postag="v3spia---" relation="ADV" head="13"
                      cite="urn:cts:greekLit:tlg0085.tlg005:848 Aeschylus Agamemnon: s-340 w-4"
                      >#-PRED-v-ADV-v</sWord>
@@ -16832,7 +16832,7 @@
                      >#-PRED-v-COORD-u-OCOMP_CO-n-ADV-n</sWord>
               <sWord id="28" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="40"
                      cite="urn:cts:greekLit:tlg0085.tlg005:899 Aeschylus Agamemnon: s-358 w-28"
-                     >#-PRED-v-COORD-u-AuxY-c</sWord>
+                     >#-PRED-v-COORD-u-auxy-d</sWord>
               <sWord id="29" form="γῆν" lemma="γῆ1" postag="n-s---fa-" relation="OCOMP_CO" head="40"
                      cite="urn:cts:greekLit:tlg0085.tlg005:899 Aeschylus Agamemnon: s-358 w-29"
                      >#-PRED-v-COORD-u-OCOMP_CO-n</sWord>
@@ -17262,7 +17262,7 @@
               subdoc="918-922" span="Aeschylus Agamemnon: s-370">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="21"
                      cite="urn:cts:greekLit:tlg0085.tlg005:918 Aeschylus Agamemnon: s-370 w-1"
-                     >#-coord-c-AuxY-c</sWord>
+                     >#-coord-c-auxy-d</sWord>
               <sWord id="2" form="τἄλλα" lemma="ἄλλος1" postag="a-p---na-" relation="ADV" head="21"
                      cite="urn:cts:greekLit:tlg0085.tlg005:918 Aeschylus Agamemnon: s-370 w-2"
                      >#-coord-c-ADV-a</sWord>
@@ -17577,10 +17577,10 @@
               subdoc="931" span="Aeschylus Agamemnon: s-378">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:931 Aeschylus Agamemnon: s-378 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="μὴν" lemma="μήν1" postag="d--------" relation="AuxZ" head="1"
                      cite="urn:cts:greekLit:tlg0085.tlg005:931 Aeschylus Agamemnon: s-378 w-2"
-                     >#-PRED-v-AuxY-c-AuxZ-d</sWord>
+                     >#-PRED-v-auxy-d-AuxZ-d</sWord>
               <sWord id="3" form="τόδ᾽" lemma="ὅδε1" postag="p-s---na-" relation="OBJ" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:931 Aeschylus Agamemnon: s-378 w-3"
                      >#-PRED-v-OBJ-p</sWord>
@@ -17883,10 +17883,10 @@
               subdoc="942" span="Aeschylus Agamemnon: s-389">
               <sWord id="1" form="ἦ" lemma="ἦ1" postag="d--------" relation="AuxZ" head="2"
                      cite="urn:cts:greekLit:tlg0085.tlg005:942 Aeschylus Agamemnon: s-389 w-1"
-                     >#-PRED-v-AuxY-c-AuxZ-d</sWord>
+                     >#-PRED-v-auxy-d-AuxZ-d</sWord>
               <sWord id="2" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="7"
                      cite="urn:cts:greekLit:tlg0085.tlg005:942 Aeschylus Agamemnon: s-389 w-2"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="3" form="σὺ" lemma="σύ1" postag="p-s----n-" relation="SBJ" head="7"
                      cite="urn:cts:greekLit:tlg0085.tlg005:942 Aeschylus Agamemnon: s-389 w-3"
                      >#-PRED-v-SBJ-p</sWord>
@@ -18476,7 +18476,7 @@
               subdoc="968-969" span="Aeschylus Agamemnon: s-407">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="11"
                      cite="urn:cts:greekLit:tlg0085.tlg005:968 Aeschylus Agamemnon: s-407 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="σοῦ" lemma="σύ1" postag="p-s----g-" relation="SBJ" head="3"
                      cite="urn:cts:greekLit:tlg0085.tlg005:968 Aeschylus Agamemnon: s-407 w-2"
                      >#-PRED-v-ADV-v-SBJ-p</sWord>
@@ -18841,7 +18841,7 @@
                      >#-PRED-v-AuxP-r-ADV-n</sWord>
               <sWord id="5" form="ὅμως" lemma="ὅμως1" postag="c--------" relation="AuxY" head="6"
                      cite="urn:cts:greekLit:tlg0085.tlg005:990 Aeschylus Agamemnon: s-414 w-5"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="6" form="ὑμνῳδεῖ" lemma="ὑμνῳδέω1" postag="v3spia---" relation="PRED"
                      head="0"
                      cite="urn:cts:greekLit:tlg0085.tlg005:990 Aeschylus Agamemnon: s-414 w-6"
@@ -22335,7 +22335,7 @@
               subdoc="1174-1176" span="Aeschylus Agamemnon: s-522">
               <sWord id="1" form="καί" lemma="καί1" postag="c--------" relation="AuxY" head="7"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1174 Aeschylus Agamemnon: s-522 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="τίς" lemma="τίς" postag="p-s---mn-" relation="ATR" head="8"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1174 Aeschylus Agamemnon: s-522 w-2"
                      >#-PRED-v-SBJ-n-ATR-p</sWord>
@@ -22402,7 +22402,7 @@
               subdoc="1178-1179" span="Aeschylus Agamemnon: s-524">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="8"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1178 Aeschylus Agamemnon: s-524 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="μὴν" lemma="μήν1" postag="d--------" relation="AuxY" head="8"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1178 Aeschylus Agamemnon: s-524 w-2"
                      >#-PRED-v-AuxY-d</sWord>
@@ -22538,7 +22538,7 @@
               subdoc="1184-1185" span="Aeschylus Agamemnon: s-527">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="2"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1184 Aeschylus Agamemnon: s-527 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="μαρτυρεῖτε" lemma="μαρτυρέω1" postag="v2ppma---" relation="PRED"
                      head="0"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1184 Aeschylus Agamemnon: s-527 w-2"
@@ -22858,7 +22858,7 @@
               subdoc="1198-1199" span="Aeschylus Agamemnon: s-536">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="11"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1198 Aeschylus Agamemnon: s-536 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="πῶς" lemma="πῶς2" postag="d--------" relation="ADV" head="11"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1198 Aeschylus Agamemnon: s-536 w-2"
                      >#-PRED-v-ADV-d</sWord>
@@ -23913,7 +23913,7 @@
                      >#-COORD-c-PRED_CO-v</sWord>
               <sWord id="8" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="11"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1243 Aeschylus Agamemnon: s-566 w-8"
-                     >#-COORD-c-AuxY-c</sWord>
+                     >#-COORD-c-auxy-d</sWord>
               <sWord id="9" form="πέφρικα" lemma="φρίσσω1" postag="v1sria---" relation="PRED_CO"
                      head="11"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1243 Aeschylus Agamemnon: s-566 w-9"
@@ -24247,7 +24247,7 @@
                      >#-PRED--AuxY-d</sWord>
               <sWord id="3" form="ὅμως" lemma="ὅμως1" postag="c--------" relation="AuxY" head="5"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1255 Aeschylus Agamemnon: s-579 w-3"
-                     >#-PRED--AuxY-c</sWord>
+                     >#-PRED--auxy-d</sWord>
               <sWord id="4" form="." lemma="period1" postag="u--------" relation="AuxK" head="0"
                      cite=" Aeschylus Agamemnon: s-579 w-4">#-AuxK-u</sWord>
               <sWord id="5" form="[0]" insertion_id="0004e" artificial="elliptic" lemma="" postag=""
@@ -24448,7 +24448,7 @@
                      cite=" Aeschylus Agamemnon: s-585 w-7">#-PRED-v-APOS-u</sWord>
               <sWord id="8" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="10"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1265 Aeschylus Agamemnon: s-585 w-8"
-                     >#-PRED-v-APOS-u-COORD-c-AuxY-c</sWord>
+                     >#-PRED-v-APOS-u-COORD-c-auxy-d</sWord>
               <sWord id="9" form="σκῆπτρα" lemma="σκῆπτρον1" postag="n-p---na-" relation="OBJ_AP_CO"
                      head="10"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1265 Aeschylus Agamemnon: s-585 w-9"
@@ -24674,7 +24674,7 @@
                      >#-coord-c-coord-c-PRED_CO-v-ADV-v-OBJ-p-ATV-v-PRED_PA-v-AuxG--</sWord>
               <sWord id="36" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="43"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1275 Aeschylus Agamemnon: s-590 w-36"
-                     >#-coord-c-coord-c-PRED_CO-v-AuxY-c</sWord>
+                     >#-coord-c-coord-c-PRED_CO-v-auxy-d</sWord>
               <sWord id="37" form="νῦν" lemma="νῦν1" postag="d--------" relation="ADV" head="43"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1275 Aeschylus Agamemnon: s-590 w-37"
                      >#-coord-c-coord-c-PRED_CO-v-ADV-d</sWord>
@@ -25504,7 +25504,7 @@
               subdoc="1310" span="Aeschylus Agamemnon: s-617">
               <sWord id="1" form="καί" lemma="καί1" postag="c--------" relation="AuxY" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1310 Aeschylus Agamemnon: s-617 w-1"
-                     >#-PRED--AuxY-c</sWord>
+                     >#-PRED--auxy-d</sWord>
               <sWord id="2" form="πῶς" lemma="πῶς2" postag="d--------" relation="ADV" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1310 Aeschylus Agamemnon: s-617 w-2"
                      >#-PRED--ADV-d</sWord>
@@ -26069,7 +26069,7 @@
               subdoc="1335-1336" span="Aeschylus Agamemnon: s-635">
               <sWord id="1" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="6"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1335 Aeschylus Agamemnon: s-635 w-1"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="2" form="τῷδε" lemma="ὅδε1" postag="p-s---md-" relation="OBJ" head="6"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1335 Aeschylus Agamemnon: s-635 w-2"
                      >#-PRED-v-OBJ-p</sWord>
@@ -26705,10 +26705,10 @@
                      cite=" Aeschylus Agamemnon: s-655 w-2">#-AuxG--</sWord>
               <sWord id="3" form="ἦ" lemma="ἦ1" postag="d--------" relation="AuxZ" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1362 Aeschylus Agamemnon: s-655 w-3"
-                     >#-PRED-v-AuxY-c-AuxZ-d</sWord>
+                     >#-PRED-v-auxy-d-AuxZ-d</sWord>
               <sWord id="4" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="8"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1362 Aeschylus Agamemnon: s-655 w-4"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="5" form="βίον" lemma="βίος1" postag="n-s---ma-" relation="OBJ" head="6"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1362 Aeschylus Agamemnon: s-655 w-5"
                      >#-PRED-v-ADV-v-OBJ-n</sWord>
@@ -28499,7 +28499,7 @@
                      >#-coord-c-PRED--APOS-d-SBJ_AP-a-ATR-p</sWord>
               <sWord id="5" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="16"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1440 Aeschylus Agamemnon: s-698 w-5"
-                     >#-coord-c-PRED--APOS-d-AuxY-c</sWord>
+                     >#-coord-c-PRED--APOS-d-auxy-d</sWord>
               <sWord id="6" form="τερασκόπος" lemma="τερασκόπος1" postag="a-s---fn-"
                      relation="SBJ_AP_CO" head="7"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1440 Aeschylus Agamemnon: s-698 w-6"
@@ -30108,7 +30108,7 @@
                      >#-PRED-v-ExD-n</sWord>
               <sWord id="5" form="εἴθ᾽" lemma="εἴτε" postag="c--------" relation="AuxY" head="7"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1537 Aeschylus Agamemnon: s-738 w-5"
-                     >#-PRED-v-AuxY-c</sWord>
+                     >#-PRED-v-auxy-d</sWord>
               <sWord id="6" form="ἔμ᾽" lemma="ἐγώ1" postag="p-s---ma-" relation="OBJ" head="7"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1537 Aeschylus Agamemnon: s-738 w-6"
                      >#-PRED-v-OBJ-p</sWord>
@@ -30331,46 +30331,46 @@
               subdoc="1552-1559" span="Aeschylus Agamemnon: s-744">
               <sWord id="1" form="πρὸς" lemma="πρός1" postag="r--------" relation="AuxP" head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1552 Aeschylus Agamemnon: s-744 w-1"
-                     >#-coord-c-AuxY-c-COORD-u-AuxP-r</sWord>
+                     >#-coord-c-auxy-d-COORD-u-AuxP-r</sWord>
               <sWord id="2" form="ἡμῶν" lemma="ἐγώ1" postag="p-p---fg-" relation="OBJ" head="1"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1552 Aeschylus Agamemnon: s-744 w-2"
-                     >#-coord-c-AuxY-c-COORD-u-AuxP-r-OBJ-p</sWord>
+                     >#-coord-c-auxy-d-COORD-u-AuxP-r-OBJ-p</sWord>
               <sWord id="3" form="κάππεσε" lemma="καταπίπτω1" postag="v3saia---" relation="PRED_CO"
                      head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1553 Aeschylus Agamemnon: s-744 w-3"
-                     >#-coord-c-AuxY-c-COORD-u-PRED_CO-v</sWord>
+                     >#-coord-c-auxy-d-COORD-u-PRED_CO-v</sWord>
               <sWord id="4" form="," lemma="comma1" postag="u--------" relation="COORD" head="7"
-                     cite=" Aeschylus Agamemnon: s-744 w-4">#-coord-c-AuxY-c-COORD-u</sWord>
+                     cite=" Aeschylus Agamemnon: s-744 w-4">#-coord-c-auxy-d-COORD-u</sWord>
               <sWord id="5" form="κάτθανε" lemma="καταθνήσκω1" postag="v3saia---" relation="PRED_CO"
                      head="4"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1553 Aeschylus Agamemnon: s-744 w-5"
-                     >#-coord-c-AuxY-c-COORD-u-PRED_CO-v</sWord>
+                     >#-coord-c-auxy-d-COORD-u-PRED_CO-v</sWord>
               <sWord id="7" form="καὶ" lemma="καί1" postag="c--------" relation="AuxY" head="17"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1553 Aeschylus Agamemnon: s-744 w-7"
-                     >#-coord-c-AuxY-c</sWord>
+                     >#-coord-c-auxy-d</sWord>
               <sWord id="8" form="καταθάψομεν" lemma="καταθάπτω1" postag="v1pfia---"
                      relation="PRED_CO" head="7"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1553 Aeschylus Agamemnon: s-744 w-8"
-                     >#-coord-c-AuxY-c-PRED_CO-v</sWord>
+                     >#-coord-c-auxy-d-PRED_CO-v</sWord>
               <sWord id="10" form="οὐχ" lemma="οὐ1" postag="d--------" relation="AuxZ" head="11"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1554 Aeschylus Agamemnon: s-744 w-10"
-                     >#-coord-c-AuxY-c-PRED_CO-v-AuxP-r-AuxZ-d</sWord>
+                     >#-coord-c-auxy-d-PRED_CO-v-AuxP-r-AuxZ-d</sWord>
               <sWord id="11" form="ὑπὸ" lemma="ὑπό1" postag="r--------" relation="AuxP" head="8"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1554 Aeschylus Agamemnon: s-744 w-11"
-                     >#-coord-c-AuxY-c-PRED_CO-v-AuxP-r</sWord>
+                     >#-coord-c-auxy-d-PRED_CO-v-AuxP-r</sWord>
               <sWord id="12" form="κλαυθμῶν" lemma="κλαυθμός1" postag="n-p---mg-" relation="ADV"
                      head="11"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1554 Aeschylus Agamemnon: s-744 w-12"
-                     >#-coord-c-AuxY-c-PRED_CO-v-AuxP-r-ADV-n</sWord>
+                     >#-coord-c-auxy-d-PRED_CO-v-AuxP-r-ADV-n</sWord>
               <sWord id="13" form="τῶν" lemma="ὁ1" postag="p-p---mg-" relation="ATR" head="12"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1554 Aeschylus Agamemnon: s-744 w-13"
-                     >#-coord-c-AuxY-c-PRED_CO-v-AuxP-r-ADV-n-ATR-p</sWord>
+                     >#-coord-c-auxy-d-PRED_CO-v-AuxP-r-ADV-n-ATR-p</sWord>
               <sWord id="14" form="ἐξ" lemma="ἐκ1" postag="r--------" relation="AuxP" head="13"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1554 Aeschylus Agamemnon: s-744 w-14"
-                     >#-coord-c-AuxY-c-PRED_CO-v-AuxP-r-ADV-n-ATR-p-AuxP-r</sWord>
+                     >#-coord-c-auxy-d-PRED_CO-v-AuxP-r-ADV-n-ATR-p-AuxP-r</sWord>
               <sWord id="15" form="οἴκων" lemma="οἶκος1" postag="n-p---mg-" relation="ATR" head="14"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1554 Aeschylus Agamemnon: s-744 w-15"
-                     >#-coord-c-AuxY-c-PRED_CO-v-AuxP-r-ADV-n-ATR-p-AuxP-r-ATR-n</sWord>
+                     >#-coord-c-auxy-d-PRED_CO-v-AuxP-r-ADV-n-ATR-p-AuxP-r-ATR-n</sWord>
               <sWord id="17" form="ἀλλ᾽" lemma="ἀλλά1" postag="d--------" relation="COORD" head="0"
                      cite="urn:cts:greekLit:tlg0085.tlg005:1555 Aeschylus Agamemnon: s-744 w-17"
                      >#-coord-c</sWord>

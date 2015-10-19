@@ -721,7 +721,7 @@
              postag="c--------"
              relation="AuxY"
              head="7"
-             cite="urn:cts:greekLit:tlg0085.tlg002:21 Aeschylus Persians: s-5 w-3">#-PRED-v-APOS-u-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:21 Aeschylus Persians: s-5 w-3">#-PRED-v-APOS-u-COORD-c-auxy-d</sWord>
       <sWord id="4"
              form="Ἀρταφρένης"
              lemma="ἀρταφρένης"
@@ -735,7 +735,7 @@
              postag="c--------"
              relation="AuxY"
              head="7"
-             cite="urn:cts:greekLit:tlg0085.tlg002:22 Aeschylus Persians: s-5 w-5">#-PRED-v-APOS-u-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:22 Aeschylus Persians: s-5 w-5">#-PRED-v-APOS-u-COORD-c-auxy-d</sWord>
       <sWord id="6"
              form="Μεγαβάτης"
              lemma="μεγαβάτης"
@@ -957,7 +957,7 @@
              postag="c--------"
              relation="AuxY"
              head="17"
-             cite="urn:cts:greekLit:tlg0085.tlg002:30 Aeschylus Persians: s-6 w-4">#-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:30 Aeschylus Persians: s-6 w-4">#-coord-c-auxy-d</sWord>
       <sWord id="5"
              form="Μασίστρης"
              lemma="μασίστρης"
@@ -3624,7 +3624,7 @@
              postag="c--------"
              relation="AuxY"
              head="19"
-             cite="urn:cts:greekLit:tlg0085.tlg002:120 Aeschylus Persians: s-25 w-1">#-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:120 Aeschylus Persians: s-25 w-1">#-coord-c-auxy-d</sWord>
       <sWord id="2"
              form="τὸ"
              lemma="ὁ1"
@@ -6880,7 +6880,7 @@
              postag="c--------"
              relation="AuxY"
              head="27"
-             cite="urn:cts:greekLit:tlg0085.tlg002:194 Aeschylus Persians: s-53 w-17">#-coord-c-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:194 Aeschylus Persians: s-53 w-17">#-coord-c-COORD-c-auxy-d</sWord>
       <sWord id="18"
              form="χεροῖν"
              lemma="χείρ1"
@@ -6915,7 +6915,7 @@
              postag="c--------"
              relation="AuxY"
              head="27"
-             cite="urn:cts:greekLit:tlg0085.tlg002:195 Aeschylus Persians: s-53 w-22">#-coord-c-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:195 Aeschylus Persians: s-53 w-22">#-coord-c-COORD-c-auxy-d</sWord>
       <sWord id="23"
              form="ξυναρπάζει"
              lemma="συναρπάζω1"
@@ -8166,7 +8166,7 @@
              postag="c--------"
              relation="AuxY"
              head="29"
-             cite="urn:cts:greekLit:tlg0085.tlg002:218 Aeschylus Persians: s-65 w-23">#-PRED-v-coord-c-OBJ_CO-v-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:218 Aeschylus Persians: s-65 w-23">#-PRED-v-coord-c-OBJ_CO-v-coord-c-auxy-d</sWord>
       <sWord id="24"
              form="τέκνοις"
              lemma="τέκνον1"
@@ -8187,7 +8187,7 @@
              postag="c--------"
              relation="AuxY"
              head="29"
-             cite="urn:cts:greekLit:tlg0085.tlg002:219 Aeschylus Persians: s-65 w-26">#-PRED-v-coord-c-OBJ_CO-v-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:219 Aeschylus Persians: s-65 w-26">#-PRED-v-coord-c-OBJ_CO-v-coord-c-auxy-d</sWord>
       <sWord id="27"
              form="πόλει"
              lemma="πόλις1"
@@ -10471,7 +10471,7 @@
              postag="c--------"
              relation="AuxY"
              head="2"
-             cite="urn:cts:greekLit:tlg0085.tlg002:254 Aeschylus Persians: s-94 w-1">#-PRED--AuxY-d-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:254 Aeschylus Persians: s-94 w-1">#-PRED--AuxY-d-auxy-d</sWord>
       <sWord id="2"
              form="δ᾽"
              lemma="δέ1"
@@ -10918,14 +10918,14 @@
              postag="c--------"
              relation="AuxY"
              head="12"
-             cite="urn:cts:greekLit:tlg0085.tlg002:266 Aeschylus Persians: s-101 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:266 Aeschylus Persians: s-101 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="μὴν"
              lemma="μήν1"
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite="urn:cts:greekLit:tlg0085.tlg002:266 Aeschylus Persians: s-101 w-2">#-PRED-v-AuxY-c-AuxZ-d</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:266 Aeschylus Persians: s-101 w-2">#-PRED-v-auxy-d-AuxZ-d</sWord>
       <sWord id="3"
              form="παρών"
              lemma="πάρειμι1"
@@ -11943,7 +11943,7 @@
              postag="c--------"
              relation="AuxY"
              head="2"
-             cite="urn:cts:greekLit:tlg0085.tlg002:293 Aeschylus Persians: s-114 w-1">#-PRED--AuxY-d-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:293 Aeschylus Persians: s-114 w-1">#-PRED--AuxY-d-auxy-d</sWord>
       <sWord id="2"
              form="δ᾽"
              lemma="δέ1"
@@ -12083,7 +12083,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg002:295 Aeschylus Persians: s-115 w-11">#-PRED-v-AuxC-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:295 Aeschylus Persians: s-115 w-11">#-PRED-v-AuxC-c-auxy-d</sWord>
       <sWord id="12"
              form="."
              lemma="period1"
@@ -12137,7 +12137,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg002:296 Aeschylus Persians: s-116 w-7">#-coord-c-PRED_CO-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:296 Aeschylus Persians: s-116 w-7">#-coord-c-PRED_CO-v-auxy-d</sWord>
       <sWord id="8"
              form="πενθήσομεν"
              lemma="πενθέω1"
@@ -14135,7 +14135,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg002:341 Aeschylus Persians: s-135 w-4">#-coord-c-coord-c-AuxC-d-ADV-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:341 Aeschylus Persians: s-135 w-4">#-coord-c-coord-c-AuxC-d-ADV-v-auxy-d</sWord>
       <sWord id="5"
              form="γὰρ"
              lemma="γάρ1"
@@ -14306,7 +14306,7 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite="urn:cts:greekLit:tlg0085.tlg002:344 Aeschylus Persians: s-137 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:344 Aeschylus Persians: s-137 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="σοι"
              lemma="σύ"
@@ -15501,7 +15501,7 @@
              postag="c--------"
              relation="AuxY"
              head="18"
-             cite="urn:cts:greekLit:tlg0085.tlg002:369 Aeschylus Persians: s-147 w-1">#-PRED-v-PNOM-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:369 Aeschylus Persians: s-147 w-1">#-PRED-v-PNOM-v-auxy-d</sWord>
       <sWord id="2"
              form="εἰ"
              lemma="εἰ1"
@@ -16201,7 +16201,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite="urn:cts:greekLit:tlg0085.tlg002:384 Aeschylus Persians: s-154 w-1">#-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:384 Aeschylus Persians: s-154 w-1">#-coord-c-auxy-d</sWord>
       <sWord id="2"
              form="νὺξ"
              lemma="νύξ1"
@@ -17167,14 +17167,14 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite="urn:cts:greekLit:tlg0085.tlg002:406 Aeschylus Persians: s-162 w-1">#-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:406 Aeschylus Persians: s-162 w-1">#-coord-c-auxy-d</sWord>
       <sWord id="2"
              form="μὴν"
              lemma="μήν1"
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite="urn:cts:greekLit:tlg0085.tlg002:406 Aeschylus Persians: s-162 w-2">#-coord-c-AuxY-c-AuxZ-d</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:406 Aeschylus Persians: s-162 w-2">#-coord-c-auxy-d-AuxZ-d</sWord>
       <sWord id="3"
              form="παρ᾽"
              lemma="παρά1"
@@ -18669,7 +18669,7 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite="urn:cts:greekLit:tlg0085.tlg002:438 Aeschylus Persians: s-175 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:438 Aeschylus Persians: s-175 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="τίς"
              lemma="τίς"
@@ -20852,7 +20852,7 @@
              postag="c--------"
              relation="AuxY"
              head="34"
-             cite="urn:cts:greekLit:tlg0085.tlg002:486 Aeschylus Persians: s-196 w-29">#-coord-c-coord-c-PRED_CO-v-AuxP-r-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:486 Aeschylus Persians: s-196 w-29">#-coord-c-coord-c-PRED_CO-v-AuxP-r-coord-c-auxy-d</sWord>
       <sWord id="30"
              form="Δωρίδ᾽"
              lemma="δωρίς1"
@@ -22526,7 +22526,7 @@
              postag="c--------"
              relation="AuxY"
              head="14"
-             cite="urn:cts:greekLit:tlg0085.tlg002:521 Aeschylus Persians: s-216 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:521 Aeschylus Persians: s-216 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="δ᾽"
              lemma="δέ1"
@@ -22727,7 +22727,7 @@
              postag="c--------"
              relation="AuxY"
              head="31"
-             cite="urn:cts:greekLit:tlg0085.tlg002:525 Aeschylus Persians: s-217 w-17">#-COORD---coord-c-PRED_CO-v-OBJ--AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:525 Aeschylus Persians: s-217 w-17">#-COORD---coord-c-PRED_CO-v-OBJ--auxy-d</sWord>
       <sWord id="18"
              form="ἐπ᾽"
              lemma="ἐπί1"
@@ -22928,7 +22928,7 @@
              postag="c--------"
              relation="AuxY"
              head="13"
-             cite="urn:cts:greekLit:tlg0085.tlg002:529 Aeschylus Persians: s-219 w-1">#-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:529 Aeschylus Persians: s-219 w-1">#-COORD-c-auxy-d</sWord>
       <sWord id="2"
              form="παῖδ᾽"
              lemma="παῖς1"
@@ -24245,7 +24245,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg002:571 Aeschylus Persians: s-230 w-2">#-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:571 Aeschylus Persians: s-230 w-2">#-coord-c-auxy-d</sWord>
       <sWord id="3"
              form="δακνά"
              lemma="οτηερ"
@@ -26368,7 +26368,7 @@
              postag="c--------"
              relation="AuxY"
              head="13"
-             cite="urn:cts:greekLit:tlg0085.tlg002:629 Aeschylus Persians: s-246 w-9">#-PRED-v-APOS-u-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:629 Aeschylus Persians: s-246 w-9">#-PRED-v-APOS-u-coord-c-auxy-d</sWord>
       <sWord id="10"
              form="Ἑρμῆ"
              lemma="ʽἑρμῆς1"
@@ -28526,7 +28526,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg002:691 Aeschylus Persians: s-273 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:691 Aeschylus Persians: s-273 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="δ᾽"
              lemma="δέ1"
@@ -30373,7 +30373,7 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite="urn:cts:greekLit:tlg0085.tlg002:723 Aeschylus Persians: s-297 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:723 Aeschylus Persians: s-297 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="τόδ᾽"
              lemma="ὅδε1"
@@ -30666,7 +30666,7 @@
              postag="c--------"
              relation="AuxY"
              head="7"
-             cite="urn:cts:greekLit:tlg0085.tlg002:727 Aeschylus Persians: s-302 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:727 Aeschylus Persians: s-302 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="τί"
              lemma="τίς"
@@ -31337,7 +31337,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg002:737 Aeschylus Persians: s-312 w-1">#-COORD-u-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:737 Aeschylus Persians: s-312 w-1">#-COORD-u-auxy-d</sWord>
       <sWord id="2"
              form="πρὸς"
              lemma="πρός1"
@@ -32018,7 +32018,7 @@
              postag="c--------"
              relation="AuxY"
              head="14"
-             cite="urn:cts:greekLit:tlg0085.tlg002:747 Aeschylus Persians: s-321 w-1">#-COORD-u-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:747 Aeschylus Persians: s-321 w-1">#-COORD-u-auxy-d</sWord>
       <sWord id="2"
              form="πόρον"
              lemma="πόρος1"
@@ -32039,7 +32039,7 @@
              postag="c--------"
              relation="AuxY"
              head="14"
-             cite="urn:cts:greekLit:tlg0085.tlg002:747 Aeschylus Persians: s-321 w-5">#-COORD-u-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:747 Aeschylus Persians: s-321 w-5">#-COORD-u-auxy-d</sWord>
       <sWord id="6"
              form="πέδαις"
              lemma="πέδη1"
@@ -36792,7 +36792,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite="urn:cts:greekLit:tlg0085.tlg002:843 Aeschylus Persians: s-372 w-3">#-PRED-v-ADV-v-OBJ-n-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:843 Aeschylus Persians: s-372 w-3">#-PRED-v-ADV-v-OBJ-n-COORD-c-auxy-d</sWord>
       <sWord id="4"
              form="παρόντα"
              lemma="πάρειμι1"
@@ -37412,7 +37412,7 @@
              postag="c--------"
              relation="AuxY"
              head="16"
-             cite="urn:cts:greekLit:tlg0085.tlg002:859 Aeschylus Persians: s-377 w-9">#-PRED-d-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:859 Aeschylus Persians: s-377 w-9">#-PRED-d-auxy-d</sWord>
       <sWord id="10"
              form="νομίσματα"
              lemma="νόμισμα1"
@@ -38031,7 +38031,7 @@
              postag="c--------"
              relation="AuxY"
              head="30"
-             cite="urn:cts:greekLit:tlg0085.tlg002:884 Aeschylus Persians: s-380 w-20">#-PRED--SBJ-n-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:884 Aeschylus Persians: s-380 w-20">#-PRED--SBJ-n-coord-c-auxy-d</sWord>
       <sWord id="21"
              form="Πάρος"
              lemma="Πάρος1"
@@ -38199,7 +38199,7 @@
              postag="c--------"
              relation="AuxY"
              head="18"
-             cite="urn:cts:greekLit:tlg0085.tlg002:891 Aeschylus Persians: s-381 w-13">#-PRED-v-APOS-u-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:891 Aeschylus Persians: s-381 w-13">#-PRED-v-APOS-u-coord-c-auxy-d</sWord>
       <sWord id="14"
              form="Ῥόδον"
              lemma="Ῥόδος1"
@@ -38213,7 +38213,7 @@
              postag="c--------"
              relation="AuxY"
              head="18"
-             cite="urn:cts:greekLit:tlg0085.tlg002:891 Aeschylus Persians: s-381 w-15">#-PRED-v-APOS-u-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:891 Aeschylus Persians: s-381 w-15">#-PRED-v-APOS-u-coord-c-auxy-d</sWord>
       <sWord id="16"
              form="Κνίδον"
              lemma="Κνίδος1"
@@ -38262,7 +38262,7 @@
              postag="c--------"
              relation="AuxY"
              head="27"
-             cite="urn:cts:greekLit:tlg0085.tlg002:893 Aeschylus Persians: s-381 w-23">#-PRED-v-APOS-u-coord-c-APOS-u-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:893 Aeschylus Persians: s-381 w-23">#-PRED-v-APOS-u-coord-c-APOS-u-coord-c-auxy-d</sWord>
       <sWord id="24"
              form="Σόλους"
              lemma="σόλος1"
@@ -38962,7 +38962,7 @@
              postag="c--------"
              relation="AuxY"
              head="13"
-             cite="urn:cts:greekLit:tlg0085.tlg002:919 Aeschylus Persians: s-389 w-7">#-PRED--ExD-e-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:919 Aeschylus Persians: s-389 w-7">#-PRED--ExD-e-coord-c-auxy-d</sWord>
       <sWord id="8"
              form="περσονόμου"
              lemma="Περσονόμος1"
@@ -40139,7 +40139,7 @@
              postag="c--------"
              relation="AuxY"
              head="32"
-             cite="urn:cts:greekLit:tlg0085.tlg002:959 Aeschylus Persians: s-402 w-21">#-PRED--SBJ-n-ATR-v-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:959 Aeschylus Persians: s-402 w-21">#-PRED--SBJ-n-ATR-v-coord-c-auxy-d</sWord>
       <sWord id="22"
              form="Δοτάμας"
              lemma="Δοτάμας"
@@ -40153,7 +40153,7 @@
              postag="c--------"
              relation="AuxY"
              head="32"
-             cite="urn:cts:greekLit:tlg0085.tlg002:959 Aeschylus Persians: s-402 w-24">#-PRED--SBJ-n-ATR-v-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:959 Aeschylus Persians: s-402 w-24">#-PRED--SBJ-n-ATR-v-coord-c-auxy-d</sWord>
       <sWord id="25"
              form="Ἀ"
              lemma="οτηερ"
@@ -40436,7 +40436,7 @@
              postag="c--------"
              relation="AuxY"
              head="26"
-             cite="urn:cts:greekLit:tlg0085.tlg002:970 Aeschylus Persians: s-405 w-13">#-PRED--AuxY-d-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:970 Aeschylus Persians: s-405 w-13">#-PRED--AuxY-d-COORD-c-auxy-d</sWord>
       <sWord id="14"
              form="Λίλαιος"
              lemma="Λίλαιος"
@@ -40471,7 +40471,7 @@
              postag="c--------"
              relation="AuxY"
              head="26"
-             cite="urn:cts:greekLit:tlg0085.tlg002:971 Aeschylus Persians: s-405 w-21">#-PRED--AuxY-d-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:971 Aeschylus Persians: s-405 w-21">#-PRED--AuxY-d-COORD-c-auxy-d</sWord>
       <sWord id="22"
              form="Μασίστρας"
              lemma="Μασίστρας"
@@ -41285,7 +41285,7 @@
              postag="c--------"
              relation="AuxY"
              head="25"
-             cite="urn:cts:greekLit:tlg0085.tlg002:997 Aeschylus Persians: s-413 w-22">#-PRED-v-APOS-u-coord-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:997 Aeschylus Persians: s-413 w-22">#-PRED-v-APOS-u-coord-c-auxy-d</sWord>
       <sWord id="23"
              form="Λυθίμναν"
              lemma="Λυθίμναν"
@@ -43881,7 +43881,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite="urn:cts:greekLit:tlg0085.tlg002:1062 Aeschylus Persians: s-470 w-1">#-COORD-c-PRED_CO-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg002:1062 Aeschylus Persians: s-470 w-1">#-COORD-c-PRED_CO-v-auxy-d</sWord>
       <sWord id="2"
              form="ψάλλ᾽"
              lemma="ψάλλω1"

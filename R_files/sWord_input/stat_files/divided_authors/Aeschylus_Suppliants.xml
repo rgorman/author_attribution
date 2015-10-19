@@ -315,7 +315,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg001:11 Aeschylus Suppliants: s-3 w-4">#-PRED-v-SBJ-n-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:11 Aeschylus Suppliants: s-3 w-4">#-PRED-v-SBJ-n-COORD-c-auxy-d</sWord>
       <sWord id="5"
              form="βούλαρχος"
              lemma="βούλαρχος1"
@@ -714,7 +714,7 @@
              postag="c--------"
              relation="AuxY"
              head="21"
-             cite="urn:cts:greekLit:tlg0085.tlg001:23 Aeschylus Suppliants: s-5 w-7">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:23 Aeschylus Suppliants: s-5 w-7">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="8"
              form="λευκὸν"
              lemma="λευκός1"
@@ -756,7 +756,7 @@
              postag="c--------"
              relation="AuxY"
              head="21"
-             cite="urn:cts:greekLit:tlg0085.tlg001:24 Aeschylus Suppliants: s-5 w-15">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:24 Aeschylus Suppliants: s-5 w-15">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="16"
              form="βαρύτιμοι"
              lemma="βαρύτιμος1"
@@ -3296,7 +3296,7 @@
              postag="c--------"
              relation="AuxY"
              head="27"
-             cite="urn:cts:greekLit:tlg0085.tlg001:109 Aeschylus Suppliants: s-28 w-19">#-PRED-v-APOS-u-OBJ_AP-v-COORD-d-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:109 Aeschylus Suppliants: s-28 w-19">#-PRED-v-APOS-u-OBJ_AP-v-COORD-d-auxy-d</sWord>
       <sWord id="20"
              form="διάνοιαν"
              lemma="διάνοια1"
@@ -4946,7 +4946,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg001:168 Aeschylus Suppliants: s-48 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:168 Aeschylus Suppliants: s-48 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="τότ᾽"
              lemma="τότε1"
@@ -5295,7 +5295,7 @@
              postag="c--------"
              relation="AuxY"
              head="7"
-             cite="urn:cts:greekLit:tlg0085.tlg001:178 Aeschylus Suppliants: s-52 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:178 Aeschylus Suppliants: s-52 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="τἀπὶ"
              lemma="ἐπί1"
@@ -6006,7 +6006,7 @@
              postag="c--------"
              relation="AuxY"
              head="30"
-             cite="urn:cts:greekLit:tlg0085.tlg001:194 Aeschylus Suppliants: s-58 w-28">#-COORD-d-COORD-c-PRED_CO-v-OBJ-n-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:194 Aeschylus Suppliants: s-58 w-28">#-COORD-d-COORD-c-PRED_CO-v-OBJ-n-COORD-c-auxy-d</sWord>
       <sWord id="29"
              form="γοεδνὰ"
              lemma="γοεδνός1"
@@ -7820,7 +7820,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg001:228 Aeschylus Suppliants: s-86 w-3">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:228 Aeschylus Suppliants: s-86 w-3">#-PRED-v-auxy-d</sWord>
       <sWord id="4"
              form="᾽"
              lemma="οτηερ"
@@ -8798,7 +8798,7 @@
              postag="c--------"
              relation="AuxY"
              head="14"
-             cite="urn:cts:greekLit:tlg0085.tlg001:248 Aeschylus Suppliants: s-96 w-10">#-PRED-v-AuxC-d-ADV--COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:248 Aeschylus Suppliants: s-96 w-10">#-PRED-v-AuxC-d-ADV--COORD-c-auxy-d</sWord>
       <sWord id="11"
              form="ῥήτορ᾽"
              lemma="ῥήτωρ1"
@@ -10345,7 +10345,7 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite="urn:cts:greekLit:tlg0085.tlg001:281 Aeschylus Suppliants: s-114 w-1">#-COORD-d-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:281 Aeschylus Suppliants: s-114 w-1">#-COORD-d-auxy-d</sWord>
       <sWord id="2"
              form="Νεῖλος"
              lemma="Νεῖλος1"
@@ -10960,7 +10960,7 @@
              postag="c--------"
              relation="AuxY"
              head="9"
-             cite="urn:cts:greekLit:tlg0085.tlg001:295 Aeschylus Suppliants: s-120 w-1">#-PRED--AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:295 Aeschylus Suppliants: s-120 w-1">#-PRED--auxy-d</sWord>
       <sWord id="2"
              form="καὶ"
              lemma="καί1"
@@ -12325,7 +12325,7 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite="urn:cts:greekLit:tlg0085.tlg001:322 Aeschylus Suppliants: s-144 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:322 Aeschylus Suppliants: s-144 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="τοῦδ᾽"
              lemma="ὅδε1"
@@ -12990,7 +12990,7 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite="urn:cts:greekLit:tlg0085.tlg001:335 Aeschylus Suppliants: s-154 w-2">#-PRED--AuxC-c-ADV-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:335 Aeschylus Suppliants: s-154 w-2">#-PRED--AuxC-c-ADV-v-auxy-d</sWord>
       <sWord id="3"
              form="γένωμαι"
              lemma="γίγνομαι1"
@@ -13081,7 +13081,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg001:336 Aeschylus Suppliants: s-155 w-7">#-COORD-c-PRED_CO-v-OBJ--PNOM-n-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:336 Aeschylus Suppliants: s-155 w-7">#-COORD-c-PRED_CO-v-OBJ--PNOM-n-auxy-d</sWord>
       <sWord id="8"
              form="θέμις"
              lemma="θέμις1"
@@ -17016,7 +17016,7 @@
              postag="c--------"
              relation="AuxY"
              head="4"
-             cite="urn:cts:greekLit:tlg0085.tlg001:420 Aeschylus Suppliants: s-201 w-3">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:420 Aeschylus Suppliants: s-201 w-3">#-PRED-v-auxy-d</sWord>
       <sWord id="4"
              form="προδῷς"
              lemma="προδίδωμι1"
@@ -17569,14 +17569,14 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite="urn:cts:greekLit:tlg0085.tlg001:438 Aeschylus Suppliants: s-208 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:438 Aeschylus Suppliants: s-208 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="δὴ"
              lemma="δή1"
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite="urn:cts:greekLit:tlg0085.tlg001:438 Aeschylus Suppliants: s-208 w-2">#-PRED-v-AuxY-c-AuxZ-d</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:438 Aeschylus Suppliants: s-208 w-2">#-PRED-v-auxy-d-AuxZ-d</sWord>
       <sWord id="3"
              form="πέφρασμαι"
              lemma="φράζω1"
@@ -17635,7 +17635,7 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite="urn:cts:greekLit:tlg0085.tlg001:439 Aeschylus Suppliants: s-210 w-1">#-COORD-c-PRED_CO-v-SBJ-v-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:439 Aeschylus Suppliants: s-210 w-1">#-COORD-c-PRED_CO-v-SBJ-v-COORD-c-auxy-d</sWord>
       <sWord id="2"
              form="τοῖσιν"
              lemma="ὁ1"
@@ -19152,7 +19152,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg001:468 Aeschylus Suppliants: s-233 w-1">#-COORD-d-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:468 Aeschylus Suppliants: s-233 w-1">#-COORD-d-auxy-d</sWord>
       <sWord id="2"
              form="πολλαχῇ"
              lemma="πολλαχῆ1"
@@ -19638,7 +19638,7 @@
              postag="c--------"
              relation="AuxY"
              head="9"
-             cite="urn:cts:greekLit:tlg0085.tlg001:478 Aeschylus Suppliants: s-237 w-1">#-PRED--AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:478 Aeschylus Suppliants: s-237 w-1">#-PRED--auxy-d</sWord>
       <sWord id="2"
              form="δ᾽"
              lemma="δέ1"
@@ -20056,7 +20056,7 @@
              postag="c--------"
              relation="AuxY"
              head="16"
-             cite="urn:cts:greekLit:tlg0085.tlg001:486 Aeschylus Suppliants: s-241 w-1">#-COORD-d-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:486 Aeschylus Suppliants: s-241 w-1">#-COORD-d-auxy-d</sWord>
       <sWord id="2"
              form="γὰρ"
              lemma="γάρ1"
@@ -20681,14 +20681,14 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite="urn:cts:greekLit:tlg0085.tlg001:499 Aeschylus Suppliants: s-248 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:499 Aeschylus Suppliants: s-248 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="δὴ"
              lemma="δή1"
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite="urn:cts:greekLit:tlg0085.tlg001:499 Aeschylus Suppliants: s-248 w-2">#-PRED-v-AuxY-c-AuxZ-d</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:499 Aeschylus Suppliants: s-248 w-2">#-PRED-v-auxy-d-AuxZ-d</sWord>
       <sWord id="3"
              form="φίλον"
              lemma="φίλος1"
@@ -21153,14 +21153,14 @@
              postag="c--------"
              relation="AuxY"
              head="4"
-             cite="urn:cts:greekLit:tlg0085.tlg001:507 Aeschylus Suppliants: s-257 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:507 Aeschylus Suppliants: s-257 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="δή"
              lemma="δή1"
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite="urn:cts:greekLit:tlg0085.tlg001:507 Aeschylus Suppliants: s-257 w-2">#-PRED-v-AuxY-c-AuxZ-d</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:507 Aeschylus Suppliants: s-257 w-2">#-PRED-v-auxy-d-AuxZ-d</sWord>
       <sWord id="3"
              form="σφε"
              lemma="σφεῖς1"
@@ -21275,7 +21275,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite="urn:cts:greekLit:tlg0085.tlg001:509 Aeschylus Suppliants: s-259 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:509 Aeschylus Suppliants: s-259 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="πῶς"
              lemma="πῶς2"
@@ -21612,7 +21612,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite="urn:cts:greekLit:tlg0085.tlg001:515 Aeschylus Suppliants: s-265 w-2">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:515 Aeschylus Suppliants: s-265 w-2">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="3"
              form="λέγων"
              lemma="λέγω3"
@@ -22960,7 +22960,7 @@
              postag="c--------"
              relation="AuxY"
              head="25"
-             cite="urn:cts:greekLit:tlg0085.tlg001:553 Aeschylus Suppliants: s-278 w-19">#-COORD-c-PRED_CO--COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:553 Aeschylus Suppliants: s-278 w-19">#-COORD-c-PRED_CO--COORD-c-auxy-d</sWord>
       <sWord id="20"
              form="ποταμοὺς"
              lemma="ποταμός1"
@@ -22981,7 +22981,7 @@
              postag="c--------"
              relation="AuxY"
              head="25"
-             cite="urn:cts:greekLit:tlg0085.tlg001:554 Aeschylus Suppliants: s-278 w-22">#-COORD-c-PRED_CO--COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:554 Aeschylus Suppliants: s-278 w-22">#-COORD-c-PRED_CO--COORD-c-auxy-d</sWord>
       <sWord id="23"
              form="βαθύπλουτον"
              lemma="βαθύπλουτος1"
@@ -23521,7 +23521,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite="urn:cts:greekLit:tlg0085.tlg001:571 Aeschylus Suppliants: s-282 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:571 Aeschylus Suppliants: s-282 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="τότε"
              lemma="τότε1"
@@ -23535,7 +23535,7 @@
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite="urn:cts:greekLit:tlg0085.tlg001:571 Aeschylus Suppliants: s-282 w-3">#-PRED-v-AuxY-c-AuxZ-d</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:571 Aeschylus Suppliants: s-282 w-3">#-PRED-v-auxy-d-AuxZ-d</sWord>
       <sWord id="4"
              form="τίς"
              lemma="τίς"
@@ -25764,7 +25764,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg001:630 Aeschylus Suppliants: s-308 w-3">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:630 Aeschylus Suppliants: s-308 w-3">#-PRED-v-auxy-d</sWord>
       <sWord id="5"
              form="θεοὶ"
              lemma="θεός1"
@@ -26763,7 +26763,7 @@
              postag="c--------"
              relation="AuxY"
              head="12"
-             cite="urn:cts:greekLit:tlg0085.tlg001:667 Aeschylus Suppliants: s-317 w-2">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:667 Aeschylus Suppliants: s-317 w-2">#-PRED-v-auxy-d</sWord>
       <sWord id="3"
              form="γεραροῖσι"
              lemma="γεραρός1"
@@ -28339,7 +28339,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite="urn:cts:greekLit:tlg0085.tlg001:715 Aeschylus Suppliants: s-336 w-4">#-PRED--COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:715 Aeschylus Suppliants: s-336 w-4">#-PRED--COORD-c-auxy-d</sWord>
       <sWord id="5"
              form="παραρρύσεις"
              lemma="παράρρυσις1"
@@ -28785,7 +28785,7 @@
              postag="c--------"
              relation="AuxY"
              head="11"
-             cite="urn:cts:greekLit:tlg0085.tlg001:725 Aeschylus Suppliants: s-339 w-10">#-PRED-v-SBJ-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:725 Aeschylus Suppliants: s-339 w-10">#-PRED-v-SBJ-v-auxy-d</sWord>
       <sWord id="11"
              form="ἀμελεῖν"
              lemma="ἀμελέω1"
@@ -29048,7 +29048,7 @@
              postag="c--------"
              relation="AuxY"
              head="15"
-             cite="urn:cts:greekLit:tlg0085.tlg001:730 Aeschylus Suppliants: s-344 w-1">#-PRED--AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:730 Aeschylus Suppliants: s-344 w-1">#-PRED--auxy-d</sWord>
       <sWord id="2"
              form="δ᾽"
              lemma="δέ1"
@@ -29689,7 +29689,7 @@
              postag="c--------"
              relation="AuxY"
              head="2"
-             cite="urn:cts:greekLit:tlg0085.tlg001:742 Aeschylus Suppliants: s-353 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:742 Aeschylus Suppliants: s-353 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="λέγω"
              lemma="λέγω3"
@@ -30277,7 +30277,7 @@
              postag="c--------"
              relation="AuxY"
              head="11"
-             cite="urn:cts:greekLit:tlg0085.tlg001:755 Aeschylus Suppliants: s-362 w-2">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:755 Aeschylus Suppliants: s-362 w-2">#-PRED-v-auxy-d</sWord>
       <sWord id="3"
              form="τριαίνας"
              lemma="τρίαινα1"
@@ -33284,7 +33284,7 @@
              postag="c--------"
              relation="AuxY"
              head="2"
-             cite="urn:cts:greekLit:tlg0085.tlg001:831 Aeschylus Suppliants: s-399 w-1">#-PRED--ExD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:831 Aeschylus Suppliants: s-399 w-1">#-PRED--ExD-c-auxy-d</sWord>
       <sWord id="2"
              form="ἠέ"
              lemma="ἤ1"
@@ -33562,7 +33562,7 @@
              postag="c--------"
              relation="AuxY"
              head="18"
-             cite="urn:cts:greekLit:tlg0085.tlg001:839 Aeschylus Suppliants: s-403 w-16">#-COORD--PRED_CO--COORD-u-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:839 Aeschylus Suppliants: s-403 w-16">#-COORD--PRED_CO--COORD-u-auxy-d</sWord>
       <sWord id="17"
              form="στιγμοί"
              lemma="στιγμός1"
@@ -33688,7 +33688,7 @@
              postag="c--------"
              relation="AuxY"
              head="13"
-             cite="urn:cts:greekLit:tlg0085.tlg001:843 Aeschylus Suppliants: s-405 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:843 Aeschylus Suppliants: s-405 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="ἀνὰ"
              lemma="ἀνά1"
@@ -34513,7 +34513,7 @@
              postag="c--------"
              relation="AuxY"
              head="4"
-             cite="urn:cts:greekLit:tlg0085.tlg001:872 Aeschylus Suppliants: s-417 w-2">#-COORD-c-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:872 Aeschylus Suppliants: s-417 w-2">#-COORD-c-auxy-d</sWord>
       <sWord id="3"
              form="λάκαζε"
              lemma="λακάζω1"
@@ -34614,7 +34614,7 @@
              postag="c--------"
              relation="AuxY"
              head="4"
-             cite="urn:cts:greekLit:tlg0085.tlg001:874 Aeschylus Suppliants: s-419 w-2">#-COORD-u-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:874 Aeschylus Suppliants: s-419 w-2">#-COORD-u-auxy-d</sWord>
       <sWord id="3"
              form="βόα"
              lemma="βοάω1"
@@ -37158,7 +37158,7 @@
              postag="c--------"
              relation="AuxY"
              head="11"
-             cite="urn:cts:greekLit:tlg0085.tlg001:931 Aeschylus Suppliants: s-459 w-9">#-PRED-v-AuxC-c-ADV-v-PRED_PA-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:931 Aeschylus Suppliants: s-459 w-9">#-PRED-v-AuxC-c-ADV-v-PRED_PA-v-auxy-d</sWord>
       <sWord id="10"
              form="γὰρ"
              lemma="γάρ1"
@@ -39896,7 +39896,7 @@
              postag="c--------"
              relation="AuxY"
              head="4"
-             cite="urn:cts:greekLit:tlg0085.tlg001:991 Aeschylus Suppliants: s-490 w-1">#-PRED-v-AuxY-c</sWord>
+             cite="urn:cts:greekLit:tlg0085.tlg001:991 Aeschylus Suppliants: s-490 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="ταῦθ᾽"
              lemma="οὗτος1"

@@ -1328,7 +1328,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite=" Aeschylus Eumenides: s-15 w-4">#-PRED-v-ADV-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-15 w-4">#-PRED-v-ADV-v-COORD-c-auxy-d</sWord>
       <sWord id="5"
              form="Ποσειδῶνος"
              lemma="Ποσειδῶν1"
@@ -1431,7 +1431,7 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite=" Aeschylus Eumenides: s-16 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-16 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="νῦν"
              lemma="νῦν1"
@@ -3274,7 +3274,7 @@
              postag="c--------"
              relation="AuxY"
              head="7"
-             cite=" Aeschylus Eumenides: s-36 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-36 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="νῦν"
              lemma="νῦν1"
@@ -3641,7 +3641,7 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite=" Aeschylus Eumenides: s-39 w-1">#-coord-c-PRED_CO-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-39 w-1">#-coord-c-PRED_CO-v-auxy-d</sWord>
       <sWord id="2"
              form="δὲ"
              lemma="δέ1"
@@ -4114,7 +4114,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite=" Aeschylus Eumenides: s-44 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-44 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="γὰρ"
              lemma="γάρ1"
@@ -8315,7 +8315,7 @@
              postag="c--------"
              relation="AuxY"
              head="11"
-             cite=" Aeschylus Eumenides: s-99 w-5">#-coord-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-99 w-5">#-coord-c-auxy-d</sWord>
       <sWord id="6"
              form="τὸν"
              lemma="ὁ1"
@@ -8579,7 +8579,7 @@
              postag="c--------"
              relation="AuxY"
              head="25"
-             cite=" Aeschylus Eumenides: s-101 w-15">#-COORD-u-PRED_CO-v-AuxC-c-ADV-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-101 w-15">#-COORD-u-PRED_CO-v-AuxC-c-ADV-v-auxy-d</sWord>
       <sWord id="16"
              form="λαβοῦσα"
              lemma="λαμβάνω1"
@@ -8869,7 +8869,7 @@
              postag="c--------"
              relation="AuxY"
              head="21"
-             cite=" Aeschylus Eumenides: s-103 w-15">#-PRED--COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-103 w-15">#-PRED--COORD-c-auxy-d</sWord>
       <sWord id="16"
              form="ἀκρωνία"
              lemma="ἀκρωνία1"
@@ -9777,7 +9777,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite=" Aeschylus Eumenides: s-118 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-118 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="τὰς"
              lemma="ὁ1"
@@ -12116,7 +12116,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite=" Aeschylus Eumenides: s-149 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-149 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="νῦν"
              lemma="νῦν1"
@@ -12905,7 +12905,7 @@
              postag="c--------"
              relation="AuxY"
              head="15"
-             cite=" Aeschylus Eumenides: s-158 w-8">#-PRED-v-OBJ-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-158 w-8">#-PRED-v-OBJ-v-COORD-c-auxy-d</sWord>
       <sWord id="9"
              form="θεὸν"
              lemma="θεός1"
@@ -12919,7 +12919,7 @@
              postag="c--------"
              relation="AuxY"
              head="15"
-             cite=" Aeschylus Eumenides: s-158 w-10">#-PRED-v-OBJ-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-158 w-10">#-PRED-v-OBJ-v-COORD-c-auxy-d</sWord>
       <sWord id="11"
              form="ξένον"
              lemma="ξένος2"
@@ -13640,7 +13640,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite=" Aeschylus Eumenides: s-166 w-2">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-166 w-2">#-PRED-v-auxy-d</sWord>
       <sWord id="3"
              form="νῦν"
              lemma="νῦν1"
@@ -13792,7 +13792,7 @@
              postag="c--------"
              relation="AuxY"
              head="9"
-             cite=" Aeschylus Eumenides: s-167 w-7">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-167 w-7">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="8"
              form="γῆν"
              lemma="γῆ1"
@@ -13902,7 +13902,7 @@
              postag="c--------"
              relation="AuxY"
              head="23"
-             cite=" Aeschylus Eumenides: s-168 w-2">#-coord-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-168 w-2">#-coord-c-auxy-d</sWord>
       <sWord id="3"
              form="χώρας"
              lemma="χώρα1"
@@ -14266,7 +14266,7 @@
              postag="c--------"
              relation="AuxY"
              head="14"
-             cite=" Aeschylus Eumenides: s-169 w-11">#-PRED-v-AuxC-d-ADV-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-169 w-11">#-PRED-v-AuxC-d-ADV-v-auxy-d</sWord>
       <sWord id="12"
              form="οὐ"
              lemma="οὐ1"
@@ -14624,7 +14624,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite=" Aeschylus Eumenides: s-173 w-3">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-173 w-3">#-PRED-v-auxy-d</sWord>
       <sWord id="4"
              form="χορὸν"
              lemma="χορός1"
@@ -16134,7 +16134,7 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite=" Aeschylus Eumenides: s-186 w-7">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-186 w-7">#-PRED-v-auxy-d</sWord>
       <sWord id="8"
              form="ἀμαυ"
              lemma="οτηερ"
@@ -16525,7 +16525,7 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite=" Aeschylus Eumenides: s-190 w-7">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-190 w-7">#-PRED-v-auxy-d</sWord>
       <sWord id="8"
              form="ἀμαυ"
              lemma="οτηερ"
@@ -17246,7 +17246,7 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite=" Aeschylus Eumenides: s-197 w-3">#-PRED--COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-197 w-3">#-PRED--COORD-c-auxy-d</sWord>
       <sWord id="4"
              form="τέλειοι"
              lemma="τέλειος"
@@ -18928,7 +18928,7 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite=" Aeschylus Eumenides: s-214 w-1">#-PRED--AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-214 w-1">#-PRED--auxy-d</sWord>
       <sWord id="2"
              form="τῷ"
              lemma="ὁ1"
@@ -19944,7 +19944,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite=" Aeschylus Eumenides: s-232 w-4">#-PRED-v-ADV-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-232 w-4">#-PRED-v-ADV-v-COORD-c-auxy-d</sWord>
       <sWord id="5"
              form="γένος"
              lemma="γένος1"
@@ -20641,7 +20641,7 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite=" Aeschylus Eumenides: s-239 w-8">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-239 w-8">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="9"
              form="βοτοῖσι"
              lemma="βοτόν1"
@@ -23569,7 +23569,7 @@
              postag="c--------"
              relation="AuxY"
              head="12"
-             cite=" Aeschylus Eumenides: s-269 w-9">#-PRED-v-APOS--coord-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-269 w-9">#-PRED-v-APOS--coord-c-auxy-d</sWord>
       <sWord id="10"
              form="πόλις"
              lemma="πόλις1"
@@ -24943,7 +24943,7 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite=" Aeschylus Eumenides: s-285 w-5">#-coord-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-285 w-5">#-coord-c-auxy-d</sWord>
       <sWord id="6"
              form="στρατὸν"
              lemma="στρατός1"
@@ -25371,7 +25371,7 @@
              postag="c--------"
              relation="AuxY"
              head="22"
-             cite=" Aeschylus Eumenides: s-289 w-1">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-289 w-1">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="2"
              form="μαρτυρήσων"
              lemma="μαρτυρέω1"
@@ -26563,7 +26563,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite=" Aeschylus Eumenides: s-308 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-308 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="δεῦρό"
              lemma="δεῦρο1"
@@ -29730,7 +29730,7 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite=" Aeschylus Eumenides: s-347 w-1">#-COORD-c-PRED_CO-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-347 w-1">#-COORD-c-PRED_CO-v-auxy-d</sWord>
       <sWord id="2"
              form="τοῦτο"
              lemma="οὗτος1"
@@ -30464,7 +30464,7 @@
              postag="c--------"
              relation="AuxY"
              head="44"
-             cite=" Aeschylus Eumenides: s-353 w-33">#-COORD-c-PRED_CO-v-AuxC-c-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-353 w-33">#-COORD-c-PRED_CO-v-AuxC-c-COORD-c-auxy-d</sWord>
       <sWord id="34"
              form="τόνδ᾽"
              lemma="ὅδε1"
@@ -31260,7 +31260,7 @@
              postag="c--------"
              relation="AuxY"
              head="27"
-             cite=" Aeschylus Eumenides: s-362 w-18">#-PRED--APOS-u-coord-c-AuxC-c-coord-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-362 w-18">#-PRED--APOS-u-coord-c-AuxC-c-coord-c-auxy-d</sWord>
       <sWord id="19"
              form="πόλιν"
              lemma="πόλις1"
@@ -32256,7 +32256,7 @@
              postag="c--------"
              relation="AuxY"
              head="7"
-             cite=" Aeschylus Eumenides: s-370 w-4">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-370 w-4">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="5"
              form="ψῆφον"
              lemma="ψῆφος1"
@@ -32357,7 +32357,7 @@
              postag="c--------"
              relation="AuxY"
              head="8"
-             cite=" Aeschylus Eumenides: s-372 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-372 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="μὴν"
              lemma="μήν1"
@@ -34736,7 +34736,7 @@
              postag="c--------"
              relation="AuxY"
              head="21"
-             cite=" Aeschylus Eumenides: s-402 w-17">#-PRED-v-coord-c-AuxP-d-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-402 w-17">#-PRED-v-coord-c-AuxP-d-COORD-c-auxy-d</sWord>
       <sWord id="18"
              form="Λοξίου"
              lemma="Λοξίας1"
@@ -35432,7 +35432,7 @@
              postag="c--------"
              relation="AuxY"
              head="2"
-             cite=" Aeschylus Eumenides: s-406 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-406 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="χαῖρε"
              lemma="χαίρω1"
@@ -35446,7 +35446,7 @@
              postag="c--------"
              relation="AuxY"
              head="6"
-             cite=" Aeschylus Eumenides: s-406 w-4">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-406 w-4">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="5"
              form="σὺ"
              lemma="σύ1"
@@ -40204,7 +40204,7 @@
              postag="c--------"
              relation="AuxY"
              head="18"
-             cite=" Aeschylus Eumenides: s-462 w-15">#-PRED-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-462 w-15">#-PRED-v-COORD-c-auxy-d</sWord>
       <sWord id="16"
              form="κότον"
              lemma="κότος1"
@@ -40499,14 +40499,14 @@
              postag="c--------"
              relation="AuxY"
              head="3"
-             cite=" Aeschylus Eumenides: s-467 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-467 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="δὴ"
              lemma="δή1"
              postag="d--------"
              relation="AuxZ"
              head="1"
-             cite=" Aeschylus Eumenides: s-467 w-2">#-PRED-v-AuxY-c-AuxZ-d</sWord>
+             cite=" Aeschylus Eumenides: s-467 w-2">#-PRED-v-auxy-d-AuxZ-d</sWord>
       <sWord id="3"
              form="δέδεγμαι"
              lemma="δέχομαι1"
@@ -40757,7 +40757,7 @@
              postag="c--------"
              relation="AuxY"
              head="5"
-             cite=" Aeschylus Eumenides: s-472 w-1">#-PRED-v-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-472 w-1">#-PRED-v-auxy-d</sWord>
       <sWord id="2"
              form="μοι"
              lemma="ἐγώ1"
@@ -44034,7 +44034,7 @@
              postag="c--------"
              relation="AuxY"
              head="10"
-             cite=" Aeschylus Eumenides: s-506 w-8">#-PRED-v-ADV-v-COORD-c-AuxY-c</sWord>
+             cite=" Aeschylus Eumenides: s-506 w-8">#-PRED-v-ADV-v-COORD-c-auxy-d</sWord>
       <sWord id="9"
              form="γῆν"
              lemma="γῆ1"
