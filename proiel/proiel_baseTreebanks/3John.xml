@@ -1,33 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2015-07-19T00:04:13+02:00" schema-version="2.0">
-    <annotation>
+<proiel>
+   <annotation>
         <relations>
             <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
             <value tag="adv" summary="adverbial" primary="true" secondary="true"/>
             <value tag="ag" summary="agens" primary="true" secondary="true"/>
             <value tag="apos" summary="apposition" primary="true" secondary="true"/>
-            <value tag="arg" summary="argument (object or oblique)" primary="true" secondary="true"/>
+            <value tag="arg"
+                summary="argument (object or oblique)"
+                primary="true"
+                secondary="true"/>
             <value tag="atr" summary="attribute" primary="true" secondary="true"/>
             <value tag="aux" summary="auxiliary" primary="true" secondary="true"/>
             <value tag="comp" summary="complement" primary="true" secondary="true"/>
             <value tag="expl" summary="expletive" primary="true" secondary="true"/>
-            <value tag="narg" summary="adnominal argument" primary="true" secondary="true"/>
-            <value tag="nonsub" summary="non-subject (object, oblique or adverbial)" primary="true"
+            <value tag="narg"
+                summary="adnominal argument"
+                primary="true"
+                secondary="true"/>
+            <value tag="nonsub"
+                summary="non-subject (object, oblique or adverbial)"
+                primary="true"
                 secondary="true"/>
             <value tag="obj" summary="object" primary="true" secondary="true"/>
             <value tag="obl" summary="oblique" primary="true" secondary="true"/>
-            <value tag="parpred" summary="parenthetical predication" primary="true" secondary="true"/>
-            <value tag="part" summary="partitive" primary="true" secondary="true"/>
-            <value tag="per" summary="peripheral (oblique or adverbial)" primary="true"
+            <value tag="parpred"
+                summary="parenthetical predication"
+                primary="true"
                 secondary="true"/>
-            <value tag="pid" summary="Predicate identity" primary="false" secondary="true"/>
+            <value tag="part" summary="partitive" primary="true" secondary="true"/>
+            <value tag="per"
+                summary="peripheral (oblique or adverbial)"
+                primary="true"
+                secondary="true"/>
+            <value tag="pid"
+                summary="Predicate identity"
+                primary="false"
+                secondary="true"/>
             <value tag="pred" summary="predicate" primary="true" secondary="true"/>
-            <value tag="rel" summary="apposition or attribute" primary="true" secondary="true"/>
+            <value tag="rel"
+                summary="apposition or attribute"
+                primary="true"
+                secondary="true"/>
             <value tag="sub" summary="subject" primary="true" secondary="true"/>
             <value tag="voc" summary="vocative" primary="true" secondary="true"/>
-            <value tag="xadv" summary="open adverbial complement" primary="true" secondary="true"/>
-            <value tag="xobj" summary="open objective complement" primary="true" secondary="true"/>
-            <value tag="xsub" summary="external subject" primary="false" secondary="true"/>
+            <value tag="xadv"
+                summary="open adverbial complement"
+                primary="true"
+                secondary="true"/>
+            <value tag="xobj"
+                summary="open objective complement"
+                primary="true"
+                secondary="true"/>
+            <value tag="xsub"
+                summary="external subject"
+                primary="false"
+                secondary="true"/>
         </relations>
         <parts-of-speech>
             <value tag="A-" summary="adjective"/>
@@ -156,22 +184,102 @@
             <value tag="non_spec_old" summary="non-specific old"/>
         </information-statuses>
     </annotation>
-    <div>
+   <metaData>
+      <title>The Greek New Testament</title>
+      <citation-part>GNT</citation-part>
+      <principal>Dag Trygve Truslew Haug</principal>
+      <funder>Research Council of Norway</funder>
+      <distributor>Department of Philosophy, Classics, History of Arts and
+                    Ideas</distributor>
+      <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
+      <date>25 July 2015</date>
+      <license>CC BY-NC-SA 3.0</license>
+      <license-url>http://creativecommons.org/licenses/by-nc-sa/3.0/us/</license-url>
+      <reference-system>Standard biblical reference system</reference-system>
+      <editor>Dag Haug</editor>
+      <annotator>Dagmar Wodtko (7570 sentences), Marek Majer (760 sentences), Bergthora
+                    Aegisdottir (698 sentences), Pål Rykkja Gilbert (643 sentences), Michael
+                    Frotscher (365 sentences), Dag Haug (346 sentences), Eirik Welo (342 sentences),
+                    Per Kristen Teigen (301 sentences), David Sobey (217 sentences), Hanne Eckhoff
+                    (182 sentences), Þorsteinn Vilhjálmsson (153 sentences), Corinna Scheungraber
+                    (120 sentences), Angelika Müth (96 sentences), Jana Beck (41 sentences), Sergej
+                    Munkvold (4 sentences), and Dag Haug (1 sentence)</annotator>
+      <reviewer>Dag Haug (4936 sentences), Marek Majer (4145 sentences), Þorsteinn
+                    Vilhjálmsson (1095 sentences), Eirik Welo (941 sentences), and Hanne Eckhoff
+                    (144 sentences)</reviewer>
+      <electronic-text-editor>Ulrik Sandborg-Petersen</electronic-text-editor>
+      <electronic-text-title>Tischendorf 8th GNT with morphology and
+                    lemmatization</electronic-text-title>
+      <electronic-text-version>2.0 (Tischendorf-2.0.zip with MD5 sum
+                    f1732e0f66d9ca9565de4dc48e5b2b2b)</electronic-text-version>
+      <electronic-text-publisher>Ulrik Sandborg-Petersen</electronic-text-publisher>
+      <electronic-text-date>19 January 2008</electronic-text-date>
+      <electronic-text-original-url>https://github.com/morphgnt/tischendorf</electronic-text-original-url>
+      <electronic-text-license>Public domain</electronic-text-license>
+      <electronic-text-license-url>http://en.wikipedia.org/wiki/Public_domain</electronic-text-license-url>
+      <printed-text-editor>Constantin von Tischendorf</printed-text-editor>
+      <printed-text-title>Novum Testamentum Graece</printed-text-title>
+      <printed-text-edition>Editio octava critica maior</printed-text-edition>
+      <printed-text-publisher>Gieseche &amp; Devrient</printed-text-publisher>
+      <printed-text-place>Leipzig</printed-text-place>
+      <printed-text-date>1869</printed-text-date>
+   </metaData>
+   <div>
         <title>3 John 1</title>
         <sentence id="32875" status="reviewed" presentation-after=" ">
-            <token id="491353" form="ὁ" citation-part="3JOHN 1.11" lemma="ὁ" part-of-speech="S-"
-                morphology="-s---mn--i" head-id="491354" relation="aux" presentation-after=" "/>
-            <token id="491354" form="κακοποιῶν" citation-part="3JOHN 1.11" lemma="ἀγαθοποιέω"
-                part-of-speech="V-" morphology="-sppamn--i" head-id="491356" relation="sub"
+            <token id="491353"
+                form="ὁ"
+                citation-part="3JOHN 1.11"
+                lemma="ὁ"
+                part-of-speech="S-"
+                morphology="-s---mn--i"
+                head-id="491354"
+                relation="aux"
                 presentation-after=" "/>
-            <token id="491355" form="οὐχ" citation-part="3JOHN 1.11" lemma="οὐ" part-of-speech="Df"
-                morphology="---------n" head-id="491356" relation="aux" presentation-after=" "/>
-            <token id="491356" form="ἑώρακεν" citation-part="3JOHN 1.11" lemma="ὁράω"
-                part-of-speech="V-" morphology="3sria----i" relation="pred" presentation-after=" "/>
-            <token id="491357" form="τὸν" citation-part="3JOHN 1.11" lemma="ὁ" part-of-speech="S-"
-                morphology="-s---ma--i" head-id="491358" relation="aux" presentation-after=" "/>
-            <token id="491358" form="θεόν" citation-part="3JOHN 1.11" lemma="θεός" part-of-speech="Nb"
-                morphology="-s---ma--i" head-id="491356" relation="obj" presentation-after="."/>
+            <token id="491354"
+                form="κακοποιῶν"
+                citation-part="3JOHN 1.11"
+                lemma="ἀγαθοποιέω"
+                part-of-speech="V-"
+                morphology="-sppamn--i"
+                head-id="491356"
+                relation="sub"
+                presentation-after=" "/>
+            <token id="491355"
+                form="οὐχ"
+                citation-part="3JOHN 1.11"
+                lemma="οὐ"
+                part-of-speech="Df"
+                morphology="---------n"
+                head-id="491356"
+                relation="aux"
+                presentation-after=" "/>
+            <token id="491356"
+                form="ἑώρακεν"
+                citation-part="3JOHN 1.11"
+                lemma="ὁράω"
+                part-of-speech="V-"
+                morphology="3sria----i"
+                relation="pred"
+                presentation-after=" "/>
+            <token id="491357"
+                form="τὸν"
+                citation-part="3JOHN 1.11"
+                lemma="ὁ"
+                part-of-speech="S-"
+                morphology="-s---ma--i"
+                head-id="491358"
+                relation="aux"
+                presentation-after=" "/>
+            <token id="491358"
+                form="θεόν"
+                citation-part="3JOHN 1.11"
+                lemma="θεός"
+                part-of-speech="Nb"
+                morphology="-s---ma--i"
+                head-id="491356"
+                relation="obj"
+                presentation-after="."/>
         </sentence>
     </div>
 </proiel>

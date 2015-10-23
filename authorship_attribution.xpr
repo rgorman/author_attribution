@@ -10,101 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Suppliants.xml</String>
+                                    <String>proiel/proiel_baseTreebanks/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Aeschylus_Agamemnon</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Seven.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Aeschylus_Agamemnon</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Prometheus.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Aeschylus_Agamemnon</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Persians.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Aeschylus_Agamemnon</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Eumenides.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Aeschylus_Agamemnon</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Ch.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Aeschylus_Agamemnon</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>R_files/sWord_input/stat_files/divided_authors/Aeschylus_Agamemnon.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>Aeschylus_Agamemnon</String>
+                                        <String>1Corinthians</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -123,7 +33,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>Aeschylus_Agamemnon</String>
+                                    <String>1Corinthians</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -141,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/test_transformations/sWord_from_root_rel_pos.xsl</String>
+                                    <String>${pdu}/xsl%20files/proiel_transformations/add_metadata.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -162,10 +72,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/R_files/sWord_input/stat_files/divided_authors/${cfne}</File>
+                                    <File>${pd}/proiel/proiel_output/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/R_files/sWord_input/stat_files/divided_authors/${cfne}</String>
+                                    <String>${pd}/proiel/proiel_output/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
