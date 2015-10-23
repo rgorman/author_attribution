@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+        
+            
+                
+                
+                
+                
+            
+            
+                
+                
+                
+                
+            
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            
+            
+                
+                
+                
+                
+            
+            
+                
+                
+                
+                
+                
+                
+                
+                
+            
+            
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            
+            
+                
+                
+                
+                
+            
+            
+                
+                
+                
+            
+            
+                
+                
+            
+        
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+   
+      The Greek New Testament
+      GNT
+      Dag Trygve Truslew Haug
+      Research Council of Norway
+      Department of Philosophy, Classics, History of Arts and
+                    Ideas
+      PO Box 1020 Blindern, N-0315 Oslo
+      25 July 2015
+      CC BY-NC-SA 3.0
+      http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+      Standard biblical reference system
+      Dag Haug
+      Dagmar Wodtko (7570 sentences), Marek Majer (760 sentences), Bergthora
+                    Aegisdottir (698 sentences), Pål Rykkja Gilbert (643 sentences), Michael
+                    Frotscher (365 sentences), Dag Haug (346 sentences), Eirik Welo (342 sentences),
+                    Per Kristen Teigen (301 sentences), David Sobey (217 sentences), Hanne Eckhoff
+                    (182 sentences), Þorsteinn Vilhjálmsson (153 sentences), Corinna Scheungraber
+                    (120 sentences), Angelika Müth (96 sentences), Jana Beck (41 sentences), Sergej
+                    Munkvold (4 sentences), and Dag Haug (1 sentence)
+      Dag Haug (4936 sentences), Marek Majer (4145 sentences), Þorsteinn
+                    Vilhjálmsson (1095 sentences), Eirik Welo (941 sentences), and Hanne Eckhoff
+                    (144 sentences)
+      Ulrik Sandborg-Petersen
+      Tischendorf 8th GNT with morphology and
+                    lemmatization
+      2.0 (Tischendorf-2.0.zip with MD5 sum
+                    f1732e0f66d9ca9565de4dc48e5b2b2b)
+      Ulrik Sandborg-Petersen
+      19 January 2008
+      https://github.com/morphgnt/tischendorf
+      Public domain
+      http://en.wikipedia.org/wiki/Public_domain
+      Constantin von Tischendorf
+      Novum Testamentum Graece
+      Editio octava critica maior
+      Gieseche &amp; Devrient
+      Leipzig
+      1869
+   
+   
+      #-pred*sub*C-*sub*Nb
+      #-pred*sub*C-*sub*Nb*apos*Nb
+      #-pred*sub*C-*sub*Nb*apos*Nb*atr*Ne
+      #-pred*sub*C-*sub*Nb*apos*Nb*atr*Ne*apos*Ne
+      #-pred*sub*C-
+      #-pred*sub*C-*sub*Nb
+      #-pred*sub*C-*sub*Nb*apos*Nb*aux*S-
+      #-pred*sub*C-*sub*Nb*apos*Nb
+      #-pred*obl*C-*obl*Nb
+      #-pred*obl*C-*obl*Nb*atr*C-*aux*S-
+      #-pred*obl*C-*obl*Nb*atr*C-*apos*A-
+      #-pred*obl*C-*obl*Nb*atr*C-
+      #-pred*obl*C-*obl*Nb*atr*C-*apos*A-
+      #-pred*obl*C-*obl*Nb*atr*C-*apos*A-*atr*Pp
+      #-pred*obl*C-
+      #-pred*obl*C-*obl*Nb
+      #-pred*obl*C-*obl*Nb*apos*Nb*aux*S-
+      #-pred*obl*C-*obl*Nb*apos*Nb
+      #-pred*obl*C-*aux*C-
+      #-pred*obl*C-*obl*Nb
+      #-pred*obl*C-*obl*Nb*apos*Nb*aux*S-
+      #-pred*obl*C-*obl*Nb*apos*Nb
+      #-pred*obl*C-*obl*Nb*apos*Nb*atr*Pp
+      #-pred*obl*C-*aux*C-
+      #-pred*obl*C-*obl*Nb*aux*S-
+      #-pred*obl*C-*obl*Nb*atr*R-
+      #-pred*obl*C-*obl*Nb*atr*R-*obl*Nb
+      #-pred*obl*C-*obl*Nb*atr*R-*obl*Nb*atr*Pp
+      #-pred*obl*C-*obl*Nb
+      #-pred
+   
+   
+      #-pred*sub*C-*sub*Nb
+      #-pred*obl*Pp
+      #-pred*sub*C-
+      #-pred*sub*C-*sub*Nb
+      #-pred*adv*R-
+      #-pred*adv*R-*obl*C-*obl*Nb
+      #-pred*adv*R-*obl*C-*obl*Nb*apos*Nb
+      #-pred*adv*R-*obl*C-*obl*Nb*apos*Nb*atr*Pp
+      #-pred*adv*R-*obl*C-
+      #-pred*adv*R-*obl*C-*obl*Nb
+      #-pred*adv*R-*obl*C-*obl*Nb*apos*Ne
+      #-pred*adv*R-*obl*C-*obl*Nb*apos*Ne*apos*Ne
+      #-pred
+   
+   
+      #-pred*V-
+      #-pred*V-*obl*Nb*aux*S-
+      #-pred*V-*obl*Nb
+      #-pred*V-*obl*Nb*atr*Pp
+      #-pred*V-*adv*Df
+      #-pred*V-*xadv*V-*obj*Nb
+      #-pred*V-*xadv*V-*obj*Nb*narg*Pp
+      #-pred*V-*xadv*V-
+      #-pred*V-*xadv*V-*adv*R-
+      #-pred*V-*xadv*V-*adv*R-*obl*Nb*aux*S-
+      #-pred*V-*xadv*V-*adv*R-*obl*Nb
+      #-pred*V-*xadv*V-*adv*R-*obl*Nb*atr*Pp
+      #-pred*V-*xadv*V-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*Pp
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*aux*S-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb
+      #-pred*V-*xadv*V-*obj*C-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*aux*S-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*obj*Pr
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*adv*C-*adv*R-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*adv*C-*adv*R-*obl*Nb*aux*S-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*adv*C-*adv*R-*obl*Nb
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*adv*C-*adv*R-*obl*Nb*apos*Ne
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*adv*C-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*adv*C-*adv*R-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*adv*C-*adv*R-*obl*A-*atr*Px
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*adv*C-*adv*R-*obl*A-*aux*S-
+      #-pred*V-*xadv*V-*obj*C-*obj*Nb*atr*V-*adv*C-*adv*R-*obl*A-
+      #-pred*V-*adv*G-
+      #-pred*V-*adv*G-*pred*V-*sub*Nb*aux*S-
+      #-pred*V-*adv*G-*pred*V-*sub*Nb
+      #-pred*V-*adv*G-*pred*V-*sub*Nb*narg*Nb*aux*S-
+      #-pred*V-*adv*G-*pred*V-*sub*Nb*narg*Nb
+      #-pred*V-*adv*G-*pred*V-*sub*Nb*narg*Nb*atr*Pp
+      #-pred*V-*adv*G-*pred*V-*xobj*A-
+      #-pred*V-*adv*G-*pred*V-
+      #-pred*V-*adv*G-*pred*V-*adv*R-
+      #-pred*V-*adv*G-*pred*V-*adv*R-*obl*Nb
+      #-pred*V-*adv*G-*pred*V-*adv*R-*obl*Nb*narg*A-*atr*Px
+      #-pred*V-*adv*G-*pred*V-*adv*R-*obl*Nb*narg*A-
+      #-pred*V-*adv*G-*pred*V-*adv*R-*obl*Nb*narg*A-*atr*R-*aux*S-
+      #-pred*V-*adv*G-*pred*V-*adv*R-*obl*Nb*narg*A-*atr*R-
+      #-pred*V-*adv*G-*pred*V-*adv*R-*obl*Nb*narg*A-*atr*R-*obl*Pp
+      #-pred*V-*adv*G-*pred*V-*adv*R-*obl*Nb*narg*A-*atr*R-
+      #-pred*V-*adv*G-*pred*V-*adv*R-*obl*Nb*narg*A-*atr*R-*obl*Ne
+   
+   
+      #-pred*V-*obj*C-*obj*Nb
+      #-pred*V-*aux*Df
+      #-pred*V-*obj*C-*atr*A-
+      #-pred*V-
+      #-pred*V-*obj*C-
+      #-pred*V-*obj*C-*obj*Nb
+      #-pred*V-*adv*R-
+      #-pred*V-*adv*R-*obl*Nb*aux*S-
+      #-pred*V-*adv*R-*obl*Nb
+      #-pred*V-*adv*R-*obl*Nb*atr*Pp
+      #-pred*V-*adv*G-
+      #-pred*V-*adv*G-*pred*V-*sub*Nb*aux*S-
+      #-pred*V-*adv*G-*pred*V-*sub*Nb
+      #-pred*V-*adv*G-*pred*V-*sub*Nb*atr*A-*aux*S-
+      #-pred*V-*adv*G-*pred*V-*sub*Nb*atr*A-
+      #-pred*V-*adv*G-*pred*V-
+      #-pred*V-*adv*G-*pred*V-*adv*R-
+      #-pred*V-*adv*G-*pred*V-*adv*R-*obl*Pp
+      #-voc*Nb
+   
+   
+      #-pred*V-*adv*Df
+      #-pred*V-*xadv*V-*obj*Nb*atr*A-
+      #-pred*V-*xadv*V-*adv*R-
+      #-pred*V-*xadv*V-*adv*R-*obl*Ne
+      #-pred*V-*xadv*V-*obj*Nb
+      #-pred*V-*xadv*V-
+      #-pred*V-*xadv*V-*obj*Nb*narg*V-
+      #-pred*V-*xadv*V-*obj*Nb*narg*V-*obl*Pp
+      #-pred*V-*xadv*V-*obj*Nb*narg*V-*obj*V-*aux*S-
+      #-pred*V-*xadv*V-*obj*Nb*narg*V-*obj*V-
+      #-pred*V-*adv*R-
+      #-pred*V-*adv*R-*obl*Nb*aux*S-
+      #-pred*V-*adv*R-*obl*Nb
+      #-pred*V-*adv*Df
+      #-pred*V-
+      #-pred*V-*xadv*V-*xobj*Pd
+      #-pred*V-*xadv*V-
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df*sub*Nb
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df*sub*Nb*apos*apos*Nb
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df*sub*Nb*apos*apos*Nb*atr*Df
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df*sub*Nb*apos*apos*Nb*aux*Df
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df*sub*Nb*apos*apos*Nb*aux*Df
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df*sub*Nb*apos*apos*Nb
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df*sub*Nb*apos*apos*Nb*atr*Ne
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df*sub*Nb*apos*apos*Nb*atr*Ne*apos*Ne
+      #-pred*V-*xadv*V-*xobj*Pd*atr*Df*sub*Nb*apos
+   
+   
+      #-pred*V-
+      #-pred*V-*obj*Pp
+      #-pred*V-*adv*R-
+      #-pred*V-*adv*R-*obl*Nb*aux*S-
+      #-pred*V-*adv*R-*obl*Nb*atr*Ps
+      #-pred*V-*adv*R-*obl*Nb
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr
+      #-pred*V-*adv*R-*obl*Nb*atr*V-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*adv*R-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*adv*R-*obl*Nb*aux*S-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*adv*R-*obl*Nb
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-*aux*S-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-*adv*Df
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-*obl*Pp
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-*adv*Df
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-*aux*Df
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-*obl*C-*aux*C-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-*obl*C-*obl*Pp
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-*obl*C-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-*obl*C-*obl*Pp
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr*atr*A-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*apos*V-*obj*Pr
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*apos*V-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*apos*V-*obl*Pp
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*apos*V-*obj*Pr*apos*Pp
+      #-parpred*V-*sub*Pd
+      #-parpred*V-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*apos*V-*obj*Pr*apos*Pp*apos*Nb*aux*S-
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*apos*V-*obj*Pr*apos*Pp*apos*Nb*atr*Ps
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*apos*V-*obj*Pr*apos*Pp*apos*Nb
+      #-pred*V-*adv*R-*obl*Nb*atr*V-*obj*Pr*apos*Nb*atr
+   
+   
+      #-pred*V-*xobj*V-*obj*Pr
+      #-pred*V-*sub*Pp
+      #-pred*V-
+      #-pred*V-*xobj*V-*adv*R-
+      #-pred*V-*xobj*V-*adv*R-*obl*Pk
+      #-pred*V-*xobj*V-
+      #-pred*V-*xobj*V-*adv*G-
+      #-pred*V-*xobj*V-*adv*G-*pred*V-*adv*R-
+      #-pred*V-*xobj*V-*adv*G-*pred*V-*adv*R-*obl*Pp
+      #-pred*V-*xobj*V-*adv*G-*pred*V-*obl*Pp
+      #-pred*V-*xobj*V-*adv*G-*pred*V-
+      #-pred*V-*xobj*V-*adv*G-*pred*V-*adv*R-
+      #-pred*V-*xobj*V-*adv*G-*pred*V-*adv*R-*obl*Nb*aux*S-
+      #-pred*V-*xobj*V-*adv*G-*pred*V-*adv*R-*obl*Nb
+      #-pred*V-*xobj*V-*adv*G-*pred*V-*adv*R-*obl*Nb*atr*Nb*aux*S-
+      #-pred*V-*xobj*V-*adv*G-*pred*V-*adv*R-*obl*Nb*atr*Nb
+   
+   
+      #-pred*V-*xobj*V-*adv*R-
+      #-pred*V-*aux*Df
+      #-pred*V-*xobj*V-*adv*R-*obl*Nb*aux*S-
+      #-pred*V-*xobj*V-*adv*R-*obl*Nb*atr*Ps
+      #-pred*V-*xobj*V-*adv*R-*obl*Nb
+      #-pred*V-*xobj*V-*obj*Px
+      #-pred*V-
+      #-pred*V-*xobj*V-
+      #-pred*V-*adv*G-
+      #-pred*V-*adv*G-*pred*V-*xobj*C-*xobj*Df*aux*Df
+      #-pred*V-*adv*G-*pred*V-*xobj*C-*xobj*Df
+      #-pred*V-*adv*G-*pred*V-*xobj*C-*xobj*Df*adv*R-
+      #-pred*V-*adv*G-*pred*V-*xobj*C-*xobj*Df*adv*R-*obl*Nb
+      #-pred*V-*adv*G-*pred*V-*sub*A-*aux*S-
+      #-pred*V-*adv*G-*pred*V-*sub*A-
+      #-pred*V-*adv*G-*pred*V-*sub*A-*atr*Pp
+      #-pred*V-*adv*G-*pred*V-
+      #-pred*V-*adv*G-*pred*V-*xobj*C-
+      #-pred*V-*adv*G-*pred*V-*xobj*C-*xobj*R-
+      #-pred*V-*adv*G-*pred*V-*xobj*C-*xobj*R-*obl*A-
+   
+   
+      #-pred*V-*adv*Df
+      #-pred*V-*aux*Df
+      #-pred*V-*adv*R-
+      #-pred*V-*adv*R-*obl*Pd
+      #-pred*V-
+      #-pred*V-*adv*R-
+      #-pred*V-*adv*R-*obl*Nb
+      #-pred*V-*adv*R-*obl*Pd*apos*G-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*A-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*obj*Pp
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*adv*Df*aux*Df
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*adv*Df*adv*Df
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*adv*Df
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*adv*Df*obj*Nb
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*obl*Nb
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*aux*Df
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*atr*Df*adv*Pi
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*aux*Df
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*atr*Df
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*atr*C-*aux*C-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*atr*C-*adv*R-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*atr*C-*adv*R-*obl*Nb
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*atr*C-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*atr*C-*adv*R-
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl*obl*Pp*atr*C-*adv*R-*obl*Nb
+      #-pred*V-*adv*R-*obl*Pd*apos*G-*pred*V-*xadv*C-*xadv*R-*apos*Nb*atr*A-*obl
+   
+   
+      #-pred*V-*adv*G-
+      #-pred*V-*aux*Df
+      #-pred*V-*adv*G-*pred*V-*obj*Pp
+      #-pred*V-*adv*G-*pred*V-
+      #-pred*V-*adv*G-*pred*V-*xadv*Nb
+      #-pred*V-
+      #-pred*V-*obj*Pp
+      #-pred*V-*adv*Df
+      #-pred*V-*adv*Df*obj*Pp
+   
+   
+      #-pred*V-*adv*G-
+      #-pred*V-*aux*Df
+      #-pred*V-*adv*G-*pred*C-*pred*V-*adv*Px
+      #-pred*V-*adv*G-*pred*C-*pred*V-
+      #-pred*V-*adv*G-*pred*C-*pred*V-*obj*Pp
+      #-pred*V-*adv*G-*pred*C-
+      #-pred*V-*adv*G-*pred*C-*pred*V-
+      #-pred*V-*obj*Pd
+      #-pred*V-*obl*Pp
+      #-pred*V-
+   
+   
+      #-pred*V-*sub*Pp
+      #-pred*V-*sub*Pp*apos*Nb
+      #-pred*V-
+      #-pred*V-*adv*Nb*aux*S-
+      #-pred*V-*adv*Nb*atr*Ps
+      #-pred*V-*adv*Nb
+   
+   
+      #-pred*V-*sub*Pp
+      #-pred*V-
+   
+   
+      #-pred*adv*G-
+      #-pred*adv*G-*pred*V-*aux*Df
+      #-pred*adv*G-*pred*V-
+      #-pred*adv*G-*pred*V-*obl*Pp
+      #-pred*adv*G-*pred*V-*comp*G-
+      #-pred*adv*G-*pred*V-*comp*G-*pred*V-*aux*Df
+      #-pred*adv*G-*pred*V-*comp*G-*pred*V-*obj*Pk
+      #-pred*adv*G-*pred*V-*comp*G-*pred*V-*obl*Pp
+      #-pred*adv*G-*pred*V-*comp*G-*pred*V-
+      #-pred
+   
+   
+      #-voc*I-
+      #-voc*Nb
+      #-pred*V-*sub*Pp
+      #-pred*V-*obl*Pp
+      #-pred*V-
+      #-pred*V-*adv*R-
+      #-pred*V-*adv*R-*obl*Nb
+   
+   
+      #-pred*V-
+      #-pred*V-*obj*Nb*atr*Pp
+      #-pred*V-*obj*Nb*aux*S-
+      #-pred*V-*obj*Nb
+      #-pred*V-*adv*R-
+      #-pred*V-*adv*R-*obl*Ne
+   
+   
+      #-pred*V-*xadv*V-
+      #-pred*V-*xadv*V-*obl*Nb*aux*S-
+      #-pred*V-*xadv*V-*obl*Nb
+      #-pred*V-*xadv*V-*obl*Nb*atr*Pp
+      #-pred*V-
+      #-pred*V-*obl*Pp
+      #-pred*V-*xadv*V-
+      #-pred*V-*xadv*V-*comp*G-
+      #-pred*V-*xadv*V-*comp*G-*pred*V-*obj*R-*aux*Df
+      #-pred*V-*xadv*V-*comp*G-*pred*V-*obj*R-
+      #-pred*V-*xadv*V-*comp*G-*pred*V-*obj*R-*obl*V-*obj*Pr
+      #-pred*V-*xadv*V-*comp*G-*pred*V-*obj*R-*obl*V-
+      #-pred*V-*xadv*V-*comp*G-*pred*V-
+   
+   
+      #-pred*V-*adv*Df
+      #-pred*V-*aux*Df
+      #-pred*V-*aux*C-
+      #-pred*V-
+      #-pred*V-*adv*Pp
+      #-pred*V-*obj*Nb
+   
+   
+      #-pred*V-
+      #-pred*V-*aux*Df
+      #-pred*V-*comp*G-
+      #-pred*V-*comp*G-*pred*V-*adv*R-
+      #-pred*V-*comp*G-*pred*V-*adv*R-*obl*Nb*aux*S-
+      #-pred*V-*comp*G-*pred*V-*adv*R-*obl*Nb
+      #-pred*V-*comp*G-*pred*V-*adv*R-*obl*Nb*atr*Pp
+      #-pred*V-*comp*G-*pred*V-
+      #-pred*V-*comp*G-*pred*V-*obl*Pp
+   
+   
+      #-pred*V-
+      #-pred*V-*obj*Pp
+      #-pred*V-*sub*sub*Ne
+      #-pred*V-*sub*sub*Ne*atr*A-*aux*S-
+      #-pred*V-*sub*sub*Ne*atr*A-
+      #-pred*V-*sub*sub*Ne*atr*A-*atr*Pp
+      #-pred*V-*sub*sub*Ne*atr*A-*adv*R-
+      #-pred*V-*sub*sub*Ne*atr*A-*adv*R-*obl*Ne
+      #-pred*V-*sub*sub*Ne*atr*A-*adv*R-*obl*Ne*apos*Ne
+      #-pred*V-*sub*sub*sub*Nb
+      #-pred*V-*sub*sub*sub*Nb
+      #-pred*V-*sub*sub*sub*Nb
+      #-pred*V-*sub*sub*sub*Nb
+      #-pred*V-*sub*sub*apos*A-*aux*S-
+      #-pred*V-*sub*sub*apos*A-
+      #-pred*V-*sub*sub*apos*A-*atr*Pp
+      #-pred*V-*sub
+      #-pred*V-*sub*sub
+   
+   
+      #-pred*sub*Nb*aux*S-
+      #-pred*sub*Nb
+      #-pred*sub*Nb*atr*Nb*aux*S-
+      #-pred*sub*Nb*atr*Nb
+      #-pred*sub*Nb*atr*Nb*apos*Ne
+      #-pred*sub*Nb*atr*Nb*apos*Ne*apos*Ne
+      #-pred*xobj*R-
+      #-pred*xobj*R-*obl*Nb*aux*S-
+      #-pred*xobj*R-*obl*Nb
+      #-pred*xobj*R-*obl*Nb*atr*Pp
+      #-pred
+   

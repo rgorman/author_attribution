@@ -51,7 +51,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/proiel_transformations/add_metadata.xsl</String>
+                                    <String>${pdu}/xsl%20files/proiel_transformations/proiel-sWord_rel-pos.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
