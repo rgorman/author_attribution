@@ -4,13 +4,16 @@
 
     <xsl:output method="xml" indent="yes"/>
 
-    <xsl:template match="sWord_document">
+    <xsl:template match="stoken_document">
         <wordOrderDocument>
 
             <xsl:for-each select="comment">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
-            <xsl:for-each select="annotator">
+            <xsl:for-each select="annotation">
+                <xsl:copy-of select="."/>
+            </xsl:for-each>
+            <xsl:for-each select="metaData">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
 
@@ -20,7 +23,7 @@
                     <xsl:for-each select="sWord">
                         <word><xsl:copy-of select="@*"/>
                             <xsl:value-of select="./@relation"/>-<xsl:value-of
-                                select="substring(./@postag, 1, 1)"/>
+                                select="./@part-of-speech"/>
                         </word>
 
 
