@@ -44,7 +44,7 @@ i <- 1
 
 
 
-for (i in 1:1000) {
+for (i in 1:100) {
   #create vector of random integers = 10% of obs in smaller.df
   testing.index.v <- sample (seq (1, nrow(smaller.df)), 24, prob=prob.m$Prob)
   
@@ -74,18 +74,18 @@ for (i in 1:1000) {
 
 
 #save the resulting list
-save(svm.results.l, file="Rresults/svm_predictions/svmResults_Oct3.R")
+save(svm.results.l, file="Rresults/svm_predictions/svmResults_Oct25.R")
 
 #combine all matrices contained in err.matr.l into one matrix for export to .csv file
 a <- do.call(rbind, svm.error.matrix.l)
-write.csv(a, file="Rresults/svm_predictions/svmError_matrix_Oct3.csv")
-save(svm.error.matrix.l, file="Rresults/svm_predictions/svmErrorMatrix_Oct3.R")
+write.csv(a, file="Rresults/svm_predictions/svmError_matrix_Oct25.csv")
+save(svm.error.matrix.l, file="Rresults/svm_predictions/svmErrorMatrix_Oct25.R")
 
 
 # combine results in testing.classes.l into one data.frame object and save it as .csv file
 my.list <- mapply(data.frame, testing.classes.l)
 d <- do.call (rbind, my.list)
-write.csv (d, file="Rresults/svm_predictions/right_answers_Oct3.csv")
+write.csv (d, file="Rresults/svm_predictions/right_answers_Oct25.csv")
 save(testing.classes.l, file="Rresults/svm_predictions/correctAnswers_Oct3.R")
 
 

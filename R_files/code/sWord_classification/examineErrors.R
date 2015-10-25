@@ -27,12 +27,23 @@ View(author.m)
 
 require(gdata)
 
+errorVector <- NULL
+i <- 1
 
+for (i in 1:length(svm.error.matrix.l)) {
+  
+  matrL <- sqrt(length(svm.error.matrix.l[[i]]))
+  errorVector <- append(errorVector, svm.error.matrix.l[[i]][matrL, matrL]) 
+  
+  
+}
 
+mean(errorVector)
 
+errorMean <- mean(errorVector)
+24-errorMean
 
-
-
+write.csv(errorVector, file="Rresults/svm_predictions/errorVectorOct25.csv")
 
 write.csv(examineErrors.m, file="Rresults/Naive_Bayes_predictions/chunkSize2000/c100_variables/relationTests/test4_August28/errorExamination.csv")
 
