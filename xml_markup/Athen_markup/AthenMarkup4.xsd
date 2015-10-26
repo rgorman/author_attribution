@@ -41,7 +41,7 @@
     
     <xs:simpleType name="discourse_cat">
         <xs:restriction base="xs:string">
-            <xs:enumeration value="frame"/>
+            <xs:enumeration value="cover text"/>
             <xs:enumeration value="reuse"/>
         </xs:restriction>
     </xs:simpleType>
@@ -52,6 +52,7 @@
             <xs:enumeration value="frame"/>
             <xs:enumeration value="content"/>
             <xs:enumeration value="dubious content"/>
+            <xs:enumeration value="paraphrase"/>
         </xs:restriction>
     </xs:simpleType>
 
