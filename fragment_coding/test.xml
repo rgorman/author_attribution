@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<treebank xmlns:saxon="http://saxon.sf.net/" xml:lang="lat" format="elmlatch3" version="1.5">
+    <date>2015-10-14 17:12:18 +0000</date>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://services2.perseids.org/llt/segtok</uri>
+    </annotator>
+    <annotator>
+        <short/>
+        <name/>
+        <address/>
+        <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+    </annotator>
+    <annotator>
+        <short>Bob Gorman</short>
+        <name>Robert Gorman</name>
+        <address>rgorman1@unl.edu</address>
+        <uri>http://data.perseus.org/sosol/users/Bob%20Gorman</uri>
+    </annotator>
+    <sentence id="1" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Et" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="līberī" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="et" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="servī" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="poētās" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="bonōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="propter" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="studium" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="mox" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="laudābunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="2" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Poētae" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="bonī" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="propter" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="studium" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="ā" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="līberīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="servīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="-que" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="mox" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="laudābuntur" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="3" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Ad" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="oppidum" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="parvum" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="cum" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="amīcīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="ībis" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="4" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Nunc" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="ē" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="forō" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="ad" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="agrōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="laetōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="eō" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="5" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Misera" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="erit" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="vīta" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="sine" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="amīcīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="6" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Multa" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="sunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="studia" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="vītae" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="bonae" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="7" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Dēbēs" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="3" form="amīce" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="5" form="dē" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="bonīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="vītae" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="cum" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="dīligentiā" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="cōgitāre" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="8" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Rōmānī" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="incolās" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="Italiae" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="ferrō" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="superābant" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="9" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Miser" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="est" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="poēta" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="Catullus" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="10" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Pulchram" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="puellam" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="amat" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="sed" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="puella" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="est" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="Catullō" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="inimīca" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="11" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Malum" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="est" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="sine" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="cōnsiliō" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="errāre" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="sed" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="sine" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="cōnsiliō" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="atque" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="armīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="ex" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="terrā" lemma="" postag="" relation="nil" head=""/>
+        <word id="13" form="errābimus" lemma="" postag="" relation="nil" head=""/>
+        <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="12" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Incolae" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="īnsulae" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="bona" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="vītae" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="semper" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="verbīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="laetīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="laudant" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="13" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Rēgīna" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="pulchra" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="īnsulā" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="magnum" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="imperium" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="magnā" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="diligentiā" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="tenet" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="14" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Incolae" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="sine" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="armīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="labōrābunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="sed" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="bonum" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="est" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="prō" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="patriā" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="labōrāre" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="15" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Populō" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="imperium" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="terrīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="ā" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="deā" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="mōnstrābātur" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="16" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Vir" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="fēmina" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="-que" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="cum" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="fīliō" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="ē" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="terrā" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="sine" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="morā" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="ībunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="17" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Līberum" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="oppidum" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="tenēre" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="optant" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+   <speaker id="narrator"> <sentence id="18" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Dī" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="multa" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="bona" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="incolīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="oppidī" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="dōnābunt" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence></speaker>
+    <sentence id="19" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Ab" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="incolīs" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="magna" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="facta" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="deōrum" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="cum" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="dīlegentiā" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="laudāntur" lemma="" postag="" relation="nil" head=""/>
+        <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="20" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Dōna" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="pulchra" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="4" form="librī" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="Catullī" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="atque" lemma="" postag="" relation="nil" head=""/>
+        <word id="7" form="Horatiī" lemma="" postag="" relation="nil" head=""/>
+        <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+        <word id="9" form="fīliō" lemma="" postag="" relation="nil" head=""/>
+        <word id="10" form="poētae" lemma="" postag="" relation="nil" head=""/>
+        <word id="11" form="dabuntur" lemma="" postag="" relation="nil" head=""/>
+        <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+    <sentence id="21" document_id="www.perseids.org/alpheios/unl/templates/Fall2015Latin101HW2.xml"
+        subdoc="" span="">
+        <word id="1" form="Multōs" lemma="" postag="" relation="nil" head=""/>
+        <word id="2" form="in" lemma="" postag="" relation="nil" head=""/>
+        <word id="3" form="bellō" lemma="" postag="" relation="nil" head=""/>
+        <word id="4" form="gladiō" lemma="" postag="" relation="nil" head=""/>
+        <word id="5" form="superābō" lemma="" postag="" relation="nil" head=""/>
+        <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+    </sentence>
+</treebank>
