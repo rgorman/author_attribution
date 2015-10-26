@@ -38,10 +38,11 @@ for (i in 1:length(svm.error.matrix.l)) {
   
 }
 
+sum (errorVector)
 mean(errorVector)
 
 errorMean <- mean(errorVector)
-24-errorMean
+
 
 write.csv(errorVector, file="Rresults/svm_predictions/errorVectorOct25.csv")
 
