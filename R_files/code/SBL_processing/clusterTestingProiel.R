@@ -55,12 +55,12 @@ smaller.m <- final.m[, apply(final.m,2,mean)>=.005]
 dim(smaller.m)
 
 
-#create distance object as input to hclust algorithm
+#create distance object as input to hclust algorithm. Possible methods are "euclidian", "maximum", "manhattan", "canberra", "binary" or "minkowski". Default is "euclidian".
 dist.smaller.m <- dist(smaller.m)
 
 
 # run hclust and get result in object (available methods are "ward.D", "ward.D2", "single", "complete" "average", "mcquitty", "median", or "centroid")
-groups <- hclust(dist.smaller.m, method="complete")
+groups <- hclust(dist.smaller.m, method="ward.D")
 
 # plot the results
 plot(groups, hang=-1)
