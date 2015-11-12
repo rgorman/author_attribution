@@ -47,9 +47,9 @@ getSwordTableList <- function(doc.object) {
 #function to make n-grams of sword elements ; takes uploaded xml file as argument (called "doc.object)
 #use xmlTreeParse to generate "doc.object"
 getSwordNgramTableList <- function(doc.object) {
-  swords <-getNodeSet(doc.object, "//sword", )
+  swords <-getNodeSet(doc.object, "//sWord", )
   sword.content <- paste(sapply(swords, xmlValue), collapse = NULL)
-  sword.ngrams <- make.ngrams(sword.content, ngram.size=3)
+  sword.ngrams <- make.ngrams(sword.content, ngram.size=1)
   sword.ngrams <-tolower(sword.ngrams)
   book.freqs.t <-table(sword.ngrams)
   book.freqs.rel.t <- 100*(book.freqs.t/sum(book.freqs.t))
