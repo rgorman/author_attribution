@@ -2,7 +2,14 @@ library(XML)
 library(tm)
 library(stylo)
 source("code/corpusFunctions.R")
+
+# input from proiel files
 input.dir <- "../proiel/proiel_output"
+files.v <- dir(path=input.dir, pattern=".*xml")
+
+
+# input from aldt files for comparison 
+input.dir <- "sWord_input/stat_files/divided_authors"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
@@ -49,7 +56,7 @@ View(final.m)
 dim(final.m)
 
 #reduce data matrix to features with largest means (most common features)
-smaller.m <- final.m[, apply(final.m,2,mean)>=.005]
+smaller.m <- final.m[, apply(final.m,2,mean)>=.0025]
 
 #check size of reduced feature set
 dim(smaller.m)
@@ -60,7 +67,7 @@ dist.smaller.m <- dist(smaller.m)
 
 
 # run hclust and get result in object (available methods are "ward.D", "ward.D2", "single", "complete" "average", "mcquitty", "median", or "centroid")
-groups <- hclust(dist.smaller.m, method="ward.D")
+groups <- hclust(dist.smaller.m, method="ward.D2")
 
 # plot the results
 plot(groups, hang=-1)
