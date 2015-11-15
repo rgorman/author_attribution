@@ -69,6 +69,26 @@ View(test.m)
 
 sorted.m <- test.m
 
+# a section to get mean and z-scores for the gospels combined
+
+gospel.mean <- colMeans(sorted.m[12:15, ])
+
+gospels.plus <- sorted.m[-(12:15), ]
+
+gospels.plus <- rbind(gospels.plus, gospel.mean)
+
+
+gospel.mean <- t(gospel.mean)
+
+gospel.zscore <- scale(gospels.plus)
+
+View(gospel.zscore)
+
+
+# combine the  columns of sorted.m and zscore.m 
+gospel.combined.m <- cbind (gospels.plus, gospel.zscore)
+
+
 # save results as .csv file
 write.csv(sorted.m, file="../proiel/rResults/statsRelPos663_Nov14.csv")
 
@@ -85,7 +105,7 @@ View(combined.m)
 s <- rep(1:663, each=2) + (0:1) * 663
 
 # create container matrix
-y <- matrix("blah", nrow=21, ncol=1)
+y <- matrix("blah", nrow=18, ncol=1)
 
 
 # a loop to bind columns in desired order
@@ -95,6 +115,14 @@ for (i in 1:length(combined.m[1,])) {
  y <- cbind(y, combined.m[, s[i]])
   
 }
+
+
+# loop for gospel file
+for (i in 1:length(gospel.combined.m[1,])) {
+  y <- cbind(y, gospel.combined.m[, s[i]])
+  
+}
+
 
 View(y)
 
@@ -107,7 +135,7 @@ ranks <- rep(1:663, each=2)
 types <- rep(c("frequency", "z-score"), 633)
 
 # save matrix and names and ranks vectors as scv files
-write.csv(y, file="../proiel/rResults/zscores_Nov14.csv")
+write.csv(y, file="../proiel/rResults/New_zscores_Nov14.csv")
 write.csv(names, file="../proiel/rResults/names_Nov14.csv")
 write.csv(ranks, file="../proiel/rResults/ranks_Nov14.csv")
 write.csv(types, file="../proiel/rResults/types_Nov14.csv")
