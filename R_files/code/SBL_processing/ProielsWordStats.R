@@ -82,6 +82,8 @@ gospel.mean <- t(gospel.mean)
 
 gospel.zscore <- scale(gospels.plus)
 
+View(gospel.mean)
+View(gospels.plus)
 View(gospel.zscore)
 
 
@@ -102,7 +104,8 @@ combined.m <- cbind (sorted.m, zscore.m)
 View(combined.m)
 
 # a vector to serve as an index to reorder the columns
-s <- rep(1:663, each=2) + (0:1) * 663
+s <- rep(1:597, each=2) + (0:1) * 597
+dim(gospel.combined.m)
 
 # create container matrix
 y <- matrix("blah", nrow=18, ncol=1)
@@ -131,11 +134,11 @@ View(y)
 names <- rep(colnames(sorted.m), each=2)
 
 # create vector of column ranks to be added to object y
-ranks <- rep(1:663, each=2)
-types <- rep(c("frequency", "z-score"), 633)
+ranks <- rep(1:597, each=2)
+types <- rep(c("frequency", "z-score"), 597)
 
 # save matrix and names and ranks vectors as scv files
-write.csv(y, file="../proiel/rResults/New_zscores_Nov14.csv")
-write.csv(names, file="../proiel/rResults/names_Nov14.csv")
-write.csv(ranks, file="../proiel/rResults/ranks_Nov14.csv")
-write.csv(types, file="../proiel/rResults/types_Nov14.csv")
+write.csv(y, file="../proiel/rResults/New_zscores_Nov16.csv")
+write.csv(names, file="../proiel/rResults/names_Nov16.csv")
+write.csv(ranks, file="../proiel/rResults/ranks_Nov16.csv")
+write.csv(types, file="../proiel/rResults/types_Nov16.csv")
