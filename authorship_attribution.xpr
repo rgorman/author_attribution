@@ -66,7 +66,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/proiel_transformations/proiel-sWord_rel.xsl</String>
+                                    <String>${pdu}/xsl%20files/proiel_transformations/proiel-lemma.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -87,10 +87,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/proiel/proiel_output/proiel_rel/${cfne}</File>
+                                    <File>${pd}/proiel/proiel_output/proiel_lemma/${cfne}</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/proiel/proiel_output/proiel_rel/${cfne}</String>
+                                    <String>${pd}/proiel/proiel_output/proiel_lemma/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
