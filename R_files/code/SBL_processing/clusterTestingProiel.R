@@ -70,7 +70,7 @@ dist.smaller.m <- dist(smaller.m)
 groups <- hclust(dist.smaller.m, method="ward.D2")
 
 # plot the results
-plot(groups, hang=-1, xlab="ALDT")
+plot(groups, hang=-1, xlab="PROIEL")
 
 #process data through stylo
 stylo.results <-stylo(frequencies = smaller.m)

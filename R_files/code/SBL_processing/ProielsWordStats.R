@@ -5,7 +5,7 @@ library(XML)
 source("code/corpusFunctions.R")
 
 # input from proiel files
-input.dir <- "../proiel/proiel_output"
+input.dir <- "../proiel/proiel_output/proiel_rel"
 files.v <- dir(path=input.dir, pattern=".*xml")
 
 
