@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="14.0">
+<project version="17.0">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="14.0" xml:space="preserve">
+            <serialized version="17.0" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>proiel/proiel_output/</String>
+                                    <String>proiel/proiel_baseTreebanks/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -25,7 +25,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>proiel/proiel_baseTreebanks/</String>
+                                    <String>proiel/proiel_output/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -66,7 +66,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl%20files/proiel_transformations/proiel_sWordToWordOrder_rel_pos.xsl</String>
+                                    <String>${pdu}/xsl%20files/proiel_transformations/proiel-sWord_rel.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -87,7 +87,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/proiel/proiel_wordOrderFiles/${cfne}</File>
+                                    <File>${pd}/proiel/proiel_output/proiel_rel/${cfne}</File>
+                                </field>
+                                <field name="outputResource">
+                                    <String>${pd}/proiel/proiel_output/proiel_rel/${cfne}</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -184,6 +187,9 @@
                                             <field name="validationSchema">
                                                 <validationUnitSchema>
                                                     <field name="dtdSchemaPublicID">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="schematronPhase">
                                                         <null/>
                                                     </field>
                                                     <field name="type">
