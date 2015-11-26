@@ -4,7 +4,7 @@
 
 library(stylo)
 source("code/corpusFunctions.R")
-input.dir <- "data/Classify/ClassifyFiles"
+input.dir <- "../rel_pos_prose"
 files.v <- dir(path=input.dir, pattern=".*txt")
 
 #this script will work on chunks
