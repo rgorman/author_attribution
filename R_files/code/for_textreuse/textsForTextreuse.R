@@ -24,7 +24,7 @@ for(i in 1:length(files.v)){
   divisor <- length(cite.v)/chunk.size
   max.length <- length(cite.v)/divisor
   x <- seq_along(cite.v)
- 
+  
   
   cite.l[[i]] <- split(cite.v, ceiling(x/max.length))
   
@@ -75,13 +75,16 @@ underscore
 # the next step is to extract sWord content for each chunk created above
 
 
+# the following script extracts the sword content from each chunk
 
 sWord.l <- list()
+i <- 1
 for(i in 1:length(files.v)) {
-  doc.object <- xmlTreeParse(file.path(input.dir, files.v[1]), useInternalNodes=TRUE)
+  doc.object <- xmlTreeParse(file.path(input.dir, files.v[i]), useInternalNodes=TRUE)
   chunk.size <-1000
   sword.content <- getNodeSet(doc.object, "//sWord")
   sWord.v <- paste(sapply(sword.content, xmlValue), sep=" ", collapse=NULL)
+  sWord.v <- tolower(sWord.v)
   
   
   divisor <- length(sWord.v)/chunk.size
@@ -89,16 +92,22 @@ for(i in 1:length(files.v)) {
   x <- seq_along(sWord.v)
   
   
-  sWord.l[[1]] <- split(sWord.v, ceiling(x/max.length))
+  sWord.l[[i]] <- split(sWord.v, ceiling(x/max.length))
   
   
 }
 
-sWord.v[1:10]
-sword.content[1]
+# create a sequence of integers representing each chunk in sWord.l. These integers will be used as index numbers to select chunks for sample and test files.
 
-h <- paste(sapply(sword.content[1:10], xmlValue), sep="", collapse=" " )
-h <- sWord.v[1:10]
+
+sample_index <- sample(1:length(sWord.l[[1]]), 2)
+full_index <- seq_along(1:length(sWord.l[[1]]))
+main_index <- full_index[-sample_index]
+
+
+h <- unlist(sWord.l[[1]][25])
+
+h <- sapply(sWord.l[[1]][25], paste, sep="", collapse=" ")
 
 
 directory <- "../rel_pos_prose/"

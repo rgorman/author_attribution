@@ -14,7 +14,7 @@ files.v <- dir(path=input.dir, pattern=".*txt")
 #script requires user-defined funtion "getSwordSegmentTableList
 
 
-
+i <- 1
 
 book.freqs.l <- list()
 for(i in 1:length(files.v)){
